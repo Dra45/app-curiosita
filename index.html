@@ -6,10 +6,34 @@
   <title>Curiosità del Giorno</title>
   <link rel="manifest" href="manifest.json">
   <style>
+    :root {
+      --bg-color: #0f172a;
+      --card-bg: #1e293b;
+      --border-color: #334155;
+      --text-main: #f8fafc;
+      --text-sub: #cbd5e1;
+      --accent-color: #38bdf8;
+      --btn-bg: #0284c7;
+      --btn-active: #0369a1;
+      --meme-btn-bg: #334155;
+    }
+
+    body.pink-theme {
+      --bg-color: #2a0f1d;
+      --card-bg: #3b1e2e;
+      --border-color: #553346;
+      --text-main: #fcf8fa;
+      --text-sub: #e1cbd7;
+      --accent-color: #f472b6;
+      --btn-bg: #db2777;
+      --btn-active: #be185d;
+      --meme-btn-bg: #553346;
+    }
+
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      background-color: #0f172a;
-      color: #f8fafc;
+      background-color: var(--bg-color);
+      color: var(--text-main);
       display: flex;
       justify-content: center;
       align-items: center;
@@ -17,22 +41,26 @@
       margin: 0;
       padding: 20px;
       box-sizing: border-box;
+      transition: background-color 0.3s ease;
     }
+
     .card {
-      background-color: #1e293b;
+      background-color: var(--card-bg);
       padding: 25px;
       border-radius: 20px;
       max-width: 480px;
       width: 100%;
       box-shadow: 0 10px 25px rgba(0,0,0,0.4);
-      border: 1px solid #334155;
+      border: 1px solid var(--border-color);
       text-align: center;
+      transition: background-color 0.3s ease, border-color 0.3s ease;
     }
-    h1 { font-size: 1.4rem; color: #38bdf8; margin-top: 0; }
-    p { font-size: 1rem; line-height: 1.6; color: #cbd5e1; }
+
+    h1 { font-size: 1.4rem; color: var(--accent-color); margin-top: 0; transition: color 0.3s ease; }
+    p { font-size: 1rem; line-height: 1.6; color: var(--text-sub); transition: color 0.3s ease; }
     
     .btn {
-      background-color: #0284c7;
+      background-color: var(--btn-bg);
       color: white;
       border: none;
       padding: 12px 20px;
@@ -41,23 +69,29 @@
       font-size: 0.95rem;
       cursor: pointer;
       width: 100%;
-      margin-top: 15px;
-      transition: background 0.2s;
+      margin-top: 10px;
+      transition: background-color 0.2s;
     }
-    .btn:active { background-color: #0369a1; }
+    .btn:active { background-color: var(--btn-active); }
+
+    .btn-secondary {
+      background-color: transparent;
+      border: 1px solid var(--border-color);
+      color: var(--text-sub);
+    }
     
     .reactions {
       display: flex;
       justify-content: space-around;
       margin-top: 20px;
       padding-top: 15px;
-      border-top: 1px solid #334155;
+      border-top: 1px solid var(--border-color);
     }
     .meme-btn {
-      background: #334155;
+      background: var(--meme-btn-bg);
       border: none;
       border-radius: 10px;
-      padding: 8px 12px;
+      padding: 8px 16px;
       color: white;
       font-size: 0.85rem;
       cursor: pointer;
@@ -88,10 +122,31 @@
       });
     }
 
+    function provaNotifica() {
+      if (!("Notification" in window)) {
+        alert("Questo browser non supporta le notifiche.");
+        return;
+      }
+      
+      if (Notification.permission === "granted") {
+        new Notification("🧪 Notifica di Prova!", {
+          body: "Se vedi questo messaggio, le notifiche locali funzionano alla perfezione sul tuo dispositivo!",
+          icon: "icon-192.png"
+        });
+      } else {
+        alert("Devi prima attivare le notifiche premendo 'Abilita Notifiche Push'!");
+      }
+    }
+
+    function cambiaTema() {
+      document.body.classList.toggle('pink-theme');
+      const isPink = document.body.classList.contains('pink-theme');
+      localStorage.setItem('theme', isPink ? 'pink' : 'blue');
+    }
+
     function reazioneMeme(tipo) {
       const msg = document.getElementById('reaction-msg');
       if (tipo === 'mindblown') msg.innerText = "🤯 Cervello esploso! Veramente pazzesco.";
-      if (tipo === 'doubt') msg.innerText = "🤨 Mmm... Gemini sta allucinando o è vero?";
       if (tipo === 'share') {
         if (navigator.share) {
           navigator.share({
@@ -105,6 +160,13 @@
         }
       }
     }
+
+    // Ripristina il tema salvato all'apertura
+    document.addEventListener('DOMContentLoaded', () => {
+      if (localStorage.getItem('theme') === 'pink') {
+        document.body.classList.add('pink-theme');
+      }
+    });
   </script>
 </head>
 <body>
@@ -113,13 +175,16 @@
     <h1 id="titolo">Caricamento...</h1>
     <p id="spiegazione">Sto leggendo la curiosità del giorno...</p>
 
-    <!-- Pulsante Notifiche -->
+    <!-- Pulsanti Notifiche -->
     <button class="btn" onclick="attivaNotifiche()">🔔 Abilita Notifiche Push</button>
+    <button class="btn btn-secondary" onclick="provaNotifica()">🧪 Prova Notifica</button>
 
-    <!-- Sezione Reazioni & Meme -->
+    <!-- Sezione Cambio Tema -->
+    <button class="btn btn-secondary" onclick="cambiaTema()" style="margin-top: 15px;">🎨 Cambia Tema (Rosa/Blu)</button>
+
+    <!-- Sezione Reazioni -->
     <div class="reactions">
       <button class="meme-btn" onclick="reazioneMeme('mindblown')">🤯 Mind Blown</button>
-      <button class="meme-btn" onclick="reazioneMeme('doubt')">🤨 X to Doubt</button>
       <button class="meme-btn" onclick="reazioneMeme('share')">📲 Condividi</button>
     </div>
     <div id="reaction-msg"></div>
