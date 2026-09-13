@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Almanacco Storico</title>
+  <style>
+    :root {
+      --bg-color: #0f172a;
+      --card-bg: #1e293b;
+      --border-color: #334155;
+      --text-main: #f8fafc;
+      --text-sub: #cbd5e1;
+      --accent-color: #a78bfa;
+      --btn-bg: #8b5cf6;
+      --btn-active: #7c3aed;
+      --meme-btn-bg: #334155;
+    }
+
+    body.pink-theme {
+      --bg-color: #2a0f1d;
+      --card-bg: #3b1e2e;
+      --border-color: #553346;
+      --text-main: #fcf8fa;
+      --text-sub: #e1cbd7;
+      --accent-color: #f472b6;
+      --btn-bg: #ec4899;
+      --btn-active: #db2777;
+      --meme-btn-bg: #553346;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-main);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+      padding: 20px;
+      box-sizing: border-box;
+      transition: background-color 0.3s ease;
+    }
+
+    .card {
+      background-color: var(--card-bg);
+      padding: 25px;
+      border-radius: 20px;
+      max-width: 480px;
+      width: 100%;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+      border: 1px solid var(--border-color);
+      text-align: left;
+      transition: background-color 0.3s ease, border-color 0.3s ease;
+    }
+
+    h1 { font-size: 1.4rem; color: var(--accent-color); margin-top: 0; text-align: center; transition: color 0.3s ease; }
+    p { font-size: 0.95rem; line-height: 1.6; color: var(--text-sub); transition: color 0.3s ease; }
+
+    .day-selector {
+      display: flex;
+      gap: 10px;
+      margin-top: 15px;
+      margin-bottom: 20px;
+    }
+
+    .day-btn {
+      flex: 1;
+      padding: 10px;
+      background: var(--meme-btn-bg);
+      border: 1px solid var(--border-color);
+      color: white;
+      border-radius: 10px;
+      cursor: pointer;
+      font-size: 0.85rem;
+      font-weight: bold;
+      transition: background-color 0.3s ease, border-color 0.3s ease;
+      text-align: center;
+    }
+
+    .day-btn.active {
+      background: var(--btn-bg);
+      border-color: var(--accent-color);
+    }
+
+    ul { padding-left: 20px; margin-bottom: 20px; }
+    li { margin-bottom: 12px; line-height: 1.5; font-size: 0.95rem; color: var(--text-sub); }
+
+    .btn-back {
+      background-color: transparent;
+      border: 1px solid var(--border-color);
+      color: var(--text-sub);
+      padding: 12px;
+      border-radius: 12px;
+      font-weight: bold;
+      font-size: 0.9rem;
+      cursor: pointer;
+      width: 100%;
+      margin-top: 15px;
+      text-align: center;
+      transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+    }
+    .btn-back:hover {
+      background-color: var(--meme-btn-bg);
+      color: var(--text-main);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="card">
+    <h1 id="titolo-data">🗓️ Almanacco del Giorno</h1>
+
+    <div class="day-selector">
+      <button id="btn-ieri" class="day-btn" onclick="caricaData('ieri')">⬅️ Ieri</button>
+      <button id="btn-oggi" class="day-btn active" onclick="caricaData('oggi')">📌 Oggi</button>
+    </div>
+
+    <div id="contenuto">
+      <p style="text-align: center;">⏳ Caricamento eventi storici in corso...</p>
+    </div>
+
+    <button class="btn-back" onclick="window.location.href='index.html'">⬅️ Torna alla Home</button>
+  </div>
+
+  <script>
+    const mesi = ["Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno", "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre"];
+
+    async function caricaData(tipo) {
+      document.getElementById('btn-ieri').classList.toggle('active', tipo === 'ieri');
+      document.getElementById('btn-oggi').classList.toggle('active', tipo === 'oggi');
+
+      let dt = new Date();
+      if (tipo === 'ieri') dt.setDate(dt.getDate() - 1);
+
+      const g = dt.getDate();
+      const mIdx = dt.getMonth();
+      const mNome = mesi[mIdx];
+      const mm = String(mIdx + 1).padStart(2, '0');
+      const gg = String(g).padStart(2, '0');
+
+      document.getElementById('titolo-data').innerText = `🗓️ ${g} ${mNome}`;
+      const div = document.getElementById('contenuto');
+      div.innerHTML = "<p style='text-align: center;'>⏳ Caricamento eventi storici...</p>";
+
+      try {
+        const res = await fetch(`https://it.wikipedia.org/api/rest_v1/feed/onthisday/events/${mm}/${gg}`);
+        const data = await res.json();
+
+        let html = `<p style="font-weight: bold; color: var(--text-main); margin-bottom: 8px;">Accadde oggi:</p>`;
+
+        if (data.selected && data.selected.length > 0) {
+          html += "<ul>";
+          data.selected.slice(0, 5).forEach(item => {
+            html += `<li><strong>${item.year}:</strong> ${item.text}</li>`;
+          });
+          html += "</ul>";
+        } else {
+          html += "<p>Nessun evento registrato per questa data.</p>";
+        }
+
+        div.innerHTML = html;
+      } catch (err) {
+        div.innerHTML = "<p style='text-align: center;'>❌ Impossibile caricare gli eventi al momento. Riprova più tardi.</p>";
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+      if (localStorage.getItem('theme') === 'pink') document.body.classList.add('pink-theme');
+      caricaData('oggi');
+    });
+  </script>
+
+</body>
+</html>
