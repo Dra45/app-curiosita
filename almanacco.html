@@ -141,11 +141,9 @@
       div.innerHTML = "<p style='text-align: center;'>⏳ Sintonizzazione con l'almanacco...</p>";
 
       try {
-        // Aggiunge un timestamp per evitare che il browser metta in cache una versione vecchia del JSON
         const res = await fetch('almanacco.json?t=' + new Date().getTime());
         const db = await res.json();
         
-        // Controlla se la data esiste nel JSON, altrimenti prende la prima disponibile o mostra un avviso amichevole
         const oggiDati = db[dataKey] || Object.values(db)[0] || {
           santo: "Informazione in fase di sincronizzazione...",
           ricorrenze: "Nessuna ricorrenza registrata.",
@@ -164,7 +162,7 @@
         `;
 
         if (Array.isArray(oggiDati.storia)) {
-          oggiDati.storia.exit = oggiDati.storia.forEach(item => {
+          oggiDati.storia.forEach(item => {
             html += `<li>${item}</li>`;
           });
         } else {
