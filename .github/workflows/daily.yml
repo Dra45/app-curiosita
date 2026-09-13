@@ -2,7 +2,6 @@ name: Generate Daily Curiosity
 
 on:
   schedule:
-    # 22:00 UTC corrisponde esattamente alle 00:00 (mezzanotte) in Italia
     - cron: '0 22 * * *'
   workflow_dispatch:
 
@@ -26,17 +25,12 @@ jobs:
           const fs = require("fs");
           const apiKey = process.env.GEMINI_API_KEY;
 
-          const oggi = new Date();
-          const giorno = oggi.getDate();
-          const mesi = ["Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno", "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre"];
-          const meseNome = mesi[oggi.getMonth()];
-
-          const prompt = `Oggi è il ${giorno} ${meseNome}. Rispondi ESCLUSIVAMENTE con un oggetto JSON valido (senza formattazione markdown o blocchi di codice \`\`\`json) contenente:
-          1. "titolo": Indica il Santo del giorno o la ricorrenza principale del ${giorno} ${meseNome} (es. "😇 Santo del Giorno e Ricorrenze").
-          2. "spiegazione": Un riassunto breve e avvincente dei 3 o 4 fatti storici e curiosità più importanti accaduti nel mondo esattamente il ${giorno} ${meseNome}.
-
-          Formato richiesto:
-          {"titolo": "Santo del giorno...", "spiegazione": "Descrizione fatti storici..."}`;
+          const prompt = `Genera una curiosità affascinante, insolita e dettagliata su un argomento qualsiasi (scienza, storia, natura, tecnologia, misteri o aneddoti bizzarri). 
+          Rispondi ESCLUSIVAMENTE con un oggetto JSON valido (senza formattazione markdown o blocchi di codice \`\`\`json) strutturato esattamente così:
+          {
+            "titolo": "Un titolo accattivante e d impatto sulla curiosità",
+            "spiegazione": "Una spiegazione approfondita, ricca di dettagli affascinanti, contesto storico o scientifico, scritta in modo coinvolgente."
+          }`;
 
           async function main() {
             try {
@@ -55,12 +49,10 @@ jobs:
               }
 
               let text = data.candidates[0].content.parts[0].text;
-              
-              // Pulizia formattazione markdown
               text = text.replace(/```json/g, "").replace(/```/g, "").trim();
 
               fs.writeFileSync("curiosita.json", text);
-              console.log("Curiosità per il " + giorno + " " + meseNome + " generata con successo!");
+              console.log("Curiosità casuale dettagliata generata con successo!");
             } catch (err) {
               console.error("Errore durante la generazione:", err);
               process.exit(1);
@@ -74,4 +66,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add curiosita.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Aggiornamento automatico almanacco del giorno" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Aggiornamento curiosità casuale dettagliata" && git push)
