@@ -123,38 +123,50 @@
     OneSignalDeferred.push(async function(OneSignal) {
       await OneSignal.init({
         appId: "01c492a8-d8d7-4650-adef-f22d1322b577",
+        serviceWorkerParam: { scope: "/" },
+        serviceWorkerPath: "OneSignalSDKWorker.js",
       });
     });
 
-    async function attivaNotifiche() {
-      if (!("Notification" in window)) {
-        alert("Attenzione: apri questa pagina dall'app salvata sulla Schermata Home per attivare le notifiche!");
-        return;
-      }
-      
-      const res = await Notification.requestPermission();
-      if (res === "granted") {
-        alert("Notifiche attivate con successo! 🚀");
-      } else {
-        alert("Permesso notifiche negato. Controlla le impostazioni dell'iPhone.");
-      }
+    function attivaNotifiche() {
+      OneSignalDeferred.push(function(OneSignal) {
+        OneSignal.Notifications.requestPermission().then(function(permission) {
+          if (permission) {
+            alert("Notifiche attivate con successo! 🚀 Ora chiudi l'app o blocca lo schermo per testarla.");
+          } else {
+            alert("Permesso negato! Vai nelle impostazioni di iOS per consentire le notifiche.");
+          }
+        });
+      });
     }
 
-    async function provaNotifica() {
-      if (!("Notification" in window) || Notification.permission !== "granted") {
-        alert("Prima premi 'Abilita Notifiche Push' e seleziona Consenti!");
-        return;
-      }
+    function provaNotifica() {
+      OneSignalDeferred.push(async function(OneSignal) {
+        const isOptedIn = OneSignal.User.PushSubscription.optedIn;
 
-      const msg = document.getElementById('reaction-msg');
-      msg.innerText = "⏳ Invio notifica di prova...";
+        if (!isOptedIn) {
+          alert("Prima premi 'Abilita Notifiche Push' e seleziona Consenti!");
+          return;
+        }
 
-      const reg = await navigator.serviceWorker.ready;
-      reg.showNotification("🧪 Notifica di Prova!", {
-        body: "Le notifiche della tua PWA funzionano perfettamente!",
-        icon: "icon-192.png"
+        const msg = document.getElementById('reaction-msg');
+        msg.innerText = "⏳ NOTIFICA IN ARRIVO: Blocca subito lo schermo dell'iPhone!";
+
+        // Chiamata locale tramite Service Worker nativo
+        if ('serviceWorker' in navigator) {
+          setTimeout(async () => {
+            const reg = await navigator.serviceWorker.ready;
+            reg.showNotification("💡 Curiosità del Giorno - Test", {
+              body: "Se vedi questo banner su iPhone con il suono, le notifiche push funzionano perfettamente!",
+              icon: "icon-192.png",
+              badge: "icon-192.png",
+              vibrate: [200, 100, 200],
+              tag: "prova-push"
+            });
+            msg.innerText = "✅ Notifica inviata!";
+          }, 3000); // 3 secondi di ritardo per darti il tempo di bloccare lo schermo
+        }
       });
-      msg.innerText = "✅ Notifica inviata!";
     }
 
     function vaiAdIdratazione() {
