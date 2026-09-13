@@ -30,6 +30,11 @@
       --meme-btn-bg: #553346;
     }
 
+    body.water-transform {
+      background-color: #0284c7 !important;
+      transition: background-color 0.5s ease-in-out;
+    }
+
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
       background-color: var(--bg-color);
@@ -53,7 +58,7 @@
       box-shadow: 0 10px 25px rgba(0,0,0,0.4);
       border: 1px solid var(--border-color);
       text-align: center;
-      transition: background-color 0.3s ease, border-color 0.3s ease;
+      transition: background-color 0.3s ease, border-color 0.3s ease, opacity 0.4s ease;
     }
 
     h1 { font-size: 1.4rem; color: var(--accent-color); margin-top: 0; transition: color 0.3s ease; }
@@ -78,6 +83,12 @@
       background-color: transparent;
       border: 1px solid var(--border-color);
       color: var(--text-sub);
+    }
+
+    .btn-water {
+      background-color: #0284c7;
+      color: white;
+      border: 1px solid #38bdf8;
     }
     
     .reactions {
@@ -131,26 +142,33 @@
           return;
         }
 
-        // Mostra un feedback visivo immediato
         const msg = document.getElementById('reaction-msg');
         msg.innerText = "⏳ Invio notifica di prova in corso...";
 
         try {
-          // Richiesta a OneSignal per mandare una notifica diretta a questo specifico utente
           const subscriptionId = OneSignal.User.PushSubscription.id;
-          
           if (!subscriptionId) {
             alert("Iscrizione non ancora completata. Attendi qualche secondo e riprova.");
             return;
           }
-
-          alert("Notifica inviata! Controlla la barra delle notifiche tra un paio di secondi. 📲");
+          alert("Notifica inviata! Controlla le notifiche tra un paio di secondi. 📲");
           msg.innerText = "✅ Notifica di prova spedita!";
         } catch (e) {
           console.error(e);
           alert("Si è verificato un errore durante l'invio della notifica di prova.");
         }
       });
+    }
+
+    function vaiAdIdratazione() {
+      // Trasforma lo schermo in azzurro e va alla nuova pagina
+      document.body.classList.add('water-transform');
+      const card = document.querySelector('.card');
+      card.style.opacity = '0';
+      
+      setTimeout(() => {
+        window.location.href = 'idratazione.html';
+      }, 400);
     }
 
     function cambiaTema() {
@@ -176,7 +194,6 @@
       }
     }
 
-    // Ripristina il tema salvato all'apertura
     document.addEventListener('DOMContentLoaded', () => {
       if (localStorage.getItem('theme') === 'pink') {
         document.body.classList.add('pink-theme');
@@ -194,8 +211,11 @@
     <button class="btn" onclick="attivaNotifiche()">🔔 Abilita Notifiche Push</button>
     <button class="btn btn-secondary" onclick="provaNotifica()">🧪 Prova Notifica</button>
 
+    <!-- Pulsante Idratazione con Bottiglietta -->
+    <button class="btn btn-water" onclick="vaiAdIdratazione()" style="margin-top: 15px;">🍼 Ricordati di Bere (Idratazione)</button>
+
     <!-- Sezione Cambio Tema -->
-    <button class="btn btn-secondary" onclick="cambiaTema()" style="margin-top: 15px;">🎨 Cambia Tema (Rosa/Blu)</button>
+    <button class="btn btn-secondary" onclick="cambiaTema()" style="margin-top: 10px;">🎨 Cambia Tema (Rosa/Blu)</button>
 
     <!-- Sezione Reazioni -->
     <div class="reactions">
