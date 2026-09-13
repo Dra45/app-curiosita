@@ -123,19 +123,34 @@
     }
 
     function provaNotifica() {
-      if (!("Notification" in window)) {
-        alert("Questo browser non supporta le notifiche.");
-        return;
-      }
-      
-      if (Notification.permission === "granted") {
-        new Notification("🧪 Notifica di Prova!", {
-          body: "Se vedi questo messaggio, le notifiche locali funzionano alla perfezione sul tuo dispositivo!",
-          icon: "icon-192.png"
-        });
-      } else {
-        alert("Devi prima attivare le notifiche premendo 'Abilita Notifiche Push'!");
-      }
+      OneSignalDeferred.push(async function(OneSignal) {
+        const isOptedIn = OneSignal.User.PushSubscription.optedIn;
+        
+        if (!isOptedIn) {
+          alert("Prima premi 'Abilita Notifiche Push' e consenti l'invio!");
+          return;
+        }
+
+        // Mostra un feedback visivo immediato
+        const msg = document.getElementById('reaction-msg');
+        msg.innerText = "⏳ Invio notifica di prova in corso...";
+
+        try {
+          // Richiesta a OneSignal per mandare una notifica diretta a questo specifico utente
+          const subscriptionId = OneSignal.User.PushSubscription.id;
+          
+          if (!subscriptionId) {
+            alert("Iscrizione non ancora completata. Attendi qualche secondo e riprova.");
+            return;
+          }
+
+          alert("Notifica inviata! Controlla la barra delle notifiche tra un paio di secondi. 📲");
+          msg.innerText = "✅ Notifica di prova spedita!";
+        } catch (e) {
+          console.error(e);
+          alert("Si è verificato un errore durante l'invio della notifica di prova.");
+        }
+      });
     }
 
     function cambiaTema() {
