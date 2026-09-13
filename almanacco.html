@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Almanacco Storico</title>
+  <title>Almanacco del Giorno</title>
   <style>
     :root {
       --bg-color: #0f172a;
@@ -55,8 +55,9 @@
       transition: background-color 0.3s ease, border-color 0.3s ease;
     }
 
-    h1 { font-size: 1.4rem; color: var(--accent-color); margin-top: 0; text-align: center; transition: color 0.3s ease; }
-    p { font-size: 0.95rem; line-height: 1.6; color: var(--text-sub); transition: color 0.3s ease; }
+    h1 { font-size: 1.4rem; color: var(--accent-color); margin-top: 0; text-align: center; }
+    h3 { font-size: 1rem; color: var(--accent-color); margin-top: 20px; margin-bottom: 8px; border-bottom: 1px solid var(--border-color); padding-bottom: 4px; }
+    p { font-size: 0.9rem; line-height: 1.5; color: var(--text-sub); margin: 6px 0; }
 
     .day-selector {
       display: flex;
@@ -75,7 +76,7 @@
       cursor: pointer;
       font-size: 0.85rem;
       font-weight: bold;
-      transition: background-color 0.3s ease, border-color 0.3s ease;
+      transition: background-color 0.3s ease;
       text-align: center;
     }
 
@@ -84,8 +85,8 @@
       border-color: var(--accent-color);
     }
 
-    ul { padding-left: 20px; margin-bottom: 20px; }
-    li { margin-bottom: 12px; line-height: 1.5; font-size: 0.95rem; color: var(--text-sub); }
+    ul { padding-left: 20px; margin: 5px 0 15px 0; }
+    li { margin-bottom: 8px; line-height: 1.4; font-size: 0.9rem; color: var(--text-sub); }
 
     .btn-back {
       background-color: transparent;
@@ -97,14 +98,11 @@
       font-size: 0.9rem;
       cursor: pointer;
       width: 100%;
-      margin-top: 15px;
+      margin-top: 20px;
       text-align: center;
-      transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+      transition: background-color 0.3s ease;
     }
-    .btn-back:hover {
-      background-color: var(--meme-btn-bg);
-      color: var(--text-main);
-    }
+    .btn-back:hover { background-color: var(--meme-btn-bg); color: var(--text-main); }
   </style>
 </head>
 <body>
@@ -113,62 +111,73 @@
     <h1 id="titolo-data">🗓️ Almanacco del Giorno</h1>
 
     <div class="day-selector">
-      <button id="btn-ieri" class="day-btn" onclick="caricaData('ieri')">⬅️ Ieri</button>
-      <button id="btn-oggi" class="day-btn active" onclick="caricaData('oggi')">📌 Oggi</button>
+      <button id="btn-ieri" class="day-btn" onclick="caricaAlmanacco('ieri')">⬅️ Ieri</button>
+      <button id="btn-oggi" class="day-btn active" onclick="caricaAlmanacco('oggi')">📌 Oggi</button>
     </div>
 
     <div id="contenuto">
-      <p style="text-align: center;">⏳ Caricamento eventi storici in corso...</p>
+      <p style="text-align: center;">⏳ Caricamento almanacco...</p>
     </div>
 
     <button class="btn-back" onclick="window.location.href='index.html'">⬅️ Torna alla Home</button>
   </div>
 
   <script>
-    const mesi = ["Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno", "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre"];
-
-    async function caricaData(tipo) {
+    async function caricaAlmanacco(tipo) {
       document.getElementById('btn-ieri').classList.toggle('active', tipo === 'ieri');
       document.getElementById('btn-oggi').classList.toggle('active', tipo === 'oggi');
 
+      // Determina la data (oggi o ieri) in formato mm-gg
       let dt = new Date();
       if (tipo === 'ieri') dt.setDate(dt.getDate() - 1);
+      
+      const mm = String(dt.getMonth() + 1).padStart(2, '0');
+      const gg = String(dt.getDate()).padStart(2, '0');
+      const dataKey = `${mm}-${gg}`;
 
-      const g = dt.getDate();
-      const mIdx = dt.getMonth();
-      const mNome = mesi[mIdx];
-      const mm = String(mIdx + 1).padStart(2, '0');
-      const gg = String(g).padStart(2, '0');
-
-      document.getElementById('titolo-data').innerText = `🗓️ ${g} ${mNome}`;
       const div = document.getElementById('contenuto');
-      div.innerHTML = "<p style='text-align: center;'>⏳ Caricamento eventi storici...</p>";
+      div.innerHTML = "<p style='text-align: center;'>⏳ Sintonizzazione con l'almanacco...</p>";
 
       try {
-        const res = await fetch(`https://it.wikipedia.org/api/rest_v1/feed/onthisday/events/${mm}/${gg}`);
-        const data = await res.json();
+        // Legge da un file almanacco.json che contiene i dati strutturati
+        const res = await fetch('almanacco.json?t=' + new Date().getTime());
+        const db = await res.json();
+        
+        const oggiDati = db[dataKey] || {
+          data_formattata: `${dt.getDate()} ${dt.toLocaleString('it-IT', { month: 'long' })}`,
+          santo: "Informazione non disponibile per questa data.",
+          ricorrenze: "Nessuna ricorrenza speciale registrata.",
+          storia: ["Nessun evento storico registrato."]
+        };
 
-        let html = `<p style="font-weight: bold; color: var(--text-main); margin-bottom: 8px;">Accadde oggi:</p>`;
+        document.getElementById('titolo-data').innerText = `🗓️ ${oggiDati.data_formattata}`;
 
-        if (data.selected && data.selected.length > 0) {
-          html += "<ul>";
-          data.selected.slice(0, 5).forEach(item => {
-            html += `<li><strong>${item.year}:</strong> ${item.text}</li>`;
-          });
-          html += "</ul>";
-        } else {
-          html += "<p>Nessun evento registrato per questa data.</p>";
-        }
+        let html = `
+          <h3>✝️ Santo del Giorno</h3>
+          <p>${oggiDati.santo}</p>
 
+          <h3>🌍 Giornata / Ricorrenza</h3>
+          <p>${oggiDati.ricorrenze}</p>
+
+          <h3>📜 Accadde Oggi nella Storia</h3>
+          <ul>
+        `;
+
+        oggiDati.storia.forEach(item => {
+          html += `<li>${item}</li>`;
+        });
+
+        html += `</ul>`;
         div.innerHTML = html;
+
       } catch (err) {
-        div.innerHTML = "<p style='text-align: center;'>❌ Impossibile caricare gli eventi al momento. Riprova più tardi.</p>";
+        div.innerHTML = "<p style='text-align: center;'>❌ Errore nel caricamento dei dati dell'almanacco.</p>";
       }
     }
 
     document.addEventListener('DOMContentLoaded', () => {
       if (localStorage.getItem('theme') === 'pink') document.body.classList.add('pink-theme');
-      caricaData('oggi');
+      caricaAlmanacco('oggi');
     });
   </script>
 
