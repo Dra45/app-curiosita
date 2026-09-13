@@ -126,29 +126,35 @@
       });
     });
 
-    function attivaNotifiche() {
-      OneSignalDeferred.push(function(OneSignal) {
-        OneSignal.Notifications.requestPermission().then(function(permission) {
-          if (permission) {
-            alert("Notifiche attivate con successo! 🚀");
-          } else {
-            alert("Autorizzazione notifiche negata o bloccata.");
-          }
-        });
-      });
+    async function attivaNotifiche() {
+      if (!("Notification" in window)) {
+        alert("Attenzione: apri questa pagina dall'app salvata sulla Schermata Home per attivare le notifiche!");
+        return;
+      }
+      
+      const res = await Notification.requestPermission();
+      if (res === "granted") {
+        alert("Notifiche attivate con successo! 🚀");
+      } else {
+        alert("Permesso notifiche negato. Controlla le impostazioni dell'iPhone.");
+      }
     }
 
-    function provaNotifica() {
-      OneSignalDeferred.push(async function(OneSignal) {
-        const isOptedIn = OneSignal.User.PushSubscription.optedIn;
+    async function provaNotifica() {
+      if (!("Notification" in window) || Notification.permission !== "granted") {
+        alert("Prima premi 'Abilita Notifiche Push' e seleziona Consenti!");
+        return;
+      }
 
-        if (!isOptedIn) {
-          alert("Prima premi 'Abilita Notifiche Push' e consenti l'invio!");
-          return;
-        }
+      const msg = document.getElementById('reaction-msg');
+      msg.innerText = "⏳ Invio notifica di prova...";
 
-        alert("Dispositivo registrato! Per testare l'invio reale:\n\n1. Chiudi l'app o blocca lo schermo.\n2. Esegui il Workflow su GitHub ('Genera Curiosita').");
+      const reg = await navigator.serviceWorker.ready;
+      reg.showNotification("🧪 Notifica di Prova!", {
+        body: "Le notifiche della tua PWA funzionano perfettamente!",
+        icon: "icon-192.png"
       });
+      msg.innerText = "✅ Notifica inviata!";
     }
 
     function vaiAdIdratazione() {
