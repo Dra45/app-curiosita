@@ -55,8 +55,8 @@ jobs:
               
               prompt = f"Fornisci l'almanacco in italiano per la data {data_str}. Rispondi ESCLUSIVAMENTE in formato JSON valido, senza blocchi di codice markdown, con questa struttura esatta: {{\"santo\": \"Nome del santo o dei santi del giorno con breve descrizione\", \"ricorrenze\": \"Eventuali ricorrenze o giornate mondiali\", \"storia\": [\"Anno - Evento 1\", \"Anno - Evento 2\", \"Anno - Evento 3\", \"Anno - Evento 4\"]}}"
               
-              # Aggiornato al modello standard stabile gemini-2.5-flash
-              url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=" + api_key
+              # Aggiornato al nuovo modello richiesto gemini-3.6-flash
+              url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent?key=" + api_key
               
               try:
                   res = requests.post(url, json={"contents": [{"parts": [{"text": prompt}]}]})
