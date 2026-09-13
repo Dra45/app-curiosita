@@ -3,11 +3,13 @@ name: Aggiorna Almanacco con Gemini
 on:
   schedule:
     - cron: '0 0 * * *' # Gira ogni giorno a mezzanotte
-  workflow_dispatch: # Permette di avviarlo manualmente da GitHub
+  workflow_dispatch: # Permette l'avvio manuale
 
 jobs:
   genera:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permette al bot di scrivere e fare git push sul repo
     steps:
       - name: Checkout del repository
         uses: actions/checkout@v4
@@ -24,42 +26,52 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          python -c '
+          python - << 'EOF'
           import os, json, datetime, requests
-          
-          api_key = os.environ["GEMINI_API_KEY"]
+
+          api_key = os.environ.get("GEMINI_API_KEY")
+          if not api_key:
+              print("Errore: GEMINI_API_KEY non trovata nei secrets.")
+              exit(1)
+
           oggi = datetime.datetime.now()
           ieri = oggi - datetime.timedelta(days=1)
-          
           date_da_generare = [oggi, ieri]
-          
-          # Carica il file esistente se c\'è
-          try:
-              with open("almanacco.json", "r", encoding="utf-8") as f:
-                  db = json.load(f)
-          except:
-              db = {}
+
+          # Carica il file esistente se c'è
+          db = {}
+          if os.path.exists("almanacco.json"):
+              try:
+                  with open("almanacco.json", "r", encoding="utf-8") as f:
+                      db = json.load(f)
+              except Exception as e:
+                  print(f"Impossibile leggere almanacco.json esistente: {e}")
 
           for dt in date_da_generare:
               mm_gg = dt.strftime("%m-%d")
               data_str = dt.strftime("%d %B %Y")
               
-              prompt = f"Fornisci l almanacco in italiano per la data {data_str}. Rispondi ESCLUSIVAMENTE in formato JSON valido (senza markdown ```json) con questa struttura: {{\"santo\": \"Santo del giorno\", \"ricorrenze\": \"Eventuali ricorrenze o giornate mondiali\", \"storia\": [\"Anno - Evento 1\", \"Anno - Evento 2\", \"Anno - Evento 3\", \"Anno - Evento 4\"]}}"
+              prompt = f"Fornisci l'almanacco in italiano per la data {data_str}. Rispondi ESCLUSIVAMENTE in formato JSON valido (senza blocchi di codice markdown ```json o altro, solo la stringa JSON pura) con questa struttura esatta: {{\"santo\": \"Nome del santo o dei santi del giorno con breve descrizione\", \"ricorrenze\": \"Eventuali ricorrenze o giornate mondiali celebrate in questa data\", \"storia\": [\"Anno - Evento 1\", \"Anno - Evento 2\", \"Anno - Evento 3\", \"Anno - Evento 4\"]}}"
               
               url = f"[https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=](https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=){api_key}"
-              res = requests.post(url, json={"contents": [{"parts": [{"text": prompt}]}]})
-              
-              if res.status_code == 200:
-                  try:
-                      testo = res.json()["candidates"][0]["content"]["parts"][0]["text"]
+              try:
+                  res = requests.post(url, json={"contents": [{"parts": [{"text": prompt}]}]})
+                  if res.status_code == 200:
+                      risposta_json = res.json()
+                      testo = risposta_json["candidates"][0]["content"]["parts"][0]["text"]
+                      # Pulisce eventuali marcatori markdown se presenti
                       testo = testo.replace("```json", "").replace("```", "").strip()
                       db[mm_gg] = json.loads(testo)
-                  except Exception as e:
-                      print(f"Errore parsing {mm_gg}: {e}")
+                      print(f"Generato con successo per {mm_gg}")
+                  else:
+                      print(f"Errore API per {mm_gg}: {res.status_code} - {res.text}")
+              except Exception as e:
+                  print(f"Errore durante la generazione per {mm_gg}: {e}")
 
           with open("almanacco.json", "w", encoding="utf-8") as f:
               json.dump(db, f, ensure_ascii=False, indent=2)
-          '
+          print("almanacco.json aggiornato correttamente.")
+          EOF
 
       - name: Salva modifiche su GitHub
         run: |
