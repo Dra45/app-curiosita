@@ -9,7 +9,7 @@ jobs:
   genera:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Permette al bot di scrivere e fare git push sul repo
+      contents: write
     steps:
       - name: Checkout del repository
         uses: actions/checkout@v4
@@ -38,45 +38,51 @@ jobs:
           ieri = oggi - datetime.timedelta(days=1)
           date_da_generare = [oggi, ieri]
 
-          # Carica il file esistente se c'è
+          # Carica il file esistente se c'è e non è vuoto
           db = {}
           if os.path.exists("almanacco.json"):
               try:
                   with open("almanacco.json", "r", encoding="utf-8") as f:
-                      db = json.load(f)
+                      content = f.read().strip()
+                      if content:
+                          db = json.loads(content)
               except Exception as e:
-                  print(f"Impossibile leggere almanacco.json esistente: {e}")
+                  print(f"Nota: Impossibile leggere almanacco.json esistente (verrà ricreato): {e}")
 
           for dt in date_da_generare:
               mm_gg = dt.strftime("%m-%d")
               data_str = dt.strftime("%d %B %Y")
+              print(f"Richiesta almanacco per: {data_str} (chiave: {mm_gg})")
               
               prompt = f"Fornisci l'almanacco in italiano per la data {data_str}. Rispondi ESCLUSIVAMENTE in formato JSON valido (senza blocchi di codice markdown ```json o altro, solo la stringa JSON pura) con questa struttura esatta: {{\"santo\": \"Nome del santo o dei santi del giorno con breve descrizione\", \"ricorrenze\": \"Eventuali ricorrenze o giornate mondiali celebrate in questa data\", \"storia\": [\"Anno - Evento 1\", \"Anno - Evento 2\", \"Anno - Evento 3\", \"Anno - Evento 4\"]}}"
               
               url = f"[https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=](https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=){api_key}"
               try:
                   res = requests.post(url, json={"contents": [{"parts": [{"text": prompt}]}]})
+                  print(f"Stato risposta API per {mm_gg}: {res.status_code}")
                   if res.status_code == 200:
                       risposta_json = res.json()
                       testo = risposta_json["candidates"][0]["content"]["parts"][0]["text"]
-                      # Pulisce eventuali marcatori markdown se presenti
+                      # Pulizia aggressiva del markdown nel caso Gemini metta i backtick
                       testo = testo.replace("```json", "").replace("```", "").strip()
                       db[mm_gg] = json.loads(testo)
-                      print(f"Generato con successo per {mm_gg}")
+                      print(f"✅ Generato e aggiunto con successo per {mm_gg}")
                   else:
-                      print(f"Errore API per {mm_gg}: {res.status_code} - {res.text}")
+                      print(f"❌ Errore API per {mm_gg}: {res.text}")
               except Exception as e:
-                  print(f"Errore durante la generazione per {mm_gg}: {e}")
+                  print(f"❌ Eccezione durante la generazione per {mm_gg}: {e}")
 
+          # Salva sempre con indentazione
           with open("almanacco.json", "w", encoding="utf-8") as f:
               json.dump(db, f, ensure_ascii=False, indent=2)
-          print("almanacco.json aggiornato correttamente.")
+          print("almanacco.json salvato correttamente.")
           EOF
 
       - name: Salva modifiche su GitHub
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
+          git status
           git add almanacco.json
           git commit -m "Aggiornamento automatico almanacco tramite Gemini" || echo "Nessuna modifica da committare"
           git push
