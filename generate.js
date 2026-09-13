@@ -8,8 +8,8 @@ async function generaCuriosita() {
     process.exit(1);
   }
 
-  // Endpoint aggiornato per Gemini
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
+  // Endpoint aggiornato al modello gemini-3.6-flash
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent?key=${apiKey}`;
 
   const prompt = "Fornisci una curiosità scientifica, storica o geografica poco nota ma affascinante, seguita da una spiegazione dettagliata. Rispondi esclusivamente in formato JSON valido con questa struttura esatta: {\"titolo\": \"...\", \"spiegazione\": \"...\"}";
 
