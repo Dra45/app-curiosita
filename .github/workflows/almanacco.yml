@@ -2,7 +2,8 @@ name: Aggiorna Almanacco e Push OneSignal
 
 on:
   schedule:
-    - cron: '50 4 * * *' # Alle 6:50 ora italiana (4:50 UTC)
+    # Esegue l'azione alle 22:00 UTC, che corrisponde esattamente alle 00:00 (mezzanotte) in Italia
+    - cron: '0 22 * * *'
   workflow_dispatch: # Permette l'avvio manuale
 
 jobs:
@@ -30,6 +31,7 @@ jobs:
         run: |
           python - << 'EOF'
           import os, json, datetime, requests
+          from zoneinfo import ZoneInfo
 
           api_key = os.environ.get("GEMINI_API_KEY")
           os_app_id = os.environ.get("ONESIGNAL_APP_ID")
@@ -39,7 +41,9 @@ jobs:
               print("Errore: GEMINI_API_KEY mancante.")
               exit(1)
 
-          oggi = datetime.datetime.now()
+          # Imposta rigorosamente il fuso orario italiano (Roma)
+          tz_roma = ZoneInfo("Europe/Rome")
+          oggi = datetime.datetime.now(tz_roma)
           ieri = oggi - datetime.timedelta(days=1)
           date_da_generare = [oggi, ieri]
 
@@ -71,6 +75,8 @@ jobs:
                       testo = testo.replace("```json", "").replace("```", "").strip()
                       db[mm_gg] = json.loads(testo)
                       print(f"✅ Generato per {mm_gg}")
+                  else:
+                      print(f"❌ Errore API per {mm_gg}: {res.text}")
               except Exception as e:
                   print(f"❌ Errore per {mm_gg}: {e}")
 
@@ -85,8 +91,8 @@ jobs:
               
               santo = dati_oggi.get("santo", "Nuovo Santo del giorno")
               
-              titolo = "Scopri una nuova curiosità"
-              testo_notifica = f"Il nuovo Almanacco di oggi è pronto! Santo: {santo}. Clicca per leggerlo 📅"
+              titolo = "Scopri il nuovo Almanacco"
+              testo_notifica = f"L'Almanacco di oggi è pronto! Santo: {santo}. Clicca per leggerlo 📅"
 
               onesignal_url = "https://onesignal.com/api/v1/notifications"
               headers = {
