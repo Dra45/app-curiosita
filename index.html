@@ -173,21 +173,7 @@
           alert("Prima premi 'Abilita Notifiche Push'!");
           return;
         }
-
-        msg.innerText = "⏳ In arrivo: Blocca lo schermo!";
-        
-        setTimeout(async () => {
-          if ('serviceWorker' in navigator) {
-            const reg = await navigator.serviceWorker.ready;
-            reg.showNotification("💡 Curiosità del Giorno", {
-              body: "Notifica Push di prova ricevuta!",
-              icon: "icon-192.png",
-              badge: "icon-192.png",
-              vibrate: [200, 100, 200]
-            });
-            msg.innerText = "✅ Notifica inviata!";
-          }
-        }, 3000);
+        msg.innerText = "✅ Dispositivo pronto a ricevere notifiche automatiche!";
       });
     }
 
@@ -251,7 +237,7 @@
     <button id="btn-almanacco" class="btn btn-calendar" onclick="vaiAdAlmanacco()">🗓️ Almanacco di Oggi</button>
 
     <button class="btn" onclick="attivaNotifiche()">🔔 Abilita Notifiche Push</button>
-    <button class="btn btn-secondary" onclick="provaNotifica()">🧪 Prova Notifica</button>
+    <button class="btn btn-secondary" onclick="provaNotifica()">🧪 Verifica Stato</button>
     <button class="btn btn-water" onclick="vaiAdIdratazione()" style="margin-top: 15px;">🍼 Ricordati di Bere (Idratazione)</button>
     <button class="btn btn-secondary" onclick="cambiaTema()" style="margin-top: 10px;">🎨 Cambia Tema (Rosa/Blu)</button>
 
