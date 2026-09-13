@@ -85,7 +85,7 @@ jobs:
               
               santo = dati_oggi.get("santo", "Nuovo Santo del giorno")
               
-              titolo = "📣 Scopri la nuova curiosità di oggi! 😍"
+              titolo = "Scopri una nuova curiosità"
               testo_notifica = f"Il nuovo Almanacco di oggi è pronto! Santo: {santo}. Clicca per leggerlo 📅"
 
               onesignal_url = "https://onesignal.com/api/v1/notifications"
@@ -96,8 +96,14 @@ jobs:
               payload = {
                   "app_id": os_app_id,
                   "included_segments": ["All"],
-                  "headings": {"it": titolo},
-                  "contents": {"it": testo_notifica}
+                  "headings": {
+                      "en": titolo,
+                      "it": titolo
+                  },
+                  "contents": {
+                      "en": testo_notifica,
+                      "it": testo_notifica
+                  }
               }
               
               resp = requests.post(onesignal_url, headers=headers, json=payload)
