@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Curiosità del Giorno</title>
+  <title>Curiosità & Almanacco del Giorno</title>
   <link rel="manifest" href="manifest.json">
   <style>
     :root {
@@ -18,6 +18,8 @@
       --water-btn-bg: #0284c7;
       --water-btn-border: #38bdf8;
       --meme-btn-bg: #334155;
+      --calendar-btn-bg: #8b5cf6;
+      --calendar-btn-border: #a78bfa;
     }
 
     body.pink-theme {
@@ -32,6 +34,8 @@
       --water-btn-bg: #db2777;
       --water-btn-border: #f472b6;
       --meme-btn-bg: #553346;
+      --calendar-btn-bg: #ec4899;
+      --calendar-btn-border: #f472b6;
     }
 
     body.water-transform {
@@ -79,9 +83,9 @@
       cursor: pointer;
       width: 100%;
       margin-top: 10px;
-      transition: background-color 0.3s ease, border-color 0.3s ease;
+      transition: background-color 0.3s ease, border-color 0.3s ease, transform 0.1s ease;
     }
-    .btn:active { background-color: var(--btn-active); }
+    .btn:active { transform: scale(0.98); background-color: var(--btn-active); }
 
     .btn-secondary {
       background-color: transparent;
@@ -94,7 +98,13 @@
       color: white;
       border: 1px solid var(--water-btn-border);
     }
-    
+
+    .btn-calendar {
+      background-color: var(--calendar-btn-bg);
+      color: white;
+      border: 1px solid var(--calendar-btn-border);
+    }
+
     .reactions {
       display: flex;
       justify-content: space-around;
@@ -110,13 +120,50 @@
       color: white;
       font-size: 0.85rem;
       cursor: pointer;
-      transition: background-color 0.3s ease;
+      transition: background-color 0.3s ease, transform 0.1s ease;
     }
     .meme-btn:active { transform: scale(0.95); }
-    #status-msg { font-size: 0.85rem; color: #38bdf8; margin-top: 15px; min-height: 20px; word-break: break-all; }
+    #status-msg { font-size: 0.85rem; color: var(--accent-color); margin-top: 15px; min-height: 20px; word-break: break-all; }
+
+    /* Box Almanacco Dinamico */
+    .today-box {
+      display: none;
+      margin-top: 15px;
+      padding: 15px;
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 12px;
+      border: 1px dashed var(--border-color);
+      text-align: left;
+      font-size: 0.9rem;
+    }
+    .today-box h3 { color: var(--accent-color); margin-top: 0; font-size: 1rem; }
+    .today-box ul { padding-left: 20px; margin-bottom: 0; }
+    .today-box li { margin-bottom: 8px; line-height: 1.4; }
+    
+    .day-selector {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+    .day-btn {
+      flex: 1;
+      padding: 8px;
+      background: var(--meme-btn-bg);
+      border: 1px solid var(--border-color);
+      color: white;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 0.8rem;
+      font-weight: bold;
+      transition: background-color 0.3s ease;
+    }
+    .day-btn.active {
+      background: var(--btn-bg);
+      border-color: var(--accent-color);
+    }
   </style>
 
-  <!-- Codice OneSignal Ufficiale v16 -->
+  <!-- OneSignal SDK -->
   <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
   <script>
     window.OneSignalDeferred = window.OneSignalDeferred || [];
@@ -124,9 +171,7 @@
       await OneSignal.init({
         appId: "01c492a8-d8d7-4650-adef-f22d1322b577",
         safari_web_id: "web.onesignal.auto.45da02f8-0e2a-491b-9d85-c6fbaf55a283",
-        notifyButton: {
-          enable: false,
-        },
+        notifyButton: { enable: false },
         allowLocalhostAsSecureOrigin: true,
       });
 
@@ -183,6 +228,84 @@
       });
     }
 
+    const mesi = ["Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno", "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre"];
+
+    // Aggiorna l'etichetta del pulsante con il giorno corrente
+    function aggiornaTestoPulsante() {
+      const oggi = new Date();
+      const g = oggi.getDate();
+      const m = mesi[oggi.getMonth()];
+      const btn = document.getElementById('btn-almanacco');
+      if (btn) {
+        btn.innerText = `🗓️ Almanacco di Oggi (${g} ${m})`;
+      }
+    }
+
+    let giornoSelezionato = 'oggi';
+
+    function toggleAlmanacco() {
+      const box = document.getElementById('today-box');
+      if (box.style.display === 'block') {
+        box.style.display = 'none';
+      } else {
+        box.style.display = 'block';
+        caricaDatiAlmanacco(giornoSelezionato);
+      }
+    }
+
+    async function caricaDatiAlmanacco(tipo) {
+      giornoSelezionato = tipo;
+      const box = document.getElementById('today-box');
+      
+      let dataRiferimento = new Date();
+      if (tipo === 'ieri') {
+        dataRiferimento.setDate(dataRiferimento.getDate() - 1);
+      }
+
+      const g = dataRiferimento.getDate();
+      const mIndex = dataRiferimento.getMonth();
+      const mNome = mesi[mIndex];
+      const mm = String(mIndex + 1).padStart(2, '0');
+      const gg = String(g).padStart(2, '0');
+
+      box.innerHTML = `
+        <div class="day-selector">
+          <button class="day-btn ${tipo === 'ieri' ? 'active' : ''}" onclick="caricaDatiAlmanacco('ieri')">⬅️ Ieri</button>
+          <button class="day-btn ${tipo === 'oggi' ? 'active' : ''}" onclick="caricaDatiAlmanacco('oggi')">📌 Oggi (${g} ${mNome})</button>
+        </div>
+        <p>⏳ Recupero eventi storici e santo del giorno...</p>
+      `;
+
+      try {
+        const wikiRes = await fetch(`https://it.wikipedia.org/api/rest_v1/feed/onthisday/events/${mm}/${gg}`);
+        const wikiData = await wikiRes.json();
+
+        let htmlContent = `
+          <div class="day-selector">
+            <button class="day-btn ${tipo === 'ieri' ? 'active' : ''}" onclick="caricaDatiAlmanacco('ieri')">⬅️ Ieri</button>
+            <button class="day-btn ${tipo === 'oggi' ? 'active' : ''}" onclick="caricaDatiAlmanacco('oggi')">📌 Oggi (${g} ${mNome})</button>
+          </div>
+          <h3>📅 Storico del ${g} ${mNome}</h3>
+        `;
+
+        if (wikiData.selected && wikiData.selected.length > 0) {
+          htmlContent += "<ul>";
+          wikiData.selected.slice(0, 4).forEach(item => {
+            htmlContent += `<li><strong>${item.year}:</strong> ${item.text}</li>`;
+          });
+          htmlContent += "</ul>";
+        } else {
+          htmlContent += "<p>Nessun evento registrato per questa data.</p>";
+        }
+
+        htmlContent += `<p style="margin-top:10px; border-top:1px solid var(--border-color); padding-top:8px;"><strong>😇 Ricorrenza:</strong> Consulta le notizie del ${g} ${mNome}.</p>`;
+
+        box.innerHTML = htmlContent;
+      } catch (err) {
+        box.innerHTML = "<p>❌ Impossibile recuperare i dati al momento.</p>";
+      }
+    }
+
     function vaiAdIdratazione() {
       document.body.classList.add('water-transform');
       const card = document.querySelector('.card');
@@ -214,6 +337,7 @@
 
     document.addEventListener('DOMContentLoaded', () => {
       if (localStorage.getItem('theme') === 'pink') document.body.classList.add('pink-theme');
+      aggiornaTestoPulsante();
     });
   </script>
 </head>
@@ -222,6 +346,9 @@
   <div class="card">
     <h1 id="titolo">Caricamento...</h1>
     <p id="spiegazione">Sto leggendo la curiosità del giorno...</p>
+
+    <button id="btn-almanacco" class="btn btn-calendar" onclick="toggleAlmanacco()">🗓️ Almanacco di Oggi</button>
+    <div id="today-box" class="today-box"></div>
 
     <button class="btn" onclick="attivaNotifiche()">🔔 Abilita Notifiche Push</button>
     <button class="btn btn-secondary" onclick="provaNotifica()">🧪 Prova Notifica</button>
