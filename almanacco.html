@@ -56,8 +56,8 @@
     }
 
     h1 { font-size: 1.4rem; color: var(--accent-color); margin-top: 0; text-align: center; }
-    h3 { font-size: 1rem; color: var(--accent-color); margin-top: 20px; margin-bottom: 8px; border-bottom: 1px solid var(--border-color); padding-bottom: 4px; }
-    p { font-size: 0.9rem; line-height: 1.5; color: var(--text-sub); margin: 6px 0; }
+    h3 { font-size: 0.95rem; color: var(--accent-color); margin-top: 18px; margin-bottom: 6px; border-bottom: 1px solid var(--border-color); padding-bottom: 4px; }
+    p { font-size: 0.9rem; line-height: 1.5; color: var(--text-sub); margin: 4px 0; }
 
     .day-selector {
       display: flex;
@@ -85,8 +85,8 @@
       border-color: var(--accent-color);
     }
 
-    ul { padding-left: 20px; margin: 5px 0 15px 0; }
-    li { margin-bottom: 8px; line-height: 1.4; font-size: 0.9rem; color: var(--text-sub); }
+    ul { padding-left: 20px; margin: 4px 0 12px 0; }
+    li { margin-bottom: 6px; line-height: 1.4; font-size: 0.88rem; color: var(--text-sub); }
 
     .btn-back {
       background-color: transparent;
@@ -127,30 +127,28 @@
       document.getElementById('btn-ieri').classList.toggle('active', tipo === 'ieri');
       document.getElementById('btn-oggi').classList.toggle('active', tipo === 'oggi');
 
-      // Determina la data (oggi o ieri) in formato mm-gg
       let dt = new Date();
       if (tipo === 'ieri') dt.setDate(dt.getDate() - 1);
-      
+
       const mm = String(dt.getMonth() + 1).padStart(2, '0');
       const gg = String(dt.getDate()).padStart(2, '0');
       const dataKey = `${mm}-${gg}`;
 
+      const opzioni = { day: 'numeric', month: 'long' };
+      document.getElementById('titolo-data').innerText = `🗓️ ${dt.toLocaleDateString('it-IT', opzioni)}`;
+      
       const div = document.getElementById('contenuto');
       div.innerHTML = "<p style='text-align: center;'>⏳ Sintonizzazione con l'almanacco...</p>";
 
       try {
-        // Legge da un file almanacco.json che contiene i dati strutturati
         const res = await fetch('almanacco.json?t=' + new Date().getTime());
         const db = await res.json();
         
         const oggiDati = db[dataKey] || {
-          data_formattata: `${dt.getDate()} ${dt.toLocaleString('it-IT', { month: 'long' })}`,
           santo: "Informazione non disponibile per questa data.",
           ricorrenze: "Nessuna ricorrenza speciale registrata.",
           storia: ["Nessun evento storico registrato."]
         };
-
-        document.getElementById('titolo-data').innerText = `🗓️ ${oggiDati.data_formattata}`;
 
         let html = `
           <h3>✝️ Santo del Giorno</h3>
@@ -159,7 +157,7 @@
           <h3>🌍 Giornata / Ricorrenza</h3>
           <p>${oggiDati.ricorrenze}</p>
 
-          <h3>📜 Accadde Oggi nella Storia</h3>
+          <h3>📜 Accadde Oggi</h3>
           <ul>
         `;
 
@@ -171,7 +169,7 @@
         div.innerHTML = html;
 
       } catch (err) {
-        div.innerHTML = "<p style='text-align: center;'>❌ Errore nel caricamento dei dati dell'almanacco.</p>";
+        div.innerHTML = "<p style='text-align: center;'>❌ Impossibile caricare i dati dell'almanacco.</p>";
       }
     }
 
