@@ -113,59 +113,73 @@
       transition: background-color 0.3s ease;
     }
     .meme-btn:active { transform: scale(0.95); }
-    #reaction-msg { font-size: 0.85rem; color: #94a3b8; margin-top: 10px; height: 20px; }
+    #status-msg { font-size: 0.85rem; color: #38bdf8; margin-top: 15px; min-height: 20px; word-break: break-all; }
   </style>
 
-  <!-- SDK OneSignal -->
-  <script src="https://cdn.onesignal.com/sdks/webPush/OneSignalSDK.page.js" defer></script>
+  <!-- Codice OneSignal Ufficiale v16 -->
+  <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
   <script>
     window.OneSignalDeferred = window.OneSignalDeferred || [];
     OneSignalDeferred.push(async function(OneSignal) {
       await OneSignal.init({
         appId: "01c492a8-d8d7-4650-adef-f22d1322b577",
-        serviceWorkerParam: { scope: "/" },
-        serviceWorkerPath: "OneSignalSDKWorker.js",
+        safari_web_id: "web.onesignal.auto.45da02f8-0e2a-491b-9d85-c6fbaf55a283",
+        notifyButton: {
+          enable: false,
+        },
+        allowLocalhostAsSecureOrigin: true,
       });
+
+      if (OneSignal.User.PushSubscription.optedIn) {
+        document.getElementById('status-msg').innerText = "✅ Notifiche attive!";
+      }
     });
 
-    function attivaNotifiche() {
-      OneSignalDeferred.push(function(OneSignal) {
-        OneSignal.Notifications.requestPermission().then(function(permission) {
-          if (permission) {
-            alert("Notifiche attivate con successo! 🚀 Ora chiudi l'app o blocca lo schermo per testarla.");
-          } else {
-            alert("Permesso negato! Vai nelle impostazioni di iOS per consentire le notifiche.");
-          }
-        });
+    async function attivaNotifiche() {
+      const msg = document.getElementById('status-msg');
+      msg.innerText = "⏳ Richiesta permessi...";
+
+      OneSignalDeferred.push(async function(OneSignal) {
+        try {
+          await OneSignal.Notifications.requestPermission();
+          await OneSignal.User.PushSubscription.optIn();
+          
+          setTimeout(() => {
+            const subId = OneSignal.User.PushSubscription.id;
+            if (subId) {
+              msg.innerText = "🚀 Dispositivo Registrato!";
+            } else {
+              msg.innerText = "✅ Permesso accordato!";
+            }
+          }, 1000);
+        } catch (err) {
+          msg.innerText = "❌ Errore: " + err.message;
+        }
       });
     }
 
     function provaNotifica() {
-      OneSignalDeferred.push(async function(OneSignal) {
-        const isOptedIn = OneSignal.User.PushSubscription.optedIn;
-
-        if (!isOptedIn) {
-          alert("Prima premi 'Abilita Notifiche Push' e seleziona Consenti!");
+      const msg = document.getElementById('status-msg');
+      OneSignalDeferred.push(function(OneSignal) {
+        if (!OneSignal.User.PushSubscription.optedIn) {
+          alert("Prima premi 'Abilita Notifiche Push'!");
           return;
         }
 
-        const msg = document.getElementById('reaction-msg');
-        msg.innerText = "⏳ NOTIFICA IN ARRIVO: Blocca subito lo schermo dell'iPhone!";
-
-        // Chiamata locale tramite Service Worker nativo
-        if ('serviceWorker' in navigator) {
-          setTimeout(async () => {
+        msg.innerText = "⏳ In arrivo: Blocca lo schermo!";
+        
+        setTimeout(async () => {
+          if ('serviceWorker' in navigator) {
             const reg = await navigator.serviceWorker.ready;
-            reg.showNotification("💡 Curiosità del Giorno - Test", {
-              body: "Se vedi questo banner su iPhone con il suono, le notifiche push funzionano perfettamente!",
+            reg.showNotification("💡 Curiosità del Giorno", {
+              body: "Notifica Push di prova ricevuta!",
               icon: "icon-192.png",
               badge: "icon-192.png",
-              vibrate: [200, 100, 200],
-              tag: "prova-push"
+              vibrate: [200, 100, 200]
             });
             msg.innerText = "✅ Notifica inviata!";
-          }, 3000); // 3 secondi di ritardo per darti il tempo di bloccare lo schermo
-        }
+          }
+        }, 3000);
       });
     }
 
@@ -173,21 +187,17 @@
       document.body.classList.add('water-transform');
       const card = document.querySelector('.card');
       card.style.opacity = '0';
-      
-      setTimeout(() => {
-        window.location.href = 'idratazione.html';
-      }, 400);
+      setTimeout(() => { window.location.href = 'idratazione.html'; }, 400);
     }
 
     function cambiaTema() {
       document.body.classList.toggle('pink-theme');
-      const isPink = document.body.classList.contains('pink-theme');
-      localStorage.setItem('theme', isPink ? 'pink' : 'blue');
+      localStorage.setItem('theme', document.body.classList.contains('pink-theme') ? 'pink' : 'blue');
     }
 
     function reazioneMeme(tipo) {
-      const msg = document.getElementById('reaction-msg');
-      if (tipo === 'mindblown') msg.innerText = "🤯 Cervello esploso! Veramente pazzesco.";
+      const msg = document.getElementById('status-msg');
+      if (tipo === 'mindblown') msg.innerText = "🤯 Cervello esploso!";
       if (tipo === 'share') {
         if (navigator.share) {
           navigator.share({
@@ -203,9 +213,7 @@
     }
 
     document.addEventListener('DOMContentLoaded', () => {
-      if (localStorage.getItem('theme') === 'pink') {
-        document.body.classList.add('pink-theme');
-      }
+      if (localStorage.getItem('theme') === 'pink') document.body.classList.add('pink-theme');
     });
   </script>
 </head>
@@ -215,22 +223,16 @@
     <h1 id="titolo">Caricamento...</h1>
     <p id="spiegazione">Sto leggendo la curiosità del giorno...</p>
 
-    <!-- Pulsanti Notifiche -->
     <button class="btn" onclick="attivaNotifiche()">🔔 Abilita Notifiche Push</button>
     <button class="btn btn-secondary" onclick="provaNotifica()">🧪 Prova Notifica</button>
-
-    <!-- Pulsante Idratazione con Bottiglietta -->
     <button class="btn btn-water" onclick="vaiAdIdratazione()" style="margin-top: 15px;">🍼 Ricordati di Bere (Idratazione)</button>
-
-    <!-- Sezione Cambio Tema -->
     <button class="btn btn-secondary" onclick="cambiaTema()" style="margin-top: 10px;">🎨 Cambia Tema (Rosa/Blu)</button>
 
-    <!-- Sezione Reazioni -->
     <div class="reactions">
       <button class="meme-btn" onclick="reazioneMeme('mindblown')">🤯 Mind Blown</button>
       <button class="meme-btn" onclick="reazioneMeme('share')">📲 Condividi</button>
     </div>
-    <div id="reaction-msg"></div>
+    <div id="status-msg"></div>
   </div>
 
   <script>
@@ -240,9 +242,7 @@
         document.getElementById('titolo').innerText = data.titolo;
         document.getElementById('spiegazione').innerText = data.spiegazione;
       })
-      .catch(() => {
-        document.getElementById('titolo').innerText = "Errore di caricamento";
-      });
+      .catch(() => { document.getElementById('titolo').innerText = "Errore di caricamento"; });
   </script>
 
 </body>
