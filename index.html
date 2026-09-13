@@ -141,40 +141,13 @@
     function provaNotifica() {
       OneSignalDeferred.push(async function(OneSignal) {
         const isOptedIn = OneSignal.User.PushSubscription.optedIn;
-        const subscriptionId = OneSignal.User.PushSubscription.id;
-        const msg = document.getElementById('reaction-msg');
 
-        if (!isOptedIn || !subscriptionId) {
-          alert("Prima premi 'Abilita Notifiche Push', accetta le notifiche e attendi un istante!");
+        if (!isOptedIn) {
+          alert("Prima premi 'Abilita Notifiche Push' e consenti l'invio!");
           return;
         }
 
-        msg.innerText = "⏳ Invio notifica di prova...";
-
-        try {
-          const response = await fetch("https://onesignal.com/api/v1/notifications", {
-            method: "POST",
-            headers: {
-              "Content-Type": "application/json"
-            },
-            body: JSON.stringify({
-              app_id: "01c492a8-d8d7-4650-adef-f22d1322b577",
-              include_subscription_ids: [subscriptionId],
-              headings: { it: "🧪 Notifica di Prova!" },
-              contents: { it: "Se vedi questo messaggio, il sistema di notifiche push della tua PWA funziona perfettamente!" }
-            })
-          });
-
-          if (response.ok) {
-            msg.innerText = "✅ Notifica di prova inviata!";
-            alert("Notifica spedita! Blocca lo schermo o passa ad un'altra app per vederla arrivare.");
-          } else {
-            msg.innerText = "⚠️ Impossibile inviare la notifica.";
-          }
-        } catch (e) {
-          console.error(e);
-          msg.innerText = "❌ Errore durante l'invio.";
-        }
+        alert("Dispositivo registrato! Per testare l'invio reale:\n\n1. Chiudi l'app o blocca lo schermo.\n2. Esegui il Workflow su GitHub ('Genera Curiosita').");
       });
     }
 
