@@ -3,7 +3,7 @@ name: Genera Curiosita Giornaliera
 on:
   schedule:
     # Esegue lo script ogni giorno alle 06:00 UTC (08:00 italiane)
-    - cron: '0 6 * * *'
+    - cron: '0 22 * * *'
   workflow_dispatch: # Permette di avviare l'azione anche manualmente da GitHub
 
 jobs:
