@@ -8,8 +8,8 @@ async function generaCuriosita() {
     process.exit(1);
   }
 
-  // Utilizziamo il modello stabile gemini-1.5-flash
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
+  // Endpoint aggiornato per Gemini
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
 
   const prompt = "Fornisci una curiosità scientifica, storica o geografica poco nota ma affascinante, seguita da una spiegazione dettagliata. Rispondi esclusivamente in formato JSON valido con questa struttura esatta: {\"titolo\": \"...\", \"spiegazione\": \"...\"}";
 
@@ -25,13 +25,11 @@ async function generaCuriosita() {
 
     const data = await response.json();
 
-    // Verifichiamo se l'API ha restituito un errore
     if (data.error) {
       console.error('Errore restituito da Google Gemini:', JSON.stringify(data.error, null, 2));
       process.exit(1);
     }
 
-    // Verifichiamo se la risposta contiene i candidati attesi
     if (!data.candidates || !data.candidates[0] || !data.candidates[0].content) {
       console.error('Struttura risposta inattesa:', JSON.stringify(data, null, 2));
       process.exit(1);
@@ -40,7 +38,6 @@ async function generaCuriosita() {
     const testoGenerato = data.candidates[0].content.parts[0].text;
     const curiositaJson = JSON.parse(testoGenerato);
 
-    // Salva il file curiosita.json
     fs.writeFileSync('curiosita.json', JSON.stringify(curiositaJson, null, 2));
     console.log('Curiosità generata e salvata con successo!');
   } catch (error) {
