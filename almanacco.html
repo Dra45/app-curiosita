@@ -141,13 +141,15 @@
       div.innerHTML = "<p style='text-align: center;'>⏳ Sintonizzazione con l'almanacco...</p>";
 
       try {
+        // Aggiunge un timestamp per evitare che il browser metta in cache una versione vecchia del JSON
         const res = await fetch('almanacco.json?t=' + new Date().getTime());
         const db = await res.json();
         
-        const oggiDati = db[dataKey] || {
-          santo: "Informazione non disponibile per questa data.",
-          ricorrenze: "Nessuna ricorrenza speciale registrata.",
-          storia: ["Nessun evento storico registrato."]
+        // Controlla se la data esiste nel JSON, altrimenti prende la prima disponibile o mostra un avviso amichevole
+        const oggiDati = db[dataKey] || Object.values(db)[0] || {
+          santo: "Informazione in fase di sincronizzazione...",
+          ricorrenze: "Nessuna ricorrenza registrata.",
+          storia: ["Eventi in caricamento..."]
         };
 
         let html = `
@@ -161,15 +163,19 @@
           <ul>
         `;
 
-        oggiDati.storia.forEach(item => {
-          html += `<li>${item}</li>`;
-        });
+        if (Array.isArray(oggiDati.storia)) {
+          oggiDati.storia.exit = oggiDati.storia.forEach(item => {
+            html += `<li>${item}</li>`;
+          });
+        } else {
+          html += `<li>${oggiDati.storia}</li>`;
+        }
 
         html += `</ul>`;
         div.innerHTML = html;
 
       } catch (err) {
-        div.innerHTML = "<p style='text-align: center;'>❌ Impossibile caricare i dati dell'almanacco.</p>";
+        div.innerHTML = "<p style='text-align: center;'>❌ Impossibile caricare i dati dell'almanacco. Assicurati che il file almanacco.json esista nel repository.</p>";
       }
     }
 
