@@ -141,26 +141,39 @@
     function provaNotifica() {
       OneSignalDeferred.push(async function(OneSignal) {
         const isOptedIn = OneSignal.User.PushSubscription.optedIn;
-        
-        if (!isOptedIn) {
-          alert("Prima premi 'Abilita Notifiche Push' e consenti l'invio!");
+        const subscriptionId = OneSignal.User.PushSubscription.id;
+        const msg = document.getElementById('reaction-msg');
+
+        if (!isOptedIn || !subscriptionId) {
+          alert("Prima premi 'Abilita Notifiche Push', accetta le notifiche e attendi un istante!");
           return;
         }
 
-        const msg = document.getElementById('reaction-msg');
-        msg.innerText = "⏳ Invio notifica di prova in corso...";
+        msg.innerText = "⏳ Invio notifica di prova...";
 
         try {
-          const subscriptionId = OneSignal.User.PushSubscription.id;
-          if (!subscriptionId) {
-            alert("Iscrizione non ancora completata. Attendi qualche secondo e riprova.");
-            return;
+          const response = await fetch("https://onesignal.com/api/v1/notifications", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json"
+            },
+            body: JSON.stringify({
+              app_id: "01c492a8-d8d7-4650-adef-f22d1322b577",
+              include_subscription_ids: [subscriptionId],
+              headings: { it: "🧪 Notifica di Prova!" },
+              contents: { it: "Se vedi questo messaggio, il sistema di notifiche push della tua PWA funziona perfettamente!" }
+            })
+          });
+
+          if (response.ok) {
+            msg.innerText = "✅ Notifica di prova inviata!";
+            alert("Notifica spedita! Blocca lo schermo o passa ad un'altra app per vederla arrivare.");
+          } else {
+            msg.innerText = "⚠️ Impossibile inviare la notifica.";
           }
-          alert("Notifica inviata! Controlla le notifiche tra un paio di secondi. 📲");
-          msg.innerText = "✅ Notifica di prova spedita!";
         } catch (e) {
           console.error(e);
-          alert("Si è verificato un errore durante l'invio della notifica di prova.");
+          msg.innerText = "❌ Errore durante l'invio.";
         }
       });
     }
