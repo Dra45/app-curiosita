@@ -1,16 +1,16 @@
-name: Genera Curiosita Giornaliera
+name: Generate Daily Curiosity
 
 on:
   schedule:
-    # Esegue lo script ogni giorno alle 06:00 UTC (08:00 italiane)
+    # 22:00 UTC corrisponde esattamente alle 00:00 (mezzanotte) in Italia
     - cron: '0 22 * * *'
-  workflow_dispatch: # Permette di avviare l'azione anche manualmente da GitHub
+  workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Check-out repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Setup Node.js
@@ -18,15 +18,55 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Esegui script Gemini
+      - name: Generate Curiosity with Gemini
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: node generate.js
+        run: |
+          node -e '
+          const fs = require("fs");
+          const apiKey = process.env.GEMINI_API_KEY;
 
-      - name: Salva e fai Push del nuovo JSON
+          // Calcola la data odierna
+          const oggi = new Date();
+          const giorno = oggi.getDate();
+          const mesi = ["Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno", "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre"];
+          const meseNome = mesi[oggi.getMonth()];
+
+          const prompt = `Oggi è il ${giorno} ${meseNome}. Rispondi ESCLUSIVAMENTE con un oggetto JSON valido (senza formattazione markdown o blocchi di codice \`\`\`json) contenente:
+          1. "titolo": Indica il Santo del giorno o la ricorrenza principale del ${giorno} ${meseNome} (es. "😇 Santo del Giorno e Ricorrenze").
+          2. "spiegazione": Un riassunto breve e avvincente dei 3 o 4 fatti storici e curiosità più importanti accaduti nel mondo esattamente il ${giorno} ${meseNome}.
+
+          Formato richiesto:
+          {"titolo": "Santo del giorno...", "spiegazione": "Descrizione fatti storici..."}`;
+
+          async function main() {
+            try {
+              const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({
+                  contents: [{ parts: [{ text: prompt }] }]
+                })
+              });
+              const data = await res.json();
+              let text = data.candidates[0].content.parts[0].text;
+              
+              // Pulizia formattazione markdown
+              text = text.replace(/```json/g, "").replace(/```/g, "").trim();
+
+              fs.writeFileSync("curiosita.json", text);
+              console.log("Curiosità per il " + giorno + " " + meseNome + " generata con successo!");
+            } catch (err) {
+              console.error("Errore durante la generazione:", err);
+              process.exit(1);
+            }
+          }
+          main();
+          '
+
+      - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add curiosita.json
-          git commit -m "Aggiornata curiosità del giorno [auto]" || exit 0
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Aggiornamento automatico almanacco del giorno" && git push)
