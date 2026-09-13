@@ -1,1 +1,22 @@
-{}
+{
+  "09-13": {
+    "santo": "San Giovanni Crisostomo, vescovo e dottore della Chiesa, celebre per la sua straordinaria eloquenza e la riforma della liturgia.",
+    "ricorrenze": "Giornata Internazionale del Cioccolato; Giornata dei Programmatori (256º giorno dell'anno).",
+    "storia": [
+      "1922 - A El Azizia, in Libia, viene registrata una temperatura record di 58 °C, a lungo considerata la più alta mai misurata sulla Terra.",
+      "1940 - Seconda guerra mondiale: le truppe italiane invadono l'Egitto dando inizio alla campagna del Nordafrica.",
+      "1985 - La Nintendo lancia in Giappone il celebre videogioco Super Mario Bros.",
+      "1993 - Vengono firmati a Washington gli Accordi di Oslo tra Israele e l'Organizzazione per la Liberazione della Palestina (OLP)."
+    ]
+  },
+  "09-12": {
+    "santo": "Santissimo Nome di Maria, memoria liturgica della Chiesa cattolica istituita per ricordare la liberazione di Vienna dall'assedio ottomano, e San Guido di Anderlecht, confessore e patrono dei contadini.",
+    "ricorrenze": "Giornata Mondiale delle Nazioni Unite per la Cooperazione Sud-Sud",
+    "storia": [
+      "1683 - Si conclude la battaglia di Vienna con la vittoria della Lega Santa guidata da Giovanni III Sobieski contro l'Impero Ottomano",
+      "1919 - Gabriele D'Annunzio guida l'Impresa di Fiume, occupando la città alla testa dei suoi legionari",
+      "1943 - Operazione Quercia: paracadutisti tedeschi liberano Benito Mussolini dalla prigionia a Campo Imperatore sul Gran Sasso",
+      "1953 - John Fitzgerald Kennedy sposa Jacqueline Lee Bouvier a Newport, nel Rhode Island"
+    ]
+  }
+}
