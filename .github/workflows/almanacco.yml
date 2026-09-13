@@ -2,7 +2,7 @@ name: Aggiorna Almanacco e Push OneSignal
 
 on:
   schedule:
-    # Esegue l'azione alle 22:00 UTC, che corrisponde esattamente alle 00:00 (mezzanotte) in Italia
+    # Esegue l'azione alle 22:00 UTC, che corrisponde esattamente alle 00:00 in Italia
     - cron: '0 22 * * *'
   workflow_dispatch: # Permette l'avvio manuale
 
@@ -30,7 +30,7 @@ jobs:
           ONESIGNAL_REST_KEY: ${{ secrets.ONESIGNAL_REST_KEY }}
         run: |
           python - << 'EOF'
-          import os, json, datetime, requests
+          import os, json, datetime, requests, time
           from zoneinfo import ZoneInfo
 
           api_key = os.environ.get("GEMINI_API_KEY")
@@ -44,8 +44,8 @@ jobs:
           # Imposta rigorosamente il fuso orario italiano (Roma)
           tz_roma = ZoneInfo("Europe/Rome")
           oggi = datetime.datetime.now(tz_roma)
-          ieri = oggi - datetime.timedelta(days=1)
-          date_da_generare = [oggi, ieri]
+          mm_gg = oggi.strftime("%m-%d")
+          data_str = oggi.strftime("%d %B %Y")
 
           db = {}
           if os.path.exists("almanacco.json"):
@@ -57,16 +57,15 @@ jobs:
               except Exception as e:
                   print(f"File JSON esistente ignorato: {e}")
 
-          # Generazione dati con Gemini
-          for dt in date_da_generare:
-              mm_gg = dt.strftime("%m-%d")
-              data_str = dt.strftime("%d %B %Y")
-              print(f"Richiesta almanacco per: {data_str} ({mm_gg})")
-              
-              prompt = f"Fornisci l'almanacco in italiano per la data {data_str}. Rispondi ESCLUSIVAMENTE in formato JSON valido, senza blocchi di codice markdown, con questa struttura esatta: {{\"santo\": \"Nome del santo o dei santi del giorno con breve descrizione\", \"ricorrenze\": \"Eventuali ricorrenze o giornate mondiali\", \"storia\": [\"Anno - Evento 1\", \"Anno - Evento 2\", \"Anno - Evento 3\", \"Anno - Evento 4\"]}}"
-              
-              url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent?key=" + api_key
-              
+          # Genera SOLO la data di oggi per evitare di superare la quota giornaliera (Errore 429)
+          print(f"Richiesta almanacco per oggi: {data_str} ({mm_gg})")
+          
+          prompt = f"Fornisci l'almanacco in italiano per la data {data_str}. Rispondi ESCLUSIVAMENTE in formato JSON valido, senza blocchi di codice markdown, con questa struttura esatta: {{\"santo\": \"Nome del santo o dei santi del giorno con breve descrizione\", \"ricorrenze\": \"Eventuali ricorrenze o giornate mondiali\", \"storia\": [\"Anno - Evento 1\", \"Anno - Evento 2\", \"Anno - Evento 3\", \"Anno - Evento 4\"]}}"
+          
+          url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent?key=" + api_key
+          
+          successo = False
+          for tentativo in range(3):
               try:
                   res = requests.post(url, json={"contents": [{"parts": [{"text": prompt}]}]})
                   if res.status_code == 200:
@@ -74,22 +73,27 @@ jobs:
                       testo = risposta_json["candidates"][0]["content"]["parts"][0]["text"]
                       testo = testo.replace("```json", "").replace("```", "").strip()
                       db[mm_gg] = json.loads(testo)
-                      print(f"✅ Generato per {mm_gg}")
+                      print(f"✅ Generato con successo per {mm_gg}")
+                      successo = True
+                      break
+                  elif res.status_code == 429:
+                      print(f"⚠️ Quota superata (429), tentativo {tentativo+1}/3. Attendo 30 secondi...")
+                      time.sleep(30)
                   else:
                       print(f"❌ Errore API per {mm_gg}: {res.text}")
+                      break
               except Exception as e:
-                  print(f"❌ Errore per {mm_gg}: {e}")
+                  print(f"❌ Errore di rete: {e}")
+                  break
 
           # Salva il file JSON aggiornato
           with open("almanacco.json", "w", encoding="utf-8") as f:
               json.dump(db, f, ensure_ascii=False, indent=2)
 
           # Invio Notifica Push tramite OneSignal per OGGI
-          if os_app_id and os_api_key:
-              oggi_mm_gg = oggi.strftime("%m-%d")
-              dati_oggi = db.get(oggi_mm_gg, {})
-              
-              santo = dati_oggi.get("santo", "Nuovo Santo del giorno")
+          if os_app_id and os_api_key and successo:
+              dati_oggi = db.get(mm_gg, {})
+              santo = dati_oggi.get("santo", "Santo del giorno")
               
               titolo = "Scopri il nuovo Almanacco"
               testo_notifica = f"L'Almanacco di oggi è pronto! Santo: {santo}. Clicca per leggerlo 📅"
