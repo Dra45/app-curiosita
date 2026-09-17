@@ -48,6 +48,7 @@
       background-color: var(--bg-color);
       color: var(--text-main);
       display: flex;
+      flex-direction: column;
       justify-content: center;
       align-items: center;
       min-height: 100vh;
@@ -124,6 +125,25 @@
     }
     .meme-btn:active { transform: scale(0.95); }
     #status-msg { font-size: 0.85rem; color: var(--accent-color); margin-top: 15px; min-height: 20px; word-break: break-all; }
+
+    /* Stile per il nuovo pulsantino quiz in basso */
+    .quiz-pill-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--card-bg);
+      color: var(--text-main);
+      padding: 8px 18px;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      font-weight: bold;
+      text-decoration: none;
+      border: 1px solid var(--border-color);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+      margin-top: 20px;
+      transition: transform 0.1s ease, border-color 0.3s ease;
+    }
+    .quiz-pill-btn:active { transform: scale(0.96); }
   </style>
 
   <!-- OneSignal SDK -->
@@ -174,11 +194,7 @@
           return;
         }
         
-        // Sfruttiamo un token di GitHub o un trigger pulito
         msg.innerText = "🚀 Segnale inviato! La notifica apparirà a breve sullo schermo.";
-        
-        // Nota: Puoi anche testarla direttamente andando su OneSignal Dashboard -> Messages -> New Push.
-        // Se vuoi automatizzarla via GitHub Actions, crea il file .github/workflows/notify.yml (vedi sotto).
       });
     }
 
@@ -230,6 +246,11 @@
     document.addEventListener('DOMContentLoaded', () => {
       if (localStorage.getItem('theme') === 'pink') document.body.classList.add('pink-theme');
       aggiornaTestoPulsante();
+
+      // Legge la streak salvata e la mostra nel pulsantino in basso
+      const streak = localStorage.getItem('almanacco_streak') || '0';
+      const streakEl = document.getElementById('streak-number');
+      if (streakEl) streakEl.textContent = streak;
     });
   </script>
 </head>
@@ -252,6 +273,11 @@
     </div>
     <div id="status-msg"></div>
   </div>
+
+  <!-- Pulsantino piccolo del Quiz posizionato sotto la card -->
+  <a href="quiz.html" class="quiz-pill-btn">
+    🧠 Quiz <span id="streak-display">🔥 <span id="streak-number">0</span></span>
+  </a>
 
   <script>
     fetch('curiosita.json?t=' + new Date().getTime())
