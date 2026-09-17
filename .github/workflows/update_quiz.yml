@@ -1,0 +1,36 @@
+name: Aggiorna Quiz Giornaliero
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # Si attiva tutti i giorni alle 06:00 UTC
+  workflow_dispatch: # Permette anche di avviarlo manualmente da GitHub
+
+jobs:
+  update-quiz:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Clona Repository
+        uses: actions/checkout@v4
+
+      - name: Configura Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Installa Libreria Google GenAI
+        run: pip install google-genai
+
+      - name: Esegui Script Generazione Quiz
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python genera_quiz.py
+
+      - name: Commit e Push delle modifiche su quiz.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add quiz.json
+          git commit -m "Aggiornamento automatico Quiz del giorno 🧠 [skip ci]" || echo "Nessuna modifica da committare"
+          git push
