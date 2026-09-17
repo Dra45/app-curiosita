@@ -40,6 +40,16 @@
       --meme-btn-bg: rgba(85, 51, 70, 0.5);
     }
 
+    /* FIX SCHERMO BIANCO: Imposta subito lo sfondo scuro sull'HTML */
+    html {
+      background-color: #0f172a;
+      height: 100%;
+    }
+
+    body.pink-theme html {
+      background-color: #2a0f1d;
+    }
+
     body.water-transform {
       background: #0284c7 !important;
       transition: background 0.5s ease-in-out;
@@ -204,7 +214,6 @@
       font-weight: 500;
     }
 
-    /* Pulsantino del quiz in basso stile pillola */
     .quiz-pill-btn {
       display: inline-flex;
       align-items: center;
@@ -232,6 +241,13 @@
       transform: scale(0.96); 
     }
   </style>
+
+  <!-- Script immediato per pre-caricare il tema prima del render della pagina (Evita flash bianchi) -->
+  <script>
+    if (localStorage.getItem('theme') === 'pink') {
+      document.documentElement.classList.add('pink-theme');
+    }
+  </script>
 
   <!-- OneSignal SDK -->
   <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
@@ -310,6 +326,7 @@
 
     function cambiaTema() {
       document.body.classList.toggle('pink-theme');
+      document.documentElement.classList.toggle('pink-theme');
       localStorage.setItem('theme', document.body.classList.contains('pink-theme') ? 'pink' : 'blue');
     }
 
@@ -331,7 +348,9 @@
     }
 
     document.addEventListener('DOMContentLoaded', () => {
-      if (localStorage.getItem('theme') === 'pink') document.body.classList.add('pink-theme');
+      if (localStorage.getItem('theme') === 'pink') {
+        document.body.classList.add('pink-theme');
+      }
       aggiornaTestoPulsante();
 
       const streak = localStorage.getItem('almanacco_streak') || '0';
