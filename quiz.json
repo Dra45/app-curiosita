@@ -1,1 +1,64 @@
-
+{
+  "domande": [
+    {
+      "domanda": "In quale anno è caduto il Muro di Berlino?",
+      "opzioni": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "risposta_corretta": "1989"
+    },
+    {
+      "domanda": "Qual è l'elemento chimico rappresentato dal simbolo 'Au' nella tavola periodica?",
+      "opzioni": [
+        "Argento",
+        "Oro",
+        "Alluminio",
+        "Arsenico"
+      ],
+      "risposta_corretta": "Oro"
+    },
+    {
+      "domanda": "Qual è la capitale federale dell'Australia?",
+      "opzioni": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Brisbane"
+      ],
+      "risposta_corretta": "Canberra"
+    },
+    {
+      "domanda": "Chi ha dipinto il celebre quadro 'La ragazza con l'orecchino di perla'?",
+      "opzioni": [
+        "Vincent van Gogh",
+        "Johannes Vermeer",
+        "Rembrandt",
+        "Leonardo da Vinci"
+      ],
+      "risposta_corretta": "Johannes Vermeer"
+    },
+    {
+      "domanda": "Quale linguaggio di programmazione è stato ideato da Guido van Rossum nel 1991?",
+      "opzioni": [
+        "Java",
+        "C++",
+        "Python",
+        "JavaScript"
+      ],
+      "risposta_corretta": "Python"
+    },
+    {
+      "domanda": "Quale storico impero è stato governato dal sultano Solimano il Magnifico nel XVI secolo?",
+      "opzioni": [
+        "Impero Bizantino",
+        "Impero Ottomano",
+        "Impero Persiano",
+        "Impero Mongolo"
+      ],
+      "risposta_corretta": "Impero Ottomano"
+    }
+  ]
+}
