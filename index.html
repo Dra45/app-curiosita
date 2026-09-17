@@ -7,45 +7,48 @@
   <link rel="manifest" href="manifest.json">
   <style>
     :root {
-      --bg-color: #0f172a;
-      --card-bg: #1e293b;
-      --border-color: #334155;
+      --bg-gradient: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+      --card-bg: rgba(30, 41, 59, 0.7);
+      --border-color: rgba(51, 65, 85, 0.6);
       --text-main: #f8fafc;
       --text-sub: #cbd5e1;
       --accent-color: #38bdf8;
-      --btn-bg: #0284c7;
-      --btn-active: #0369a1;
-      --water-btn-bg: #0284c7;
-      --water-btn-border: #38bdf8;
-      --meme-btn-bg: #334155;
-      --calendar-btn-bg: #8b5cf6;
-      --calendar-btn-border: #a78bfa;
+      --btn-bg: linear-gradient(135deg, #0284c7 0%, #0369a1 100%);
+      --btn-hover: #0284c7;
+      --btn-active: #02689c;
+      --water-btn-bg: linear-gradient(135deg, #0284c7 0%, #0369a1 100%);
+      --water-border: #38bdf8;
+      --calendar-btn-bg: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
+      --calendar-border: #a78bfa;
+      --meme-btn-bg: rgba(51, 65, 85, 0.5);
     }
 
     body.pink-theme {
-      --bg-color: #2a0f1d;
-      --card-bg: #3b1e2e;
-      --border-color: #553346;
+      --bg-gradient: linear-gradient(135deg, #2a0f1d 0%, #3b1e2e 100%);
+      --card-bg: rgba(59, 30, 46, 0.7);
+      --border-color: rgba(85, 51, 70, 0.6);
       --text-main: #fcf8fa;
       --text-sub: #e1cbd7;
       --accent-color: #f472b6;
-      --btn-bg: #db2777;
-      --btn-active: #be185d;
-      --water-btn-bg: #db2777;
-      --water-btn-border: #f472b6;
-      --meme-btn-bg: #553346;
-      --calendar-btn-bg: #ec4899;
-      --calendar-btn-border: #f472b6;
+      --btn-bg: linear-gradient(135deg, #db2777 0%, #be185d 100%);
+      --btn-hover: #db2777;
+      --btn-active: #a8134e;
+      --water-btn-bg: linear-gradient(135deg, #db2777 0%, #be185d 100%);
+      --water-border: #f472b6;
+      --calendar-btn-bg: linear-gradient(135deg, #ec4899 0%, #db2777 100%);
+      --calendar-border: #f472b6;
+      --meme-btn-bg: rgba(85, 51, 70, 0.5);
     }
 
     body.water-transform {
-      background-color: #0284c7 !important;
-      transition: background-color 0.5s ease-in-out;
+      background: #0284c7 !important;
+      transition: background 0.5s ease-in-out;
     }
 
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      background-color: var(--bg-color);
+      background: var(--bg-gradient);
+      background-attachment: fixed;
       color: var(--text-main);
       display: flex;
       flex-direction: column;
@@ -55,95 +58,179 @@
       margin: 0;
       padding: 20px;
       box-sizing: border-box;
-      transition: background-color 0.3s ease;
+      transition: background 0.4s ease;
     }
 
     .card {
       background-color: var(--card-bg);
-      padding: 25px;
-      border-radius: 20px;
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      padding: 32px 28px;
+      border-radius: 24px;
       max-width: 480px;
       width: 100%;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4), 0 0 20px rgba(56, 189, 248, 0.05);
       border: 1px solid var(--border-color);
       text-align: center;
+      animation: fadeIn 0.5s ease-out;
       transition: background-color 0.3s ease, border-color 0.3s ease, opacity 0.4s ease;
     }
 
-    h1 { font-size: 1.4rem; color: var(--accent-color); margin-top: 0; transition: color 0.3s ease; }
-    p { font-size: 1rem; line-height: 1.6; color: var(--text-sub); transition: color 0.3s ease; }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(15px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .icon-badge {
+      font-size: 2.2rem;
+      margin-bottom: 12px;
+      display: inline-block;
+      background: rgba(255, 255, 255, 0.05);
+      padding: 12px;
+      border-radius: 50%;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    h1 { 
+      font-size: 1.45rem; 
+      color: var(--accent-color); 
+      margin-top: 0; 
+      margin-bottom: 12px;
+      transition: color 0.3s ease; 
+      letter-spacing: -0.3px;
+    }
+
+    p { 
+      font-size: 0.98rem; 
+      line-height: 1.6; 
+      color: var(--text-sub); 
+      transition: color 0.3s ease; 
+      margin-bottom: 25px;
+    }
     
+    .btn-group {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
     .btn {
-      background-color: var(--btn-bg);
+      background: var(--btn-bg);
       color: white;
       border: none;
-      padding: 12px 20px;
-      border-radius: 12px;
-      font-weight: bold;
+      padding: 13px 20px;
+      border-radius: 14px;
+      font-weight: 600;
       font-size: 0.95rem;
       cursor: pointer;
       width: 100%;
-      margin-top: 10px;
-      transition: background-color 0.3s ease, border-color 0.3s ease, transform 0.1s ease;
+      transition: all 0.2s ease;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+      box-sizing: border-box;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
     }
-    .btn:active { transform: scale(0.98); background-color: var(--btn-active); }
+
+    .btn:hover {
+      filter: brightness(1.1);
+      transform: translateY(-1px);
+    }
+
+    .btn:active { 
+      transform: scale(0.98); 
+    }
 
     .btn-secondary {
-      background-color: transparent;
+      background: transparent;
       border: 1px solid var(--border-color);
       color: var(--text-sub);
+      box-shadow: none;
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255, 255, 255, 0.05);
+      color: var(--text-main);
+      border-color: var(--accent-color);
     }
 
     .btn-water {
-      background-color: var(--water-btn-bg);
-      color: white;
-      border: 1px solid var(--water-btn-border);
+      background: var(--water-btn-bg);
+      border: 1px solid var(--water-border);
     }
 
     .btn-calendar {
-      background-color: var(--calendar-btn-bg);
-      color: white;
-      border: 1px solid var(--calendar-btn-border);
+      background: var(--calendar-btn-bg);
+      border: 1px solid var(--calendar-border);
     }
 
     .reactions {
       display: flex;
-      justify-content: space-around;
-      margin-top: 20px;
-      padding-top: 15px;
+      justify-content: center;
+      gap: 12px;
+      margin-top: 22px;
+      padding-top: 18px;
       border-top: 1px solid var(--border-color);
     }
+
     .meme-btn {
       background: var(--meme-btn-bg);
-      border: none;
-      border-radius: 10px;
-      padding: 8px 16px;
-      color: white;
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 9px 18px;
+      color: var(--text-main);
       font-size: 0.85rem;
+      font-weight: 500;
       cursor: pointer;
-      transition: background-color 0.3s ease, transform 0.1s ease;
+      transition: all 0.2s ease;
     }
-    .meme-btn:active { transform: scale(0.95); }
-    #status-msg { font-size: 0.85rem; color: var(--accent-color); margin-top: 15px; min-height: 20px; word-break: break-all; }
 
-    /* Stile per il nuovo pulsantino quiz in basso */
+    .meme-btn:hover {
+      background: rgba(255, 255, 255, 0.08);
+      border-color: var(--accent-color);
+    }
+
+    .meme-btn:active { 
+      transform: scale(0.95); 
+    }
+
+    #status-msg { 
+      font-size: 0.85rem; 
+      color: var(--accent-color); 
+      margin-top: 15px; 
+      min-height: 20px; 
+      word-break: break-all;
+      font-weight: 500;
+    }
+
+    /* Pulsantino del quiz in basso stile pillola */
     .quiz-pill-btn {
       display: inline-flex;
       align-items: center;
-      gap: 6px;
+      gap: 8px;
       background: var(--card-bg);
+      backdrop-filter: blur(10px);
       color: var(--text-main);
-      padding: 8px 18px;
-      border-radius: 20px;
-      font-size: 0.85rem;
+      padding: 10px 20px;
+      border-radius: 30px;
+      font-size: 0.9rem;
       font-weight: bold;
       text-decoration: none;
       border: 1px solid var(--border-color);
-      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-      margin-top: 20px;
-      transition: transform 0.1s ease, border-color 0.3s ease;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+      margin-top: 22px;
+      transition: all 0.2s ease;
     }
-    .quiz-pill-btn:active { transform: scale(0.96); }
+
+    .quiz-pill-btn:hover {
+      border-color: var(--accent-color);
+      transform: translateY(-2px);
+    }
+
+    .quiz-pill-btn:active { 
+      transform: scale(0.96); 
+    }
   </style>
 
   <!-- OneSignal SDK -->
@@ -206,7 +293,7 @@
       const m = mesi[oggi.getMonth()];
       const btn = document.getElementById('btn-almanacco');
       if (btn) {
-        btn.innerText = `🗓️ Almanacco di Oggi (${g} ${m})`;
+        btn.innerHTML = `🗓️ Almanacco di Oggi (${g} ${m})`;
       }
     }
 
@@ -247,7 +334,6 @@
       if (localStorage.getItem('theme') === 'pink') document.body.classList.add('pink-theme');
       aggiornaTestoPulsante();
 
-      // Legge la streak salvata e la mostra nel pulsantino in basso
       const streak = localStorage.getItem('almanacco_streak') || '0';
       const streakEl = document.getElementById('streak-number');
       if (streakEl) streakEl.textContent = streak;
@@ -257,15 +343,17 @@
 <body>
 
   <div class="card">
+    <div class="icon-badge">✨</div>
     <h1 id="titolo">Caricamento...</h1>
     <p id="spiegazione">Sto leggendo la curiosità del giorno...</p>
 
-    <button id="btn-almanacco" class="btn btn-calendar" onclick="vaiAdAlmanacco()">🗓️ Almanacco di Oggi</button>
-
-    <button class="btn" onclick="attivaNotifiche()">🔔 Abilita Notifiche Push</button>
-    <button class="btn btn-secondary" onclick="provaNotifica()">🧪 Prova Notifica</button>
-    <button class="btn btn-water" onclick="vaiAdIdratazione()" style="margin-top: 15px;">🍼 Ricordati di Bere (Idratazione)</button>
-    <button class="btn btn-secondary" onclick="cambiaTema()" style="margin-top: 10px;">🎨 Cambia Tema (Rosa/Blu)</button>
+    <div class="btn-group">
+      <button id="btn-almanacco" class="btn btn-calendar" onclick="vaiAdAlmanacco()">🗓️ Almanacco di Oggi</button>
+      <button class="btn" onclick="attivaNotifiche()">🔔 Abilita Notifiche Push</button>
+      <button class="btn btn-secondary" onclick="provaNotifica()">🧪 Prova Notifica</button>
+      <button class="btn btn-water" onclick="vaiAdIdratazione()">🍼 Ricordati di Bere</button>
+      <button class="btn btn-secondary" onclick="cambiaTema()">🎨 Cambia Tema (Rosa/Blu)</button>
+    </div>
 
     <div class="reactions">
       <button class="meme-btn" onclick="reazioneMeme('mindblown')">🤯 Mind Blown</button>
@@ -274,9 +362,9 @@
     <div id="status-msg"></div>
   </div>
 
-  <!-- Pulsantino piccolo del Quiz posizionato sotto la card -->
+  <!-- Pulsantino del Quiz in basso -->
   <a href="quiz.html" class="quiz-pill-btn">
-    🧠 Quiz <span id="streak-display">🔥 <span id="streak-number">0</span></span>
+    🧠 Quiz Giornaliero <span id="streak-display">🔥 <span id="streak-number">0</span></span>
   </a>
 
   <script>
