@@ -137,18 +137,17 @@
 
       async function caricaQuiz() {
           try {
-              // Legge il file JSON principale o un file apposito. 
-              // Qui facciamo riferimento a curiosita.json (puoi metterci dentro una chiave "quiz" con le domande).
-              const response = await fetch('curiosita.json?nocache=' + new Date().getTime());
+              // Legge direttamente dal file quiz.json generato da GitHub Actions
+              const response = await fetch('quiz.json?nocache=' + new Date().getTime());
               const data = await response.json();
 
-              if (data.quiz && Array.isArray(data.quiz)) {
-                  quizArray = data.quiz;
+              if (data.domande && Array.isArray(data.domande)) {
+                  quizArray = data.domande;
                   quizTitle.textContent = "Quiz di Cultura Generale";
                   mostraDomanda();
               } else {
                   quizTitle.textContent = "Oops!";
-                  quizQuestion.textContent = "Nessuna domanda trovata nel sistema. Aggiorna il file JSON di generazione.";
+                  quizQuestion.textContent = "Nessuna domanda trovata nel file quiz.json.";
               }
           } catch (e) {
               quizTitle.textContent = "Errore";
@@ -180,7 +179,7 @@
           const buttons = quizOptions.querySelectorAll('.quiz-option-btn');
           buttons.forEach(b => b.disabled = true);
 
-          if (scelta === correta) {
+          if (scelta === corretta) {
               btn.classList.add('correct');
               score++;
           } else {
