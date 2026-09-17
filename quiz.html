@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz di Cultura Generale</title>
+  <style>
+    :root {
+      --bg-color: #0f172a;
+      --card-bg: #1e293b;
+      --border-color: #334155;
+      --text-main: #f8fafc;
+      --text-sub: #cbd5e1;
+      --accent-color: #38bdf8;
+      --btn-bg: #0284c7;
+      --btn-active: #0369a1;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-main);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+
+    .card {
+      background-color: var(--card-bg);
+      padding: 25px;
+      border-radius: 20px;
+      max-width: 480px;
+      width: 100%;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+      border: 1px solid var(--border-color);
+      text-align: center;
+    }
+
+    h1 { font-size: 1.3rem; color: var(--accent-color); margin-top: 0; }
+    
+    .streak-badge {
+      font-size: 1.1rem;
+      background: rgba(255, 140, 0, 0.15);
+      color: #ff9900;
+      padding: 6px 14px;
+      border-radius: 15px;
+      display: inline-block;
+      margin-bottom: 20px;
+      font-weight: bold;
+      border: 1px solid rgba(255, 140, 0, 0.3);
+    }
+
+    #quiz-question { font-size: 1.05rem; line-height: 1.5; color: var(--text-main); margin-bottom: 20px; }
+
+    .quiz-option-btn {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid var(--border-color);
+      color: var(--text-sub);
+      padding: 12px 15px;
+      width: 100%;
+      margin: 8px 0;
+      border-radius: 10px;
+      cursor: pointer;
+      font-size: 0.95rem;
+      transition: all 0.2s;
+      text-align: left;
+    }
+
+    .quiz-option-btn:hover:not(:disabled) { background: rgba(255,255,255,0.1); color: var(--text-main); border-color: var(--accent-color); }
+    .quiz-option-btn.correct { background: #166534 !important; border-color: #22c55e !important; color: white !important; }
+    .quiz-option-btn.wrong { background: #991b1b !important; border-color: #ef4444 !important; color: white !important; }
+
+    .btn-back {
+      background: transparent;
+      border: 1px solid var(--border-color);
+      color: var(--text-sub);
+      padding: 10px 20px;
+      border-radius: 10px;
+      cursor: pointer;
+      margin-top: 20px;
+      width: 100%;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="card">
+    <div class="streak-badge">Streak: <span id="streak-number">0</span> 🔥</div>
+    <div id="quiz-container">
+      <h1 id="quiz-title">Caricamento Quiz...</h1>
+      <div id="quiz-question"></div>
+      <div id="quiz-options"></div>
+    </div>
+    <button class="btn-back" onclick="window.location.href='index.html'">🔙 Torna alla Home</button>
+  </div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const quizQuestion = document.getElementById('quiz-question');
+      const quizOptions = document.getElementById('quiz-options');
+      const quizTitle = document.getElementById('quiz-title');
+      const streakNumber = document.getElementById('streak-number');
+
+      let streak = parseInt(localStorage.getItem('almanacco_streak') || '0');
+      let lastCompletionDate = localStorage.getItem('almanacco_last_date');
+      let todayStr = new Date().toISOString().split('T')[0];
+
+      let quizArray = [];
+      let currentIndex = 0;
+      let score = 0;
+
+      // Gestione fiammella: se salta un giorno si azzera
+      if (lastCompletionDate && lastCompletionDate !== todayStr) {
+          let yesterday = new Date();
+          yesterday.setDate(yesterday.getDate() - 1);
+          let yesterdayStr = yesterday.toISOString().split('T')[0];
+          if (lastCompletionDate !== yesterdayStr) {
+              streak = 0;
+              localStorage.setItem('almanacco_streak', streak);
+          }
+      }
+      streakNumber.textContent = streak;
+
+      // Se ha già completato il quiz oggi
+      if (localStorage.getItem('almanacco_quiz_done') === todayStr) {
+          quizTitle.textContent = "✅ Quiz già completato oggi!";
+          quizQuestion.textContent = "Hai già fatto il tuo quiz giornaliero. Torna domani per mantenere la fiammella accesa!";
+          return;
+      }
+
+      caricaQuiz();
+
+      async function caricaQuiz() {
+          try {
+              // Legge il file JSON principale o un file apposito. 
+              // Qui facciamo riferimento a curiosita.json (puoi metterci dentro una chiave "quiz" con le domande).
+              const response = await fetch('curiosita.json?nocache=' + new Date().getTime());
+              const data = await response.json();
+
+              if (data.quiz && Array.isArray(data.quiz)) {
+                  quizArray = data.quiz;
+                  quizTitle.textContent = "Quiz di Cultura Generale";
+                  mostraDomanda();
+              } else {
+                  quizTitle.textContent = "Oops!";
+                  quizQuestion.textContent = "Nessuna domanda trovata nel sistema. Aggiorna il file JSON di generazione.";
+              }
+          } catch (e) {
+              quizTitle.textContent = "Errore";
+              quizQuestion.textContent = "Impossibile caricare le domande del quiz.";
+          }
+      }
+
+      function mostraDomanda() {
+          quizOptions.innerHTML = '';
+          if (currentIndex >= quizArray.length) {
+              terminaQuiz();
+              return;
+          }
+
+          const q = quizArray[currentIndex];
+          quizTitle.textContent = `Domanda ${currentIndex + 1} di ${quizArray.length}`;
+          quizQuestion.textContent = q.domanda;
+
+          q.opzioni.forEach(opzione => {
+              const btn = document.createElement('button');
+              btn.className = 'quiz-option-btn';
+              btn.textContent = opzione;
+              btn.onclick = () => seleziona(btn, opzione, q.risposta_corretta);
+              quizOptions.appendChild(btn);
+          });
+      }
+
+      function seleziona(btn, scelta, corretta) {
+          const buttons = quizOptions.querySelectorAll('.quiz-option-btn');
+          buttons.forEach(b => b.disabled = true);
+
+          if (scelta === correta) {
+              btn.classList.add('correct');
+              score++;
+          } else {
+              btn.classList.add('wrong');
+              buttons.forEach(b => {
+                  if (b.textContent === corretta) b.classList.add('correct');
+              });
+          }
+
+          setTimeout(() => {
+              currentIndex++;
+              mostraDomanda();
+          }, 1300);
+      }
+
+      function terminaQuiz() {
+          quizTitle.textContent = "🎉 Ottimo lavoro!";
+          quizQuestion.innerHTML = `Hai risposto correttamente a <b>${score} su ${quizArray.length}</b> domande.`;
+          
+          // Segna come completato oggi e aumenta la streak
+          localStorage.setItem('almanacco_quiz_done', todayStr);
+          localStorage.setItem('almanacco_last_date', todayStr);
+          
+          streak++;
+          localStorage.setItem('almanacco_streak', streak);
+          streakNumber.textContent = streak;
+      }
+    });
+  </script>
+</body>
+</html>
