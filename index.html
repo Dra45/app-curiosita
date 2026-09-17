@@ -177,8 +177,7 @@
 
     .reactions {
       display: flex;
-      justify-content: center;
-      gap: 12px;
+      gap: 10px;
       margin-top: 22px;
       padding-top: 18px;
       border-top: 1px solid var(--border-color);
@@ -188,12 +187,13 @@
       background: var(--meme-btn-bg);
       border: 1px solid var(--border-color);
       border-radius: 12px;
-      padding: 9px 18px;
+      padding: 11px 16px;
       color: var(--text-main);
       font-size: 0.85rem;
       font-weight: 500;
       cursor: pointer;
       transition: all 0.2s ease;
+      flex: 1;
     }
 
     .meme-btn:hover {
@@ -242,7 +242,7 @@
     }
   </style>
 
-  <!-- Script immediato per pre-caricare il tema prima del render della pagina (Evita flash bianchi) -->
+  <!-- Script immediato per pre-caricare il tema prima del render della pagina -->
   <script>
     if (localStorage.getItem('theme') === 'pink') {
       document.documentElement.classList.add('pink-theme');
@@ -296,7 +296,6 @@
           alert("Prima premi 'Abilita Notifiche Push' e consenti i permessi!");
           return;
         }
-        
         msg.innerText = "🚀 Segnale inviato! La notifica apparirà a breve sullo schermo.";
       });
     }
@@ -330,20 +329,18 @@
       localStorage.setItem('theme', document.body.classList.contains('pink-theme') ? 'pink' : 'blue');
     }
 
-    function reazioneMeme(tipo) {
+    function condividiContenuto() {
       const msg = document.getElementById('status-msg');
-      if (tipo === 'mindblown') msg.innerText = "🤯 Cervello esploso!";
-      if (tipo === 'share') {
-        if (navigator.share) {
-          navigator.share({
-            title: 'Curiosità del giorno',
-            text: document.getElementById('titolo').innerText + " - " + document.getElementById('spiegazione').innerText,
-            url: window.location.href
-          });
-        } else {
-          navigator.clipboard.writeText(document.getElementById('titolo').innerText + ": " + document.getElementById('spiegazione').innerText);
-          msg.innerText = "📋 Copiato negli appunti!";
-        }
+      if (navigator.share) {
+        navigator.share({
+          title: 'Curiosità del giorno',
+          text: document.getElementById('titolo').innerText + " - " + document.getElementById('spiegazione').innerText,
+          url: window.location.href
+        }).catch(() => {});
+      } else {
+        navigator.clipboard.writeText(document.getElementById('titolo').innerText + ": " + document.getElementById('spiegazione').innerText);
+        msg.innerText = "📋 Copiato negli appunti!";
+        setTimeout(() => { msg.innerText = ""; }, 3000);
       }
     }
 
@@ -369,14 +366,13 @@
     <div class="btn-group">
       <button id="btn-almanacco" class="btn btn-calendar" onclick="vaiAdAlmanacco()">🗓️ Almanacco di Oggi</button>
       <button class="btn" onclick="attivaNotifiche()">🔔 Abilita Notifiche Push</button>
-      <button class="btn btn-secondary" onclick="provaNotifica()">🧪 Prova Notifica</button>
       <button class="btn btn-water" onclick="vaiAdIdratazione()">🍼 Ricordati di Bere</button>
       <button class="btn btn-secondary" onclick="cambiaTema()">🎨 Cambia Tema (Rosa/Blu)</button>
     </div>
 
     <div class="reactions">
-      <button class="meme-btn" onclick="reazioneMeme('mindblown')">🤯 Mind Blown</button>
-      <button class="meme-btn" onclick="reazioneMeme('share')">📲 Condividi</button>
+      <button class="meme-btn" onclick="provaNotifica()">🧪 Prova Notifica</button>
+      <button class="meme-btn" onclick="condividiContenuto()">📲 Condividi</button>
     </div>
     <div id="status-msg"></div>
   </div>
