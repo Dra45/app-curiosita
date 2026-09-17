@@ -50,13 +50,13 @@
     ]
   },
   "09-17": {
-    "santo": "San Roberto Bellarmino, cardinale, vescovo e dottore della Chiesa, noto per i suoi scritti teologici e apologetici; si ricorda anche l'Impressione delle Stimmate di San Francesco d'Assisi.",
-    "ricorrenze": "Giornata Mondiale per la Sicurezza dei Pazienti (promossa dall'OMS)",
+    "santo": "San Roberto Bellarmino, cardinale gesuita e dottore della Chiesa, e Santa Ildegarda di Bingen, badessa benedettina e mistica tedesca.",
+    "ricorrenze": "Giornata Mondiale della Sicurezza del Paziente (promossa dall'OMS)",
     "storia": [
-      "1787 - A Philadelphia viene firmata la Costituzione degli Stati Uniti d'America",
-      "1862 - Si combatte la battaglia di Antietam, il giorno più sanguinoso della guerra di secessione americana",
-      "1978 - Vengono firmati gli Accordi di Camp David per la pace tra Egitto e Israele",
-      "1991 - Linus Torvalds rilascia su Internet la prima versione (0.01) del kernel Linux"
+      "1787 - Viene firmata la Costituzione degli Stati Uniti d'America durante la Convenzione di Philadelphia.",
+      "1862 - Si combatte la battaglia di Antietam, il giorno più sanguinoso della storia militare statunitense nella guerra di secessione.",
+      "1978 - Vengono firmati gli Accordi di Camp David per la pace tra Egitto e Israele.",
+      "1991 - Linus Torvalds pubblica la prima versione (0.01) del kernel Linux."
     ]
   }
 }
