@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "In quale anno è caduto il Muro di Berlino?",
+      "domanda": "Quale di questi conflitti storici fu scatenato nel 1925 da un incidente di frontiera originato dall'inseguimento di un cane da guardia sfuggito al suo padrone?",
       "opzioni": [
-        "1987",
-        "1989",
-        "1991",
-        "1993"
+        "La guerra del cane randagio",
+        "La guerra del maiale",
+        "La guerra del calcio",
+        "La guerra della secchia rapita"
       ],
-      "risposta_corretta": "1989"
+      "risposta_corretta": "La guerra del cane randagio"
     },
     {
-      "domanda": "Qual è l'elemento chimico rappresentato dal simbolo 'Au' nella tavola periodica?",
+      "domanda": "Da quale piccolo villaggio svedese prendono il nome ben quattro elementi chimici della tavola periodica (Ittrio, Terbio, Erbio, Itterbio) estratti dalla sua cava locale?",
       "opzioni": [
-        "Argento",
-        "Oro",
-        "Alluminio",
-        "Arsenico"
+        "Kiruna",
+        "Ytterby",
+        "Uppsala",
+        "Abisko"
       ],
-      "risposta_corretta": "Oro"
+      "risposta_corretta": "Ytterby"
     },
     {
-      "domanda": "Qual è la capitale federale dell'Australia?",
+      "domanda": "In quale cittadina europea situata tra Paesi Bassi e Belgio si trova uno dei più complessi sistemi al mondo di enclave ed exclave sovrapposte tra i due stati?",
       "opzioni": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Brisbane"
+        "Baarle",
+        "Llivia",
+        "Büsingen",
+        "Campione d'Italia"
       ],
-      "risposta_corretta": "Canberra"
+      "risposta_corretta": "Baarle"
     },
     {
-      "domanda": "Chi ha dipinto il celebre quadro 'La ragazza con l'orecchino di perla'?",
+      "domanda": "Quale pigmento pittorico, in voga tra i pittori europei e in particolare tra i Pre-Raffaelliti fino al XIX secolo, veniva prodotto macinando letteralmente resti di mummie umane?",
       "opzioni": [
-        "Vincent van Gogh",
-        "Johannes Vermeer",
-        "Rembrandt",
-        "Leonardo da Vinci"
+        "Marrone di mummia",
+        "Nero d'avorio",
+        "Terra di Siena bruciata",
+        "Rosso cinabro"
       ],
-      "risposta_corretta": "Johannes Vermeer"
+      "risposta_corretta": "Marrone di mummia"
     },
     {
-      "domanda": "Quale linguaggio di programmazione è stato ideato da Guido van Rossum nel 1991?",
+      "domanda": "Per quale scopo fu inventata e attivata nel 1991 la primissima webcam della storia presso la Computer Laboratory dell'Università di Cambridge?",
       "opzioni": [
-        "Java",
-        "C++",
-        "Python",
-        "JavaScript"
+        "Controllare il livello di riempimento di una caffettiera",
+        "Monitorare l'accesso alla sala server durante la notte",
+        "Osservare l'incubazione di uova in un nido sul tetto",
+        "Tracciare il flusso di auto nel parcheggio dell'ateneo"
       ],
-      "risposta_corretta": "Python"
+      "risposta_corretta": "Controllare il livello di riempimento di una caffettiera"
     },
     {
-      "domanda": "Quale storico impero è stato governato dal sultano Solimano il Magnifico nel XVI secolo?",
+      "domanda": "Quale specie di medusa è in grado, se stressata o ammalata, di invertire il proprio ciclo biologico regredendo da medusa adulta a stadio di polipo, ottenendo un'immortalità biologica potenziale?",
       "opzioni": [
-        "Impero Bizantino",
-        "Impero Ottomano",
-        "Impero Persiano",
-        "Impero Mongolo"
+        "Turritopsis dohrnii",
+        "Aurelia aurita",
+        "Chironex fleckeri",
+        "Pelagia noctiluca"
       ],
-      "risposta_corretta": "Impero Ottomano"
+      "risposta_corretta": "Turritopsis dohrnii"
     }
   ]
 }
