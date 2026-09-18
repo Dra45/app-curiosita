@@ -9,7 +9,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Fondamentale per permettere al bot di fare il commit e il push automatico
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Generate Curiosity with Gemini
+      - name: Generate Curiosity with Gemini 3.6 Flash
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
@@ -36,14 +36,13 @@ jobs:
 
           async function main() {
             try {
-              // Usiamo un alias stabile e sicuro per evitare errori di versione del modello
-              const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-flash:generateContent?key=${apiKey}`, {
+              const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent?key=${apiKey}`, {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({
                   contents: [{ parts: [{ text: prompt }] }],
                   generationConfig: {
-                    responseMimeType: "application/json" // Forza l API a restituire JSON puro
+                    responseMimeType: "application/json"
                   }
                 })
               });
@@ -55,15 +54,12 @@ jobs:
               }
 
               let text = data.candidates[0].content.parts[0].text;
-              
-              // Pulizia di sicurezza avanzata in caso l intelligenza artificiale includa markdown
               text = text.replace(/```json/gi, "").replace(/```/g, "").trim();
               
-              // Validazione preliminare per assicurarci che sia un JSON corretto prima di scriverlo
               JSON.parse(text);
 
               fs.writeFileSync("curiosita.json", text);
-              console.log("Curiosità casuale dettagliata generata con successo!");
+              console.log("Curiosità generata con successo tramite Gemini 3.6 Flash!");
             } catch (err) {
               console.error("Errore durante la generazione o parsing del JSON:", err);
               process.exit(1);
@@ -77,4 +73,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add curiosita.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Aggiornamento automatico curiosità giornaliera" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Aggiornamento automatico con Gemini 3.6 Flash" && git push)
