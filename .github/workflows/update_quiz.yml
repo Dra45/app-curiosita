@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '0 6 * * *' # Si attiva tutti i giorni alle 06:00 UTC
   workflow_dispatch: # Permette anche di avviarlo manualmente da GitHub
+  push:
+    branches:
+      - main # Opzionale: riattiva il timer ogni volta che fai un push sul branch principale
 
 jobs:
   update-quiz:
@@ -32,5 +35,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add quiz.json
+          # Se per qualche motivo il contenuto è identico, aggiungiamo un timestamp invisibile per forzare il commit
+          # Questo impedisce a GitHub di considerare il repository "inattivo" e bloccare il cron
+          git diff --quiet && git diff --staged --quiet || echo "/* Aggiornato il $(date) */" >> quiz.json
           git commit -m "🤖 Aggiornamento automatico Quiz del giorno [skip ci]" || echo "Nessuna modifica da committare"
           git push
