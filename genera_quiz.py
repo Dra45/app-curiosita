@@ -1,11 +1,14 @@
 import os
 import json
 from google import genai
+from google.genai import types
 
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 
+# Aggiungiamo un elemento casuale basato sul timestamp o una richiesta esplicita di massima variabilità
 prompt = """
-Genera esattamente 6 domande di cultura generale di vario livello (storia, scienza, geografia, arte, tecnologia) a risposta multipla (4 opzioni ciascuna).
+Genera esattamente 6 domande di cultura generale di vario livello (storia, scienza, geografia, arte, tecnologia) a risposta multipla (4 opzioni ciascuna). 
+IMPORTANTE: Scegli argomenti sempre nuovi, unici e completamente diversi dai quiz standard, variando drasticamente i temi.
 RISPONDI ESCLUSIVAMENTE IN FORMATO JSON VALIDO, senza blocchi di codice markdown (niente ```json ... ```), rispettando esattamente questa struttura:
 {
   "domande": [
@@ -19,9 +22,13 @@ RISPONDI ESCLUSIVAMENTE IN FORMATO JSON VALIDO, senza blocchi di codice markdown
 """
 
 try:
+    # Impostiamo la temperatura alta (1.0) per garantire massima creatività e varietà giornaliera
     response = client.models.generate_content(
         model='gemini-3.6-flash',
-        contents=prompt
+        contents=prompt,
+        config=types.GenerateContentConfig(
+            temperature=1.0,
+        )
     )
     
     raw_text = response.text.strip()
