@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale conflitto, iniziato nel 1651 e dimenticato senza che venisse sparato un solo colpo, è stato ufficialmente concluso con un trattato di pace solo nel 1986?",
+      "domanda": "Quale bizzarro evento storico causò una tensione militare con lo schieramento di truppe tra Stati Uniti e Regno Unito nel 1859 presso l'isola di San Juan?",
       "opzioni": [
-        "La guerra dei 335 anni tra Olanda e le Isole Scilly",
-        "La guerra del maiale tra Stati Uniti e Regno Unito",
-        "La guerra della secchia rapita tra Modena e Bologna",
-        "La guerra del whisky tra Danimarca e Canada"
+        "L'uccisione di un maiale",
+        "Il furto di un carico di tè",
+        "La disputa su un cane da caccia",
+        "Il naufragio accidentale di una baleniera"
       ],
-      "risposta_corretta": "La guerra dei 335 anni tra Olanda e le Isole Scilly"
+      "risposta_corretta": "L'uccisione di un maiale"
     },
     {
-      "domanda": "Quale piccolo villaggio svedese nei pressi di Stoccolma detiene il record mondiale per aver dato il nome a ben quattro elementi chimici della tavola periodica?",
+      "domanda": "Come si chiama il fenomeno controintuitivo per cui, in certe condizioni, l'acqua calda può congelare più rapidamente dell'acqua fredda?",
       "opzioni": [
-        "Ytterby",
-        "Kiruna",
-        "Abisko",
-        "Uppsala"
+        "Effetto Mpemba",
+        "Effetto Leidenfrost",
+        "Effetto Meissner",
+        "Effetto Cherenkov"
       ],
-      "risposta_corretta": "Ytterby"
+      "risposta_corretta": "Effetto Mpemba"
     },
     {
-      "domanda": "Quale isola fluviale sul fiume Bidasoa cambia sovranità ogni sei mesi, venendo amministrata alternativamente da Spagna e Francia dal 1659?",
+      "domanda": "Quale piccolo isolotto fluviale situato sul fiume Bidasoa alterna la propria sovranità tra Francia e Spagna ogni sei mesi?",
       "opzioni": [
-        "Isola dei Fagiani",
-        "Isola di San Giulio",
-        "Isola di Alborán",
-        "Isola di Mainau"
+        "L'Isola dei Fagiani",
+        "L'Isola Lavezzi",
+        "L'Isola di Alborán",
+        "L'Isola di Pheasant"
       ],
-      "risposta_corretta": "Isola dei Fagiani"
+      "risposta_corretta": "L'Isola dei Fagiani"
     },
     {
-      "domanda": "Quale pigmento pittorico, molto in voga tra il XVIII e il XIX secolo e amato dai Preraffaelliti, veniva prodotto macinando veri resti di mummie umane ed egizie?",
+      "domanda": "Quale macabro ingrediente veniva effettivamente impiegato dai pittori europei nel XIX secolo per produrre il pigmento noto come 'Mummy Brown'?",
       "opzioni": [
-        "Marrone mummia",
-        "Giallo indiano",
-        "Rosso cinabro",
-        "Verde terra"
+        "Mummie umane e feline tritate",
+        "Terracotta polverizzata della Valle dei Re",
+        "Caffè fermentato mischiato a catrame",
+        "Ceneri di papiri egizi bruciati"
       ],
-      "risposta_corretta": "Marrone mummia"
+      "risposta_corretta": "Mummie umane e feline tritate"
     },
     {
-      "domanda": "Il nome e il logo della tecnologia di trasmissione dati 'Bluetooth' sono un omaggio diretto a un sovrano del X secolo famoso per aver unificato le tribù di quale regione?",
+      "domanda": "Quale scopo molto pratico aveva la prima webcam della storia, installata nel 1991 presso la Trojan Room dell'Università di Cambridge?",
       "opzioni": [
-        "Scandinavia",
-        "Britannia",
-        "Iberia",
-        "Polinesia"
+        "Controllare il livello di una caffettiera",
+        "Monitorare l'accesso alla sala server",
+        "Osservare l'evoluzione di una reazione chimica",
+        "Verificare la disponibilità della stampante di rete"
       ],
-      "risposta_corretta": "Scandinavia"
+      "risposta_corretta": "Controllare il livello di una caffettiera"
     },
     {
-      "domanda": "Chi suggerì per primo al fratello scrittore la parola 'Robot' (derivata dal ceco per 'lavoro forzato') per indicare gli esseri artificiali nell'opera teatrale R.U.R. del 1920?",
+      "domanda": "Quale leggendaria pianta dell'antichità greco-romana, estesamente usata come spezia e contraccettivo, si estinse definitivamente nel I secolo d.C. a causa dell'eccessivo sfruttamento?",
       "opzioni": [
-        "Josef Čapek",
-        "Isaac Asimov",
-        "Stanisław Lem",
-        "Arthur C. Clarke"
+        "Il silfio",
+        "Il garum",
+        "Il nardo di Cirene",
+        "L'assenzio pontico"
       ],
-      "risposta_corretta": "Josef Čapek"
+      "risposta_corretta": "Il silfio"
     }
   ]
 }
