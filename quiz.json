@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale di questi conflitti storici fu scatenato nel 1925 da un incidente di frontiera originato dall'inseguimento di un cane da guardia sfuggito al suo padrone?",
+      "domanda": "Quale conflitto, iniziato nel 1651 e dimenticato senza che venisse sparato un solo colpo, è stato ufficialmente concluso con un trattato di pace solo nel 1986?",
       "opzioni": [
-        "La guerra del cane randagio",
-        "La guerra del maiale",
-        "La guerra del calcio",
-        "La guerra della secchia rapita"
+        "La guerra dei 335 anni tra Olanda e le Isole Scilly",
+        "La guerra del maiale tra Stati Uniti e Regno Unito",
+        "La guerra della secchia rapita tra Modena e Bologna",
+        "La guerra del whisky tra Danimarca e Canada"
       ],
-      "risposta_corretta": "La guerra del cane randagio"
+      "risposta_corretta": "La guerra dei 335 anni tra Olanda e le Isole Scilly"
     },
     {
-      "domanda": "Da quale piccolo villaggio svedese prendono il nome ben quattro elementi chimici della tavola periodica (Ittrio, Terbio, Erbio, Itterbio) estratti dalla sua cava locale?",
+      "domanda": "Quale piccolo villaggio svedese nei pressi di Stoccolma detiene il record mondiale per aver dato il nome a ben quattro elementi chimici della tavola periodica?",
       "opzioni": [
-        "Kiruna",
         "Ytterby",
-        "Uppsala",
-        "Abisko"
+        "Kiruna",
+        "Abisko",
+        "Uppsala"
       ],
       "risposta_corretta": "Ytterby"
     },
     {
-      "domanda": "In quale cittadina europea situata tra Paesi Bassi e Belgio si trova uno dei più complessi sistemi al mondo di enclave ed exclave sovrapposte tra i due stati?",
+      "domanda": "Quale isola fluviale sul fiume Bidasoa cambia sovranità ogni sei mesi, venendo amministrata alternativamente da Spagna e Francia dal 1659?",
       "opzioni": [
-        "Baarle",
-        "Llivia",
-        "Büsingen",
-        "Campione d'Italia"
+        "Isola dei Fagiani",
+        "Isola di San Giulio",
+        "Isola di Alborán",
+        "Isola di Mainau"
       ],
-      "risposta_corretta": "Baarle"
+      "risposta_corretta": "Isola dei Fagiani"
     },
     {
-      "domanda": "Quale pigmento pittorico, in voga tra i pittori europei e in particolare tra i Pre-Raffaelliti fino al XIX secolo, veniva prodotto macinando letteralmente resti di mummie umane?",
+      "domanda": "Quale pigmento pittorico, molto in voga tra il XVIII e il XIX secolo e amato dai Preraffaelliti, veniva prodotto macinando veri resti di mummie umane ed egizie?",
       "opzioni": [
-        "Marrone di mummia",
-        "Nero d'avorio",
-        "Terra di Siena bruciata",
-        "Rosso cinabro"
+        "Marrone mummia",
+        "Giallo indiano",
+        "Rosso cinabro",
+        "Verde terra"
       ],
-      "risposta_corretta": "Marrone di mummia"
+      "risposta_corretta": "Marrone mummia"
     },
     {
-      "domanda": "Per quale scopo fu inventata e attivata nel 1991 la primissima webcam della storia presso la Computer Laboratory dell'Università di Cambridge?",
+      "domanda": "Il nome e il logo della tecnologia di trasmissione dati 'Bluetooth' sono un omaggio diretto a un sovrano del X secolo famoso per aver unificato le tribù di quale regione?",
       "opzioni": [
-        "Controllare il livello di riempimento di una caffettiera",
-        "Monitorare l'accesso alla sala server durante la notte",
-        "Osservare l'incubazione di uova in un nido sul tetto",
-        "Tracciare il flusso di auto nel parcheggio dell'ateneo"
+        "Scandinavia",
+        "Britannia",
+        "Iberia",
+        "Polinesia"
       ],
-      "risposta_corretta": "Controllare il livello di riempimento di una caffettiera"
+      "risposta_corretta": "Scandinavia"
     },
     {
-      "domanda": "Quale specie di medusa è in grado, se stressata o ammalata, di invertire il proprio ciclo biologico regredendo da medusa adulta a stadio di polipo, ottenendo un'immortalità biologica potenziale?",
+      "domanda": "Chi suggerì per primo al fratello scrittore la parola 'Robot' (derivata dal ceco per 'lavoro forzato') per indicare gli esseri artificiali nell'opera teatrale R.U.R. del 1920?",
       "opzioni": [
-        "Turritopsis dohrnii",
-        "Aurelia aurita",
-        "Chironex fleckeri",
-        "Pelagia noctiluca"
+        "Josef Čapek",
+        "Isaac Asimov",
+        "Stanisław Lem",
+        "Arthur C. Clarke"
       ],
-      "risposta_corretta": "Turritopsis dohrnii"
+      "risposta_corretta": "Josef Čapek"
     }
   ]
 }
