@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale insolito disastro industriale colpì la città di Boston nel gennaio del 1919, causando la morte di 21 persone?",
+      "domanda": "Quale animale provocò una disputa di confine con rischio di guerra tra Stati Uniti e Regno Unito nel 1859 presso l'isola di San Juan?",
       "opzioni": [
-        "Un'esplosione in un deposito di munizioni",
-        "Un'ondata gigantesca di melassa calda",
-        "L'incendio di una fabbrica di fiammiferi",
-        "Una fuga di gas velenoso dalla metropolitana"
+        "Un maiale",
+        "Un tacchino",
+        "Un cavallo",
+        "Una pecora"
       ],
-      "risposta_corretta": "Un'ondata gigantesca di melassa calda"
+      "risposta_corretta": "Un maiale"
     },
     {
-      "domanda": "Quale tra i seguenti animali è noto per essere l'unico mammifero al mondo a produrre feci di forma cubica?",
+      "domanda": "Quale tra questi animali è l'unico noto in natura per produrre feci a forma di cubo?",
       "opzioni": [
-        "Capibara",
-        "Vombato",
-        "Pangolino",
-        "Oritteropo"
+        "Il vombato",
+        "Il bradipo",
+        "L'oritteropo",
+        "Il capibara"
       ],
-      "risposta_corretta": "Vombato"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Come viene chiamato il punto dell'Oceano Pacifico più distante da qualsiasi terra emersa, spesso utilizzato come cimitero per i veicoli spaziali?",
+      "domanda": "Che cos'è esattamente il 'Punto Nemo', situato nell'Oceano Pacifico meridionale?",
       "opzioni": [
-        "Fossa delle Marianne",
-        "Punto Nemo",
-        "Abisso di Challenger",
-        "Isola di Bouvet"
+        "Il punto oceanico più lontano da qualsiasi terra emersa",
+        "La fossa marina più profonda della Terra",
+        "L'unica barriera corallina visibile dallo spazio",
+        "L'isola vulcanica emersa più recentemente"
       ],
-      "risposta_corretta": "Punto Nemo"
+      "risposta_corretta": "Il punto oceanico più lontano da qualsiasi terra emersa"
     },
     {
-      "domanda": "Nel 2016, quale artista contemporaneo ha suscitato enormi polemiche per aver acquistato i diritti artistici esclusivi dell'uso del 'Vantablack', la sostanza più nera mai creata?",
+      "domanda": "Fino ai primi del '900, da cosa era composto principalmente il pigmento pittorico noto come 'Marrone Mummia'?",
       "opzioni": [
-        "Damien Hirst",
-        "Anish Kapoor",
-        "Banksy",
-        "Jeff Koons"
+        "Resti umani e felini mummificati polverizzati",
+        "Legno di conifera fossile e resine",
+        "Sangue essiccato di capodoglio",
+        "Cenere vulcanica e terra d'ombra"
       ],
-      "risposta_corretta": "Anish Kapoor"
+      "risposta_corretta": "Resti umani e felini mummificati polverizzati"
     },
     {
-      "domanda": "Per quale scopo pratico ed insolito fu inventata nel 1991 la prima webcam della storia presso l'Università di Cambridge?",
+      "domanda": "Qual era la funzione della prima webcam della storia, creata nel 1991 all'Università di Cambridge?",
       "opzioni": [
-        "Controllare se la caffettiera del laboratorio era piena",
-        "Monitorare la crescita di un esperimento biologico",
-        "Sorvegliare l'ingresso dell'edificio di notte",
-        "Osservare il traffico automobilistico sulla strada adiacente"
+        "Controllare se la caffettiera della stanza del personale era piena",
+        "Monitorare l'affluenza di studenti nella biblioteca centrale",
+        "Sorvegliare un esperimento di fisica quantistica a basse temperature",
+        "Inviare immagini meteo in tempo reale sul sito dell'università"
       ],
-      "risposta_corretta": "Controllare se la caffettiera del laboratorio era piena"
+      "risposta_corretta": "Controllare se la caffettiera della stanza del personale era piena"
     },
     {
-      "domanda": "Il meccanismo di Anticitera, un reperto dell'antica Grecia risalente al I secolo a.C., è considerato il più antico esempio conosciuto di quale tecnologia?",
+      "domanda": "Considerando tutti i suoi territori d'oltremare, quale Paese possiede il maggior numero di fusi orari al mondo (12 complessivi)?",
       "opzioni": [
-        "Bussola magnetica",
-        "Orologio ad acqua",
-        "Calcolatore analogico",
-        "Telescopio rifrattore"
+        "Francia",
+        "Russia",
+        "Stati Uniti",
+        "Regno Unito"
       ],
-      "risposta_corretta": "Calcolatore analogico"
+      "risposta_corretta": "Francia"
     }
   ]
 }
