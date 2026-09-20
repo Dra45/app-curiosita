@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale bizzarro evento storico causò una tensione militare con lo schieramento di truppe tra Stati Uniti e Regno Unito nel 1859 presso l'isola di San Juan?",
+      "domanda": "Quale insolito disastro industriale colpì la città di Boston nel gennaio del 1919, causando la morte di 21 persone?",
       "opzioni": [
-        "L'uccisione di un maiale",
-        "Il furto di un carico di tè",
-        "La disputa su un cane da caccia",
-        "Il naufragio accidentale di una baleniera"
+        "Un'esplosione in un deposito di munizioni",
+        "Un'ondata gigantesca di melassa calda",
+        "L'incendio di una fabbrica di fiammiferi",
+        "Una fuga di gas velenoso dalla metropolitana"
       ],
-      "risposta_corretta": "L'uccisione di un maiale"
+      "risposta_corretta": "Un'ondata gigantesca di melassa calda"
     },
     {
-      "domanda": "Come si chiama il fenomeno controintuitivo per cui, in certe condizioni, l'acqua calda può congelare più rapidamente dell'acqua fredda?",
+      "domanda": "Quale tra i seguenti animali è noto per essere l'unico mammifero al mondo a produrre feci di forma cubica?",
       "opzioni": [
-        "Effetto Mpemba",
-        "Effetto Leidenfrost",
-        "Effetto Meissner",
-        "Effetto Cherenkov"
+        "Capibara",
+        "Vombato",
+        "Pangolino",
+        "Oritteropo"
       ],
-      "risposta_corretta": "Effetto Mpemba"
+      "risposta_corretta": "Vombato"
     },
     {
-      "domanda": "Quale piccolo isolotto fluviale situato sul fiume Bidasoa alterna la propria sovranità tra Francia e Spagna ogni sei mesi?",
+      "domanda": "Come viene chiamato il punto dell'Oceano Pacifico più distante da qualsiasi terra emersa, spesso utilizzato come cimitero per i veicoli spaziali?",
       "opzioni": [
-        "L'Isola dei Fagiani",
-        "L'Isola Lavezzi",
-        "L'Isola di Alborán",
-        "L'Isola di Pheasant"
+        "Fossa delle Marianne",
+        "Punto Nemo",
+        "Abisso di Challenger",
+        "Isola di Bouvet"
       ],
-      "risposta_corretta": "L'Isola dei Fagiani"
+      "risposta_corretta": "Punto Nemo"
     },
     {
-      "domanda": "Quale macabro ingrediente veniva effettivamente impiegato dai pittori europei nel XIX secolo per produrre il pigmento noto come 'Mummy Brown'?",
+      "domanda": "Nel 2016, quale artista contemporaneo ha suscitato enormi polemiche per aver acquistato i diritti artistici esclusivi dell'uso del 'Vantablack', la sostanza più nera mai creata?",
       "opzioni": [
-        "Mummie umane e feline tritate",
-        "Terracotta polverizzata della Valle dei Re",
-        "Caffè fermentato mischiato a catrame",
-        "Ceneri di papiri egizi bruciati"
+        "Damien Hirst",
+        "Anish Kapoor",
+        "Banksy",
+        "Jeff Koons"
       ],
-      "risposta_corretta": "Mummie umane e feline tritate"
+      "risposta_corretta": "Anish Kapoor"
     },
     {
-      "domanda": "Quale scopo molto pratico aveva la prima webcam della storia, installata nel 1991 presso la Trojan Room dell'Università di Cambridge?",
+      "domanda": "Per quale scopo pratico ed insolito fu inventata nel 1991 la prima webcam della storia presso l'Università di Cambridge?",
       "opzioni": [
-        "Controllare il livello di una caffettiera",
-        "Monitorare l'accesso alla sala server",
-        "Osservare l'evoluzione di una reazione chimica",
-        "Verificare la disponibilità della stampante di rete"
+        "Controllare se la caffettiera del laboratorio era piena",
+        "Monitorare la crescita di un esperimento biologico",
+        "Sorvegliare l'ingresso dell'edificio di notte",
+        "Osservare il traffico automobilistico sulla strada adiacente"
       ],
-      "risposta_corretta": "Controllare il livello di una caffettiera"
+      "risposta_corretta": "Controllare se la caffettiera del laboratorio era piena"
     },
     {
-      "domanda": "Quale leggendaria pianta dell'antichità greco-romana, estesamente usata come spezia e contraccettivo, si estinse definitivamente nel I secolo d.C. a causa dell'eccessivo sfruttamento?",
+      "domanda": "Il meccanismo di Anticitera, un reperto dell'antica Grecia risalente al I secolo a.C., è considerato il più antico esempio conosciuto di quale tecnologia?",
       "opzioni": [
-        "Il silfio",
-        "Il garum",
-        "Il nardo di Cirene",
-        "L'assenzio pontico"
+        "Bussola magnetica",
+        "Orologio ad acqua",
+        "Calcolatore analogico",
+        "Telescopio rifrattore"
       ],
-      "risposta_corretta": "Il silfio"
+      "risposta_corretta": "Calcolatore analogico"
     }
   ]
 }
