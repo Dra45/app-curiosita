@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale animale provocò una disputa di confine con rischio di guerra tra Stati Uniti e Regno Unito nel 1859 presso l'isola di San Juan?",
+      "domanda": "Quale tragico e insolito incidente industriale colpì la città di Boston nel 1919, quando un enorme serbatoio cedette provocando un'onda gigante che viaggiò a quasi 50 km/h?",
       "opzioni": [
-        "Un maiale",
-        "Un tacchino",
-        "Un cavallo",
-        "Una pecora"
+        "Un'esplosione di melassa",
+        "Una fuoriuscita di birra",
+        "Un incendio di gomma liquida",
+        "Un crollo di barili di olio di balena"
       ],
-      "risposta_corretta": "Un maiale"
+      "risposta_corretta": "Un'esplosione di melassa"
     },
     {
-      "domanda": "Quale tra questi animali è l'unico noto in natura per produrre feci a forma di cubo?",
+      "domanda": "Come viene chiamato il fenomeno botanico per cui le chiome di alcuni alberi della stessa specie non si toccano mai tra loro, lasciando canali ben definiti visibili nel cielo?",
       "opzioni": [
-        "Il vombato",
-        "Il bradipo",
-        "L'oritteropo",
-        "Il capibara"
+        "Timidezza delle chiome",
+        "Inibizione radiale",
+        "Divergenza solare",
+        "Sindrome dell'ombra"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "Timidezza delle chiome"
     },
     {
-      "domanda": "Che cos'è esattamente il 'Punto Nemo', situato nell'Oceano Pacifico meridionale?",
+      "domanda": "Qual è il nome dell'area incontestata al confine tra Egitto e Sudan che costituisce uno dei pochissimi territori al mondo non rivendicati da alcun Paese (Terra Nullius)?",
       "opzioni": [
-        "Il punto oceanico più lontano da qualsiasi terra emersa",
-        "La fossa marina più profonda della Terra",
-        "L'unica barriera corallina visibile dallo spazio",
-        "L'isola vulcanica emersa più recentemente"
+        "Bir Tawil",
+        "Siwa",
+        "Hala'ib",
+        "Dakhla"
       ],
-      "risposta_corretta": "Il punto oceanico più lontano da qualsiasi terra emersa"
+      "risposta_corretta": "Bir Tawil"
     },
     {
-      "domanda": "Fino ai primi del '900, da cosa era composto principalmente il pigmento pittorico noto come 'Marrone Mummia'?",
+      "domanda": "Nel celebre affresco del 'Giudizio Universale' nella Cappella Sistina, in quale dettaglio Michelangelo ha nascosto un proprio angoscioso autoritratto?",
       "opzioni": [
-        "Resti umani e felini mummificati polverizzati",
-        "Legno di conifera fossile e resine",
-        "Sangue essiccato di capodoglio",
-        "Cenere vulcanica e terra d'ombra"
+        "Sulla pelle squoiata di San Bartolomeo",
+        "Sullo scudo di un angelo",
+        "Tra le pieghe del manto della Vergine",
+        "Sullo sfondo di una nuvola dell'inferno"
       ],
-      "risposta_corretta": "Resti umani e felini mummificati polverizzati"
+      "risposta_corretta": "Sulla pelle squoiata di San Bartolomeo"
     },
     {
-      "domanda": "Qual era la funzione della prima webcam della storia, creata nel 1991 all'Università di Cambridge?",
+      "domanda": "Nel 1947, la pioniera dell'informatica Grace Hopper rese celebre il termine 'bug' per indicare un errore software: quale animale rimosse fisicamente dai relè del computer Harvard Mark II?",
       "opzioni": [
-        "Controllare se la caffettiera della stanza del personale era piena",
-        "Monitorare l'affluenza di studenti nella biblioteca centrale",
-        "Sorvegliare un esperimento di fisica quantistica a basse temperature",
-        "Inviare immagini meteo in tempo reale sul sito dell'università"
+        "Una falena",
+        "Uno scarafaggio",
+        "Un topo di campagna",
+        "Un ragno"
       ],
-      "risposta_corretta": "Controllare se la caffettiera della stanza del personale era piena"
+      "risposta_corretta": "Una falena"
     },
     {
-      "domanda": "Considerando tutti i suoi territori d'oltremare, quale Paese possiede il maggior numero di fusi orari al mondo (12 complessivi)?",
+      "domanda": "Il 'flauto di Divje Babe', scoperto in Slovenia e considerato uno dei più antichi strumenti musicali della storia (attribuito ai Neanderthal), è stato ricavato da quale elemento?",
       "opzioni": [
-        "Francia",
-        "Russia",
-        "Stati Uniti",
-        "Regno Unito"
+        "Femore di orso delle caverne",
+        "Zanna di mammut",
+        "Umero di avoltore",
+        "Tibia di cervo gigante"
       ],
-      "risposta_corretta": "Francia"
+      "risposta_corretta": "Femore di orso delle caverne"
     }
   ]
 }
