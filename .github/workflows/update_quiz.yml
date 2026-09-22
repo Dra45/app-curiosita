@@ -2,17 +2,19 @@ name: Aggiorna Quiz Giornaliero
 
 on:
   schedule:
-    - cron: '0 6 * * *' # Si attiva tutti i giorni alle 06:00 UTC
-  workflow_dispatch: # Permette anche di avviarlo manualmente da GitHub
+    - cron: '0 6 * * *'  # Si attiva ogni giorno alle 06:00 UTC
+    - cron: '0 12 * * *' # Secondo controllo di sicurezza a mezzogiorno UTC (anti-fallimento)
+  workflow_dispatch:     # Permette l'avvio manuale se vuoi testarlo subito
   push:
     branches:
-      - main # Opzionale: riattiva il timer ogni volta che fai un push sul branch principale
+      - main
+      - master
 
 jobs:
   update-quiz:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Indispensabile per consentire al bot di fare commit e push
+      contents: write    # Fondamentale per dare i permessi di scrittura al bot
     steps:
       - name: Clona Repository
         uses: actions/checkout@v4
@@ -35,8 +37,14 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add quiz.json
-          # Se per qualche motivo il contenuto è identico, aggiungiamo un timestamp invisibile per forzare il commit
-          # Questo impedisce a GitHub di considerare il repository "inattivo" e bloccare il cron
-          git diff --quiet && git diff --staged --quiet || echo "/* Aggiornato il $(date) */" >> quiz.json
+          
+          # Se per qualsiasi motivo il file non ha variazioni, forza un timestamp invisibile 
+          # per impedire a GitHub di considerare il repo "morto" e spegnere i cron automatici
+          if git diff --staged --quiet; then
+            echo "Nessuna variazione rilevata, forzatura timestamp di riserva..."
+            echo "<!-- Aggiornato il $(date) -->" >> quiz.json
+            git add quiz.json
+          fi
+          
           git commit -m "🤖 Aggiornamento automatico Quiz del giorno [skip ci]" || echo "Nessuna modifica da committare"
           git push
