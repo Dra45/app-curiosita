@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "La cosiddetta 'Guerra del Maiale' (Pig War) del 1859 fu un curioso scontro di confine privo di vittime umane scoppiato tra quali due nazioni?",
+      "domanda": "Qual è stato il primissimo oggetto venduto su eBay (quando ancora si chiamava AuctionWeb) nel 1995?",
       "opzioni": [
-        "Stati Uniti e Regno Unito",
-        "Francia e Messico",
-        "Spagna e Portogallo",
-        "Germania e Danimarca"
+        "Una chitarra elettrica autografata",
+        "Un puntatore laser rotto",
+        "Una videocassetta di Star Wars",
+        "Un libro di cucina usato"
       ],
-      "risposta_corretta": "Stati Uniti e Regno Unito"
+      "risposta_corretta": "Un puntatore laser rotto"
     },
     {
-      "domanda": "In ambito scientifico, in cosa consiste il singolare 'Effetto Mpemba'?",
+      "domanda": "Nel celebre film 'The Matrix', da cosa è composto in realtà l'iconico 'codice verde' che scorre sullo schermo?",
       "opzioni": [
-        "L'acqua calda può congelare più velocemente di quella fredda in determinate condizioni",
-        "Il suono viaggia più velocemente nel ghiaccio rispetto al vapore acqueo",
-        "Un metallo fuso galleggia sopra il proprio stato solido",
-        "I gas nobili diventano liquidi a temperatura ambiente se sottoposti a forti campi magnetici"
+        "Codici di lancio nucleari sovietici",
+        "Equazioni matematiche di fisica quantistica",
+        "Poesie d'amore in lingua esperanto",
+        "Ricette di sushi giapponese"
       ],
-      "risposta_corretta": "L'acqua calda può congelare più velocemente di quella fredda in determinate condizioni"
+      "risposta_corretta": "Ricette di sushi giapponese"
     },
     {
-      "domanda": "Che cos'è 'Point Nemo', situato nell'Oceano Pacifico meridionale?",
+      "domanda": "Quale tra questi animali produce naturalmente feci a forma di cubo per evitare che rotolino via e delimitate meglio il territorio?",
       "opzioni": [
-        "Il punto della Terra più lontano da qualsiasi terra emersa",
-        "La fossa marina più profonda del pianeta dopo quella delle Marianne",
-        "L'isola vulcanica di più recente formazione della Terra",
-        "Il punto esatto in cui si incrociano tutti i fusi orari oceanici"
+        "Il vombato",
+        "Il koala",
+        "Il diavolo della Tasmania",
+        "L'ornitorinco"
       ],
-      "risposta_corretta": "Il punto della Terra più lontano da qualsiasi terra emersa"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Quale artista svedese è oggi riconosciuta per aver dipinto opere completamente astratte prima ancora dei celebri lavori di Kandinsky e Mondrian?",
+      "domanda": "Nel tentativo di spingere i bambini a mangiare più verdura, quale famosa catena di fast food ha testato i broccoli al gusto di gomma da masticare?",
       "opzioni": [
-        "Hilma af Klint",
-        "Sigrid Hjertén",
-        "Sofia Adlersparre",
-        "Hanna Hirsch-Pauli"
+        "Burger King",
+        "KFC",
+        "Subway",
+        "McDonald's"
       ],
-      "risposta_corretta": "Hilma af Klint"
+      "risposta_corretta": "McDonald's"
     },
     {
-      "domanda": "Qual è stato il primissimo nome di dominio commerciale (.com) registrato nella storia di Internet, il 15 marzo 1985?",
+      "domanda": "Il ponte internazionale più corto del mondo misura poco più di 3 metri e collega un minuscolo villaggio del Portogallo con quale altro Stato?",
       "opzioni": [
-        "Symbolics.com",
-        "IBM.com",
-        "Apple.com",
-        "Xerox.com"
+        "Spagna",
+        "Andorra",
+        "Regno Unito (Gibilterra)",
+        "Francia"
       ],
-      "risposta_corretta": "Symbolics.com"
+      "risposta_corretta": "Spagna"
     },
     {
-      "domanda": "Il 'Silbo Gomero', patrimonio immateriale dell'umanità dell'isola di La Gomera (Canarie), è una forma di comunicazione basata interamente su cosa?",
+      "domanda": "Come è stato creato l'inconfondibile suono della spada laser nel film Star Wars del 1977?",
       "opzioni": [
-        "Fischi articolati usati per comunicare attraverso i burroni",
-        "Rulli di tamburo codificati a frequenza variabile",
-        "Segnali luminosi ottenuti con specchi e luce solare",
-        "Un linguaggio gestuale sviluppato dai pescatori locali"
+        "Unendo il ronzio di un vecchio televisore a tubo catodico e il motore di un proiettore",
+        "Campionando il rombo di una Ferrari d'epoca",
+        "Registrando un aspirapolvere al rallentatore",
+        "Soffiando con un microfono all'interno di un tubo da giardinaggio"
       ],
-      "risposta_corretta": "Fischi articolati usati per comunicare attraverso i burroni"
+      "risposta_corretta": "Unendo il ronzio di un vecchio televisore a tubo catodico e il motore di un proiettore"
     }
   ]
 }
