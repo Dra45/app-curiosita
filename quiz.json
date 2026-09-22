@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale tragico e insolito incidente industriale colpì la città di Boston nel 1919, quando un enorme serbatoio cedette provocando un'onda gigante che viaggiò a quasi 50 km/h?",
+      "domanda": "La cosiddetta 'Guerra del Maiale' (Pig War) del 1859 fu un curioso scontro di confine privo di vittime umane scoppiato tra quali due nazioni?",
       "opzioni": [
-        "Un'esplosione di melassa",
-        "Una fuoriuscita di birra",
-        "Un incendio di gomma liquida",
-        "Un crollo di barili di olio di balena"
+        "Stati Uniti e Regno Unito",
+        "Francia e Messico",
+        "Spagna e Portogallo",
+        "Germania e Danimarca"
       ],
-      "risposta_corretta": "Un'esplosione di melassa"
+      "risposta_corretta": "Stati Uniti e Regno Unito"
     },
     {
-      "domanda": "Come viene chiamato il fenomeno botanico per cui le chiome di alcuni alberi della stessa specie non si toccano mai tra loro, lasciando canali ben definiti visibili nel cielo?",
+      "domanda": "In ambito scientifico, in cosa consiste il singolare 'Effetto Mpemba'?",
       "opzioni": [
-        "Timidezza delle chiome",
-        "Inibizione radiale",
-        "Divergenza solare",
-        "Sindrome dell'ombra"
+        "L'acqua calda può congelare più velocemente di quella fredda in determinate condizioni",
+        "Il suono viaggia più velocemente nel ghiaccio rispetto al vapore acqueo",
+        "Un metallo fuso galleggia sopra il proprio stato solido",
+        "I gas nobili diventano liquidi a temperatura ambiente se sottoposti a forti campi magnetici"
       ],
-      "risposta_corretta": "Timidezza delle chiome"
+      "risposta_corretta": "L'acqua calda può congelare più velocemente di quella fredda in determinate condizioni"
     },
     {
-      "domanda": "Qual è il nome dell'area incontestata al confine tra Egitto e Sudan che costituisce uno dei pochissimi territori al mondo non rivendicati da alcun Paese (Terra Nullius)?",
+      "domanda": "Che cos'è 'Point Nemo', situato nell'Oceano Pacifico meridionale?",
       "opzioni": [
-        "Bir Tawil",
-        "Siwa",
-        "Hala'ib",
-        "Dakhla"
+        "Il punto della Terra più lontano da qualsiasi terra emersa",
+        "La fossa marina più profonda del pianeta dopo quella delle Marianne",
+        "L'isola vulcanica di più recente formazione della Terra",
+        "Il punto esatto in cui si incrociano tutti i fusi orari oceanici"
       ],
-      "risposta_corretta": "Bir Tawil"
+      "risposta_corretta": "Il punto della Terra più lontano da qualsiasi terra emersa"
     },
     {
-      "domanda": "Nel celebre affresco del 'Giudizio Universale' nella Cappella Sistina, in quale dettaglio Michelangelo ha nascosto un proprio angoscioso autoritratto?",
+      "domanda": "Quale artista svedese è oggi riconosciuta per aver dipinto opere completamente astratte prima ancora dei celebri lavori di Kandinsky e Mondrian?",
       "opzioni": [
-        "Sulla pelle squoiata di San Bartolomeo",
-        "Sullo scudo di un angelo",
-        "Tra le pieghe del manto della Vergine",
-        "Sullo sfondo di una nuvola dell'inferno"
+        "Hilma af Klint",
+        "Sigrid Hjertén",
+        "Sofia Adlersparre",
+        "Hanna Hirsch-Pauli"
       ],
-      "risposta_corretta": "Sulla pelle squoiata di San Bartolomeo"
+      "risposta_corretta": "Hilma af Klint"
     },
     {
-      "domanda": "Nel 1947, la pioniera dell'informatica Grace Hopper rese celebre il termine 'bug' per indicare un errore software: quale animale rimosse fisicamente dai relè del computer Harvard Mark II?",
+      "domanda": "Qual è stato il primissimo nome di dominio commerciale (.com) registrato nella storia di Internet, il 15 marzo 1985?",
       "opzioni": [
-        "Una falena",
-        "Uno scarafaggio",
-        "Un topo di campagna",
-        "Un ragno"
+        "Symbolics.com",
+        "IBM.com",
+        "Apple.com",
+        "Xerox.com"
       ],
-      "risposta_corretta": "Una falena"
+      "risposta_corretta": "Symbolics.com"
     },
     {
-      "domanda": "Il 'flauto di Divje Babe', scoperto in Slovenia e considerato uno dei più antichi strumenti musicali della storia (attribuito ai Neanderthal), è stato ricavato da quale elemento?",
+      "domanda": "Il 'Silbo Gomero', patrimonio immateriale dell'umanità dell'isola di La Gomera (Canarie), è una forma di comunicazione basata interamente su cosa?",
       "opzioni": [
-        "Femore di orso delle caverne",
-        "Zanna di mammut",
-        "Umero di avoltore",
-        "Tibia di cervo gigante"
+        "Fischi articolati usati per comunicare attraverso i burroni",
+        "Rulli di tamburo codificati a frequenza variabile",
+        "Segnali luminosi ottenuti con specchi e luce solare",
+        "Un linguaggio gestuale sviluppato dai pescatori locali"
       ],
-      "risposta_corretta": "Femore di orso delle caverne"
+      "risposta_corretta": "Fischi articolati usati per comunicare attraverso i burroni"
     }
   ]
 }
