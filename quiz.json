@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è stato il primissimo oggetto venduto su eBay (quando ancora si chiamava AuctionWeb) nel 1995?",
+      "domanda": "Quale famosissima funzionalità social è nata su Snapchat nel 2013 prima di essere adottata da Instagram, Facebook e WhatsApp?",
       "opzioni": [
-        "Una chitarra elettrica autografata",
-        "Un puntatore laser rotto",
-        "Una videocassetta di Star Wars",
-        "Un libro di cucina usato"
+        "I messaggi vocali",
+        "I filtri geografici",
+        "Le Storie (Stories)",
+        "Le reazioni con le emoji"
       ],
-      "risposta_corretta": "Un puntatore laser rotto"
+      "risposta_corretta": "Le Storie (Stories)"
     },
     {
-      "domanda": "Nel celebre film 'The Matrix', da cosa è composto in realtà l'iconico 'codice verde' che scorre sullo schermo?",
-      "opzioni": [
-        "Codici di lancio nucleari sovietici",
-        "Equazioni matematiche di fisica quantistica",
-        "Poesie d'amore in lingua esperanto",
-        "Ricette di sushi giapponese"
-      ],
-      "risposta_corretta": "Ricette di sushi giapponese"
-    },
-    {
-      "domanda": "Quale tra questi animali produce naturalmente feci a forma di cubo per evitare che rotolino via e delimitate meglio il territorio?",
+      "domanda": "Qual è l'unico animale conosciuto al mondo in grado di produrre feci a forma di cubo?",
       "opzioni": [
         "Il vombato",
         "Il koala",
-        "Il diavolo della Tasmania",
-        "L'ornitorinco"
+        "L'ornitorinco",
+        "Il diavolo della Tasmania"
       ],
       "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Nel tentativo di spingere i bambini a mangiare più verdura, quale famosa catena di fast food ha testato i broccoli al gusto di gomma da masticare?",
+      "domanda": "Da cosa è composto in realtà l'iconico 'codice verde' a cascata che scorre all'inizio del film Matrix?",
       "opzioni": [
-        "Burger King",
-        "KFC",
-        "Subway",
-        "McDonald's"
+        "Da poesie tradizionali cinesi convertite in binario",
+        "Da ricette di sushi scansionate da un libro di cucina giapponese",
+        "Da righe di codice del primo sistema operativo Windows",
+        "Da formule matematiche della NASA"
       ],
-      "risposta_corretta": "McDonald's"
+      "risposta_corretta": "Da ricette di sushi scansionate da un libro di cucina giapponese"
     },
     {
-      "domanda": "Il ponte internazionale più corto del mondo misura poco più di 3 metri e collega un minuscolo villaggio del Portogallo con quale altro Stato?",
+      "domanda": "Nel 1932, l'esercito australiano ha combattuto una bizzarra 'guerra' ufficiale (finita persino con la vittoria degli animali!) contro quale specie?",
       "opzioni": [
-        "Spagna",
-        "Andorra",
-        "Regno Unito (Gibilterra)",
-        "Francia"
+        "I coccodrilli",
+        "I canguri",
+        "I dingo",
+        "Gli emù"
       ],
-      "risposta_corretta": "Spagna"
+      "risposta_corretta": "Gli emù"
     },
     {
-      "domanda": "Come è stato creato l'inconfondibile suono della spada laser nel film Star Wars del 1977?",
+      "domanda": "Quale Paese detiene il record mondiale per il maggior numero di fusi orari (ben 12), considerando tutti i suoi territori d'oltremare?",
       "opzioni": [
-        "Unendo il ronzio di un vecchio televisore a tubo catodico e il motore di un proiettore",
-        "Campionando il rombo di una Ferrari d'epoca",
-        "Registrando un aspirapolvere al rallentatore",
-        "Soffiando con un microfono all'interno di un tubo da giardinaggio"
+        "Gli Stati Uniti",
+        "La Russia",
+        "La Francia",
+        "Il Regno Unito"
       ],
-      "risposta_corretta": "Unendo il ronzio di un vecchio televisore a tubo catodico e il motore di un proiettore"
+      "risposta_corretta": "La Francia"
+    },
+    {
+      "domanda": "La celebre attrice hollywoodiana Hedy Lamarr fu anche un'inventrice geniale: le sue scoperte hanno gettato le basi per quale tecnologia odierna?",
+      "opzioni": [
+        "Il forno a microonde",
+        "Lo schermo touch screen",
+        "La fotografia a colori",
+        "Il Wi-Fi e il Bluetooth"
+      ],
+      "risposta_corretta": "Il Wi-Fi e il Bluetooth"
     }
   ]
 }
