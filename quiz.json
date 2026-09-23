@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale famosissima funzionalità social è nata su Snapchat nel 2013 prima di essere adottata da Instagram, Facebook e WhatsApp?",
+      "domanda": "Qual è l'unico mammifero al mondo capace di un volo battuto e controllato, e non di un semplice planaggio?",
       "opzioni": [
-        "I messaggi vocali",
-        "I filtri geografici",
-        "Le Storie (Stories)",
-        "Le reazioni con le emoji"
+        "Il pipistrello",
+        "Il lemure volante",
+        "Lo scoiattolo volante",
+        "Il petauro dello zucchero"
       ],
-      "risposta_corretta": "Le Storie (Stories)"
+      "risposta_corretta": "Il pipistrello"
     },
     {
-      "domanda": "Qual è l'unico animale conosciuto al mondo in grado di produrre feci a forma di cubo?",
+      "domanda": "Nel film 'Jurassic Park' (1993), come è stato creato il terrificante verso emesso dai Velociraptor per comunicare tra loro?",
       "opzioni": [
-        "Il vombato",
-        "Il koala",
-        "L'ornitorinco",
-        "Il diavolo della Tasmania"
+        "Registrando i leoni marini",
+        "Mixando ruggiti di tigre e delfini",
+        "Elaborando il verso dei coccodrilli",
+        "Registrando tartarughe durante l'accoppiamento"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "Registrando tartarughe durante l'accoppiamento"
     },
     {
-      "domanda": "Da cosa è composto in realtà l'iconico 'codice verde' a cascata che scorre all'inizio del film Matrix?",
+      "domanda": "Quale Stato al mondo possiede sul suo territorio più della metà di tutti i laghi naturali del pianeta?",
       "opzioni": [
-        "Da poesie tradizionali cinesi convertite in binario",
-        "Da ricette di sushi scansionate da un libro di cucina giapponese",
-        "Da righe di codice del primo sistema operativo Windows",
-        "Da formule matematiche della NASA"
-      ],
-      "risposta_corretta": "Da ricette di sushi scansionate da un libro di cucina giapponese"
-    },
-    {
-      "domanda": "Nel 1932, l'esercito australiano ha combattuto una bizzarra 'guerra' ufficiale (finita persino con la vittoria degli animali!) contro quale specie?",
-      "opzioni": [
-        "I coccodrilli",
-        "I canguri",
-        "I dingo",
-        "Gli emù"
-      ],
-      "risposta_corretta": "Gli emù"
-    },
-    {
-      "domanda": "Quale Paese detiene il record mondiale per il maggior numero di fusi orari (ben 12), considerando tutti i suoi territori d'oltremare?",
-      "opzioni": [
-        "Gli Stati Uniti",
         "La Russia",
-        "La Francia",
-        "Il Regno Unito"
+        "La Finlandia",
+        "Il Canada",
+        "Il Brasile"
       ],
-      "risposta_corretta": "La Francia"
+      "risposta_corretta": "Il Canada"
     },
     {
-      "domanda": "La celebre attrice hollywoodiana Hedy Lamarr fu anche un'inventrice geniale: le sue scoperte hanno gettato le basi per quale tecnologia odierna?",
+      "domanda": "Nel 1994 è avvenuta la prima transazione commerciale sicura e crittografata su Internet della storia. Che cosa è stato acquistato?",
       "opzioni": [
-        "Il forno a microonde",
-        "Lo schermo touch screen",
-        "La fotografia a colori",
-        "Il Wi-Fi e il Bluetooth"
+        "Un videogioco per PC",
+        "Un libro di ricette",
+        "Un CD musicale di Sting",
+        "Una pizza margherita"
       ],
-      "risposta_corretta": "Il Wi-Fi e il Bluetooth"
+      "risposta_corretta": "Un CD musicale di Sting"
+    },
+    {
+      "domanda": "Nel 1932 l'esercito di quale Paese ingaggiò una vera e propria 'guerra' ufficiale contro migliaia di volatili (finendo clamorosamente per perdere)?",
+      "opzioni": [
+        "I canguri in Sudafrica",
+        "I conigli in Nuova Zelanda",
+        "I dingo in Argentina",
+        "Gli emù in Australia"
+      ],
+      "risposta_corretta": "Gli emù in Australia"
+    },
+    {
+      "domanda": "Le celebri patatine Pringles hanno una caratteristica forma a 'sella' studiata per non rompersi nelle scatole. Come si chiama questa forma geometrica?",
+      "opzioni": [
+        "Cilindro ellittico",
+        "Toroide sferico",
+        "Iperboloide simmetrico",
+        "Paraboloide iperbolico"
+      ],
+      "risposta_corretta": "Paraboloide iperbolico"
     }
   ]
 }
