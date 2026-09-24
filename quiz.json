@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è l'unico mammifero al mondo capace di un volo battuto e controllato, e non di un semplice planaggio?",
+      "domanda": "Nel celebre film 'Matrix', l'iconico codice verde a cascata che scorre sugli schermi è composto da caratteri giapponesi. Cosa rappresentano in realtà quei simboli?",
       "opzioni": [
-        "Il pipistrello",
-        "Il lemure volante",
-        "Lo scoiattolo volante",
-        "Il petauro dello zucchero"
+        "Formule chimiche di farmaci ansiolitici",
+        "Ricette di sushi tradotte in giapponese",
+        "Sequenze casuali di numeri e lettere ebraiche",
+        "Pagine del codice sorgente di Linux"
       ],
-      "risposta_corretta": "Il pipistrello"
+      "risposta_corretta": "Ricette di sushi tradotte in giapponese"
     },
     {
-      "domanda": "Nel film 'Jurassic Park' (1993), come è stato creato il terrificante verso emesso dai Velociraptor per comunicare tra loro?",
+      "domanda": "In quale nazione si trova l'unica capitale al mondo ad avere un confine geografico diretto con ben due Stati esteri differenti?",
       "opzioni": [
-        "Registrando i leoni marini",
-        "Mixando ruggiti di tigre e delfini",
-        "Elaborando il verso dei coccodrilli",
-        "Registrando tartarughe durante l'accoppiamento"
+        "Lussemburgo (Lussemburgo)",
+        "Austria (Vienna)",
+        "Svizzera (Berna)",
+        "Slovacchia (Bratislava)"
       ],
-      "risposta_corretta": "Registrando tartarughe durante l'accoppiamento"
+      "risposta_corretta": "Slovacchia (Bratislava)"
     },
     {
-      "domanda": "Quale Stato al mondo possiede sul suo territorio più della metà di tutti i laghi naturali del pianeta?",
+      "domanda": "Quale di questi animali produce feci a forma di cubo perfetto, una caratteristica unica che impedisce al loro escremento di rotolare via dal territorio che vogliono marcare?",
       "opzioni": [
-        "La Russia",
-        "La Finlandia",
-        "Il Canada",
-        "Il Brasile"
+        "Il Vombato",
+        "Il Koala",
+        "Il Diavolo della Tasmania",
+        "L'Ornitorinco"
       ],
-      "risposta_corretta": "Il Canada"
+      "risposta_corretta": "Il Vombato"
     },
     {
-      "domanda": "Nel 1994 è avvenuta la prima transazione commerciale sicura e crittografata su Internet della storia. Che cosa è stato acquistato?",
+      "domanda": "L'iconico suono della spada laser di Star Wars è stato creato quasi per caso dal sound designer Ben Burtt usando una combinazione di:",
       "opzioni": [
-        "Un videogioco per PC",
-        "Un libro di ricette",
-        "Un CD musicale di Sting",
-        "Una pizza margherita"
+        "Il ronzio di un vecchio proiettore combinato con l'interferenza di un televisore",
+        "L'eco di una chitarra elettrica distorta registrata in un lungo corridoio",
+        "Un microfono fatto oscillare velocemente davanti a una ventola industriale",
+        "Il rumore di un motore d'aereo al minimo mescolato con le fusa di un gatto"
       ],
-      "risposta_corretta": "Un CD musicale di Sting"
+      "risposta_corretta": "Il ronzio di un vecchio proiettore combinato con l'interferenza di un televisore"
     },
     {
-      "domanda": "Nel 1932 l'esercito di quale Paese ingaggiò una vera e propria 'guerra' ufficiale contro migliaia di volatili (finendo clamorosamente per perdere)?",
+      "domanda": "Prima di diventare la bevanda gassata più famosa del mondo, per quale scopo principale fu inventata la Coca-Cola nel 1886 dal farmacista John Pemberton?",
       "opzioni": [
-        "I canguri in Sudafrica",
-        "I conigli in Nuova Zelanda",
-        "I dingo in Argentina",
-        "Gli emù in Australia"
+        "Come rimedio brevettato contro il mal di testa e la stanchezza",
+        "Come carburante di emergenza per le lampade a cherosene",
+        "Come sciroppo pediatrico per lenire la tosse",
+        "Come detergente universale per lucidare i metalli"
       ],
-      "risposta_corretta": "Gli emù in Australia"
+      "risposta_corretta": "Come rimedio brevettato contro il mal di testa e la stanchezza"
     },
     {
-      "domanda": "Le celebri patatine Pringles hanno una caratteristica forma a 'sella' studiata per non rompersi nelle scatole. Come si chiama questa forma geometrica?",
+      "domanda": "Intitolato 'Me at the zoo', qual è il contenuto del primissimo video in assoluto caricato su YouTube nell'aprile del 2005?",
       "opzioni": [
-        "Cilindro ellittico",
-        "Toroide sferico",
-        "Iperboloide simmetrico",
-        "Paraboloide iperbolico"
+        "Un co-fondatore del sito davanti al recinto degli elefanti allo zoo",
+        "Un breve test audio-video di 5 secondi in uno studio",
+        "Un ragazzo che esegue un trucco memorabile sullo skateboard",
+        "Un gatto domestico che tenta di suonare un piccolo pianoforte"
       ],
-      "risposta_corretta": "Paraboloide iperbolico"
+      "risposta_corretta": "Un co-fondatore del sito davanti al recinto degli elefanti allo zoo"
     }
   ]
 }
