@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Nel celebre film 'Matrix', l'iconico codice verde a cascata che scorre sugli schermi è composto da caratteri giapponesi. Cosa rappresentano in realtà quei simboli?",
+      "domanda": "Quale di questi animali è famoso per produrre un latte di un caratteristico colore rosa?",
       "opzioni": [
-        "Formule chimiche di farmaci ansiolitici",
-        "Ricette di sushi tradotte in giapponese",
-        "Sequenze casuali di numeri e lettere ebraiche",
-        "Pagine del codice sorgente di Linux"
+        "L'ippopotamo",
+        "Il lamantino",
+        "Il rinoceronte",
+        "Il fenicottero"
       ],
-      "risposta_corretta": "Ricette di sushi tradotte in giapponese"
+      "risposta_corretta": "L'ippopotamo"
     },
     {
-      "domanda": "In quale nazione si trova l'unica capitale al mondo ad avere un confine geografico diretto con ben due Stati esteri differenti?",
+      "domanda": "Quale celebre attore ha rifiutato il ruolo di Neo nel film 'Matrix' per recitare nel fiasco cinematografico 'Wild Wild West'?",
       "opzioni": [
-        "Lussemburgo (Lussemburgo)",
-        "Austria (Vienna)",
-        "Svizzera (Berna)",
-        "Slovacchia (Bratislava)"
+        "Brad Pitt",
+        "Will Smith",
+        "Nicolas Cage",
+        "Tom Cruise"
       ],
-      "risposta_corretta": "Slovacchia (Bratislava)"
+      "risposta_corretta": "Will Smith"
     },
     {
-      "domanda": "Quale di questi animali produce feci a forma di cubo perfetto, una caratteristica unica che impedisce al loro escremento di rotolare via dal territorio che vogliono marcare?",
+      "domanda": "Qual era il nome originale del celebre motore di ricerca Google al momento della sua prima creazione nel 1996?",
       "opzioni": [
-        "Il Vombato",
-        "Il Koala",
-        "Il Diavolo della Tasmania",
-        "L'Ornitorinco"
+        "BackRub",
+        "WebSearch",
+        "PageRank",
+        "GoFind"
       ],
-      "risposta_corretta": "Il Vombato"
+      "risposta_corretta": "BackRub"
     },
     {
-      "domanda": "L'iconico suono della spada laser di Star Wars è stato creato quasi per caso dal sound designer Ben Burtt usando una combinazione di:",
+      "domanda": "Nel 1932, l'esercito australiano intraprese una bizzarra 'guerra' militare contro quale specie di animali, venendo paradossalmente sconfitto?",
       "opzioni": [
-        "Il ronzio di un vecchio proiettore combinato con l'interferenza di un televisore",
-        "L'eco di una chitarra elettrica distorta registrata in un lungo corridoio",
-        "Un microfono fatto oscillare velocemente davanti a una ventola industriale",
-        "Il rumore di un motore d'aereo al minimo mescolato con le fusa di un gatto"
+        "I conigli",
+        "I canguri",
+        "I dingo",
+        "Gli emù"
       ],
-      "risposta_corretta": "Il ronzio di un vecchio proiettore combinato con l'interferenza di un televisore"
+      "risposta_corretta": "Gli emù"
     },
     {
-      "domanda": "Prima di diventare la bevanda gassata più famosa del mondo, per quale scopo principale fu inventata la Coca-Cola nel 1886 dal farmacista John Pemberton?",
+      "domanda": "Qual è l'unico stato al mondo situato completamente al di sopra dei 1.000 metri di altitudine sul livello del mare?",
       "opzioni": [
-        "Come rimedio brevettato contro il mal di testa e la stanchezza",
-        "Come carburante di emergenza per le lampade a cherosene",
-        "Come sciroppo pediatrico per lenire la tosse",
-        "Come detergente universale per lucidare i metalli"
+        "Bolivia",
+        "Bhutan",
+        "Nepal",
+        "Lesotho"
       ],
-      "risposta_corretta": "Come rimedio brevettato contro il mal di testa e la stanchezza"
+      "risposta_corretta": "Lesotho"
     },
     {
-      "domanda": "Intitolato 'Me at the zoo', qual è il contenuto del primissimo video in assoluto caricato su YouTube nell'aprile del 2005?",
+      "domanda": "Quale famosa canzone è stata la prima in assoluto ad essere trasmessa dal canale televisivo MTV al suo lancio ufficiale nel 1981?",
       "opzioni": [
-        "Un co-fondatore del sito davanti al recinto degli elefanti allo zoo",
-        "Un breve test audio-video di 5 secondi in uno studio",
-        "Un ragazzo che esegue un trucco memorabile sullo skateboard",
-        "Un gatto domestico che tenta di suonare un piccolo pianoforte"
+        "\"Like a Virgin\" di Madonna",
+        "\"Video Killed the Radio Star\" dei Buggles",
+        "\"Thriller\" di Michael Jackson",
+        "\"Take on Me\" degli A-ha"
       ],
-      "risposta_corretta": "Un co-fondatore del sito davanti al recinto degli elefanti allo zoo"
+      "risposta_corretta": "\"Video Killed the Radio Star\" dei Buggles"
     }
   ]
 }
