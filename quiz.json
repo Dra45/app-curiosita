@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è l'unico animale conosciuto al mondo che produce feci di forma cubica?",
+      "domanda": "Qual è l'unico animale conosciuto al mondo in grado di produrre escrementi a forma di cubo perfetto?",
       "opzioni": [
-        "Ornitorinco",
         "Vombato",
-        "Koala",
+        "Diavolo della Tasmania",
+        "Lama",
         "Capibara"
       ],
       "risposta_corretta": "Vombato"
     },
     {
-      "domanda": "Come si chiama il celebre effetto sonoro di un urlo, riutilizzato come 'inside joke' in oltre 400 film tra cui Star Wars e Il Signore degli Anelli?",
+      "domanda": "Nel 1995 è nato eBay (all'epoca chiamato AuctionWeb). Qual è stato il primissimo oggetto in assoluto venduto sulla piattaforma?",
       "opzioni": [
-        "Urlo di Skywalker",
-        "Urlo di Wilhelm",
-        "Urlo di Tarzan",
-        "Urlo di Hollywood"
+        "Una sveglia usata",
+        "Una figurina di baseball rara",
+        "Un puntatore laser rotto",
+        "Un disco in vinile dei Beatles"
       ],
-      "risposta_corretta": "Urlo di Wilhelm"
+      "risposta_corretta": "Un puntatore laser rotto"
     },
     {
-      "domanda": "Cosa mostrava il primissimo video mai caricato su YouTube nell'aprile del 2005?",
+      "domanda": "Qual è la vera origine dell'iconico 'codice verde' a cascata che compare all'inizio del film Matrix?",
       "opzioni": [
-        "Due amici che cantano in macchina",
-        "Un test di animazione in 3D",
-        "Un ragazzo allo zoo davanti agli elefanti",
-        "Un gatto che suona il pianoforte"
+        "Sequenze reali del genoma umano",
+        "Spartiti di musica classica convertiti in binario",
+        "Ricette di sushi scansionate da un libro di cucina giapponese",
+        "Linee di codice di un vecchio sistema operativo IBM"
       ],
-      "risposta_corretta": "Un ragazzo allo zoo davanti agli elefanti"
+      "risposta_corretta": "Ricette di sushi scansionate da un libro di cucina giapponese"
     },
     {
-      "domanda": "Quale nazione possiede il maggior numero di fusi orari al mondo, tenendo conto dei suoi territori d'oltremare?",
+      "domanda": "Quale nazione al mondo possiede ufficialmente il maggior numero di fusi orari, contando anche tutti i suoi territori d'oltremare?",
       "opzioni": [
-        "Russia",
-        "Stati Uniti",
         "Francia",
-        "Cina"
+        "Cina",
+        "Stati Uniti",
+        "Russia"
       ],
       "risposta_corretta": "Francia"
     },
     {
-      "domanda": "Nel 1989, in cambio di una grande fornitura del suo prodotto, quale azienda ricevette dall'Unione Sovietica sottomarini e navi da guerra, diventando temporaneamente la 6ª potenza militare al mondo?",
+      "domanda": "Il pluriball (la famosa plastica con le bolle d'aria usata per gli imballaggi) fu inventato nel 1957. Per quale scopo originale era stato progettato?",
       "opzioni": [
-        "Red Bull",
-        "Coca-Cola",
-        "McDonald's",
-        "Pepsi"
+        "Isolante termico per tute spaziali",
+        "Imbottitura per caschi militari",
+        "Carta da parati tridimensionale",
+        "Superficie antiscivolo per piscine"
       ],
-      "risposta_corretta": "Pepsi"
+      "risposta_corretta": "Carta da parati tridimensionale"
     },
     {
-      "domanda": "Da dove deriva il nome della tecnologia wireless 'Bluetooth' che usiamo tutti i giorni?",
+      "domanda": "Nel 2001, una nota catena di fast food ha pagato circa un milione di dollari per consegnare una pizza direttamente agli astronauti sulla Stazione Spaziale Internazionale. Di quale marca si trattava?",
       "opzioni": [
-        "Dal nome del laboratorio di ricerca in cui fu creata",
-        "Da un acronimo di telecomunicazioni svedese",
-        "Dal colore del primo LED sperimentale",
-        "Da un re vichingo del X secolo"
+        "Domino's Pizza",
+        "Little Caesars",
+        "Pizza Hut",
+        "Papa John's"
       ],
-      "risposta_corretta": "Da un re vichingo del X secolo"
+      "risposta_corretta": "Pizza Hut"
     }
   ]
 }
