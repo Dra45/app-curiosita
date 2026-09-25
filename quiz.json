@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale di questi animali è famoso per produrre un latte di un caratteristico colore rosa?",
+      "domanda": "Qual è l'unico animale conosciuto al mondo che produce feci di forma cubica?",
       "opzioni": [
-        "L'ippopotamo",
-        "Il lamantino",
-        "Il rinoceronte",
-        "Il fenicottero"
+        "Ornitorinco",
+        "Vombato",
+        "Koala",
+        "Capibara"
       ],
-      "risposta_corretta": "L'ippopotamo"
+      "risposta_corretta": "Vombato"
     },
     {
-      "domanda": "Quale celebre attore ha rifiutato il ruolo di Neo nel film 'Matrix' per recitare nel fiasco cinematografico 'Wild Wild West'?",
+      "domanda": "Come si chiama il celebre effetto sonoro di un urlo, riutilizzato come 'inside joke' in oltre 400 film tra cui Star Wars e Il Signore degli Anelli?",
       "opzioni": [
-        "Brad Pitt",
-        "Will Smith",
-        "Nicolas Cage",
-        "Tom Cruise"
+        "Urlo di Skywalker",
+        "Urlo di Wilhelm",
+        "Urlo di Tarzan",
+        "Urlo di Hollywood"
       ],
-      "risposta_corretta": "Will Smith"
+      "risposta_corretta": "Urlo di Wilhelm"
     },
     {
-      "domanda": "Qual era il nome originale del celebre motore di ricerca Google al momento della sua prima creazione nel 1996?",
+      "domanda": "Cosa mostrava il primissimo video mai caricato su YouTube nell'aprile del 2005?",
       "opzioni": [
-        "BackRub",
-        "WebSearch",
-        "PageRank",
-        "GoFind"
+        "Due amici che cantano in macchina",
+        "Un test di animazione in 3D",
+        "Un ragazzo allo zoo davanti agli elefanti",
+        "Un gatto che suona il pianoforte"
       ],
-      "risposta_corretta": "BackRub"
+      "risposta_corretta": "Un ragazzo allo zoo davanti agli elefanti"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano intraprese una bizzarra 'guerra' militare contro quale specie di animali, venendo paradossalmente sconfitto?",
+      "domanda": "Quale nazione possiede il maggior numero di fusi orari al mondo, tenendo conto dei suoi territori d'oltremare?",
       "opzioni": [
-        "I conigli",
-        "I canguri",
-        "I dingo",
-        "Gli emù"
+        "Russia",
+        "Stati Uniti",
+        "Francia",
+        "Cina"
       ],
-      "risposta_corretta": "Gli emù"
+      "risposta_corretta": "Francia"
     },
     {
-      "domanda": "Qual è l'unico stato al mondo situato completamente al di sopra dei 1.000 metri di altitudine sul livello del mare?",
+      "domanda": "Nel 1989, in cambio di una grande fornitura del suo prodotto, quale azienda ricevette dall'Unione Sovietica sottomarini e navi da guerra, diventando temporaneamente la 6ª potenza militare al mondo?",
       "opzioni": [
-        "Bolivia",
-        "Bhutan",
-        "Nepal",
-        "Lesotho"
+        "Red Bull",
+        "Coca-Cola",
+        "McDonald's",
+        "Pepsi"
       ],
-      "risposta_corretta": "Lesotho"
+      "risposta_corretta": "Pepsi"
     },
     {
-      "domanda": "Quale famosa canzone è stata la prima in assoluto ad essere trasmessa dal canale televisivo MTV al suo lancio ufficiale nel 1981?",
+      "domanda": "Da dove deriva il nome della tecnologia wireless 'Bluetooth' che usiamo tutti i giorni?",
       "opzioni": [
-        "\"Like a Virgin\" di Madonna",
-        "\"Video Killed the Radio Star\" dei Buggles",
-        "\"Thriller\" di Michael Jackson",
-        "\"Take on Me\" degli A-ha"
+        "Dal nome del laboratorio di ricerca in cui fu creata",
+        "Da un acronimo di telecomunicazioni svedese",
+        "Dal colore del primo LED sperimentale",
+        "Da un re vichingo del X secolo"
       ],
-      "risposta_corretta": "\"Video Killed the Radio Star\" dei Buggles"
+      "risposta_corretta": "Da un re vichingo del X secolo"
     }
   ]
 }
