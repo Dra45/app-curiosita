@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è stato il primo film d'animazione nella storia del cinema a ricevere una candidatura agli Oscar nella categoria 'Miglior Film'?",
+      "domanda": "Qual è stato il primo video in assoluto caricato su YouTube nel 2005?",
       "opzioni": [
-        "Il Re Leone",
-        "La Bella e la Bestia",
-        "Toy Story - Il mondo dei giocattoli",
-        "Shrek"
+        "Un tutorial su come creare un sito web",
+        "Il co-fondatore Jawed Karim allo zoo di San Diego",
+        "Un video di un gatto che gioca con un gomitolo",
+        "Un videoclip musicale di una band emergente"
       ],
-      "risposta_corretta": "La Bella e la Bestia"
+      "risposta_corretta": "Il co-fondatore Jawed Karim allo zoo di San Diego"
     },
     {
-      "domanda": "Quale tra questi animali è unico al mondo per il fatto di produrre feci a forma di cubo?",
+      "domanda": "Quale tra questi animali è famoso per produrre feci di forma perfettamente cubica?",
       "opzioni": [
-        "Il diavolo della Tasmania",
-        "Il vombato",
+        "Il capibara",
         "Il pangolino",
-        "Il capibara"
+        "Il vombato",
+        "L'ornitorinco"
       ],
       "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Qual è il soggetto del primissimo video in assoluto caricato su YouTube nell'aprile del 2005?",
+      "domanda": "Perché la celebre bevanda 'Fanta' è stata creata originariamente in Germania negli anni '40?",
       "opzioni": [
-        "Un gatto che gioca con un gomitolo",
-        "Un ragazzo che suona la chitarra sul letto",
-        "Un co-fondatore del sito allo zoo davanti agli elefanti",
-        "Un breve test di animazione in 3D"
+        "Come razione energetica speciale per i soldati al fronte",
+        "Per smaltire un enorme surplus di produzione di arance",
+        "A causa dell'embargo che impediva l'importazione dello sciroppo della Coca-Cola",
+        "Per creare un'alternativa analcolica alla birra durante le feste"
       ],
-      "risposta_corretta": "Un co-fondatore del sito allo zoo davanti agli elefanti"
+      "risposta_corretta": "A causa dell'embargo che impediva l'importazione dello sciroppo della Coca-Cola"
     },
     {
-      "domanda": "In quale Paese si trova una vera e propria città chiamata ufficialmente 'Batman'?",
+      "domanda": "In quale Paese europeo le zanzare sono praticamente assenti a causa del clima e delle caratteristiche dell'ambiente?",
       "opzioni": [
-        "Stati Uniti",
-        "Regno Unito",
-        "Australia",
-        "Turchia"
+        "Irlanda",
+        "Islanda",
+        "Norvegia",
+        "Svizzera"
       ],
-      "risposta_corretta": "Turchia"
+      "risposta_corretta": "Islanda"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano intraprese una bizzarra campagna militare ufficiale contro quale specie animale, finendo incredibilmente per 'perdere' la battaglia?",
+      "domanda": "Nel film 'Matrix', da cosa sono realmente composte le celebri righe di codice verde che scorrono sullo schermo?",
       "opzioni": [
-        "I canguri",
-        "I dingo",
-        "Gli emu",
-        "I cammelli selvatici"
+        "Estratti del codice sorgente del primo computer IBM",
+        "Ricette di sushi scansionate da un libro da cucina",
+        "Poesie tradizionali giapponesi tradotte in codice",
+        "Sequenze casuali di numeri binari e lettere latine"
       ],
-      "risposta_corretta": "Gli emu"
+      "risposta_corretta": "Ricette di sushi scansionate da un libro da cucina"
     },
     {
-      "domanda": "Fondata nel lontano 1889, cosa produceva in origine la celebre azienda giapponese Nintendo prima di dedicarsi ai videogiochi?",
+      "domanda": "Da dove deriva il celebre simbolo della tecnologia 'Bluetooth' che usiamo sui nostri smartphone?",
       "opzioni": [
-        "Orologi da tasca",
-        "Carte da gioco fatte a mano",
-        "Giocattoli in legno",
-        "Tessuti e sete pregiate"
+        "Dall'unione delle rune nordiche con le iniziali di un re vichingo",
+        "Dal logo del primo modello di auricolare wireless mai prodotto",
+        "Da una rappresentazione stilizzata di un'onda radio e un dente",
+        "Dalla combinazione delle lettere B e T nel codice Morse"
       ],
-      "risposta_corretta": "Carte da gioco fatte a mano"
+      "risposta_corretta": "Dall'unione delle rune nordiche con le iniziali di un re vichingo"
     }
   ]
 }
