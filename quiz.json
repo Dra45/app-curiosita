@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è l'unico animale conosciuto al mondo in grado di produrre escrementi a forma di cubo perfetto?",
+      "domanda": "In quale Paese si trova la 'Porta dell'Inferno', un enorme cratere di gas naturale che brucia ininterrottamente dagli anni '70?",
       "opzioni": [
-        "Vombato",
-        "Diavolo della Tasmania",
-        "Lama",
-        "Capibara"
+        "Australia",
+        "Azerbaigian",
+        "Islanda",
+        "Turkmenistan"
       ],
-      "risposta_corretta": "Vombato"
+      "risposta_corretta": "Turkmenistan"
     },
     {
-      "domanda": "Nel 1995 è nato eBay (all'epoca chiamato AuctionWeb). Qual è stato il primissimo oggetto in assoluto venduto sulla piattaforma?",
+      "domanda": "Nel film 'Matrix' (1999), da cosa sono stati ricavati in realtà i famosi codici verdi cascanti che si vedono nella sigla e sugli schermi?",
       "opzioni": [
-        "Una sveglia usata",
-        "Una figurina di baseball rara",
-        "Un puntatore laser rotto",
-        "Un disco in vinile dei Beatles"
+        "Da spartiti musicali di Bach convertiti in caratteri simbolici",
+        "Dal codice sorgente di un vecchio sistema operativo IBM degli anni '80",
+        "Da poesie tradizionali giapponesi del XVII secolo",
+        "Da ricette di sushi tratte dai libri di cucina della moglie dello scenografo"
       ],
-      "risposta_corretta": "Un puntatore laser rotto"
+      "risposta_corretta": "Da ricette di sushi tratte dai libri di cucina della moglie dello scenografo"
     },
     {
-      "domanda": "Qual è la vera origine dell'iconico 'codice verde' a cascata che compare all'inizio del film Matrix?",
+      "domanda": "I wombatti, simpatici marsupiali australiani, hanno una caratteristica biologica assolutamente unica al mondo. Quale?",
       "opzioni": [
-        "Sequenze reali del genoma umano",
-        "Spartiti di musica classica convertiti in binario",
-        "Ricette di sushi scansionate da un libro di cucina giapponese",
-        "Linee di codice di un vecchio sistema operativo IBM"
+        "Possono dormire a testa in giù come i pipistrelli",
+        "Sudano un liquido protettivo di colore rosa brillante",
+        "Cambiano colore della pelliccia in base alle stagioni",
+        "Fanno la cacca a forma di cubo"
       ],
-      "risposta_corretta": "Ricette di sushi scansionate da un libro di cucina giapponese"
+      "risposta_corretta": "Fanno la cacca a forma di cubo"
     },
     {
-      "domanda": "Quale nazione al mondo possiede ufficialmente il maggior numero di fusi orari, contando anche tutti i suoi territori d'oltremare?",
+      "domanda": "Nel 1932, l'esercito australiano ingaggiò una vera e propria 'guerra' ufficiale contro una specie di animali che stava devastando i raccolti, finendo clamorosamente per perderla. Quali animali erano?",
       "opzioni": [
-        "Francia",
-        "Cina",
-        "Stati Uniti",
-        "Russia"
+        "Conigli",
+        "Dingo",
+        "Canguri",
+        "Emu"
       ],
-      "risposta_corretta": "Francia"
+      "risposta_corretta": "Emu"
     },
     {
-      "domanda": "Il pluriball (la famosa plastica con le bolle d'aria usata per gli imballaggi) fu inventato nel 1957. Per quale scopo originale era stato progettato?",
+      "domanda": "Qual era il nome originariamente scelto da Jeff Bezos per la sua azienda prima di decidere di chiamarla 'Amazon'?",
       "opzioni": [
-        "Isolante termico per tute spaziali",
-        "Imbottitura per caschi militari",
-        "Carta da parati tridimensionale",
-        "Superficie antiscivolo per piscine"
+        "EverythingShop",
+        "Relentless",
+        "BookWorld",
+        "Cadabra"
       ],
-      "risposta_corretta": "Carta da parati tridimensionale"
+      "risposta_corretta": "Cadabra"
     },
     {
-      "domanda": "Nel 2001, una nota catena di fast food ha pagato circa un milione di dollari per consegnare una pizza direttamente agli astronauti sulla Stazione Spaziale Internazionale. Di quale marca si trattava?",
+      "domanda": "Qual è il video musicale più visto nella storia di YouTube, il primo a superare l'incredibile soglia dei 10 miliardi di visualizzazioni?",
       "opzioni": [
-        "Domino's Pizza",
-        "Little Caesars",
-        "Pizza Hut",
-        "Papa John's"
+        "Gangnam Style - Psy",
+        "Shape of You - Ed Sheeran",
+        "Despacito - Luis Fonsi",
+        "Baby Shark Dance - Pinkfong"
       ],
-      "risposta_corretta": "Pizza Hut"
+      "risposta_corretta": "Baby Shark Dance - Pinkfong"
     }
   ]
 }
