@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "In quale Paese si trova la 'Porta dell'Inferno', un enorme cratere di gas naturale che brucia ininterrottamente dagli anni '70?",
+      "domanda": "Qual è stato il primo film d'animazione nella storia del cinema a ricevere una candidatura agli Oscar nella categoria 'Miglior Film'?",
       "opzioni": [
+        "Il Re Leone",
+        "La Bella e la Bestia",
+        "Toy Story - Il mondo dei giocattoli",
+        "Shrek"
+      ],
+      "risposta_corretta": "La Bella e la Bestia"
+    },
+    {
+      "domanda": "Quale tra questi animali è unico al mondo per il fatto di produrre feci a forma di cubo?",
+      "opzioni": [
+        "Il diavolo della Tasmania",
+        "Il vombato",
+        "Il pangolino",
+        "Il capibara"
+      ],
+      "risposta_corretta": "Il vombato"
+    },
+    {
+      "domanda": "Qual è il soggetto del primissimo video in assoluto caricato su YouTube nell'aprile del 2005?",
+      "opzioni": [
+        "Un gatto che gioca con un gomitolo",
+        "Un ragazzo che suona la chitarra sul letto",
+        "Un co-fondatore del sito allo zoo davanti agli elefanti",
+        "Un breve test di animazione in 3D"
+      ],
+      "risposta_corretta": "Un co-fondatore del sito allo zoo davanti agli elefanti"
+    },
+    {
+      "domanda": "In quale Paese si trova una vera e propria città chiamata ufficialmente 'Batman'?",
+      "opzioni": [
+        "Stati Uniti",
+        "Regno Unito",
         "Australia",
-        "Azerbaigian",
-        "Islanda",
-        "Turkmenistan"
+        "Turchia"
       ],
-      "risposta_corretta": "Turkmenistan"
+      "risposta_corretta": "Turchia"
     },
     {
-      "domanda": "Nel film 'Matrix' (1999), da cosa sono stati ricavati in realtà i famosi codici verdi cascanti che si vedono nella sigla e sugli schermi?",
+      "domanda": "Nel 1932, l'esercito australiano intraprese una bizzarra campagna militare ufficiale contro quale specie animale, finendo incredibilmente per 'perdere' la battaglia?",
       "opzioni": [
-        "Da spartiti musicali di Bach convertiti in caratteri simbolici",
-        "Dal codice sorgente di un vecchio sistema operativo IBM degli anni '80",
-        "Da poesie tradizionali giapponesi del XVII secolo",
-        "Da ricette di sushi tratte dai libri di cucina della moglie dello scenografo"
+        "I canguri",
+        "I dingo",
+        "Gli emu",
+        "I cammelli selvatici"
       ],
-      "risposta_corretta": "Da ricette di sushi tratte dai libri di cucina della moglie dello scenografo"
+      "risposta_corretta": "Gli emu"
     },
     {
-      "domanda": "I wombatti, simpatici marsupiali australiani, hanno una caratteristica biologica assolutamente unica al mondo. Quale?",
+      "domanda": "Fondata nel lontano 1889, cosa produceva in origine la celebre azienda giapponese Nintendo prima di dedicarsi ai videogiochi?",
       "opzioni": [
-        "Possono dormire a testa in giù come i pipistrelli",
-        "Sudano un liquido protettivo di colore rosa brillante",
-        "Cambiano colore della pelliccia in base alle stagioni",
-        "Fanno la cacca a forma di cubo"
+        "Orologi da tasca",
+        "Carte da gioco fatte a mano",
+        "Giocattoli in legno",
+        "Tessuti e sete pregiate"
       ],
-      "risposta_corretta": "Fanno la cacca a forma di cubo"
-    },
-    {
-      "domanda": "Nel 1932, l'esercito australiano ingaggiò una vera e propria 'guerra' ufficiale contro una specie di animali che stava devastando i raccolti, finendo clamorosamente per perderla. Quali animali erano?",
-      "opzioni": [
-        "Conigli",
-        "Dingo",
-        "Canguri",
-        "Emu"
-      ],
-      "risposta_corretta": "Emu"
-    },
-    {
-      "domanda": "Qual era il nome originariamente scelto da Jeff Bezos per la sua azienda prima di decidere di chiamarla 'Amazon'?",
-      "opzioni": [
-        "EverythingShop",
-        "Relentless",
-        "BookWorld",
-        "Cadabra"
-      ],
-      "risposta_corretta": "Cadabra"
-    },
-    {
-      "domanda": "Qual è il video musicale più visto nella storia di YouTube, il primo a superare l'incredibile soglia dei 10 miliardi di visualizzazioni?",
-      "opzioni": [
-        "Gangnam Style - Psy",
-        "Shape of You - Ed Sheeran",
-        "Despacito - Luis Fonsi",
-        "Baby Shark Dance - Pinkfong"
-      ],
-      "risposta_corretta": "Baby Shark Dance - Pinkfong"
+      "risposta_corretta": "Carte da gioco fatte a mano"
     }
   ]
 }
