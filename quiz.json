@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è stato il primo video in assoluto caricato su YouTube nel 2005?",
+      "domanda": "Quale iconico effetto sonoro cinematografico, utilizzato in oltre 400 film tra cui Star Wars e Il Signore degli Anelli, prende il nome da un personaggio secondario di un film western del 1953?",
       "opzioni": [
-        "Un tutorial su come creare un sito web",
-        "Il co-fondatore Jawed Karim allo zoo di San Diego",
-        "Un video di un gatto che gioca con un gomitolo",
-        "Un videoclip musicale di una band emergente"
+        "Urlo di Goonies",
+        "Urlo di Tarzan",
+        "Urlo di Wilhelm",
+        "Urlo di Spielberg"
       ],
-      "risposta_corretta": "Il co-fondatore Jawed Karim allo zoo di San Diego"
+      "risposta_corretta": "Urlo di Wilhelm"
     },
     {
-      "domanda": "Quale tra questi animali è famoso per produrre feci di forma perfettamente cubica?",
+      "domanda": "Qual è l'unico animale conosciuto al mondo che produce feci a forma di cubo perfetto per evitare che rotolino via quando marca il territorio?",
       "opzioni": [
-        "Il capibara",
-        "Il pangolino",
+        "Il koala",
         "Il vombato",
+        "Il diavolo della Tasmania",
         "L'ornitorinco"
       ],
       "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Perché la celebre bevanda 'Fanta' è stata creata originariamente in Germania negli anni '40?",
+      "domanda": "Da dove deriva il nome della tecnologia wireless 'Bluetooth', presente su quasi tutti i nostri smartphone?",
       "opzioni": [
-        "Come razione energetica speciale per i soldati al fronte",
-        "Per smaltire un enorme surplus di produzione di arance",
-        "A causa dell'embargo che impediva l'importazione dello sciroppo della Coca-Cola",
-        "Per creare un'alternativa analcolica alla birra durante le feste"
+        "Dal colore del primo prototipo di cavo ideato dalla Ericsson",
+        "Da un antico re vichingo famoso per un dente scuro o devitalizzato",
+        "Dal soprannome di un famoso pirata informatico degli anni '80",
+        "Da un errore di traduzione dell'espressione 'Blue Toothpick'"
       ],
-      "risposta_corretta": "A causa dell'embargo che impediva l'importazione dello sciroppo della Coca-Cola"
+      "risposta_corretta": "Da un antico re vichingo famoso per un dente scuro o devitalizzato"
     },
     {
-      "domanda": "In quale Paese europeo le zanzare sono praticamente assenti a causa del clima e delle caratteristiche dell'ambiente?",
+      "domanda": "Nel 1932, l'esercito australiano ingaggiò una vera e propria bizzarra 'guerra' armata di mitragliatrici contro quale tipo di animale, finendo clamorosamente per perdere?",
       "opzioni": [
-        "Irlanda",
-        "Islanda",
-        "Norvegia",
-        "Svizzera"
+        "Gli emù",
+        "I coccodrilli",
+        "I dingo",
+        "I canguri"
       ],
-      "risposta_corretta": "Islanda"
+      "risposta_corretta": "Gli emù"
     },
     {
-      "domanda": "Nel film 'Matrix', da cosa sono realmente composte le celebri righe di codice verde che scorrono sullo schermo?",
+      "domanda": "Il 'Punto Nemo' nell'Oceano Pacifico è il luogo più isolato della Terra. Quando una nave vi passa vicino, chi sono gli esseri umani in assoluto più vicini ad essa?",
       "opzioni": [
-        "Estratti del codice sorgente del primo computer IBM",
-        "Ricette di sushi scansionate da un libro da cucina",
-        "Poesie tradizionali giapponesi tradotte in codice",
-        "Sequenze casuali di numeri binari e lettere latine"
+        "Gli abitanti delle Isole Pitcairn",
+        "Gli astronauti a bordo della Stazione Spaziale Internazionale",
+        "I ricercatori delle basi antartiche",
+        "I marinai sulle rotte commerciali per la Nuova Zelanda"
       ],
-      "risposta_corretta": "Ricette di sushi scansionate da un libro da cucina"
+      "risposta_corretta": "Gli astronauti a bordo della Stazione Spaziale Internazionale"
     },
     {
-      "domanda": "Da dove deriva il celebre simbolo della tecnologia 'Bluetooth' che usiamo sui nostri smartphone?",
+      "domanda": "Il pluriball, il famoso foglio d'imballaggio con le bolle d'aria da scoppiare, era stato originariamente inventato nel 1957 per quale scopo?",
       "opzioni": [
-        "Dall'unione delle rune nordiche con le iniziali di un re vichingo",
-        "Dal logo del primo modello di auricolare wireless mai prodotto",
-        "Da una rappresentazione stilizzata di un'onda radio e un dente",
-        "Dalla combinazione delle lettere B e T nel codice Morse"
+        "Come carta da parati plastificata in 3D e facile da pulire",
+        "Come imbottitura protettiva per i caschi militari",
+        "Come isolante termico per le serre agricole",
+        "Come materiale galleggiante per i giubbotti di salvataggio"
       ],
-      "risposta_corretta": "Dall'unione delle rune nordiche con le iniziali di un re vichingo"
+      "risposta_corretta": "Come carta da parati plastificata in 3D e facile da pulire"
     }
   ]
 }
