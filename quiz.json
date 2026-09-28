@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è la caratteristica forma, del tutto unica nel regno animale, delle feci del vombato (un marsupiale australiano)?",
+      "domanda": "Quale tra questi animali è famoso in tutto il mondo per la sua peculiarità biologica di produrre feci a forma di cubo?",
       "opzioni": [
-        "A piramide",
-        "Sferica",
-        "A stella",
-        "Cubica"
+        "Il koala",
+        "Il vombato",
+        "Il bradipo",
+        "Il tasso del miele"
       ],
-      "risposta_corretta": "Cubica"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Da dove deriva il nome della celebre tecnologia senza fili \"Bluetooth\"?",
+      "domanda": "Nei film d'animazione Pixar e Disney compare spesso il codice segreto 'A113'. A cosa corrisponde nella realtà?",
       "opzioni": [
-        "Dal soprannome di un ingegnere IBM",
-        "Da un errore di battitura di 'Blue Toothpick'",
-        "Da un fumetto degli anni '80",
-        "Da un re vichingo del X secolo"
+        "Al numero dell'aula universitaria frequentata da molti animatori",
+        "Al modello del primo computer usato da Steve Jobs",
+        "Al codice interno della prima macchina da presa usata nel 1995",
+        "Alla data di fondazione degli studi Pixar"
       ],
-      "risposta_corretta": "Da un re vichingo del X secolo"
+      "risposta_corretta": "Al numero dell'aula universitaria frequentata da molti animatori"
     },
     {
-      "domanda": "Prima di diventare celebre con il suo nome attuale, come si chiamava l'iconico personaggio di Nintendo nel suo gioco d'esordio \"Donkey Kong\"?",
+      "domanda": "Da dove prende origine il nome della nota tecnologia di connessione wireless 'Bluetooth'?",
       "opzioni": [
-        "Mr. Video",
-        "Super Craftsman",
-        "Luigi Sr.",
-        "Jumpman"
+        "Da un errore di battitura del codice originale durante la presentazione",
+        "Da un antico re vichingo noto per aver unito le tribù scandinave",
+        "Dal colore della spia LED presente sui primi auricolari wireless",
+        "Da un famoso brano di musica jazz degli anni '70"
       ],
-      "risposta_corretta": "Jumpman"
+      "risposta_corretta": "Da un antico re vichingo noto per aver unito le tribù scandinave"
     },
     {
-      "domanda": "Quale famoso oggetto per bambini è stato inizialmente inventato negli anni '30 come prodotto per pulire la carta da parati dal fuliggine?",
+      "domanda": "In quale punto geografico gli Stati Uniti e la Russia si trovano a una distanza ravvicinatissima di appena 4 chilometri circa?",
       "opzioni": [
-        "I pennarelli lavabili",
-        "I mattoncini LEGO",
-        "Il pongo Play-Doh",
-        "Lo Slinky"
+        "Nello Stretto di Bering, tra le due Isole Diomede",
+        "Tra le coste del Canada e le isole artiche russe",
+        "Nel Mar Glaciale Artico a nord della Norvegia",
+        "Lungo il confine marittimo con la penisola della Kamčatka"
       ],
-      "risposta_corretta": "Il pongo Play-Doh"
+      "risposta_corretta": "Nello Stretto di Bering, tra le due Isole Diomede"
     },
     {
-      "domanda": "Quale Paese possiede il maggior numero di fusi orari al mondo se si considerano anche tutti i suoi territori d'oltremare?",
+      "domanda": "Nel 1932 l'esercito australiano intraprese un'incredibile e bizzarra operazione militare (dalla quale uscì di fatto sconfitto) contro un'invasione di quali animali?",
       "opzioni": [
-        "La Cina",
-        "La Russia",
-        "La Francia",
-        "Gli Stati Uniti"
+        "Cammelli australiani",
+        "Emù",
+        "Canguri rossi",
+        "Dingo selvatici"
       ],
-      "risposta_corretta": "La Francia"
+      "risposta_corretta": "Emù"
     },
     {
-      "domanda": "Qual è stato il primissimo videoclip musicale trasmesso dall'emittente televisiva MTV al momento del suo storico lancio nel 1981?",
+      "domanda": "Qual è il soggetto del primissimo video caricato nella storia di YouTube nel 2005, intitolato 'Me at the zoo'?",
       "opzioni": [
-        "Thriller - Michael Jackson",
-        "Like a Virgin - Madonna",
-        "Video Killed the Radio Star - The Buggles",
-        "Bohemian Rhapsody - Queen"
+        "Un gatto che gioca con un gomitolo di lana",
+        "Un ragazzo davanti al recinto degli elefanti",
+        "Una breve dimostrazione audio-video di una webcam",
+        "Un ragazzo che mostra i suoi trucchi su uno skateboard"
       ],
-      "risposta_corretta": "Video Killed the Radio Star - The Buggles"
+      "risposta_corretta": "Un ragazzo davanti al recinto degli elefanti"
     }
   ]
 }
