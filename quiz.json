@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale iconico effetto sonoro cinematografico, utilizzato in oltre 400 film tra cui Star Wars e Il Signore degli Anelli, prende il nome da un personaggio secondario di un film western del 1953?",
+      "domanda": "Qual è la caratteristica forma, del tutto unica nel regno animale, delle feci del vombato (un marsupiale australiano)?",
       "opzioni": [
-        "Urlo di Goonies",
-        "Urlo di Tarzan",
-        "Urlo di Wilhelm",
-        "Urlo di Spielberg"
+        "A piramide",
+        "Sferica",
+        "A stella",
+        "Cubica"
       ],
-      "risposta_corretta": "Urlo di Wilhelm"
+      "risposta_corretta": "Cubica"
     },
     {
-      "domanda": "Qual è l'unico animale conosciuto al mondo che produce feci a forma di cubo perfetto per evitare che rotolino via quando marca il territorio?",
+      "domanda": "Da dove deriva il nome della celebre tecnologia senza fili \"Bluetooth\"?",
       "opzioni": [
-        "Il koala",
-        "Il vombato",
-        "Il diavolo della Tasmania",
-        "L'ornitorinco"
+        "Dal soprannome di un ingegnere IBM",
+        "Da un errore di battitura di 'Blue Toothpick'",
+        "Da un fumetto degli anni '80",
+        "Da un re vichingo del X secolo"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "Da un re vichingo del X secolo"
     },
     {
-      "domanda": "Da dove deriva il nome della tecnologia wireless 'Bluetooth', presente su quasi tutti i nostri smartphone?",
+      "domanda": "Prima di diventare celebre con il suo nome attuale, come si chiamava l'iconico personaggio di Nintendo nel suo gioco d'esordio \"Donkey Kong\"?",
       "opzioni": [
-        "Dal colore del primo prototipo di cavo ideato dalla Ericsson",
-        "Da un antico re vichingo famoso per un dente scuro o devitalizzato",
-        "Dal soprannome di un famoso pirata informatico degli anni '80",
-        "Da un errore di traduzione dell'espressione 'Blue Toothpick'"
+        "Mr. Video",
+        "Super Craftsman",
+        "Luigi Sr.",
+        "Jumpman"
       ],
-      "risposta_corretta": "Da un antico re vichingo famoso per un dente scuro o devitalizzato"
+      "risposta_corretta": "Jumpman"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano ingaggiò una vera e propria bizzarra 'guerra' armata di mitragliatrici contro quale tipo di animale, finendo clamorosamente per perdere?",
+      "domanda": "Quale famoso oggetto per bambini è stato inizialmente inventato negli anni '30 come prodotto per pulire la carta da parati dal fuliggine?",
       "opzioni": [
-        "Gli emù",
-        "I coccodrilli",
-        "I dingo",
-        "I canguri"
+        "I pennarelli lavabili",
+        "I mattoncini LEGO",
+        "Il pongo Play-Doh",
+        "Lo Slinky"
       ],
-      "risposta_corretta": "Gli emù"
+      "risposta_corretta": "Il pongo Play-Doh"
     },
     {
-      "domanda": "Il 'Punto Nemo' nell'Oceano Pacifico è il luogo più isolato della Terra. Quando una nave vi passa vicino, chi sono gli esseri umani in assoluto più vicini ad essa?",
+      "domanda": "Quale Paese possiede il maggior numero di fusi orari al mondo se si considerano anche tutti i suoi territori d'oltremare?",
       "opzioni": [
-        "Gli abitanti delle Isole Pitcairn",
-        "Gli astronauti a bordo della Stazione Spaziale Internazionale",
-        "I ricercatori delle basi antartiche",
-        "I marinai sulle rotte commerciali per la Nuova Zelanda"
+        "La Cina",
+        "La Russia",
+        "La Francia",
+        "Gli Stati Uniti"
       ],
-      "risposta_corretta": "Gli astronauti a bordo della Stazione Spaziale Internazionale"
+      "risposta_corretta": "La Francia"
     },
     {
-      "domanda": "Il pluriball, il famoso foglio d'imballaggio con le bolle d'aria da scoppiare, era stato originariamente inventato nel 1957 per quale scopo?",
+      "domanda": "Qual è stato il primissimo videoclip musicale trasmesso dall'emittente televisiva MTV al momento del suo storico lancio nel 1981?",
       "opzioni": [
-        "Come carta da parati plastificata in 3D e facile da pulire",
-        "Come imbottitura protettiva per i caschi militari",
-        "Come isolante termico per le serre agricole",
-        "Come materiale galleggiante per i giubbotti di salvataggio"
+        "Thriller - Michael Jackson",
+        "Like a Virgin - Madonna",
+        "Video Killed the Radio Star - The Buggles",
+        "Bohemian Rhapsody - Queen"
       ],
-      "risposta_corretta": "Come carta da parati plastificata in 3D e facile da pulire"
+      "risposta_corretta": "Video Killed the Radio Star - The Buggles"
     }
   ]
 }
