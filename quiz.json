@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale tra questi animali è famoso in tutto il mondo per la sua peculiarità biologica di produrre feci a forma di cubo?",
+      "domanda": "Nel capolavoro del cinema 'Jurassic Park', qual è la sorprendente origine del verso usato dai Velociraptor per comunicare tra loro?",
       "opzioni": [
-        "Il koala",
+        "Tartarughe che si accoppiano",
+        "Rugiti di giaguaro rallentati",
+        "Starnuti di elefante registrati al contrario",
+        "Delfini particolarmente aggressivi"
+      ],
+      "risposta_corretta": "Tartarughe che si accoppiano"
+    },
+    {
+      "domanda": "Quale animale è famoso per essere l'unico al mondo a produrre feci di forma perfettamente cubica?",
+      "opzioni": [
+        "L'ornitorinco",
         "Il vombato",
-        "Il bradipo",
-        "Il tasso del miele"
+        "Il koala",
+        "Il bradipo"
       ],
       "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Nei film d'animazione Pixar e Disney compare spesso il codice segreto 'A113'. A cosa corrisponde nella realtà?",
+      "domanda": "Nel 1995 è nato il gigante dell'e-commerce eBay. Qual è stato in assoluto il primo oggetto acquistato sulla piattaforma?",
       "opzioni": [
-        "Al numero dell'aula universitaria frequentata da molti animatori",
-        "Al modello del primo computer usato da Steve Jobs",
-        "Al codice interno della prima macchina da presa usata nel 1995",
-        "Alla data di fondazione degli studi Pixar"
+        "Un puntatore laser rotto",
+        "Un vecchio computer Apple II",
+        "Una figurina da collezione di baseball",
+        "Una chitarra acustica usata"
       ],
-      "risposta_corretta": "Al numero dell'aula universitaria frequentata da molti animatori"
+      "risposta_corretta": "Un puntatore laser rotto"
     },
     {
-      "domanda": "Da dove prende origine il nome della nota tecnologia di connessione wireless 'Bluetooth'?",
+      "domanda": "Se pensi al territorio insulare potresti immaginare la Grecia o l'Indonesia. Ma quale nazione possiede in realtà il maggior numero di isole al mondo (oltre 260.000)?",
       "opzioni": [
-        "Da un errore di battitura del codice originale durante la presentazione",
-        "Da un antico re vichingo noto per aver unito le tribù scandinave",
-        "Dal colore della spia LED presente sui primi auricolari wireless",
-        "Da un famoso brano di musica jazz degli anni '70"
+        "Svezia",
+        "Grecia",
+        "Filippine",
+        "Indonesia"
       ],
-      "risposta_corretta": "Da un antico re vichingo noto per aver unito le tribù scandinave"
+      "risposta_corretta": "Svezia"
     },
     {
-      "domanda": "In quale punto geografico gli Stati Uniti e la Russia si trovano a una distanza ravvicinatissima di appena 4 chilometri circa?",
+      "domanda": "Nel 1989, a causa di uno strano accordo commerciale con l'Unione Sovietica, quale famosa azienda di bevande si ritrovò temporaneamente a possedere la sesta flotta militare più grande del mondo?",
       "opzioni": [
-        "Nello Stretto di Bering, tra le due Isole Diomede",
-        "Tra le coste del Canada e le isole artiche russe",
-        "Nel Mar Glaciale Artico a nord della Norvegia",
-        "Lungo il confine marittimo con la penisola della Kamčatka"
+        "Coca-Cola",
+        "Red Bull",
+        "Pepsi",
+        "Monster Energy"
       ],
-      "risposta_corretta": "Nello Stretto di Bering, tra le due Isole Diomede"
+      "risposta_corretta": "Pepsi"
     },
     {
-      "domanda": "Nel 1932 l'esercito australiano intraprese un'incredibile e bizzarra operazione militare (dalla quale uscì di fatto sconfitto) contro un'invasione di quali animali?",
+      "domanda": "Gli archeologi ne hanno trovato vasi nelle tombe degli antichi egizi ancora perfettamente commestibili dopo 3.000 anni. Quale alimento non scade praticamente mai?",
       "opzioni": [
-        "Cammelli australiani",
-        "Emù",
-        "Canguri rossi",
-        "Dingo selvatici"
+        "Il riso basmati",
+        "Il cioccolato fondente",
+        "L'olio extravergine d'oliva",
+        "Il miele"
       ],
-      "risposta_corretta": "Emù"
-    },
-    {
-      "domanda": "Qual è il soggetto del primissimo video caricato nella storia di YouTube nel 2005, intitolato 'Me at the zoo'?",
-      "opzioni": [
-        "Un gatto che gioca con un gomitolo di lana",
-        "Un ragazzo davanti al recinto degli elefanti",
-        "Una breve dimostrazione audio-video di una webcam",
-        "Un ragazzo che mostra i suoi trucchi su uno skateboard"
-      ],
-      "risposta_corretta": "Un ragazzo davanti al recinto degli elefanti"
+      "risposta_corretta": "Il miele"
     }
   ]
 }
