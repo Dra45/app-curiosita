@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è l'unico animale al mondo noto per produrre feci a forma di cubo?",
+      "domanda": "Quale celebre effetto sonoro, nato negli anni '50, viene inserito come scherzo o omaggio in centinaia di film famosi come Star Wars e Il Signore degli Anelli?",
       "opzioni": [
-        "Il vombato",
-        "Il capibara",
+        "Il fischio del Coyote",
+        "Il ruggito di Godzilla",
+        "Il boato del THX",
+        "L'urlo di Wilhelm"
+      ],
+      "risposta_corretta": "L'urlo di Wilhelm"
+    },
+    {
+      "domanda": "La tecnologia 'Bluetooth', usata quotidianamente da miliardi di persone, deve il suo nome a un personaggio storico. Chi?",
+      "opzioni": [
+        "Un matematico gallese dell'Ottocento",
+        "Un generale romano amante del mare",
+        "Un famoso pirata del Mar dei Caraibi",
+        "Un re vichingo che unificò la Danimarca"
+      ],
+      "risposta_corretta": "Un re vichingo che unificò la Danimarca"
+    },
+    {
+      "domanda": "Nel 1932, il governo australiano ha combattuto un'insolita 'guerra' ufficiale inviando l'esercito contro una specie animale. Quale?",
+      "opzioni": [
+        "I conigli europei",
+        "I canguri rossi",
+        "Gli emù",
+        "I dingo"
+      ],
+      "risposta_corretta": "Gli emù"
+    },
+    {
+      "domanda": "Nel Pacifico esiste il 'Punto Nemo', il luogo più isolato della Terra. Chi sono solitamente gli esseri umani più vicini a chi si trova in quel punto?",
+      "opzioni": [
+        "Gli abitanti dell'Isola di Pasqua",
+        "I marinai dei pescherecci della Nuova Zelanda",
+        "I ricercatori della base antartica Amundsen-Scott",
+        "Gli astronauti a bordo della Stazione Spaziale Internazionale"
+      ],
+      "risposta_corretta": "Gli astronauti a bordo della Stazione Spaziale Internazionale"
+    },
+    {
+      "domanda": "Quale tra questi simpatici animali della fauna australiana è l'unico al mondo a produrre escrementi di forma cubica?",
+      "opzioni": [
+        "Il diavolo della Tasmania",
         "Il koala",
-        "Il diavolo della Tasmania"
+        "L'ornitorinco",
+        "Il vombato"
       ],
       "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Nel 2005 è stato caricato il primissimo video nella storia di YouTube. Qual è il suo titolo?",
+      "domanda": "Il famoso gioco da tavolo Monopoly fu inventato nel 1903 da Elizabeth Magie con uno scopo ben preciso. Quale?",
       "opzioni": [
-        "Me at the zoo",
-        "Testing camera 1",
-        "Charlie bit my finger",
-        "Hello World"
+        "Promuovere il capitalismo americano nel mondo",
+        "Dimostrare i pericoli dei monopoli commerciali",
+        "Allenare i futuri agenti immobiliari",
+        "Insegnare ai bambini come funziona la banca"
       ],
-      "risposta_corretta": "Me at the zoo"
-    },
-    {
-      "domanda": "Nel cinema, come si chiama il celebre e iconico effetto sonoro dell'urlo riutilizzato in centinaia di film, da 'Guerre Stellari' fino ai cartoni Disney?",
-      "opzioni": [
-        "Urlo di Tarzan",
-        "Urlo Wilhelm",
-        "Urlo di Hollywood",
-        "Urlo di Kubrick"
-      ],
-      "risposta_corretta": "Urlo Wilhelm"
-    },
-    {
-      "domanda": "In quale nazione europea, grazie alle sue particolari condizioni climatiche e geologiche, le zanzare sono completamente assenti?",
-      "opzioni": [
-        "Norvegia",
-        "Finlandia",
-        "Islanda",
-        "Svizzera"
-      ],
-      "risposta_corretta": "Islanda"
-    },
-    {
-      "domanda": "La celebre azienda di videogiochi Nintendo è stata fondata nel lontano 1889. Qual era il suo prodotto originale?",
-      "opzioni": [
-        "Strumenti musicali",
-        "Orologi da tasca",
-        "Giocattoli di legno",
-        "Carte da gioco tradizionali"
-      ],
-      "risposta_corretta": "Carte da gioco tradizionali"
-    },
-    {
-      "domanda": "Da dove deriva il nome della tecnologia wireless 'Bluetooth'?",
-      "opzioni": [
-        "Dal nome in codice del primo prototipo sviluppato da Nokia",
-        "Dal titolo di una canzone jazz degli anni '80",
-        "Da un re vichingo del X secolo noto per i suoi denti scuri",
-        "Da un errore di traduzione di 'Blue Toothbrush'"
-      ],
-      "risposta_corretta": "Da un re vichingo del X secolo noto per i suoi denti scuri"
+      "risposta_corretta": "Dimostrare i pericoli dei monopoli commerciali"
     }
   ]
 }
