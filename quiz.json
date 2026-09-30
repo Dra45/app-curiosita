@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Nel capolavoro del cinema 'Jurassic Park', qual è la sorprendente origine del verso usato dai Velociraptor per comunicare tra loro?",
+      "domanda": "Qual è l'unico animale al mondo noto per produrre feci a forma di cubo?",
       "opzioni": [
-        "Tartarughe che si accoppiano",
-        "Rugiti di giaguaro rallentati",
-        "Starnuti di elefante registrati al contrario",
-        "Delfini particolarmente aggressivi"
-      ],
-      "risposta_corretta": "Tartarughe che si accoppiano"
-    },
-    {
-      "domanda": "Quale animale è famoso per essere l'unico al mondo a produrre feci di forma perfettamente cubica?",
-      "opzioni": [
-        "L'ornitorinco",
         "Il vombato",
+        "Il capibara",
         "Il koala",
-        "Il bradipo"
+        "Il diavolo della Tasmania"
       ],
       "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Nel 1995 è nato il gigante dell'e-commerce eBay. Qual è stato in assoluto il primo oggetto acquistato sulla piattaforma?",
+      "domanda": "Nel 2005 è stato caricato il primissimo video nella storia di YouTube. Qual è il suo titolo?",
       "opzioni": [
-        "Un puntatore laser rotto",
-        "Un vecchio computer Apple II",
-        "Una figurina da collezione di baseball",
-        "Una chitarra acustica usata"
+        "Me at the zoo",
+        "Testing camera 1",
+        "Charlie bit my finger",
+        "Hello World"
       ],
-      "risposta_corretta": "Un puntatore laser rotto"
+      "risposta_corretta": "Me at the zoo"
     },
     {
-      "domanda": "Se pensi al territorio insulare potresti immaginare la Grecia o l'Indonesia. Ma quale nazione possiede in realtà il maggior numero di isole al mondo (oltre 260.000)?",
+      "domanda": "Nel cinema, come si chiama il celebre e iconico effetto sonoro dell'urlo riutilizzato in centinaia di film, da 'Guerre Stellari' fino ai cartoni Disney?",
       "opzioni": [
-        "Svezia",
-        "Grecia",
-        "Filippine",
-        "Indonesia"
+        "Urlo di Tarzan",
+        "Urlo Wilhelm",
+        "Urlo di Hollywood",
+        "Urlo di Kubrick"
       ],
-      "risposta_corretta": "Svezia"
+      "risposta_corretta": "Urlo Wilhelm"
     },
     {
-      "domanda": "Nel 1989, a causa di uno strano accordo commerciale con l'Unione Sovietica, quale famosa azienda di bevande si ritrovò temporaneamente a possedere la sesta flotta militare più grande del mondo?",
+      "domanda": "In quale nazione europea, grazie alle sue particolari condizioni climatiche e geologiche, le zanzare sono completamente assenti?",
       "opzioni": [
-        "Coca-Cola",
-        "Red Bull",
-        "Pepsi",
-        "Monster Energy"
+        "Norvegia",
+        "Finlandia",
+        "Islanda",
+        "Svizzera"
       ],
-      "risposta_corretta": "Pepsi"
+      "risposta_corretta": "Islanda"
     },
     {
-      "domanda": "Gli archeologi ne hanno trovato vasi nelle tombe degli antichi egizi ancora perfettamente commestibili dopo 3.000 anni. Quale alimento non scade praticamente mai?",
+      "domanda": "La celebre azienda di videogiochi Nintendo è stata fondata nel lontano 1889. Qual era il suo prodotto originale?",
       "opzioni": [
-        "Il riso basmati",
-        "Il cioccolato fondente",
-        "L'olio extravergine d'oliva",
-        "Il miele"
+        "Strumenti musicali",
+        "Orologi da tasca",
+        "Giocattoli di legno",
+        "Carte da gioco tradizionali"
       ],
-      "risposta_corretta": "Il miele"
+      "risposta_corretta": "Carte da gioco tradizionali"
+    },
+    {
+      "domanda": "Da dove deriva il nome della tecnologia wireless 'Bluetooth'?",
+      "opzioni": [
+        "Dal nome in codice del primo prototipo sviluppato da Nokia",
+        "Dal titolo di una canzone jazz degli anni '80",
+        "Da un re vichingo del X secolo noto per i suoi denti scuri",
+        "Da un errore di traduzione di 'Blue Toothbrush'"
+      ],
+      "risposta_corretta": "Da un re vichingo del X secolo noto per i suoi denti scuri"
     }
   ]
 }
