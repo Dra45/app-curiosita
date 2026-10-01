@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è il celebre effetto sonoro usato in oltre 400 film e serie TV, diventato un 'inside joke' tra i montatori quando un personaggio cade o viene colpito?",
+      "domanda": "Qual è stata la prima emoji in assoluto a essere incoronata 'Parola dell'anno' dal prestigioso Oxford English Dictionary nel 2015?",
       "opzioni": [
-        "Il Sospiro di Tarzan",
-        "Il Grido del Coyote",
-        "L'Urlo di Wilhelm",
-        "L'Effetto Goofy"
+        "L'emoji della faccina con gli occhiali da sole (😎)",
+        "L'emoji che piange dal ridere (😂)",
+        "L'emoji che manda un bacio (😘)",
+        "L'emoji del cuore rosso (❤️)"
       ],
-      "risposta_corretta": "L'Urlo di Wilhelm"
+      "risposta_corretta": "L'emoji che piange dal ridere (😂)"
     },
     {
-      "domanda": "Quale animale è famoso in tutto il mondo per essere l'unico mammifero noto che produce feci a forma di cubo perfetto?",
+      "domanda": "Quale di questi animali è famoso per 'tenersi per mano' mentre dorme per evitare di andare alla deriva a causa delle correnti marine?",
       "opzioni": [
-        "Il Capibara",
-        "Il Vombato",
-        "Il Koala",
-        "L'Ostrice"
+        "Le lontre marine",
+        "I pinguini di Magellano",
+        "Le foche grigie",
+        "I delfini"
       ],
-      "risposta_corretta": "Il Vombato"
+      "risposta_corretta": "Le lontre marine"
     },
     {
-      "domanda": "La tecnologia 'Bluetooth', che usiamo ogni giorno per collegare i nostri dispositivi wireless, prende il nome da:",
+      "domanda": "Nel capolavoro sci-fi 'Matrix' (1999), da cosa sono composte in realtà le celebri righe di codice verde a cascata scritte sullo schermo?",
       "opzioni": [
-        "Un re vichingo del X secolo noto per aver unito le tribù scandinave",
-        "Un famoso codice segreto della Seconda Guerra Mondiale",
-        "Il soprannome del cane del suo inventore",
-        "Un tipo di minerale blu usato nei primi microchip"
+        "Da ricette di sushi scansionate da un libro di cucina",
+        "Da righe di codice Python criptate",
+        "Da frammenti della Divina Commedia tradotti in giapponese",
+        "Da numeri della sequenza di Fibonacci"
       ],
-      "risposta_corretta": "Un re vichingo del X secolo noto per aver unito le tribù scandinave"
+      "risposta_corretta": "Da ricette di sushi scansionate da un libro di cucina"
     },
     {
-      "domanda": "Considerando anche i suoi territori d'oltremare, qual è lo Stato del mondo che copre il maggior numero di fusi orari in assoluto?",
+      "domanda": "Nel 1932 l'esercito australiano ha ingaggiato una bizzarra operazione militare (e ha finito per perderla!) contro quale specie animale?",
       "opzioni": [
-        "La Francia",
-        "La Russia",
-        "Il Regno Unito",
-        "Gli Stati Uniti"
+        "Gli emù",
+        "I rospi delle canne",
+        "I canguri rossi",
+        "I dingo"
       ],
-      "risposta_corretta": "La Francia"
+      "risposta_corretta": "Gli emù"
     },
     {
-      "domanda": "Il 'croissant', il cornetto sfogliato simbolo per eccellenza della colazione francese, in realtà è stato inventato in un altro paese europeo. Quale?",
+      "domanda": "La piccola isola stato di Nauru, nel Pacifico, detiene un record geografico e politico molto particolare. Quale?",
       "opzioni": [
-        "In Germania",
-        "In Svizzera",
-        "In Austria",
-        "In Belgio"
+        "È l'unico stato al mondo a non avere una capitale ufficiale",
+        "Ha la capitale che cambia ogni 5 anni a rotazione",
+        "Possiede un territorio interamente galleggiante",
+        "È l'unico paese senza neanche un albero sul suo territorio"
       ],
-      "risposta_corretta": "In Austria"
+      "risposta_corretta": "È l'unico stato al mondo a non avere una capitale ufficiale"
     },
     {
-      "domanda": "Qual era il soggetto del primissimo video caricato nella storia di YouTube, pubblicato nell'aprile del 2005?",
+      "domanda": "Per quale motivo originale furono inventate le celebri caramelle PEZ in Austria negli anni '20?",
       "opzioni": [
-        "Un tutorial su come creare un sito web",
-        "Una recensione di un videogioco per Game Boy",
-        "Un ragazzo che parla davanti alla gabbia degli elefanti allo zoo",
-        "Un gatto che suona la pianola"
+        "Come pillole digestive per i viaggi in nave",
+        "Come premio educativo per i bambini delle scuole elementari",
+        "Come integratore di zucchero per gli atleti",
+        "Come alternativa elegante al fumo di sigaretta per adulti"
       ],
-      "risposta_corretta": "Un ragazzo che parla davanti alla gabbia degli elefanti allo zoo"
+      "risposta_corretta": "Come alternativa elegante al fumo di sigaretta per adulti"
     }
   ]
 }
