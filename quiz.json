@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Prima di chiamarsi Google, qual era il nome originale del celebre motore di ricerca creato da Larry Page e Sergey Brin?",
+      "domanda": "Qual è stata la primissima parola inviata via Internet (tramite la rete ARPANET) nel 1969, prima che il sistema andasse in crash?",
       "opzioni": [
-        "WebCrawler",
-        "PageRank",
-        "BackRub",
-        "NetSearch"
+        "LO",
+        "LOGIN",
+        "HELLO",
+        "PING"
       ],
-      "risposta_corretta": "BackRub"
+      "risposta_corretta": "LO"
     },
     {
-      "domanda": "Quale animale è l'unico al mondo noto per produrre deiezioni (feci) a forma di cubo?",
+      "domanda": "Il famoso ruggito del T-Rex nel film 'Jurassic Park' (1993) è stato creato combinando i versi di vari animali. Quale tra questi fa da base per l'acuto principale?",
       "opzioni": [
-        "Il vombato",
-        "Il koala",
-        "L'ornitorinco",
-        "Il diavolo della Tasmania"
+        "Un orso grizzly",
+        "Un alligatore",
+        "Un cucciolo di elefante",
+        "Un leone marino"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "Un cucciolo di elefante"
     },
     {
-      "domanda": "Nei primissimi fumetti Marvel del 1962, di che colore era la pelle dell'Incredibile Hulk prima di diventare verde?",
+      "domanda": "I vombati, simpatici marsupiali australiani, sono famosi per essere gli unici animali al mondo a produrre feci con quale forma geometrica?",
       "opzioni": [
-        "Rossa",
-        "Blu",
-        "Gialla",
-        "Grigia"
+        "A stella",
+        "Sferica perfetta",
+        "A forma di piramide",
+        "Cubica"
       ],
-      "risposta_corretta": "Grigia"
+      "risposta_corretta": "Cubica"
     },
     {
-      "domanda": "Considerando tutti i suoi territori d'oltremare, quale nazione possiede il maggior numero di fusi orari al mondo?",
+      "domanda": "La celebre bevanda 'Fanta' è stata inventata negli anni '40 per quale motivo specifico?",
       "opzioni": [
-        "La Cina",
-        "La Francia",
-        "La Russia",
-        "Gli Stati Uniti"
+        "Come rimedio energetico per i lavoratori delle ferrovie tedesche",
+        "A causa dell'embargo che impediva l'importazione degli ingredienti della Coca-Cola in Germania",
+        "Per smaltire un enorme surplus di arance deteriorate importate dall'Italia",
+        "Da un errore di ricetta durante la produzione di una birra analcolica"
       ],
-      "risposta_corretta": "La Francia"
+      "risposta_corretta": "A causa dell'embargo che impediva l'importazione degli ingredienti della Coca-Cola in Germania"
     },
     {
-      "domanda": "Fondata nel lontano 1889, cosa produceva originariamente l'azienda Nintendo molto prima di dedicarsi ai videogiochi?",
+      "domanda": "In quale Paese si trova una vera città chiamata 'Batman', il cui sindaco nel 2008 dichiarò di voler fare causa a Hollywood per l'uso del nome?",
       "opzioni": [
-        "Carte da gioco fatte a mano",
-        "Giocattoli di legno",
-        "Orologi da taschino",
-        "Riso istantaneo"
+        "Turchia",
+        "Australia",
+        "Canada",
+        "Sudafrica"
       ],
-      "risposta_corretta": "Carte da gioco fatte a mano"
+      "risposta_corretta": "Turchia"
     },
     {
-      "domanda": "Qual è il soggetto del primissimo video in assoluto caricato su YouTube nel 2005?",
+      "domanda": "Nel celebre dipinto della 'Gioconda' di Leonardo da Vinci, quale di questi dettagli del volto manca completamente?",
       "opzioni": [
-        "Un gatto che gioca",
-        "Un ragazzo allo zoo davanti agli elefanti",
-        "Una gara di skateboard",
-        "Una canzone suonata con la chitarra"
+        "Le rughe d'espressione sulle labbra",
+        "L'incisivo superiore centrale",
+        "Le ciglia e le sopracciglia",
+        "I lobi delle orecchie"
       ],
-      "risposta_corretta": "Un ragazzo allo zoo davanti agli elefanti"
+      "risposta_corretta": "Le ciglia e le sopracciglia"
     }
   ]
 }
