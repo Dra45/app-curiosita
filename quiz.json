@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è stata la prima emoji in assoluto a essere incoronata 'Parola dell'anno' dal prestigioso Oxford English Dictionary nel 2015?",
+      "domanda": "Prima di chiamarsi Google, qual era il nome originale del celebre motore di ricerca creato da Larry Page e Sergey Brin?",
       "opzioni": [
-        "L'emoji della faccina con gli occhiali da sole (😎)",
-        "L'emoji che piange dal ridere (😂)",
-        "L'emoji che manda un bacio (😘)",
-        "L'emoji del cuore rosso (❤️)"
+        "WebCrawler",
+        "PageRank",
+        "BackRub",
+        "NetSearch"
       ],
-      "risposta_corretta": "L'emoji che piange dal ridere (😂)"
+      "risposta_corretta": "BackRub"
     },
     {
-      "domanda": "Quale di questi animali è famoso per 'tenersi per mano' mentre dorme per evitare di andare alla deriva a causa delle correnti marine?",
+      "domanda": "Quale animale è l'unico al mondo noto per produrre deiezioni (feci) a forma di cubo?",
       "opzioni": [
-        "Le lontre marine",
-        "I pinguini di Magellano",
-        "Le foche grigie",
-        "I delfini"
+        "Il vombato",
+        "Il koala",
+        "L'ornitorinco",
+        "Il diavolo della Tasmania"
       ],
-      "risposta_corretta": "Le lontre marine"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Nel capolavoro sci-fi 'Matrix' (1999), da cosa sono composte in realtà le celebri righe di codice verde a cascata scritte sullo schermo?",
+      "domanda": "Nei primissimi fumetti Marvel del 1962, di che colore era la pelle dell'Incredibile Hulk prima di diventare verde?",
       "opzioni": [
-        "Da ricette di sushi scansionate da un libro di cucina",
-        "Da righe di codice Python criptate",
-        "Da frammenti della Divina Commedia tradotti in giapponese",
-        "Da numeri della sequenza di Fibonacci"
+        "Rossa",
+        "Blu",
+        "Gialla",
+        "Grigia"
       ],
-      "risposta_corretta": "Da ricette di sushi scansionate da un libro di cucina"
+      "risposta_corretta": "Grigia"
     },
     {
-      "domanda": "Nel 1932 l'esercito australiano ha ingaggiato una bizzarra operazione militare (e ha finito per perderla!) contro quale specie animale?",
+      "domanda": "Considerando tutti i suoi territori d'oltremare, quale nazione possiede il maggior numero di fusi orari al mondo?",
       "opzioni": [
-        "Gli emù",
-        "I rospi delle canne",
-        "I canguri rossi",
-        "I dingo"
+        "La Cina",
+        "La Francia",
+        "La Russia",
+        "Gli Stati Uniti"
       ],
-      "risposta_corretta": "Gli emù"
+      "risposta_corretta": "La Francia"
     },
     {
-      "domanda": "La piccola isola stato di Nauru, nel Pacifico, detiene un record geografico e politico molto particolare. Quale?",
+      "domanda": "Fondata nel lontano 1889, cosa produceva originariamente l'azienda Nintendo molto prima di dedicarsi ai videogiochi?",
       "opzioni": [
-        "È l'unico stato al mondo a non avere una capitale ufficiale",
-        "Ha la capitale che cambia ogni 5 anni a rotazione",
-        "Possiede un territorio interamente galleggiante",
-        "È l'unico paese senza neanche un albero sul suo territorio"
+        "Carte da gioco fatte a mano",
+        "Giocattoli di legno",
+        "Orologi da taschino",
+        "Riso istantaneo"
       ],
-      "risposta_corretta": "È l'unico stato al mondo a non avere una capitale ufficiale"
+      "risposta_corretta": "Carte da gioco fatte a mano"
     },
     {
-      "domanda": "Per quale motivo originale furono inventate le celebri caramelle PEZ in Austria negli anni '20?",
+      "domanda": "Qual è il soggetto del primissimo video in assoluto caricato su YouTube nel 2005?",
       "opzioni": [
-        "Come pillole digestive per i viaggi in nave",
-        "Come premio educativo per i bambini delle scuole elementari",
-        "Come integratore di zucchero per gli atleti",
-        "Come alternativa elegante al fumo di sigaretta per adulti"
+        "Un gatto che gioca",
+        "Un ragazzo allo zoo davanti agli elefanti",
+        "Una gara di skateboard",
+        "Una canzone suonata con la chitarra"
       ],
-      "risposta_corretta": "Come alternativa elegante al fumo di sigaretta per adulti"
+      "risposta_corretta": "Un ragazzo allo zoo davanti agli elefanti"
     }
   ]
 }
