@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale celebre personaggio del cinema d'animazione si chiamava originariamente 'Lunar Larry' nelle prime bozze dello script?",
+      "domanda": "Nel 2010 è stato effettuato il primo acquisto commerciale nella storia utilizzando i Bitcoin. Che cosa è stato comprato?",
       "opzioni": [
-        "Minion Stuart",
-        "Buzz Lightyear",
-        "Shrek",
-        "WALL-E"
+        "Due pizze a domicilio",
+        "Un biglietto aereo per New York",
+        "Una t-shirt vintage",
+        "Un computer usato"
       ],
-      "risposta_corretta": "Buzz Lightyear"
+      "risposta_corretta": "Due pizze a domicilio"
     },
     {
-      "domanda": "I vombati, simpatici marsupiali australiani, sono famosi per una particolarità anatomica unica nel regno animale. Che forma hanno le loro feci?",
+      "domanda": "Quale animale marsupiale è l'unico al mondo a produrre escrementi di forma quasi perfettamente cubica?",
       "opzioni": [
-        "Cubica",
-        "Sferica",
-        "Cilindrica",
-        "Piramidale"
+        "Il quokka",
+        "Il vombato",
+        "Il diavolo della Tasmania",
+        "Il koala"
       ],
-      "risposta_corretta": "Cubica"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Qual è stato il primo prodotto in assoluto acquistato in modo sicuro tramite e-commerce nel 1994?",
+      "domanda": "Nel celebre film 'E.T. l'extra-terrestre' (1982), quale famoso snack al burro d'arachidi viene usato dal piccolo Elliott per attirare l'alieno?",
       "opzioni": [
-        "Un paio di scarpe da ginnastica",
-        "Un CD musicale di Sting",
-        "Un libro di ricette",
-        "Una pizza al salame piccante"
+        "M&M's",
+        "Snickers",
+        "KitKat",
+        "Reese's Pieces"
       ],
-      "risposta_corretta": "Un CD musicale di Sting"
+      "risposta_corretta": "Reese's Pieces"
     },
     {
-      "domanda": "Prima di diventare il gigante del fast-food celebre per gli hamburger, su quale specialità si concentrava il primo ristorante McDonald's nel 1940?",
+      "domanda": "Nel 1866, l'esercito del Liechtenstein inviò 80 soldati per una missione sul confine alpino. Alla fine della campagna militare, accadde un fatto assurdo. Quale?",
       "opzioni": [
-        "Pizza al taglio",
-        "Barbecue",
-        "Hot dog",
-        "Pancake e sciroppo d'acero"
+        "Disertarono tutti per aprire una birreria",
+        "Tornarono in 81 perché si era unito a loro un ufficiale italiano",
+        "Persero la strada e finirono per conquistare un villaggio austriaco",
+        "Tornarono senza armi perché le avevano giocate a carte"
       ],
-      "risposta_corretta": "Barbecue"
+      "risposta_corretta": "Tornarono in 81 perché si era unito a loro un ufficiale italiano"
     },
     {
-      "domanda": "Se si includono anche i territori d'oltremare, quale Paese al mondo possiede il maggior numero di fusi orari differenti?",
+      "domanda": "Se vuoi evitare a tutti i costi le punture di zanzara, in quale di questi Paesi dovresti viaggiare, dato che è quasi del tutto privo di questi insetti?",
       "opzioni": [
-        "Cina",
-        "Stati Uniti",
-        "Russia",
-        "Francia"
+        "Madagascar",
+        "Islanda",
+        "Finlandia",
+        "Nuova Zelanda"
       ],
-      "risposta_corretta": "Francia"
+      "risposta_corretta": "Islanda"
     },
     {
-      "domanda": "Quale famosissimo snack è nato a metà dell'Ottocento per 'vendetta' di uno chef infastidito da un cliente che si lamentava delle patate tagliate troppo spesse?",
+      "domanda": "Nel 2005 è stato pubblicato il primissimo video nella storia di YouTube. Qual era il soggetto del filmato?",
       "opzioni": [
-        "I popcorn caramellati",
-        "I bastoncini di pesce",
-        "I nachos con formaggio",
-        "Le patatine fritte sottilissime (chips)"
+        "Una dimostrazione di skateboard nel garage di casa",
+        "Un ragazzo allo zoo davanti alla gabbia degli elefanti",
+        "Un gatto che suona il pianoforte",
+        "Un breve tutorial su come usare la piattaforma"
       ],
-      "risposta_corretta": "Le patatine fritte sottilissime (chips)"
+      "risposta_corretta": "Un ragazzo allo zoo davanti alla gabbia degli elefanti"
     }
   ]
 }
