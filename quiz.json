@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Nel 2010 è stato effettuato il primo acquisto commerciale nella storia utilizzando i Bitcoin. Che cosa è stato comprato?",
+      "domanda": "Nel cult 'Ritorno al futuro', quale oggetto doveva essere originariamente la macchina del tempo prima che gli sceneggiatori scegliessero la DeLorean?",
       "opzioni": [
-        "Due pizze a domicilio",
-        "Un biglietto aereo per New York",
-        "Una t-shirt vintage",
-        "Un computer usato"
+        "Una cabina telefonica",
+        "Un frigorifero",
+        "Un televisore a tubo catodico",
+        "Un orologio da parete"
       ],
-      "risposta_corretta": "Due pizze a domicilio"
+      "risposta_corretta": "Un frigorifero"
     },
     {
-      "domanda": "Quale animale marsupiale è l'unico al mondo a produrre escrementi di forma quasi perfettamente cubica?",
+      "domanda": "Quale tra questi animali produce un latte dal caratteristico colore rosa?",
       "opzioni": [
-        "Il quokka",
-        "Il vombato",
-        "Il diavolo della Tasmania",
-        "Il koala"
+        "Il panda gigante",
+        "Il cammello",
+        "L'ippopotamo",
+        "Il fenicottero"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "L'ippopotamo"
     },
     {
-      "domanda": "Nel celebre film 'E.T. l'extra-terrestre' (1982), quale famoso snack al burro d'arachidi viene usato dal piccolo Elliott per attirare l'alieno?",
+      "domanda": "In quale nazione si trova la vera città chiamata 'Batman', il cui sindaco nel 2008 minacciò di fare causa al regista Christopher Nolan per l'uso non autorizzato del nome?",
       "opzioni": [
-        "M&M's",
-        "Snickers",
-        "KitKat",
-        "Reese's Pieces"
+        "Canada",
+        "Turchia",
+        "Australia",
+        "Germania"
       ],
-      "risposta_corretta": "Reese's Pieces"
+      "risposta_corretta": "Turchia"
     },
     {
-      "domanda": "Nel 1866, l'esercito del Liechtenstein inviò 80 soldati per una missione sul confine alpino. Alla fine della campagna militare, accadde un fatto assurdo. Quale?",
+      "domanda": "Qual è il soggetto del primissimo video in assoluto caricato su YouTube nel lontano 2005?",
       "opzioni": [
-        "Disertarono tutti per aprire una birreria",
-        "Tornarono in 81 perché si era unito a loro un ufficiale italiano",
-        "Persero la strada e finirono per conquistare un villaggio austriaco",
-        "Tornarono senza armi perché le avevano giocate a carte"
+        "Un gatto che gioca con un gomitolo",
+        "Un ragazzo allo zoo davanti agli elefanti",
+        "Un trucco di magia con le carte",
+        "Una prova di skateboard finita male"
       ],
-      "risposta_corretta": "Tornarono in 81 perché si era unito a loro un ufficiale italiano"
+      "risposta_corretta": "Un ragazzo allo zoo davanti agli elefanti"
     },
     {
-      "domanda": "Se vuoi evitare a tutti i costi le punture di zanzara, in quale di questi Paesi dovresti viaggiare, dato che è quasi del tutto privo di questi insetti?",
+      "domanda": "Quale celebre bevanda gassata è stata inventata in Germania durante la Seconda Guerra Mondiale a causa dell'embargo sui componenti della Coca-Cola?",
       "opzioni": [
-        "Madagascar",
-        "Islanda",
-        "Finlandia",
-        "Nuova Zelanda"
+        "7 Up",
+        "Pepsi",
+        "Sprite",
+        "Fanta"
       ],
-      "risposta_corretta": "Islanda"
+      "risposta_corretta": "Fanta"
     },
     {
-      "domanda": "Nel 2005 è stato pubblicato il primissimo video nella storia di YouTube. Qual era il soggetto del filmato?",
+      "domanda": "Viaggiando esattamente alla velocità della luce, quanto tempo impiegheresti all'incirca per andare dalla Terra alla Luna?",
       "opzioni": [
-        "Una dimostrazione di skateboard nel garage di casa",
-        "Un ragazzo allo zoo davanti alla gabbia degli elefanti",
-        "Un gatto che suona il pianoforte",
-        "Un breve tutorial su come usare la piattaforma"
+        "Meno di un decimo di secondo",
+        "Circa 1,3 secondi",
+        "Quasi mezz'ora",
+        "Circa 8 minuti"
       ],
-      "risposta_corretta": "Un ragazzo allo zoo davanti alla gabbia degli elefanti"
+      "risposta_corretta": "Circa 1,3 secondi"
     }
   ]
 }
