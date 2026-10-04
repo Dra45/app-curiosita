@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Nel cult 'Ritorno al futuro', quale oggetto doveva essere originariamente la macchina del tempo prima che gli sceneggiatori scegliessero la DeLorean?",
+      "domanda": "Quale tra le seguenti emoji è stata eletta ufficialmente 'Parola dell'Anno' dal famoso Oxford Dictionary nel 2015?",
       "opzioni": [
-        "Una cabina telefonica",
-        "Un frigorifero",
-        "Un televisore a tubo catodico",
-        "Un orologio da parete"
+        "Il pollice in su",
+        "La faccina che ride con le lacrime (Joy)",
+        "La faccina con gli occhiali da sole",
+        "Il cuore rosso"
       ],
-      "risposta_corretta": "Un frigorifero"
+      "risposta_corretta": "La faccina che ride con le lacrime (Joy)"
     },
     {
-      "domanda": "Quale tra questi animali produce un latte dal caratteristico colore rosa?",
+      "domanda": "Quale creatura marina non possiede un cervello, un cuore e nemmeno i polmoni, ed esiste da oltre 500 milioni di anni?",
       "opzioni": [
-        "Il panda gigante",
-        "Il cammello",
-        "L'ippopotamo",
-        "Il fenicottero"
+        "La medusa",
+        "Il cavalluccio marino",
+        "La stella marina",
+        "Il polpo"
       ],
-      "risposta_corretta": "L'ippopotamo"
+      "risposta_corretta": "La medusa"
     },
     {
-      "domanda": "In quale nazione si trova la vera città chiamata 'Batman', il cui sindaco nel 2008 minacciò di fare causa al regista Christopher Nolan per l'uso non autorizzato del nome?",
+      "domanda": "Nel film cult 'Matrix', da quale bizzarra fonte originale proviene il celebre codice verde a cascata visibile sugli schermi?",
       "opzioni": [
-        "Canada",
-        "Turchia",
-        "Australia",
-        "Germania"
+        "Da un algoritmo di crittografia militare",
+        "Da un elenco telefonico di Tokyo",
+        "Da ricette di sushi digitalizzate",
+        "Da uno spartito di musica classica"
       ],
-      "risposta_corretta": "Turchia"
+      "risposta_corretta": "Da ricette di sushi digitalizzate"
     },
     {
-      "domanda": "Qual è il soggetto del primissimo video in assoluto caricato su YouTube nel lontano 2005?",
+      "domanda": "Nel 1971, durante la missione Apollo 14, quale sport è stato praticato per la prima volta sulla Luna dall'astronauta Alan Shepard?",
       "opzioni": [
-        "Un gatto che gioca con un gomitolo",
-        "Un ragazzo allo zoo davanti agli elefanti",
-        "Un trucco di magia con le carte",
-        "Una prova di skateboard finita male"
+        "Un lancio del frisbee",
+        "Un tiro con una pallina da golf",
+        "Una partita a scacchi",
+        "Un tiro con le freccette"
       ],
-      "risposta_corretta": "Un ragazzo allo zoo davanti agli elefanti"
+      "risposta_corretta": "Un tiro con una pallina da golf"
     },
     {
-      "domanda": "Quale celebre bevanda gassata è stata inventata in Germania durante la Seconda Guerra Mondiale a causa dell'embargo sui componenti della Coca-Cola?",
+      "domanda": "Qual è l'unica capitale al mondo il cui territorio confina direttamente con ben due stati esteri (Austria e Ungheria)?",
       "opzioni": [
-        "7 Up",
-        "Pepsi",
-        "Sprite",
-        "Fanta"
+        "Bratislava",
+        "Lubiana",
+        "Praga",
+        "Budapest"
       ],
-      "risposta_corretta": "Fanta"
+      "risposta_corretta": "Bratislava"
     },
     {
-      "domanda": "Viaggiando esattamente alla velocità della luce, quanto tempo impiegheresti all'incirca per andare dalla Terra alla Luna?",
+      "domanda": "Quale iconico video musicale è stato il primo in assoluto a infrangere il muro del miliardo di visualizzazioni su YouTube?",
       "opzioni": [
-        "Meno di un decimo di secondo",
-        "Circa 1,3 secondi",
-        "Quasi mezz'ora",
-        "Circa 8 minuti"
+        "Gangnam Style di Psy",
+        "Baby di Justin Bieber",
+        "Despacito di Luis Fonsi",
+        "Shape of You di Ed Sheeran"
       ],
-      "risposta_corretta": "Circa 1,3 secondi"
+      "risposta_corretta": "Gangnam Style di Psy"
     }
   ]
 }
