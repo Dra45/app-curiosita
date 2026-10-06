@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale tra le seguenti emoji è stata eletta ufficialmente 'Parola dell'Anno' dal famoso Oxford Dictionary nel 2015?",
+      "domanda": "A quale iconico personaggio cinematografico Will Smith ha rinunciato per recitare nel film 'Wild Wild West'?",
       "opzioni": [
-        "Il pollice in su",
-        "La faccina che ride con le lacrime (Joy)",
-        "La faccina con gli occhiali da sole",
-        "Il cuore rosso"
+        "Jack Sparrow (Pirati dei Caraibi)",
+        "Neo (Matrix)",
+        "James Bond",
+        "Morpheus (Matrix)"
       ],
-      "risposta_corretta": "La faccina che ride con le lacrime (Joy)"
+      "risposta_corretta": "Neo (Matrix)"
     },
     {
-      "domanda": "Quale creatura marina non possiede un cervello, un cuore e nemmeno i polmoni, ed esiste da oltre 500 milioni di anni?",
+      "domanda": "Quale tra questi animali marsupiali è unico al mondo per la produzione di escrementi a forma di cubo?",
       "opzioni": [
-        "La medusa",
-        "Il cavalluccio marino",
-        "La stella marina",
-        "Il polpo"
+        "Il diavolo della Tasmania",
+        "Il vombato",
+        "Il koala",
+        "L'ornitorinco"
       ],
-      "risposta_corretta": "La medusa"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Nel film cult 'Matrix', da quale bizzarra fonte originale proviene il celebre codice verde a cascata visibile sugli schermi?",
+      "domanda": "Nel 2010 è stato effettuato il primo acquisto documentato di un bene reale tramite Bitcoin. Cosa fu comprato per 10.000 Bitcoin?",
       "opzioni": [
-        "Da un algoritmo di crittografia militare",
-        "Da un elenco telefonico di Tokyo",
-        "Da ricette di sushi digitalizzate",
-        "Da uno spartito di musica classica"
+        "Un biglietto aereo per Tokyo",
+        "Due pizze a domicilio",
+        "Un computer portatile",
+        "Un'automobile usata"
       ],
-      "risposta_corretta": "Da ricette di sushi digitalizzate"
+      "risposta_corretta": "Due pizze a domicilio"
     },
     {
-      "domanda": "Nel 1971, durante la missione Apollo 14, quale sport è stato praticato per la prima volta sulla Luna dall'astronauta Alan Shepard?",
+      "domanda": "Quale nazione possiede il maggior numero di fusi orari al mondo (ben 12), contando i suoi territori d'oltremare?",
       "opzioni": [
-        "Un lancio del frisbee",
-        "Un tiro con una pallina da golf",
-        "Una partita a scacchi",
-        "Un tiro con le freccette"
+        "Gli Stati Uniti",
+        "La Russia",
+        "La Francia",
+        "Il Regno Unito"
       ],
-      "risposta_corretta": "Un tiro con una pallina da golf"
+      "risposta_corretta": "La Francia"
     },
     {
-      "domanda": "Qual è l'unica capitale al mondo il cui territorio confina direttamente con ben due stati esteri (Austria e Ungheria)?",
+      "domanda": "Alla fine degli anni '80, quale celebre azienda è diventata temporaneamente la sesta potenza navale militare al mondo grazie a uno scambio commerciale con l'URSS?",
       "opzioni": [
-        "Bratislava",
-        "Lubiana",
-        "Praga",
-        "Budapest"
+        "Ford",
+        "Coca-Cola",
+        "Pepsi",
+        "McDonald's"
       ],
-      "risposta_corretta": "Bratislava"
+      "risposta_corretta": "Pepsi"
     },
     {
-      "domanda": "Quale iconico video musicale è stato il primo in assoluto a infrangere il muro del miliardo di visualizzazioni su YouTube?",
+      "domanda": "Da cosa ha tratto ispirazione il creatore di Pac-Man, Toru Iwatani, per la celebre forma del protagonista del videogioco?",
       "opzioni": [
-        "Gangnam Style di Psy",
-        "Baby di Justin Bieber",
-        "Despacito di Luis Fonsi",
-        "Shape of You di Ed Sheeran"
+        "Dal sole durante un'eclissi parziale",
+        "Da una pizza a cui mancava una fetta",
+        "Da una fetta di formaggio emmental",
+        "Da un ideogramma giapponese"
       ],
-      "risposta_corretta": "Gangnam Style di Psy"
+      "risposta_corretta": "Da una pizza a cui mancava una fetta"
     }
   ]
 }
