@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "A quale iconico personaggio cinematografico Will Smith ha rinunciato per recitare nel film 'Wild Wild West'?",
+      "domanda": "Quale famoso animale australiano è noto per produrre feci a forma di cubo perfetto?",
       "opzioni": [
-        "Jack Sparrow (Pirati dei Caraibi)",
-        "Neo (Matrix)",
-        "James Bond",
-        "Morpheus (Matrix)"
+        "L'Ornitorinco",
+        "Il Koala",
+        "Il Dingo",
+        "Il Wombat"
       ],
-      "risposta_corretta": "Neo (Matrix)"
+      "risposta_corretta": "Il Wombat"
     },
     {
-      "domanda": "Quale tra questi animali marsupiali è unico al mondo per la produzione di escrementi a forma di cubo?",
+      "domanda": "Nei film d'animazione Pixar e Disney compare spesso il codice 'A113'. A cosa fa riferimento questa celebre citazione?",
       "opzioni": [
-        "Il diavolo della Tasmania",
-        "Il vombato",
-        "Il koala",
-        "L'ornitorinco"
+        "All'aula universitaria dove hanno studiato molti animatori",
+        "Alla targa della prima auto di Steve Jobs",
+        "Al codice fiscale di Walt Disney",
+        "Alla prima pagina di copione di Toy Story"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "All'aula universitaria dove hanno studiato molti animatori"
     },
     {
-      "domanda": "Nel 2010 è stato effettuato il primo acquisto documentato di un bene reale tramite Bitcoin. Cosa fu comprato per 10.000 Bitcoin?",
+      "domanda": "Oltre a essere una delle più famose attrici di Hollywood degli anni '40, Hedy Lamarr è celebre per quale fondamentale invenzione?",
       "opzioni": [
-        "Un biglietto aereo per Tokyo",
-        "Due pizze a domicilio",
-        "Un computer portatile",
-        "Un'automobile usata"
+        "Il telecomando per TV",
+        "Il primo forno a microonde",
+        "Il codice a barre",
+        "La tecnologia alla base del Wi-Fi e del Bluetooth"
       ],
-      "risposta_corretta": "Due pizze a domicilio"
+      "risposta_corretta": "La tecnologia alla base del Wi-Fi e del Bluetooth"
     },
     {
-      "domanda": "Quale nazione possiede il maggior numero di fusi orari al mondo (ben 12), contando i suoi territori d'oltremare?",
+      "domanda": "Quale di questi Paesi europei è famoso per non avere alcuna popolazione nativa di zanzare?",
       "opzioni": [
-        "Gli Stati Uniti",
-        "La Russia",
-        "La Francia",
-        "Il Regno Unito"
+        "Finlandia",
+        "Svizzera",
+        "Irlanda",
+        "Islanda"
       ],
-      "risposta_corretta": "La Francia"
+      "risposta_corretta": "Islanda"
     },
     {
-      "domanda": "Alla fine degli anni '80, quale celebre azienda è diventata temporaneamente la sesta potenza navale militare al mondo grazie a uno scambio commerciale con l'URSS?",
+      "domanda": "Nel 1932, l'esercito australiano combatté una bizzarra e ufficiale 'guerra' contro un numeroso gruppo di quali animali, finendo per perdere?",
       "opzioni": [
-        "Ford",
-        "Coca-Cola",
-        "Pepsi",
-        "McDonald's"
+        "Conigli",
+        "Dingo",
+        "Canguri",
+        "Emù"
       ],
-      "risposta_corretta": "Pepsi"
+      "risposta_corretta": "Emù"
     },
     {
-      "domanda": "Da cosa ha tratto ispirazione il creatore di Pac-Man, Toru Iwatani, per la celebre forma del protagonista del videogioco?",
+      "domanda": "Quale tra questi alimenti è noto per non scadere praticamente mai, tanto da essere stato trovato ancora commestibile in antiche tombe egizie?",
       "opzioni": [
-        "Dal sole durante un'eclissi parziale",
-        "Da una pizza a cui mancava una fetta",
-        "Da una fetta di formaggio emmental",
-        "Da un ideogramma giapponese"
+        "L'olio d'oliva",
+        "Il miele",
+        "Il sale rosa",
+        "Il riso basmati"
       ],
-      "risposta_corretta": "Da una pizza a cui mancava una fetta"
+      "risposta_corretta": "Il miele"
     }
   ]
 }
