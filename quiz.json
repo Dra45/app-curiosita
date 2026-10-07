@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Il celebre suono di quale elemento iconico del cinema è stato creato combinando il ronzio di un vecchio televisore e il motore di un proiettore cinematografico?",
+      "domanda": "Perché i fenicotteri hanno il caratteristico colore rosa?",
       "opzioni": [
-        "I blaster delle navicelle in Star Wars",
-        "Il verso del T-Rex in Jurassic Park",
-        "Il respiro meccanico di Darth Vader",
-        "Il ronzio della spada laser in Star Wars"
+        "Nascono con le piume rosa per mimetizzarsi dai predatori",
+        "Rilasciano un olio speciale durante la pulizia del piumaggio",
+        "È un effetto della luce solare refratta sulle loro piume bianche",
+        "Mangiano enormi quantità di gamberetti e alghe ricchi di carotenoidi"
       ],
-      "risposta_corretta": "Il ronzio della spada laser in Star Wars"
+      "risposta_corretta": "Mangiano enormi quantità di gamberetti e alghe ricchi di carotenoidi"
     },
     {
-      "domanda": "Da dove deriva il nome della celebre tecnologia wireless 'Bluetooth'?",
+      "domanda": "Da dove proviene il famoso codice verde a cascata che si vede all'inizio del film 'Matrix'?",
       "opzioni": [
-        "Da una traduzione letterale del termine 'connessione profonda'",
-        "Da un soprannome dato dai suoi creatori a causa di una macchia d'inchiostro blu",
-        "Da un re vichingo del X secolo noto per aver unificato la Danimarca",
-        "Da una leggenda metropolitana svedese sui pirati del Mar Baltico"
+        "Da formule matematiche usate dalla NASA",
+        "Da un antico testo filosofico giapponese",
+        "Da una sequenza casuale di caratteri del sistema operativo Linux",
+        "Da una ricetta di sushi digitalizzata e tradotta"
       ],
-      "risposta_corretta": "Da un re vichingo del X secolo noto per aver unificato la Danimarca"
+      "risposta_corretta": "Da una ricetta di sushi digitalizzata e tradotta"
     },
     {
-      "domanda": "Quale animale, unico al mondo, produce naturalmente feci di forma cubica?",
+      "domanda": "Da dove deriva il nome della tecnologia 'Bluetooth', usata ogni giorno sui nostri smartphone?",
       "opzioni": [
-        "Il capibara",
-        "L'ornitorinco",
-        "Il vombato",
-        "Il bradipo tridattilo"
+        "Da un re vichingo famoso per aver unito le tribù scandinave",
+        "Da un errore di battitura del creatore della tecnologia",
+        "Dal colore blu del primo prototipo di trasmettitore",
+        "Da una famosa canzone rock degli anni '80"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "Da un re vichingo famoso per aver unito le tribù scandinave"
     },
     {
-      "domanda": "A causa della presenza di un suo territorio d'oltremare, con quale di questi paesi sudamericani la Francia condivide il suo confine terrestre più lungo?",
+      "domanda": "Nel 1932, l'esercito australiano combatté una vera e propria 'guerra' ufficiale (e la perse!) contro quale animale?",
       "opzioni": [
-        "Argentina",
-        "Brasile",
-        "Venezuela",
-        "Colombia"
+        "I canguri",
+        "I dingo",
+        "Gli emù",
+        "I koala"
       ],
-      "risposta_corretta": "Brasile"
+      "risposta_corretta": "Gli emù"
     },
     {
-      "domanda": "Prima di diventare uno dei giocattoli per bambini più famosi al mondo, a cosa serviva originariamente la plastilina 'Play-Doh'?",
+      "domanda": "Quale tra questi paesi è famoso per essere quasi del tutto privo di zanzare?",
       "opzioni": [
-        "A pulire la carta da parati dalla fuliggine del carbone",
-        "Ad isolare i cavi telegrafici dalle intemperie",
-        "Come esca sintetica per la pesca sportiva",
-        "A stuccare i tubi delle navi da guerra"
+        "La Grecia",
+        "Il Portogallo",
+        "Il Madagascar",
+        "L'Islanda"
       ],
-      "risposta_corretta": "A pulire la carta da parati dalla fuliggine del carbone"
+      "risposta_corretta": "L'Islanda"
     },
     {
-      "domanda": "Nel 1995, qual è stato il primissimo articolo mai acquistato online su Amazon?",
+      "domanda": "In quale paese è stata inventata la celebre (e discussa) 'Pizza Hawaiana' con l'ananas?",
       "opzioni": [
-        "Un lettore CD portatile",
-        "Un pacco di floppy disk",
-        "Una tazza da caffè",
-        "Un libro di scienza e filosofia"
+        "Australia",
+        "Stati Uniti (Hawaii)",
+        "Canada",
+        "Italia"
       ],
-      "risposta_corretta": "Un libro di scienza e filosofia"
+      "risposta_corretta": "Canada"
     }
   ]
 }
