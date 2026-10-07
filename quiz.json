@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale famoso animale australiano è noto per produrre feci a forma di cubo perfetto?",
+      "domanda": "Il celebre suono di quale elemento iconico del cinema è stato creato combinando il ronzio di un vecchio televisore e il motore di un proiettore cinematografico?",
       "opzioni": [
-        "L'Ornitorinco",
-        "Il Koala",
-        "Il Dingo",
-        "Il Wombat"
+        "I blaster delle navicelle in Star Wars",
+        "Il verso del T-Rex in Jurassic Park",
+        "Il respiro meccanico di Darth Vader",
+        "Il ronzio della spada laser in Star Wars"
       ],
-      "risposta_corretta": "Il Wombat"
+      "risposta_corretta": "Il ronzio della spada laser in Star Wars"
     },
     {
-      "domanda": "Nei film d'animazione Pixar e Disney compare spesso il codice 'A113'. A cosa fa riferimento questa celebre citazione?",
+      "domanda": "Da dove deriva il nome della celebre tecnologia wireless 'Bluetooth'?",
       "opzioni": [
-        "All'aula universitaria dove hanno studiato molti animatori",
-        "Alla targa della prima auto di Steve Jobs",
-        "Al codice fiscale di Walt Disney",
-        "Alla prima pagina di copione di Toy Story"
+        "Da una traduzione letterale del termine 'connessione profonda'",
+        "Da un soprannome dato dai suoi creatori a causa di una macchia d'inchiostro blu",
+        "Da un re vichingo del X secolo noto per aver unificato la Danimarca",
+        "Da una leggenda metropolitana svedese sui pirati del Mar Baltico"
       ],
-      "risposta_corretta": "All'aula universitaria dove hanno studiato molti animatori"
+      "risposta_corretta": "Da un re vichingo del X secolo noto per aver unificato la Danimarca"
     },
     {
-      "domanda": "Oltre a essere una delle più famose attrici di Hollywood degli anni '40, Hedy Lamarr è celebre per quale fondamentale invenzione?",
+      "domanda": "Quale animale, unico al mondo, produce naturalmente feci di forma cubica?",
       "opzioni": [
-        "Il telecomando per TV",
-        "Il primo forno a microonde",
-        "Il codice a barre",
-        "La tecnologia alla base del Wi-Fi e del Bluetooth"
+        "Il capibara",
+        "L'ornitorinco",
+        "Il vombato",
+        "Il bradipo tridattilo"
       ],
-      "risposta_corretta": "La tecnologia alla base del Wi-Fi e del Bluetooth"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Quale di questi Paesi europei è famoso per non avere alcuna popolazione nativa di zanzare?",
+      "domanda": "A causa della presenza di un suo territorio d'oltremare, con quale di questi paesi sudamericani la Francia condivide il suo confine terrestre più lungo?",
       "opzioni": [
-        "Finlandia",
-        "Svizzera",
-        "Irlanda",
-        "Islanda"
+        "Argentina",
+        "Brasile",
+        "Venezuela",
+        "Colombia"
       ],
-      "risposta_corretta": "Islanda"
+      "risposta_corretta": "Brasile"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano combatté una bizzarra e ufficiale 'guerra' contro un numeroso gruppo di quali animali, finendo per perdere?",
+      "domanda": "Prima di diventare uno dei giocattoli per bambini più famosi al mondo, a cosa serviva originariamente la plastilina 'Play-Doh'?",
       "opzioni": [
-        "Conigli",
-        "Dingo",
-        "Canguri",
-        "Emù"
+        "A pulire la carta da parati dalla fuliggine del carbone",
+        "Ad isolare i cavi telegrafici dalle intemperie",
+        "Come esca sintetica per la pesca sportiva",
+        "A stuccare i tubi delle navi da guerra"
       ],
-      "risposta_corretta": "Emù"
+      "risposta_corretta": "A pulire la carta da parati dalla fuliggine del carbone"
     },
     {
-      "domanda": "Quale tra questi alimenti è noto per non scadere praticamente mai, tanto da essere stato trovato ancora commestibile in antiche tombe egizie?",
+      "domanda": "Nel 1995, qual è stato il primissimo articolo mai acquistato online su Amazon?",
       "opzioni": [
-        "L'olio d'oliva",
-        "Il miele",
-        "Il sale rosa",
-        "Il riso basmati"
+        "Un lettore CD portatile",
+        "Un pacco di floppy disk",
+        "Una tazza da caffè",
+        "Un libro di scienza e filosofia"
       ],
-      "risposta_corretta": "Il miele"
+      "risposta_corretta": "Un libro di scienza e filosofia"
     }
   ]
 }
