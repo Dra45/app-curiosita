@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Perché i fenicotteri hanno il caratteristico colore rosa?",
+      "domanda": "Qual è stato il primissimo video pubblicato su YouTube nel lontano 2005?",
       "opzioni": [
-        "Nascono con le piume rosa per mimetizzarsi dai predatori",
-        "Rilasciano un olio speciale durante la pulizia del piumaggio",
-        "È un effetto della luce solare refratta sulle loro piume bianche",
-        "Mangiano enormi quantità di gamberetti e alghe ricchi di carotenoidi"
+        "Hello World",
+        "Me at the zoo",
+        "Evolution of Dance",
+        "Charlie bit my finger"
       ],
-      "risposta_corretta": "Mangiano enormi quantità di gamberetti e alghe ricchi di carotenoidi"
+      "risposta_corretta": "Me at the zoo"
     },
     {
-      "domanda": "Da dove proviene il famoso codice verde a cascata che si vede all'inizio del film 'Matrix'?",
+      "domanda": "Quale animale produce feci a forma di cubo, uniche in natura, per evitare che rotolino via dal proprio territorio?",
       "opzioni": [
-        "Da formule matematiche usate dalla NASA",
-        "Da un antico testo filosofico giapponese",
-        "Da una sequenza casuale di caratteri del sistema operativo Linux",
-        "Da una ricetta di sushi digitalizzata e tradotta"
+        "Il koala",
+        "L'ornitorinco",
+        "Il vombato",
+        "Il diavolo della Tasmania"
       ],
-      "risposta_corretta": "Da una ricetta di sushi digitalizzata e tradotta"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Da dove deriva il nome della tecnologia 'Bluetooth', usata ogni giorno sui nostri smartphone?",
+      "domanda": "Da cosa è stato creato il celebre 'codice verde a cascata' nei film della saga di The Matrix?",
       "opzioni": [
-        "Da un re vichingo famoso per aver unito le tribù scandinave",
-        "Da un errore di battitura del creatore della tecnologia",
-        "Dal colore blu del primo prototipo di trasmettitore",
-        "Da una famosa canzone rock degli anni '80"
+        "Da poesie tradizionali giapponesi",
+        "Da righe di codice di fisica quantistica",
+        "Da ricette di sushi scansionate da un libro",
+        "Da scontrini del supermercato digitalizzati"
       ],
-      "risposta_corretta": "Da un re vichingo famoso per aver unito le tribù scandinave"
+      "risposta_corretta": "Da ricette di sushi scansionate da un libro"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano combatté una vera e propria 'guerra' ufficiale (e la perse!) contro quale animale?",
+      "domanda": "Il famoso giocattolo 'Slinky' (la molla molleggiata) fu inventato per caso negli anni '40. A cosa doveva servire in origine?",
       "opzioni": [
-        "I canguri",
-        "I dingo",
-        "Gli emù",
-        "I koala"
+        "A stabilizzare gli strumenti di bordo sulle navi",
+        "Per misurare la profondità dei pozzi",
+        "Come antenna radio pieghevole per i soldati",
+        "Come sistema di ammortizzatori per auto"
       ],
-      "risposta_corretta": "Gli emù"
+      "risposta_corretta": "A stabilizzare gli strumenti di bordo sulle navi"
     },
     {
-      "domanda": "Quale tra questi paesi è famoso per essere quasi del tutto privo di zanzare?",
+      "domanda": "In quale Paese si trova la famosa località il cui nome è composto da una sola lettera: 'Å'?",
       "opzioni": [
-        "La Grecia",
-        "Il Portogallo",
-        "Il Madagascar",
-        "L'Islanda"
+        "Islanda",
+        "Finlandia",
+        "Giappone",
+        "Norvegia"
       ],
-      "risposta_corretta": "L'Islanda"
+      "risposta_corretta": "Norvegia"
     },
     {
-      "domanda": "In quale paese è stata inventata la celebre (e discussa) 'Pizza Hawaiana' con l'ananas?",
+      "domanda": "Nel 2010, quale popstar lasciò il mondo a bocca aperta presentandosi agli MTV Video Music Awards con un abito fatto interamente di carne cruda?",
       "opzioni": [
-        "Australia",
-        "Stati Uniti (Hawaii)",
-        "Canada",
-        "Italia"
+        "Miley Cyrus",
+        "Katy Perry",
+        "Rihanna",
+        "Lady Gaga"
       ],
-      "risposta_corretta": "Canada"
+      "risposta_corretta": "Lady Gaga"
     }
   ]
 }
