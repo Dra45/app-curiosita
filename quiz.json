@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è stato il primissimo video pubblicato su YouTube nel lontano 2005?",
+      "domanda": "Qual è stato il primissimo video pubblicato su YouTube nel 2005?",
       "opzioni": [
-        "Hello World",
         "Me at the zoo",
-        "Evolution of Dance",
+        "Un gatto che suona il pianoforte",
+        "Un test audio di 5 secondi",
         "Charlie bit my finger"
       ],
       "risposta_corretta": "Me at the zoo"
     },
     {
-      "domanda": "Quale animale produce feci a forma di cubo, uniche in natura, per evitare che rotolino via dal proprio territorio?",
+      "domanda": "Quale animale è noto in natura per produrre escrementi di forma perfettamente cubica?",
       "opzioni": [
-        "Il koala",
         "L'ornitorinco",
+        "Il bradipo",
         "Il vombato",
-        "Il diavolo della Tasmania"
+        "Il koala"
       ],
       "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Da cosa è stato creato il celebre 'codice verde a cascata' nei film della saga di The Matrix?",
+      "domanda": "Quando è stata fondata nel lontano 1889, quale prodotto produceva originariamente la Nintendo?",
       "opzioni": [
-        "Da poesie tradizionali giapponesi",
-        "Da righe di codice di fisica quantistica",
-        "Da ricette di sushi scansionate da un libro",
-        "Da scontrini del supermercato digitalizzati"
+        "Giocattoli in legno",
+        "Carte da gioco artigianali",
+        "Orologi da tasca",
+        "Teatrini di carta"
       ],
-      "risposta_corretta": "Da ricette di sushi scansionate da un libro"
+      "risposta_corretta": "Carte da gioco artigianali"
     },
     {
-      "domanda": "Il famoso giocattolo 'Slinky' (la molla molleggiata) fu inventato per caso negli anni '40. A cosa doveva servire in origine?",
+      "domanda": "Da quale fonte inaspettata è stato creato l'iconico codice verde a cascata del film 'Matrix'?",
       "opzioni": [
-        "A stabilizzare gli strumenti di bordo sulle navi",
-        "Per misurare la profondità dei pozzi",
-        "Come antenna radio pieghevole per i soldati",
-        "Come sistema di ammortizzatori per auto"
+        "Ricette di sushi scansionate",
+        "Spartiti di musica classica",
+        "Pagine dell'elenco telefonico di Tokyo",
+        "Equazioni di fisica quantistica"
       ],
-      "risposta_corretta": "A stabilizzare gli strumenti di bordo sulle navi"
+      "risposta_corretta": "Ricette di sushi scansionate"
     },
     {
-      "domanda": "In quale Paese si trova la famosa località il cui nome è composto da una sola lettera: 'Å'?",
+      "domanda": "A causa dei suoi numerosi territori d'oltremare, quale paese detiene il record per il maggior numero di fusi orari al mondo (ben 12)?",
       "opzioni": [
-        "Islanda",
-        "Finlandia",
-        "Giappone",
-        "Norvegia"
+        "Il Regno Unito",
+        "Gli Stati Uniti",
+        "La Francia",
+        "La Russia"
       ],
-      "risposta_corretta": "Norvegia"
+      "risposta_corretta": "La Francia"
     },
     {
-      "domanda": "Nel 2010, quale popstar lasciò il mondo a bocca aperta presentandosi agli MTV Video Music Awards con un abito fatto interamente di carne cruda?",
+      "domanda": "Da dove deriva il nome della celebre tecnologia di connessione senza fili 'Bluetooth'?",
       "opzioni": [
-        "Miley Cyrus",
-        "Katy Perry",
-        "Rihanna",
-        "Lady Gaga"
+        "Da un brano del gruppo rock Queen",
+        "Dal colore del primo led di prova",
+        "Dal soprannome di un re vichingo",
+        "Da un acronimo di telecomunicazioni militari"
       ],
-      "risposta_corretta": "Lady Gaga"
+      "risposta_corretta": "Dal soprannome di un re vichingo"
     }
   ]
 }
