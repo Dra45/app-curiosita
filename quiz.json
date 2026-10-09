@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è stato il primissimo video pubblicato su YouTube nel 2005?",
+      "domanda": "Per quale cifra simbolica James Cameron ha venduto i diritti della sceneggiatura di 'Terminator', a patto di poter dirigere il film?",
       "opzioni": [
-        "Me at the zoo",
-        "Un gatto che suona il pianoforte",
-        "Un test audio di 5 secondi",
-        "Charlie bit my finger"
+        "1.000.000 di dollari",
+        "100.000 dollari",
+        "1 dollaro",
+        "Ha ceduto i diritti gratuitamente"
       ],
-      "risposta_corretta": "Me at the zoo"
+      "risposta_corretta": "1 dollaro"
     },
     {
-      "domanda": "Quale animale è noto in natura per produrre escrementi di forma perfettamente cubica?",
+      "domanda": "Da dove deriva il nome della tecnologia wireless 'Bluetooth' che usiamo tutti i giorni?",
       "opzioni": [
-        "L'ornitorinco",
-        "Il bradipo",
-        "Il vombato",
-        "Il koala"
+        "Da un re vichingo del X secolo",
+        "Da un dispositivo navale con un led azzurro",
+        "Da un errore di battitura della parola 'BlueTooth'",
+        "Da una poesia di Steve Jobs"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "Da un re vichingo del X secolo"
     },
     {
-      "domanda": "Quando è stata fondata nel lontano 1889, quale prodotto produceva originariamente la Nintendo?",
+      "domanda": "Quale tra questi animali è l'unico al mondo a produrre feci a forma di cubo perfetto?",
       "opzioni": [
-        "Giocattoli in legno",
-        "Carte da gioco artigianali",
-        "Orologi da tasca",
-        "Teatrini di carta"
+        "Il Vombato",
+        "L'Ostrice",
+        "Il Capibara",
+        "Il Koala"
       ],
-      "risposta_corretta": "Carte da gioco artigianali"
+      "risposta_corretta": "Il Vombato"
     },
     {
-      "domanda": "Da quale fonte inaspettata è stato creato l'iconico codice verde a cascata del film 'Matrix'?",
+      "domanda": "Quale celebre personaggio dei videogiochi è stato ideato dal suo creatore guardando una pizza a cui mancava una fetta?",
       "opzioni": [
-        "Ricette di sushi scansionate",
-        "Spartiti di musica classica",
-        "Pagine dell'elenco telefonico di Tokyo",
-        "Equazioni di fisica quantistica"
+        "Super Mario",
+        "Sonic",
+        "Kirby",
+        "Pac-Man"
       ],
-      "risposta_corretta": "Ricette di sushi scansionate"
+      "risposta_corretta": "Pac-Man"
     },
     {
-      "domanda": "A causa dei suoi numerosi territori d'oltremare, quale paese detiene il record per il maggior numero di fusi orari al mondo (ben 12)?",
+      "domanda": "Quale tra questi paesi europei è famoso per non avere quasi del tutto zanzare grazie alle sue condizioni climatiche uniche?",
       "opzioni": [
-        "Il Regno Unito",
-        "Gli Stati Uniti",
-        "La Francia",
-        "La Russia"
+        "Irlanda",
+        "Norvegia",
+        "Svizzera",
+        "Islanda"
       ],
-      "risposta_corretta": "La Francia"
+      "risposta_corretta": "Islanda"
     },
     {
-      "domanda": "Da dove deriva il nome della celebre tecnologia di connessione senza fili 'Bluetooth'?",
+      "domanda": "Per quale motivo curioso fu inventata la bevanda 'Fanta' durante la Seconda Guerra Mondiale?",
       "opzioni": [
-        "Da un brano del gruppo rock Queen",
-        "Dal colore del primo led di prova",
-        "Dal soprannome di un re vichingo",
-        "Da un acronimo di telecomunicazioni militari"
+        "A causa dell'embargo che impediva di importare gli ingredienti della Coca-Cola in Germania",
+        "Per un errore di ricetta nella fabbrica della Pepsi",
+        "Per riciclare il succo d'arancia in eccesso in Italia",
+        "Come integratore vitaminico per gli astronauti"
       ],
-      "risposta_corretta": "Dal soprannome di un re vichingo"
+      "risposta_corretta": "A causa dell'embargo che impediva di importare gli ingredienti della Coca-Cola in Germania"
     }
   ]
 }
