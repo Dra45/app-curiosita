@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Il verso di quale famoso personaggio del cinema è stato creato mescolando i suoni di un orso, un leone, un tasso e un tricheco?",
+      "domanda": "Da dove deriva il nome della celebre tecnologia wireless 'Bluetooth'?",
       "opzioni": [
-        "Il T-Rex di Jurassic Park",
-        "Chewbacca",
-        "King Kong",
-        "Godzilla"
+        "Da un famoso pirata con i denti dipinti di blu",
+        "Da un re vichingo del X secolo appassionato di mirtilli",
+        "Da un errore di traduzione della parola inglese 'Blue Toothbrush'",
+        "Da un minerale riflettente scoperto in Scandinavia"
       ],
-      "risposta_corretta": "Chewbacca"
+      "risposta_corretta": "Da un re vichingo del X secolo appassionato di mirtilli"
     },
     {
-      "domanda": "Qual è stato il primissimo oggetto in assoluto venduto su eBay nel 1995?",
+      "domanda": "Per quale curioso motivo le lontre marine si tengono per mano mentre dormono galleggiando in acqua?",
       "opzioni": [
-        "Un libro di programmazione",
-        "Una sveglia d'epoca",
-        "Un puntatore laser rotto",
-        "Una chitarra usata"
+        "Per mostrare affetto al proprio partner per tutta la vita",
+        "Per riscaldarsi a vicenda nelle acque fredde",
+        "Per evitare di andare alla deriva separate dalle correnti",
+        "Per spaventare i predatori simulando un animale più grande"
       ],
-      "risposta_corretta": "Un puntatore laser rotto"
+      "risposta_corretta": "Per evitare di andare alla deriva separate dalle correnti"
     },
     {
-      "domanda": "In quale di questi Paesi, a causa delle sue particolari condizioni climatiche, non esistono del tutto le zanzare?",
+      "domanda": "Nel capolavoro cinematografico 'Jurassic Park' (1993), qual è stato il suono principale usato per creare il terribile ruggito del Tyrannosaurus Rex?",
       "opzioni": [
-        "Norvegia",
-        "Groenlandia",
-        "Nuova Zelanda",
-        "Islanda"
+        "Il ringhio combinato di un orso grizzly",
+        "Il verso di un leone marino gigante",
+        "Il barrito di un cucciolo di elefante",
+        "Il muggito di un alligatore dell'Mississippi"
       ],
-      "risposta_corretta": "Islanda"
+      "risposta_corretta": "Il barrito di un cucciolo di elefante"
     },
     {
-      "domanda": "I vombati, simpatici marsupiali australiani, sono famosi nel regno animale per una curiosa e unica caratteristica. Quale?",
+      "domanda": "Nel XVIII secolo in Europa, quale di questi frutti era un tale simbolo di ricchezza da venire 'affittato' dalle persone per sfoggiarlo ai party?",
       "opzioni": [
-        "Dormono appesi a testa in giù",
-        "Fanno la cacca a forma di cubo",
-        "Possono cambiare colore per mimetizzarsi",
-        "Hanno tre cuori e il sangue blu"
+        "Il mango",
+        "L'ananas",
+        "Il cocco",
+        "Il melograno"
       ],
-      "risposta_corretta": "Fanno la cacca a forma di cubo"
+      "risposta_corretta": "L'ananas"
     },
     {
-      "domanda": "Nel 1866, il Liechtenstein inviò un esercito di 80 uomini in guerra. Non parteciparono a nessun combattimento e tornarono a casa in quanti?",
+      "domanda": "Qual è il luogo geografico chiamato 'Punto Nemo', noto per essere il punto dell'oceano più distante da qualsiasi terra emersa?",
       "opzioni": [
-        "80",
-        "81",
-        "40",
-        "0"
+        "Il centro esatto del Triangolo delle Bermuda",
+        "Un punto nel mezzo dell'Oceano Atlantico del Nord",
+        "Una zona glaciale vicino al Polo Nord Magnetico",
+        "Un punto sperduto nell'Oceano Pacifico meridionale"
       ],
-      "risposta_corretta": "81"
+      "risposta_corretta": "Un punto sperduto nell'Oceano Pacifico meridionale"
     },
     {
-      "domanda": "Chi è il celebre artista che nel 1969 ha disegnato l'iconico logo dei lecca-lecca Chupa Chups?",
+      "domanda": "Qual è stata la ragione principale per cui il celebre personaggio dei videogiochi 'Super Mario' fu originariamente disegnato con i baffi e il cappello?",
       "opzioni": [
-        "Pablo Picasso",
-        "Salvador Dalí",
-        "Keith Haring",
-        "Andy Warhol"
+        "Per evitare di dover animare i capelli e la bocca con i pochi pixel dell'epoca",
+        "Per renderlo identico al proprietario newyorkese dei magazzini Nintendo",
+        "Per un concorso d'arte interno tra i dipendenti della Nintendo",
+        "Perché era la divisa standard degli idraulici italo-americani degli anni '80"
       ],
-      "risposta_corretta": "Salvador Dalí"
+      "risposta_corretta": "Per evitare di dover animare i capelli e la bocca con i pochi pixel dell'epoca"
     }
   ]
 }
