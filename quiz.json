@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Per quale cifra simbolica James Cameron ha venduto i diritti della sceneggiatura di 'Terminator', a patto di poter dirigere il film?",
+      "domanda": "Il verso di quale famoso personaggio del cinema è stato creato mescolando i suoni di un orso, un leone, un tasso e un tricheco?",
       "opzioni": [
-        "1.000.000 di dollari",
-        "100.000 dollari",
-        "1 dollaro",
-        "Ha ceduto i diritti gratuitamente"
+        "Il T-Rex di Jurassic Park",
+        "Chewbacca",
+        "King Kong",
+        "Godzilla"
       ],
-      "risposta_corretta": "1 dollaro"
+      "risposta_corretta": "Chewbacca"
     },
     {
-      "domanda": "Da dove deriva il nome della tecnologia wireless 'Bluetooth' che usiamo tutti i giorni?",
+      "domanda": "Qual è stato il primissimo oggetto in assoluto venduto su eBay nel 1995?",
       "opzioni": [
-        "Da un re vichingo del X secolo",
-        "Da un dispositivo navale con un led azzurro",
-        "Da un errore di battitura della parola 'BlueTooth'",
-        "Da una poesia di Steve Jobs"
+        "Un libro di programmazione",
+        "Una sveglia d'epoca",
+        "Un puntatore laser rotto",
+        "Una chitarra usata"
       ],
-      "risposta_corretta": "Da un re vichingo del X secolo"
+      "risposta_corretta": "Un puntatore laser rotto"
     },
     {
-      "domanda": "Quale tra questi animali è l'unico al mondo a produrre feci a forma di cubo perfetto?",
+      "domanda": "In quale di questi Paesi, a causa delle sue particolari condizioni climatiche, non esistono del tutto le zanzare?",
       "opzioni": [
-        "Il Vombato",
-        "L'Ostrice",
-        "Il Capibara",
-        "Il Koala"
-      ],
-      "risposta_corretta": "Il Vombato"
-    },
-    {
-      "domanda": "Quale celebre personaggio dei videogiochi è stato ideato dal suo creatore guardando una pizza a cui mancava una fetta?",
-      "opzioni": [
-        "Super Mario",
-        "Sonic",
-        "Kirby",
-        "Pac-Man"
-      ],
-      "risposta_corretta": "Pac-Man"
-    },
-    {
-      "domanda": "Quale tra questi paesi europei è famoso per non avere quasi del tutto zanzare grazie alle sue condizioni climatiche uniche?",
-      "opzioni": [
-        "Irlanda",
         "Norvegia",
-        "Svizzera",
+        "Groenlandia",
+        "Nuova Zelanda",
         "Islanda"
       ],
       "risposta_corretta": "Islanda"
     },
     {
-      "domanda": "Per quale motivo curioso fu inventata la bevanda 'Fanta' durante la Seconda Guerra Mondiale?",
+      "domanda": "I vombati, simpatici marsupiali australiani, sono famosi nel regno animale per una curiosa e unica caratteristica. Quale?",
       "opzioni": [
-        "A causa dell'embargo che impediva di importare gli ingredienti della Coca-Cola in Germania",
-        "Per un errore di ricetta nella fabbrica della Pepsi",
-        "Per riciclare il succo d'arancia in eccesso in Italia",
-        "Come integratore vitaminico per gli astronauti"
+        "Dormono appesi a testa in giù",
+        "Fanno la cacca a forma di cubo",
+        "Possono cambiare colore per mimetizzarsi",
+        "Hanno tre cuori e il sangue blu"
       ],
-      "risposta_corretta": "A causa dell'embargo che impediva di importare gli ingredienti della Coca-Cola in Germania"
+      "risposta_corretta": "Fanno la cacca a forma di cubo"
+    },
+    {
+      "domanda": "Nel 1866, il Liechtenstein inviò un esercito di 80 uomini in guerra. Non parteciparono a nessun combattimento e tornarono a casa in quanti?",
+      "opzioni": [
+        "80",
+        "81",
+        "40",
+        "0"
+      ],
+      "risposta_corretta": "81"
+    },
+    {
+      "domanda": "Chi è il celebre artista che nel 1969 ha disegnato l'iconico logo dei lecca-lecca Chupa Chups?",
+      "opzioni": [
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "Keith Haring",
+        "Andy Warhol"
+      ],
+      "risposta_corretta": "Salvador Dalí"
     }
   ]
 }
