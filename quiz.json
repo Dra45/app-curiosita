@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Come si chiamava originariamente il motore di ricerca Google quando è nato nel 1996 come progetto universitario?",
+      "domanda": "Da dove deriva il celebre nome della tecnologia wireless 'Bluetooth'?",
       "opzioni": [
-        "PageRank",
-        "WebSearch",
-        "Googol",
-        "BackRub"
+        "Dal colore del primo LED installato sul prototipo",
+        "Da un codice segreto inventato dalla Marina Svedese",
+        "Da un famoso pirata del '700 appassionato di mare",
+        "Da un re vichingo noto per aver unito le tribù scandinave"
       ],
-      "risposta_corretta": "BackRub"
+      "risposta_corretta": "Da un re vichingo noto per aver unito le tribù scandinave"
     },
     {
-      "domanda": "I vombati, simpatici marsupiali australiani, sono famosi nel regno animale per una caratteristica unica legata alle loro feci. Quale?",
+      "domanda": "Come è stato creato il leggendario ruggito del mostro Godzilla nel film originale del 1954?",
       "opzioni": [
-        "Sono completamente inodori",
-        "Brillano al buio",
-        "Hanno una forma a cubo",
-        "Cambiano colore in base al tempo"
+        "Sfregando un guanto di cuoio resinato sulle corde di un contrabbasso",
+        "Campionando il suono della frenata di un treno a vapore",
+        "Usando il barrito di un elefante distorto da un amplificatore",
+        "Registrando il verso di un leone accelerato e sovrapposto"
       ],
-      "risposta_corretta": "Hanno una forma a cubo"
+      "risposta_corretta": "Sfregando un guanto di cuoio resinato sulle corde di un contrabbasso"
     },
     {
-      "domanda": "In quale di questi paesi non esiste alcun semaforo per regolare il traffico stradale su tutto il territorio nazionale?",
+      "domanda": "Quale tra questi animali australiani è l'unico al mondo a produrre escrementi di forma cubica?",
       "opzioni": [
-        "Bhutan",
-        "Islanda",
-        "Lussemburgo",
-        "San Marino"
+        "L'ornitorinco",
+        "Il diavolo della Tasmania",
+        "Il vombato (wombat)",
+        "Il koala"
       ],
-      "risposta_corretta": "Bhutan"
+      "risposta_corretta": "Il vombato (wombat)"
     },
     {
-      "domanda": "Qual è stato il soggetto del primissimo video mai caricato su YouTube nel 2005, intitolato 'Me at the zoo'?",
+      "domanda": "Nel 1866, l'esercito del Liechtenstein partì per una missione militare con 80 soldati. Quanti ne tornarono a casa alla fine della campagna?",
       "opzioni": [
-        "Un gatto che gioca con un gomitolo",
-        "Un ragazzo che suona la chitarra",
-        "Un test di qualità della videocamera",
-        "Un ragazzo davanti al recinto degli elefanti"
+        "81 soldati, perché strinsero amicizia con un volontario lungo il tragitto",
+        "Nessuno, decisero tutti di disertare",
+        "75 soldati",
+        "Esattamente 80 soldati"
       ],
-      "risposta_corretta": "Un ragazzo davanti al recinto degli elefanti"
+      "risposta_corretta": "81 soldati, perché strinsero amicizia con un volontario lungo il tragitto"
     },
     {
-      "domanda": "Nell'Europa del XVIII secolo, l'ananas era un simbolo di ricchezza così esclusivo che le persone facoltose arrivavano a:",
+      "domanda": "Sebbene la Cina si estenda su una superficie che coprirebbe ben 5 fusi orari geografici, quanti fusi orari ufficiali adotta l'intero paese?",
       "opzioni": [
-        "Donarlo al Re per evitare di pagare le tasse",
-        "Usarlo come profumo per le carrozze nobiliari",
-        "Usarlo come valuta legale per comprare immobili",
-        "Affittarlo per sfoggiarlo alle feste senza mangiarlo"
+        "5 fusi orari, uno per ogni regione",
+        "Soltanto 1 fuso orario per tutta la nazione",
+        "2 fusi orari (Costa ed Interno)",
+        "3 fusi orari distinti"
       ],
-      "risposta_corretta": "Affittarlo per sfoggiarlo alle feste senza mangiarlo"
+      "risposta_corretta": "Soltanto 1 fuso orario per tutta la nazione"
     },
     {
-      "domanda": "Il famoso personaggio dei videogiochi 'Super Mario' all'inizio si chiamava 'Jumpman'. Perché è stato poi ribattezzato Mario?",
+      "domanda": "Quale tra questi alimenti non va MAI a male e può conservarsi commestibile anche dopo migliaia di anni?",
       "opzioni": [
-        "Dal nome del proprietario del magazzino di Nintendo negli USA",
-        "Fu scelto tramite un sondaggio tra i primi videogiocatori",
-        "In onore del nonno del creatore Shigeru Miyamoto",
-        "In omaggio al pizzaiolo preferito degli sviluppatori"
+        "La salsa di soia",
+        "L'olio extravergine d'oliva",
+        "Il riso integrale",
+        "Il miele"
       ],
-      "risposta_corretta": "Dal nome del proprietario del magazzino di Nintendo negli USA"
+      "risposta_corretta": "Il miele"
     }
   ]
 }
