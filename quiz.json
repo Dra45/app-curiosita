@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale particolare e unico adattamento rende le feci del vombato (un marsupiale australiano) famose in tutto il mondo?",
+      "domanda": "Quale celebre film d'animazione e live-action degli anni '90 è stato ispirato da una serie di popolari spot pubblicitari della Nike?",
       "opzioni": [
-        "Hanno una forma perfettamente cubica",
-        "Sono completamente liquide",
-        "Profumano di eucalipto",
-        "Sono di colore blu fluo"
+        "Space Chimps",
+        "Small Soldiers",
+        "Space Jam",
+        "Chi ha incastrato Roger Rabbit"
       ],
-      "risposta_corretta": "Hanno una forma perfettamente cubica"
+      "risposta_corretta": "Space Jam"
     },
     {
-      "domanda": "Perché nel 1991 gli scienziati dell'Università di Cambridge inventarono la prima webcam della storia?",
+      "domanda": "Da dove deriva il nome della nota tecnologia wireless 'Bluetooth'?",
       "opzioni": [
-        "Per sorvegliare l'ingresso del laboratorio",
-        "Per trasmettere un torneo di scacchi",
-        "Per controllare se la caffettiera era piena",
-        "Per monitorare la crescita di una pianta"
+        "Dal nome del cane del suo inventore",
+        "Da un re vichingo famoso per il suo dente scuro",
+        "Da un errore di battitura della parola 'BlueToothpaste'",
+        "Dalla marca di una storica pipa svedese"
       ],
-      "risposta_corretta": "Per controllare se la caffettiera era piena"
+      "risposta_corretta": "Da un re vichingo famoso per il suo dente scuro"
     },
     {
-      "domanda": "Da dove proviene in realtà l'iconico 'codice verde' che scorre nei titoli di testa del film Matrix?",
+      "domanda": "Quale tra questi animali è l'unico al mondo a produrre feci di forma cubica?",
       "opzioni": [
-        "Da ricette di sushi della moglie del designer",
-        "Dalle istruzioni di un frullatore giapponese",
-        "Da un algoritmo di crittografia della CIA",
-        "Da spartiti musicali di musica classica"
+        "Il capibara",
+        "Il wombat",
+        "Il koala",
+        "L'ornitorinco"
       ],
-      "risposta_corretta": "Da ricette di sushi della moglie del designer"
+      "risposta_corretta": "Il wombat"
     },
     {
-      "domanda": "Nonostante sia il quarto paese più grande al mondo per superficie, quanti fusi orari ufficiali adotta l'intera Cina?",
+      "domanda": "Come è stata scoperta per caso la tecnologia alla base del forno a microonde?",
       "opzioni": [
-        "Sette",
-        "Uno solo",
-        "Quattro",
-        "Cinque"
+        "Un ingegnere notò che una barretta di cioccolato gli si era sciolta in tasca",
+        "Mentre un fisico cercava di scaldare rapidamente il tè",
+        "Durante un esperimento per congelare il cibo nello spazio",
+        "A causa di un cortocircuito in un laboratorio militare"
       ],
-      "risposta_corretta": "Uno solo"
+      "risposta_corretta": "Un ingegnere notò che una barretta di cioccolato gli si era sciolta in tasca"
     },
     {
-      "domanda": "Prima di diventare un colosso dei videogiochi, cosa produceva la Nintendo alla sua fondazione nel 1889?",
+      "domanda": "Qual è stato il primo video nella storia di YouTube a raggiungere 1 miliardo di visualizzazioni?",
       "opzioni": [
-        "Giocattoli in legno",
-        "Macchine da scrivere",
-        "Carte da gioco tradizionali",
-        "Orologi da tasca"
+        "Charlie Bit My Finger",
+        "Gangnam Style",
+        "Baby Shark",
+        "Despacito"
       ],
-      "risposta_corretta": "Carte da gioco tradizionali"
+      "risposta_corretta": "Gangnam Style"
     },
     {
-      "domanda": "Cosa significa in realtà l'acronimo 'Wi-Fi', usato quotidianamente per la connessione internet senza fili?",
+      "domanda": "A causa della sua rotazione retrograda, da quale direzione vedresti sorgere il Sole se ti trovassi su Venere?",
       "opzioni": [
-        "Wide Frequency Internet",
-        "Assolutamente nulla, è solo un nome commerciale",
-        "Wireless Fidelity",
-        "Wireless Fast Interface"
+        "Da Ovest a Est",
+        "Da Nord a Sud",
+        "Il Sole non sorge mai su Venere",
+        "Da Est a Ovest"
       ],
-      "risposta_corretta": "Assolutamente nulla, è solo un nome commerciale"
+      "risposta_corretta": "Da Ovest a Est"
     }
   ]
 }
