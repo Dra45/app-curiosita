@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Da dove deriva il celebre nome della tecnologia wireless 'Bluetooth'?",
+      "domanda": "Quale particolare e unico adattamento rende le feci del vombato (un marsupiale australiano) famose in tutto il mondo?",
       "opzioni": [
-        "Dal colore del primo LED installato sul prototipo",
-        "Da un codice segreto inventato dalla Marina Svedese",
-        "Da un famoso pirata del '700 appassionato di mare",
-        "Da un re vichingo noto per aver unito le tribù scandinave"
+        "Hanno una forma perfettamente cubica",
+        "Sono completamente liquide",
+        "Profumano di eucalipto",
+        "Sono di colore blu fluo"
       ],
-      "risposta_corretta": "Da un re vichingo noto per aver unito le tribù scandinave"
+      "risposta_corretta": "Hanno una forma perfettamente cubica"
     },
     {
-      "domanda": "Come è stato creato il leggendario ruggito del mostro Godzilla nel film originale del 1954?",
+      "domanda": "Perché nel 1991 gli scienziati dell'Università di Cambridge inventarono la prima webcam della storia?",
       "opzioni": [
-        "Sfregando un guanto di cuoio resinato sulle corde di un contrabbasso",
-        "Campionando il suono della frenata di un treno a vapore",
-        "Usando il barrito di un elefante distorto da un amplificatore",
-        "Registrando il verso di un leone accelerato e sovrapposto"
+        "Per sorvegliare l'ingresso del laboratorio",
+        "Per trasmettere un torneo di scacchi",
+        "Per controllare se la caffettiera era piena",
+        "Per monitorare la crescita di una pianta"
       ],
-      "risposta_corretta": "Sfregando un guanto di cuoio resinato sulle corde di un contrabbasso"
+      "risposta_corretta": "Per controllare se la caffettiera era piena"
     },
     {
-      "domanda": "Quale tra questi animali australiani è l'unico al mondo a produrre escrementi di forma cubica?",
+      "domanda": "Da dove proviene in realtà l'iconico 'codice verde' che scorre nei titoli di testa del film Matrix?",
       "opzioni": [
-        "L'ornitorinco",
-        "Il diavolo della Tasmania",
-        "Il vombato (wombat)",
-        "Il koala"
+        "Da ricette di sushi della moglie del designer",
+        "Dalle istruzioni di un frullatore giapponese",
+        "Da un algoritmo di crittografia della CIA",
+        "Da spartiti musicali di musica classica"
       ],
-      "risposta_corretta": "Il vombato (wombat)"
+      "risposta_corretta": "Da ricette di sushi della moglie del designer"
     },
     {
-      "domanda": "Nel 1866, l'esercito del Liechtenstein partì per una missione militare con 80 soldati. Quanti ne tornarono a casa alla fine della campagna?",
+      "domanda": "Nonostante sia il quarto paese più grande al mondo per superficie, quanti fusi orari ufficiali adotta l'intera Cina?",
       "opzioni": [
-        "81 soldati, perché strinsero amicizia con un volontario lungo il tragitto",
-        "Nessuno, decisero tutti di disertare",
-        "75 soldati",
-        "Esattamente 80 soldati"
+        "Sette",
+        "Uno solo",
+        "Quattro",
+        "Cinque"
       ],
-      "risposta_corretta": "81 soldati, perché strinsero amicizia con un volontario lungo il tragitto"
+      "risposta_corretta": "Uno solo"
     },
     {
-      "domanda": "Sebbene la Cina si estenda su una superficie che coprirebbe ben 5 fusi orari geografici, quanti fusi orari ufficiali adotta l'intero paese?",
+      "domanda": "Prima di diventare un colosso dei videogiochi, cosa produceva la Nintendo alla sua fondazione nel 1889?",
       "opzioni": [
-        "5 fusi orari, uno per ogni regione",
-        "Soltanto 1 fuso orario per tutta la nazione",
-        "2 fusi orari (Costa ed Interno)",
-        "3 fusi orari distinti"
+        "Giocattoli in legno",
+        "Macchine da scrivere",
+        "Carte da gioco tradizionali",
+        "Orologi da tasca"
       ],
-      "risposta_corretta": "Soltanto 1 fuso orario per tutta la nazione"
+      "risposta_corretta": "Carte da gioco tradizionali"
     },
     {
-      "domanda": "Quale tra questi alimenti non va MAI a male e può conservarsi commestibile anche dopo migliaia di anni?",
+      "domanda": "Cosa significa in realtà l'acronimo 'Wi-Fi', usato quotidianamente per la connessione internet senza fili?",
       "opzioni": [
-        "La salsa di soia",
-        "L'olio extravergine d'oliva",
-        "Il riso integrale",
-        "Il miele"
+        "Wide Frequency Internet",
+        "Assolutamente nulla, è solo un nome commerciale",
+        "Wireless Fidelity",
+        "Wireless Fast Interface"
       ],
-      "risposta_corretta": "Il miele"
+      "risposta_corretta": "Assolutamente nulla, è solo un nome commerciale"
     }
   ]
 }
