@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale celebre film d'animazione e live-action degli anni '90 è stato ispirato da una serie di popolari spot pubblicitari della Nike?",
+      "domanda": "Quale tra questi animali è famoso per produrre feci di forma perfettamente cubica?",
       "opzioni": [
-        "Space Chimps",
-        "Small Soldiers",
-        "Space Jam",
-        "Chi ha incastrato Roger Rabbit"
+        "Pinguino imperatore",
+        "Capibara",
+        "Vombato",
+        "Koala"
       ],
-      "risposta_corretta": "Space Jam"
+      "risposta_corretta": "Vombato"
     },
     {
-      "domanda": "Da dove deriva il nome della nota tecnologia wireless 'Bluetooth'?",
+      "domanda": "Qual è stato il primissimo prodotto in assoluto venduto su Amazon nel lontano 1995?",
       "opzioni": [
-        "Dal nome del cane del suo inventore",
-        "Da un re vichingo famoso per il suo dente scuro",
-        "Da un errore di battitura della parola 'BlueToothpaste'",
-        "Dalla marca di una storica pipa svedese"
+        "Un lettore CD portatile",
+        "Una tazza da caffè",
+        "Un floppy disk con un software per computer",
+        "Un libro sulla modellazione di concetti cognitivi"
       ],
-      "risposta_corretta": "Da un re vichingo famoso per il suo dente scuro"
+      "risposta_corretta": "Un libro sulla modellazione di concetti cognitivi"
     },
     {
-      "domanda": "Quale tra questi animali è l'unico al mondo a produrre feci di forma cubica?",
+      "domanda": "Per creare l'iconico e terrificante ruggito del T-Rex nel film 'Jurassic Park', i tecnici del suono hanno rallentato e mixato il verso di quale animale?",
       "opzioni": [
-        "Il capibara",
-        "Il wombat",
-        "Il koala",
-        "L'ornitorinco"
+        "Un cucciolo di elefante",
+        "Un leone ruggente",
+        "Un alligatore",
+        "Un leone marino"
       ],
-      "risposta_corretta": "Il wombat"
+      "risposta_corretta": "Un cucciolo di elefante"
     },
     {
-      "domanda": "Come è stata scoperta per caso la tecnologia alla base del forno a microonde?",
+      "domanda": "Nel XVIII secolo in Europa, l'ananas era un tale simbolo di ricchezza estrema che le persone benestanti potevano fare qualcosa di bizzarro. Cosa?",
       "opzioni": [
-        "Un ingegnere notò che una barretta di cioccolato gli si era sciolta in tasca",
-        "Mentre un fisico cercava di scaldare rapidamente il tè",
-        "Durante un esperimento per congelare il cibo nello spazio",
-        "A causa di un cortocircuito in un laboratorio militare"
+        "Regalarlo ai servitori come premio di produzione",
+        "Noleggiarne uno solo per sfoggiarlo ai party",
+        "Dipingerlo d'oro per non pagare le tasse di lusso",
+        "Usarlo come centrotavola benedetto dal Papa"
       ],
-      "risposta_corretta": "Un ingegnere notò che una barretta di cioccolato gli si era sciolta in tasca"
+      "risposta_corretta": "Noleggiarne uno solo per sfoggiarlo ai party"
     },
     {
-      "domanda": "Qual è stato il primo video nella storia di YouTube a raggiungere 1 miliardo di visualizzazioni?",
+      "domanda": "In quale di questi paesi non esistono le zanzare, grazie al suo clima unico e ai rapidi sbalzi termici?",
       "opzioni": [
-        "Charlie Bit My Finger",
-        "Gangnam Style",
-        "Baby Shark",
-        "Despacito"
+        "Svizzera",
+        "Finlandia",
+        "Islanda",
+        "Norvegia"
       ],
-      "risposta_corretta": "Gangnam Style"
+      "risposta_corretta": "Islanda"
     },
     {
-      "domanda": "A causa della sua rotazione retrograda, da quale direzione vedresti sorgere il Sole se ti trovassi su Venere?",
+      "domanda": "Le famose patatine fritte croccanti in busta (a sfoglia sottilissima) sono nate per caso nel 1853 a causa di cosa?",
       "opzioni": [
-        "Da Ovest a Est",
-        "Da Nord a Sud",
-        "Il Sole non sorge mai su Venere",
-        "Da Est a Ovest"
+        "Una scommessa persa tra due chef stellati dell'epoca",
+        "Un cliente pignolo che si lamentava delle patate troppo spesse",
+        "Un errore durante la distillazione dell'olio",
+        "Un incendio accidentale nella cucina di un famoso hotel"
       ],
-      "risposta_corretta": "Da Ovest a Est"
+      "risposta_corretta": "Un cliente pignolo che si lamentava delle patate troppo spesse"
     }
   ]
 }
