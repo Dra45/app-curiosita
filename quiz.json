@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale tra questi animali è famoso per produrre feci di forma perfettamente cubica?",
+      "domanda": "Quale animale è famoso per produrre feci a forma di cubo perfetto, una caratteristica unica che impedisce loro di rotolare via dal proprio territorio?",
       "opzioni": [
-        "Pinguino imperatore",
-        "Capibara",
-        "Vombato",
-        "Koala"
+        "Il koala",
+        "L'ornitorinco",
+        "Il vombato",
+        "Il tasso australiano"
       ],
-      "risposta_corretta": "Vombato"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Qual è stato il primissimo prodotto in assoluto venduto su Amazon nel lontano 1995?",
+      "domanda": "La tecnologia wireless 'Bluetooth' deve il suo nome al re vichingo Harald Bluetooth. Per quale motivo gli fu dato questo soprannome?",
       "opzioni": [
-        "Un lettore CD portatile",
-        "Una tazza da caffè",
-        "Un floppy disk con un software per computer",
-        "Un libro sulla modellazione di concetti cognitivi"
+        "Aveva un dente morto di colore scuro/bluastro",
+        "Masticava costantemente mirtilli selvatici",
+        "Dipingeva il suo scudo di blu prima di ogni battaglia",
+        "Indossava sempre un'armatura dai riflessi blu"
       ],
-      "risposta_corretta": "Un libro sulla modellazione di concetti cognitivi"
+      "risposta_corretta": "Aveva un dente morto di colore scuro/bluastro"
     },
     {
-      "domanda": "Per creare l'iconico e terrificante ruggito del T-Rex nel film 'Jurassic Park', i tecnici del suono hanno rallentato e mixato il verso di quale animale?",
+      "domanda": "Il famoso 'codice verde' che scorre all'inizio e durante il film Matrix sembra un'elaborata sequenza informatica, ma da dove proviene davvero?",
       "opzioni": [
-        "Un cucciolo di elefante",
-        "Un leone ruggente",
-        "Un alligatore",
-        "Un leone marino"
+        "Dalle formule chimiche di vari farmaci",
+        "Da estratti del codice sorgente di Windows 95",
+        "Da ricette di sushi scansionate da un libro di cucina",
+        "Da spartiti di musica classica rielaborati"
       ],
-      "risposta_corretta": "Un cucciolo di elefante"
+      "risposta_corretta": "Da ricette di sushi scansionate da un libro di cucina"
     },
     {
-      "domanda": "Nel XVIII secolo in Europa, l'ananas era un tale simbolo di ricchezza estrema che le persone benestanti potevano fare qualcosa di bizzarro. Cosa?",
+      "domanda": "Nel 1866, durante la guerra austro-prussiana, il Liechtenstein inviò un piccolo esercito di 80 soldati al fronte. Con quanti uomini tornarono a casa a fine conflitto?",
       "opzioni": [
-        "Regalarlo ai servitori come premio di produzione",
-        "Noleggiarne uno solo per sfoggiarlo ai party",
-        "Dipingerlo d'oro per non pagare le tasse di lusso",
-        "Usarlo come centrotavola benedetto dal Papa"
+        "100 (incorporarono una banda musicale incontrata lungo la strada)",
+        "81 (fecero amicizia con un ufficiale italiano che tornò con loro)",
+        "79 (uno rimase ferito)",
+        "80 (nessuna perdita)"
       ],
-      "risposta_corretta": "Noleggiarne uno solo per sfoggiarlo ai party"
+      "risposta_corretta": "81 (fecero amicizia con un ufficiale italiano che tornò con loro)"
     },
     {
-      "domanda": "In quale di questi paesi non esistono le zanzare, grazie al suo clima unico e ai rapidi sbalzi termici?",
+      "domanda": "Il primissimo video mai caricato su YouTube nel 2005 dura solo 18 secondi. Dove si trova il co-fondatore Jawed Karim mentre parla alla telecamera?",
       "opzioni": [
-        "Svizzera",
-        "Finlandia",
-        "Islanda",
-        "Norvegia"
+        "Nel garage dove è nato YouTube",
+        "In una stanza d'albergo a Parigi",
+        "Nel retroscena di un concerto rock",
+        "Davanti alla gabbia degli elefanti allo zoo di San Diego"
       ],
-      "risposta_corretta": "Islanda"
+      "risposta_corretta": "Davanti alla gabbia degli elefanti allo zoo di San Diego"
     },
     {
-      "domanda": "Le famose patatine fritte croccanti in busta (a sfoglia sottilissima) sono nate per caso nel 1853 a causa di cosa?",
+      "domanda": "Quale di queste nazioni europee è famosa per essere quasi totalmente priva di zanzare, grazie alle sue particolari condizioni climatiche e ai cicli di congelamento e scongelamento?",
       "opzioni": [
-        "Una scommessa persa tra due chef stellati dell'epoca",
-        "Un cliente pignolo che si lamentava delle patate troppo spesse",
-        "Un errore durante la distillazione dell'olio",
-        "Un incendio accidentale nella cucina di un famoso hotel"
+        "L'Irlanda",
+        "La Norvegia",
+        "L'Islanda",
+        "La Svizzera"
       ],
-      "risposta_corretta": "Un cliente pignolo che si lamentava delle patate troppo spesse"
+      "risposta_corretta": "L'Islanda"
     }
   ]
 }
