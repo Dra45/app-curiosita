@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale animale è famoso per produrre feci a forma di cubo perfetto, una caratteristica unica che impedisce loro di rotolare via dal proprio territorio?",
+      "domanda": "Qual è stata la prima emoji in assoluto a essere eletta 'Parola dell'Anno' dal celebre Oxford English Dictionary nel 2015?",
       "opzioni": [
-        "Il koala",
-        "L'ornitorinco",
-        "Il vombato",
-        "Il tasso australiano"
+        "Faccia con lacrime di gioia 😂",
+        "Pollice in su 👍",
+        "Faccia con occhiali da sole 😎",
+        "Cuore rosso ❤️"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "Faccia con lacrime di gioia 😂"
     },
     {
-      "domanda": "La tecnologia wireless 'Bluetooth' deve il suo nome al re vichingo Harald Bluetooth. Per quale motivo gli fu dato questo soprannome?",
+      "domanda": "Quale iconico suono della saga di 'Guerre Stellari' (Star Wars) è stato creato registrando il rumore di un cacciavite che urta il cavo di un'antenna radio?",
       "opzioni": [
-        "Aveva un dente morto di colore scuro/bluastro",
-        "Masticava costantemente mirtilli selvatici",
-        "Dipingeva il suo scudo di blu prima di ogni battaglia",
-        "Indossava sempre un'armatura dai riflessi blu"
+        "Il suono della spada laser",
+        "Il respiro di Darth Vader",
+        "Il ruggito di Chewbecca",
+        "Il cinguettio metallico di R2-D2"
       ],
-      "risposta_corretta": "Aveva un dente morto di colore scuro/bluastro"
+      "risposta_corretta": "Il suono della spada laser"
     },
     {
-      "domanda": "Il famoso 'codice verde' che scorre all'inizio e durante il film Matrix sembra un'elaborata sequenza informatica, ma da dove proviene davvero?",
+      "domanda": "Qual è l'unico Stato al mondo ad avere una bandiera nazionale che non è né rettangolare né quadrata, ma formata da due triangoli sovrapposti?",
       "opzioni": [
-        "Dalle formule chimiche di vari farmaci",
-        "Da estratti del codice sorgente di Windows 95",
-        "Da ricette di sushi scansionate da un libro di cucina",
-        "Da spartiti di musica classica rielaborati"
+        "Sri Lanka",
+        "Bhutan",
+        "Nepal",
+        "Madagascar"
       ],
-      "risposta_corretta": "Da ricette di sushi scansionate da un libro di cucina"
+      "risposta_corretta": "Nepal"
     },
     {
-      "domanda": "Nel 1866, durante la guerra austro-prussiana, il Liechtenstein inviò un piccolo esercito di 80 soldati al fronte. Con quanti uomini tornarono a casa a fine conflitto?",
+      "domanda": "Nel 1932 l'esercito australiano combatté un'insolita e reale 'guerra' militare contro quale tipo di animale, venendo clamorosamente sconfitto?",
       "opzioni": [
-        "100 (incorporarono una banda musicale incontrata lungo la strada)",
-        "81 (fecero amicizia con un ufficiale italiano che tornò con loro)",
-        "79 (uno rimase ferito)",
-        "80 (nessuna perdita)"
+        "Emu",
+        "Canguri",
+        "Koala",
+        "Dingo"
       ],
-      "risposta_corretta": "81 (fecero amicizia con un ufficiale italiano che tornò con loro)"
+      "risposta_corretta": "Emu"
     },
     {
-      "domanda": "Il primissimo video mai caricato su YouTube nel 2005 dura solo 18 secondi. Dove si trova il co-fondatore Jawed Karim mentre parla alla telecamera?",
+      "domanda": "Esistono diversi animali capaci di planare tra gli alberi, ma qual è l'UNICO mammifero al mondo davvero in grado di volare in modo attivo?",
       "opzioni": [
-        "Nel garage dove è nato YouTube",
-        "In una stanza d'albergo a Parigi",
-        "Nel retroscena di un concerto rock",
-        "Davanti alla gabbia degli elefanti allo zoo di San Diego"
+        "Il pipistrello",
+        "Il petauro dello zucchero",
+        "Lo scoiattolo volante",
+        "Il lemure volante"
       ],
-      "risposta_corretta": "Davanti alla gabbia degli elefanti allo zoo di San Diego"
+      "risposta_corretta": "Il pipistrello"
     },
     {
-      "domanda": "Quale di queste nazioni europee è famosa per essere quasi totalmente priva di zanzare, grazie alle sue particolari condizioni climatiche e ai cicli di congelamento e scongelamento?",
+      "domanda": "Quale leggendario videogioco è stato ideato dal programmatore Alexey Pajitnov nel 1984, mentre lavorava al Centro di Calcolo dell'Accademia delle Scienze dell'URSS?",
       "opzioni": [
-        "L'Irlanda",
-        "La Norvegia",
-        "L'Islanda",
-        "La Svizzera"
+        "Space Invaders",
+        "Pac-Man",
+        "Tetris",
+        "Minesweeper"
       ],
-      "risposta_corretta": "L'Islanda"
+      "risposta_corretta": "Tetris"
     }
   ]
 }
