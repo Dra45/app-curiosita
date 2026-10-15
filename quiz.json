@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è stata la prima emoji in assoluto a essere eletta 'Parola dell'Anno' dal celebre Oxford English Dictionary nel 2015?",
+      "domanda": "Nel 1974, qual è stato il primo prodotto commerciale in assoluto ad essere scansionato alla cassa con un codice a barre?",
       "opzioni": [
-        "Faccia con lacrime di gioia 😂",
-        "Pollice in su 👍",
-        "Faccia con occhiali da sole 😎",
-        "Cuore rosso ❤️"
+        "Una lattina di Coca-Cola",
+        "Un barattolo di zuppa Campbell",
+        "Una scatola di fiammiferi",
+        "Un pacchetto di chewing gum Wrigley's"
       ],
-      "risposta_corretta": "Faccia con lacrime di gioia 😂"
+      "risposta_corretta": "Un pacchetto di chewing gum Wrigley's"
     },
     {
-      "domanda": "Quale iconico suono della saga di 'Guerre Stellari' (Star Wars) è stato creato registrando il rumore di un cacciavite che urta il cavo di un'antenna radio?",
+      "domanda": "Il famoso suono delle armi 'blaster' nella saga di Star Wars è stato creato dal sound designer colpendo con un martello quale oggetto?",
       "opzioni": [
-        "Il suono della spada laser",
-        "Il respiro di Darth Vader",
-        "Il ruggito di Chewbecca",
-        "Il cinguettio metallico di R2-D2"
+        "Il cavo d'acciaio di una torre radio",
+        "Una molla da ginnastica arrugginita",
+        "Una lastra di vetro temperato",
+        "Un tubo di scappamento metallico"
       ],
-      "risposta_corretta": "Il suono della spada laser"
+      "risposta_corretta": "Il cavo d'acciaio di una torre radio"
     },
     {
-      "domanda": "Qual è l'unico Stato al mondo ad avere una bandiera nazionale che non è né rettangolare né quadrata, ma formata da due triangoli sovrapposti?",
+      "domanda": "Quale nazione possiede il maggior numero di fusi orari al mondo se si considerano anche i suoi territori d'oltremare?",
       "opzioni": [
-        "Sri Lanka",
-        "Bhutan",
-        "Nepal",
-        "Madagascar"
+        "Stati Uniti",
+        "Russia",
+        "Francia",
+        "Regno Unito"
       ],
-      "risposta_corretta": "Nepal"
+      "risposta_corretta": "Francia"
     },
     {
-      "domanda": "Nel 1932 l'esercito australiano combatté un'insolita e reale 'guerra' militare contro quale tipo di animale, venendo clamorosamente sconfitto?",
+      "domanda": "La celebre attrice di Hollywood Hedy Lamarr è fondamentale per il mondo moderno perché negli anni '40 ha co-inventato la tecnologia alla base di cosa?",
       "opzioni": [
-        "Emu",
-        "Canguri",
-        "Koala",
-        "Dingo"
+        "Dello schermo touch screen",
+        "Del Wi-Fi e del Bluetooth",
+        "Della fotografia digitale",
+        "Del forno a microonde"
       ],
-      "risposta_corretta": "Emu"
+      "risposta_corretta": "Del Wi-Fi e del Bluetooth"
     },
     {
-      "domanda": "Esistono diversi animali capaci di planare tra gli alberi, ma qual è l'UNICO mammifero al mondo davvero in grado di volare in modo attivo?",
+      "domanda": "Per quale motivo curioso le lontre marine si tengono per mano mentre dormono galleggiando sull'acqua?",
       "opzioni": [
-        "Il pipistrello",
-        "Il petauro dello zucchero",
-        "Lo scoiattolo volante",
-        "Il lemure volante"
+        "Per un rituale quotidiano di corteggiamento",
+        "Per scambiarsi calore corporeo",
+        "Per evitare di andare alla deriva separate dalle correnti",
+        "Per spaventare i predatori simulando dimensioni maggiori"
       ],
-      "risposta_corretta": "Il pipistrello"
+      "risposta_corretta": "Per evitare di andare alla deriva separate dalle correnti"
     },
     {
-      "domanda": "Quale leggendario videogioco è stato ideato dal programmatore Alexey Pajitnov nel 1984, mentre lavorava al Centro di Calcolo dell'Accademia delle Scienze dell'URSS?",
+      "domanda": "Il leggendario designer Toru Iwatani ha dichiarato di aver ideato la forma iconica di Pac-Man guardando cosa?",
       "opzioni": [
-        "Space Invaders",
-        "Pac-Man",
-        "Tetris",
-        "Minesweeper"
+        "Un bagel tagliato a metà",
+        "Un formaggio svizzero con i buchi",
+        "Una pizza a cui mancava una fetta",
+        "Una torta di mele appena sfornata"
       ],
-      "risposta_corretta": "Tetris"
+      "risposta_corretta": "Una pizza a cui mancava una fetta"
     }
   ]
 }
