@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Nel 1974, qual è stato il primo prodotto commerciale in assoluto ad essere scansionato alla cassa con un codice a barre?",
+      "domanda": "Qual è stato il primo video musicale nella storia di YouTube a superare la soglia di 1 miliardo di visualizzazioni?",
       "opzioni": [
-        "Una lattina di Coca-Cola",
-        "Un barattolo di zuppa Campbell",
-        "Una scatola di fiammiferi",
-        "Un pacchetto di chewing gum Wrigley's"
+        "Shape of You di Ed Sheeran",
+        "Gangnam Style di Psy",
+        "Despacito di Luis Fonsi",
+        "Baby di Justin Bieber"
       ],
-      "risposta_corretta": "Un pacchetto di chewing gum Wrigley's"
+      "risposta_corretta": "Gangnam Style di Psy"
     },
     {
-      "domanda": "Il famoso suono delle armi 'blaster' nella saga di Star Wars è stato creato dal sound designer colpendo con un martello quale oggetto?",
+      "domanda": "Quale tra questi animali possiede impronte digitali così simili a quelle umane da poter persino confondere le indagini della polizia scientifica?",
       "opzioni": [
-        "Il cavo d'acciaio di una torre radio",
-        "Una molla da ginnastica arrugginita",
-        "Una lastra di vetro temperato",
-        "Un tubo di scappamento metallico"
+        "Il koala",
+        "Lo scimpanzé",
+        "Il procione",
+        "Il bradipo"
       ],
-      "risposta_corretta": "Il cavo d'acciaio di una torre radio"
+      "risposta_corretta": "Il koala"
     },
     {
-      "domanda": "Quale nazione possiede il maggior numero di fusi orari al mondo se si considerano anche i suoi territori d'oltremare?",
+      "domanda": "Nel celebre film 'Matrix', da cosa è composto in realtà l'iconico codice verde che scende a cascata sullo schermo?",
       "opzioni": [
-        "Stati Uniti",
-        "Russia",
-        "Francia",
-        "Regno Unito"
+        "Equazioni matematiche utilizzate per i primi computer",
+        "Versi di poesie tradizionali cinesi tradotti in simboli",
+        "Coordinate GPS di varie capitali del mondo",
+        "Ricette di sushi scansionate da un libro di cucina giapponese"
       ],
-      "risposta_corretta": "Francia"
+      "risposta_corretta": "Ricette di sushi scansionate da un libro di cucina giapponese"
     },
     {
-      "domanda": "La celebre attrice di Hollywood Hedy Lamarr è fondamentale per il mondo moderno perché negli anni '40 ha co-inventato la tecnologia alla base di cosa?",
+      "domanda": "Nel 1932 l'esercito australiano ingaggiò una vera e propria bizzarra 'guerra' (che finì per perdere) contro quale specie animale?",
       "opzioni": [
-        "Dello schermo touch screen",
-        "Del Wi-Fi e del Bluetooth",
-        "Della fotografia digitale",
-        "Del forno a microonde"
+        "I canguri rossi",
+        "Gli emù",
+        "I rospi delle canne",
+        "I dingo"
       ],
-      "risposta_corretta": "Del Wi-Fi e del Bluetooth"
+      "risposta_corretta": "Gli emù"
     },
     {
-      "domanda": "Per quale motivo curioso le lontre marine si tengono per mano mentre dormono galleggiando sull'acqua?",
+      "domanda": "Se si contano tutti i territori d'oltremare, qual è lo Stato del mondo che comprende il maggior numero di fusi orari in assoluto?",
       "opzioni": [
-        "Per un rituale quotidiano di corteggiamento",
-        "Per scambiarsi calore corporeo",
-        "Per evitare di andare alla deriva separate dalle correnti",
-        "Per spaventare i predatori simulando dimensioni maggiori"
+        "La Cina",
+        "La Russia",
+        "Gli Stati Uniti",
+        "La Francia"
       ],
-      "risposta_corretta": "Per evitare di andare alla deriva separate dalle correnti"
+      "risposta_corretta": "La Francia"
     },
     {
-      "domanda": "Il leggendario designer Toru Iwatani ha dichiarato di aver ideato la forma iconica di Pac-Man guardando cosa?",
+      "domanda": "Per quale curioso motivo John Harvey Kellogg inventò originariamente i famosi cereali 'Corn Flakes' alla fine dell'Ottocento?",
       "opzioni": [
-        "Un bagel tagliato a metà",
-        "Un formaggio svizzero con i buchi",
-        "Una pizza a cui mancava una fetta",
-        "Una torta di mele appena sfornata"
+        "Come razione alimentare ad altissima conservazione per l'esercito",
+        "Per offrire un cibo da colazione economico durante una carestia",
+        "Come cibo blando e anti-stimolante per frenare i desideri sessuali",
+        "Come cura immediata per i problemi digestivi dei ricchi ricoverati"
       ],
-      "risposta_corretta": "Una pizza a cui mancava una fetta"
+      "risposta_corretta": "Come cibo blando e anti-stimolante per frenare i desideri sessuali"
     }
   ]
 }
