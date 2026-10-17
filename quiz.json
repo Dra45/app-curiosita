@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Da dove deriva il nome della tecnologia 'Bluetooth', presente su tutti i nostri smartphone?",
+      "domanda": "Da dove deriva il nome della celebre tecnologia wireless 'Bluetooth'?",
       "opzioni": [
-        "Da un re vichingo del X secolo famoso per aver unito la Scandinavia",
-        "Dall'acronimo di 'Basic Low Energy Optical Transmission Host'",
-        "Da un famoso esperimento di trasmissione radio con laser blu",
-        "Dal cognome dell'ingegnere svedese che l'ha inventata"
+        "Da un acronimo militare della Guerra Fredda",
+        "Da un re vichingo famoso per aver unificato la Danimarca",
+        "Dal soprannome del cane del suo inventore",
+        "Da un errore di traduzione di un termine svedese"
       ],
-      "risposta_corretta": "Da un re vichingo del X secolo famoso per aver unito la Scandinavia"
+      "risposta_corretta": "Da un re vichingo famoso per aver unificato la Danimarca"
     },
     {
-      "domanda": "Qual è l'unico animale al mondo noto per produrre feci di forma perfettamente cubica?",
+      "domanda": "Qual è stato il primo lungometraggio interamente realizzato in computer grafica 3D nella storia del cinema?",
       "opzioni": [
-        "Il diavolo della Tasmania",
-        "Il vombato",
-        "Il koala",
-        "L'ornitorinco"
+        "Shrek",
+        "A Bug's Life",
+        "Toy Story - Il mondo dei giocattoli",
+        "Monsters & Co."
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "Toy Story - Il mondo dei giocattoli"
     },
     {
-      "domanda": "Quale iconico suono del cinema è stato creato combinando il ruggito di un cucciolo di elefante, il soffio di un alligatore e il grugnito di una tigre?",
+      "domanda": "Quanti cuori possiede un polpo?",
       "opzioni": [
-        "Il verso di Godzilla nel film del 1998",
-        "Il respiro di Darth Vader in 'Star Wars'",
-        "Il ruggito del T-Rex in 'Jurassic Park'",
-        "Il demogorgone di 'Stranger Things'"
+        "3",
+        "4",
+        "1",
+        "2"
       ],
-      "risposta_corretta": "Il ruggito del T-Rex in 'Jurassic Park'"
+      "risposta_corretta": "3"
     },
     {
-      "domanda": "Sorprendentemente, con quale Paese la Francia condivide il suo confine terrestre più lungo?",
+      "domanda": "Alla fine degli anni '80, quale famosa azienda diventò temporaneamente proprietaria di una delle più grandi flotte militari al mondo in seguito a un accordo con l'Unione Sovietica?",
       "opzioni": [
-        "La Spagna",
-        "La Germania",
-        "Il Brasile",
-        "Il Belgio"
+        "Nivea",
+        "Coca-Cola",
+        "McDonald's",
+        "Pepsi"
       ],
-      "risposta_corretta": "Il Brasile"
+      "risposta_corretta": "Pepsi"
     },
     {
-      "domanda": "Nel 2012, quale video musicale è diventato il primo nella storia di Internet a superare 1 miliardo di visualizzazioni su YouTube?",
+      "domanda": "Con quale nome era inizialmente conosciuto il celebre personaggio di Mario al suo debutto nel videogioco Donkey Kong del 1981?",
       "opzioni": [
-        "'Gangnam Style' di Psy",
-        "'Thriller' di Michael Jackson",
-        "'Baby' di Justin Bieber",
-        "'Despacito' di Luis Fonsi"
+        "Jumpman",
+        "Plumber Joe",
+        "Red Cap",
+        "Super Guy"
       ],
-      "risposta_corretta": "'Gangnam Style' di Psy"
+      "risposta_corretta": "Jumpman"
     },
     {
-      "domanda": "Quanto pesa mediamente una tipica nuvola cumuliforme (quelle bianche e soffici che vediamo nelle belle giornate estive)?",
+      "domanda": "Quale Paese al mondo possiede il maggior numero di fusi orari, considerando anche tutti i suoi territori d'oltremare?",
       "opzioni": [
-        "Circa 500 tonnellate (come circa 100 elefanti)",
-        "Circa 500 chili",
-        "Circa 10 tonnellate",
-        "Meno di 50 grammi, dato che galleggia nell'aria"
+        "Russia",
+        "Francia",
+        "Cina",
+        "Stati Uniti"
       ],
-      "risposta_corretta": "Circa 500 tonnellate (come circa 100 elefanti)"
+      "risposta_corretta": "Francia"
     }
   ]
 }
