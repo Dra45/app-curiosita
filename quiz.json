@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale attore ha prestato la voce e i movimenti in motion-capture sia per il personaggio di Gollum ne 'Il Signore degli Anelli' sia per Cesare nel reboot de 'L'alba del pianeta delle scimmie'?",
+      "domanda": "Da dove deriva il nome della tecnologia 'Bluetooth', presente su tutti i nostri smartphone?",
       "opzioni": [
-        "Andy Serkis",
-        "Benedict Cumberbatch",
-        "Gary Oldman",
-        "Doug Jones"
+        "Da un re vichingo del X secolo famoso per aver unito la Scandinavia",
+        "Dall'acronimo di 'Basic Low Energy Optical Transmission Host'",
+        "Da un famoso esperimento di trasmissione radio con laser blu",
+        "Dal cognome dell'ingegnere svedese che l'ha inventata"
       ],
-      "risposta_corretta": "Andy Serkis"
+      "risposta_corretta": "Da un re vichingo del X secolo famoso per aver unito la Scandinavia"
     },
     {
-      "domanda": "Prima di diventare il colosso dell'e-commerce che conosciamo oggi, che cosa vendeva esclusivamente Amazon al momento della sua nascita nel 1994?",
+      "domanda": "Qual è l'unico animale al mondo noto per produrre feci di forma perfettamente cubica?",
       "opzioni": [
-        "Videocassette VHS",
-        "Dischi in vinile",
-        "Hardware per computer",
-        "Libri"
+        "Il diavolo della Tasmania",
+        "Il vombato",
+        "Il koala",
+        "L'ornitorinco"
       ],
-      "risposta_corretta": "Libri"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano ingaggiò una celebre e bizzarra 'guerra' per contenere la sovrappopolazione di quali animali (finendo incredibilmente per perdere)?",
+      "domanda": "Quale iconico suono del cinema è stato creato combinando il ruggito di un cucciolo di elefante, il soffio di un alligatore e il grugnito di una tigre?",
       "opzioni": [
-        "Conigli",
-        "Dingo",
-        "Canguri",
-        "Emù"
+        "Il verso di Godzilla nel film del 1998",
+        "Il respiro di Darth Vader in 'Star Wars'",
+        "Il ruggito del T-Rex in 'Jurassic Park'",
+        "Il demogorgone di 'Stranger Things'"
       ],
-      "risposta_corretta": "Emù"
+      "risposta_corretta": "Il ruggito del T-Rex in 'Jurassic Park'"
     },
     {
-      "domanda": "Qual è l'unico mammifero al mondo capace di un volo battuto vero e proprio, e non soltanto di planare da un albero all'altro?",
+      "domanda": "Sorprendentemente, con quale Paese la Francia condivide il suo confine terrestre più lungo?",
       "opzioni": [
-        "Lo scoiattolo volante",
-        "Il pipistrello",
-        "Il petauro dello zucchero",
-        "Il lemure volante"
+        "La Spagna",
+        "La Germania",
+        "Il Brasile",
+        "Il Belgio"
       ],
-      "risposta_corretta": "Il pipistrello"
+      "risposta_corretta": "Il Brasile"
     },
     {
-      "domanda": "In quale nazione si trova il Deserto di Atacama, noto per la sua 'Valle della Luna' e considerato uno dei luoghi più aridi del pianeta?",
+      "domanda": "Nel 2012, quale video musicale è diventato il primo nella storia di Internet a superare 1 miliardo di visualizzazioni su YouTube?",
       "opzioni": [
-        "Cile",
-        "Mongolia",
-        "Egitto",
-        "Australia"
+        "'Gangnam Style' di Psy",
+        "'Thriller' di Michael Jackson",
+        "'Baby' di Justin Bieber",
+        "'Despacito' di Luis Fonsi"
       ],
-      "risposta_corretta": "Cile"
+      "risposta_corretta": "'Gangnam Style' di Psy"
     },
     {
-      "domanda": "Con oltre 300 milioni di copie vendute in tutto il mondo, qual è il videogioco più venduto della storia?",
+      "domanda": "Quanto pesa mediamente una tipica nuvola cumuliforme (quelle bianche e soffici che vediamo nelle belle giornate estive)?",
       "opzioni": [
-        "Minecraft",
-        "Grand Theft Auto V",
-        "Super Mario Bros.",
-        "Tetris"
+        "Circa 500 tonnellate (come circa 100 elefanti)",
+        "Circa 500 chili",
+        "Circa 10 tonnellate",
+        "Meno di 50 grammi, dato che galleggia nell'aria"
       ],
-      "risposta_corretta": "Minecraft"
+      "risposta_corretta": "Circa 500 tonnellate (come circa 100 elefanti)"
     }
   ]
 }
