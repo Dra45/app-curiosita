@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Da dove deriva il nome della celebre tecnologia wireless 'Bluetooth'?",
+      "domanda": "Quale celebre effetto sonoro di un urlo è stato riutilizzato in centinaia di film famosi, da 'Star Wars' a 'Il Signore degli Anelli'?",
       "opzioni": [
-        "Da un acronimo militare della Guerra Fredda",
-        "Da un re vichingo famoso per aver unificato la Danimarca",
-        "Dal soprannome del cane del suo inventore",
-        "Da un errore di traduzione di un termine svedese"
+        "Il grido di Lucas",
+        "L'urlo di Hollywood",
+        "L'urlo di Wilhelm",
+        "Lo spavento di Spielberg"
       ],
-      "risposta_corretta": "Da un re vichingo famoso per aver unificato la Danimarca"
+      "risposta_corretta": "L'urlo di Wilhelm"
     },
     {
-      "domanda": "Qual è stato il primo lungometraggio interamente realizzato in computer grafica 3D nella storia del cinema?",
+      "domanda": "Quale tra questi animali è l'unico al mondo a produrre feci di forma cubica?",
       "opzioni": [
-        "Shrek",
-        "A Bug's Life",
-        "Toy Story - Il mondo dei giocattoli",
-        "Monsters & Co."
+        "Il koala",
+        "Il wombat",
+        "Il diavolo della Tasmania",
+        "L'ornitorinco"
       ],
-      "risposta_corretta": "Toy Story - Il mondo dei giocattoli"
+      "risposta_corretta": "Il wombat"
     },
     {
-      "domanda": "Quanti cuori possiede un polpo?",
+      "domanda": "Qual è stato il primo prodotto in assoluto a essere scansionato tramite un codice a barre alla cassa di un supermercato nel 1974?",
       "opzioni": [
-        "3",
-        "4",
-        "1",
-        "2"
+        "Una tavoletta di cioccolato Hershey's",
+        "Un pacchetto di chewing gum Wrigley's",
+        "Una lattina di Coca-Cola",
+        "Una scatola di minestra Campbell's"
       ],
-      "risposta_corretta": "3"
+      "risposta_corretta": "Un pacchetto di chewing gum Wrigley's"
     },
     {
-      "domanda": "Alla fine degli anni '80, quale famosa azienda diventò temporaneamente proprietaria di una delle più grandi flotte militari al mondo in seguito a un accordo con l'Unione Sovietica?",
+      "domanda": "Sorprendentemente, qual è la nazione che possiede il maggior numero di isole al mondo (oltre 260.000)?",
       "opzioni": [
-        "Nivea",
-        "Coca-Cola",
-        "McDonald's",
-        "Pepsi"
+        "Le Filippine",
+        "La Svezia",
+        "La Grecia",
+        "L'Indonesia"
       ],
-      "risposta_corretta": "Pepsi"
+      "risposta_corretta": "La Svezia"
     },
     {
-      "domanda": "Con quale nome era inizialmente conosciuto il celebre personaggio di Mario al suo debutto nel videogioco Donkey Kong del 1981?",
+      "domanda": "La leggendaria suoneria predefinita dei vecchi telefoni cellulari Nokia è in realtà un estratto di un brano di quale compositore di chitarra classica?",
       "opzioni": [
-        "Jumpman",
-        "Plumber Joe",
-        "Red Cap",
-        "Super Guy"
+        "Francisco Tárrega",
+        "Isaac Albéniz",
+        "Joaquín Rodrigo",
+        "Fernando Sor"
       ],
-      "risposta_corretta": "Jumpman"
+      "risposta_corretta": "Francisco Tárrega"
     },
     {
-      "domanda": "Quale Paese al mondo possiede il maggior numero di fusi orari, considerando anche tutti i suoi territori d'oltremare?",
+      "domanda": "Prima di adottare il nome 'Google', quale insolito nome provvisorio avevano scelto i fondatori Larry Page e Sergey Brin per il loro motore di ricerca?",
       "opzioni": [
-        "Russia",
-        "Francia",
-        "Cina",
-        "Stati Uniti"
+        "WebIndex",
+        "DataFind",
+        "BackRub",
+        "SearchNet"
       ],
-      "risposta_corretta": "Francia"
+      "risposta_corretta": "BackRub"
     }
   ]
 }
