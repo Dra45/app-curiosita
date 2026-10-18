@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale celebre effetto sonoro di un urlo è stato riutilizzato in centinaia di film famosi, da 'Star Wars' a 'Il Signore degli Anelli'?",
+      "domanda": "Quale celebre effetto sonoro, registrato nel 1951, viene inserito per scherzo dagli ingegneri del suono in centinaia di film famosi, tra cui Star Wars e Il Signore degli Anelli?",
       "opzioni": [
-        "Il grido di Lucas",
-        "L'urlo di Hollywood",
-        "L'urlo di Wilhelm",
-        "Lo spavento di Spielberg"
+        "Il Ruggito del Leone",
+        "Il Sospiro di Hollywood",
+        "L'Eco di Kubrick",
+        "L'Urlo di Wilhelm"
       ],
-      "risposta_corretta": "L'urlo di Wilhelm"
+      "risposta_corretta": "L'Urlo di Wilhelm"
     },
     {
-      "domanda": "Quale tra questi animali è l'unico al mondo a produrre feci di forma cubica?",
+      "domanda": "Nel 2010, un programmatore ha compiuto la prima transazione reale della storia utilizzando Bitcoin per acquistare un bene di consumo. Di cosa si trattava?",
       "opzioni": [
+        "Una console da gioco",
+        "Due pizze a domicilio",
+        "Un biglietto aereo",
+        "Un'auto usata"
+      ],
+      "risposta_corretta": "Due pizze a domicilio"
+    },
+    {
+      "domanda": "Nel 1932, l'esercito australiano intraprese una bizzarra operazione militare ufficiale inviando soldati armati di mitragliatrici contro una specie animale. Quale?",
+      "opzioni": [
+        "I rospi giganti",
+        "I canguri",
+        "Gli emù",
+        "I dingo"
+      ],
+      "risposta_corretta": "Gli emù"
+    },
+    {
+      "domanda": "Quale tra questi animali ha la sorprendente particolarità biologica di produrre escrementi di forma cubica, utilissimi per evitare che rotolino via dal territorio marcato?",
+      "opzioni": [
+        "Il vombato",
+        "L'ornitorinco",
         "Il koala",
-        "Il wombat",
-        "Il diavolo della Tasmania",
-        "L'ornitorinco"
+        "Il diavolo della Tasmania"
       ],
-      "risposta_corretta": "Il wombat"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Qual è stato il primo prodotto in assoluto a essere scansionato tramite un codice a barre alla cassa di un supermercato nel 1974?",
+      "domanda": "Quale nazione possiede sul proprio territorio più della metà di tutti i laghi naturali presenti sull'intero pianeta Terra?",
       "opzioni": [
-        "Una tavoletta di cioccolato Hershey's",
-        "Un pacchetto di chewing gum Wrigley's",
-        "Una lattina di Coca-Cola",
-        "Una scatola di minestra Campbell's"
-      ],
-      "risposta_corretta": "Un pacchetto di chewing gum Wrigley's"
-    },
-    {
-      "domanda": "Sorprendentemente, qual è la nazione che possiede il maggior numero di isole al mondo (oltre 260.000)?",
-      "opzioni": [
-        "Le Filippine",
+        "Il Brasile",
+        "Il Canada",
         "La Svezia",
-        "La Grecia",
-        "L'Indonesia"
+        "La Russia"
       ],
-      "risposta_corretta": "La Svezia"
+      "risposta_corretta": "Il Canada"
     },
     {
-      "domanda": "La leggendaria suoneria predefinita dei vecchi telefoni cellulari Nokia è in realtà un estratto di un brano di quale compositore di chitarra classica?",
+      "domanda": "Prima di diventare un'icona globale dei videogiochi con il suo nome attuale, con quale appellativo era conosciuto il personaggio di Mario al suo debutto nel 1981?",
       "opzioni": [
-        "Francisco Tárrega",
-        "Isaac Albéniz",
-        "Joaquín Rodrigo",
-        "Fernando Sor"
+        "Jumpman",
+        "Plumber Joe",
+        "Super Boy",
+        "Red Cap"
       ],
-      "risposta_corretta": "Francisco Tárrega"
-    },
-    {
-      "domanda": "Prima di adottare il nome 'Google', quale insolito nome provvisorio avevano scelto i fondatori Larry Page e Sergey Brin per il loro motore di ricerca?",
-      "opzioni": [
-        "WebIndex",
-        "DataFind",
-        "BackRub",
-        "SearchNet"
-      ],
-      "risposta_corretta": "BackRub"
+      "risposta_corretta": "Jumpman"
     }
   ]
 }
