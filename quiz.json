@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Come si chiama l'iconico effetto sonoro dell'urlo utilizzato in oltre 400 film, tra cui Star Wars, Indiana Jones e Il Signore degli Anelli?",
+      "domanda": "Qual è l'unico animale conosciuto al mondo in grado di produrre feci a forma di cubo?",
       "opzioni": [
-        "L'urlo Wilhelm",
-        "L'urlo di Goofy",
-        "L'urlo di Spielberg",
-        "L'urlo di Tarzan"
-      ],
-      "risposta_corretta": "L'urlo Wilhelm"
-    },
-    {
-      "domanda": "Qual è il soggetto del primissimo video pubblicato su YouTube nel lontano aprile del 2005?",
-      "opzioni": [
-        "Un gatto che gioca con un gomitolo",
-        "Un co-fondatore del sito allo zoo davanti agli elefanti",
-        "Un ragazzo che mangia un trancio di pizza",
-        "Una prova di chitarra elettrica"
-      ],
-      "risposta_corretta": "Un co-fondatore del sito allo zoo davanti agli elefanti"
-    },
-    {
-      "domanda": "Quale Stato al mondo possiede il maggior numero di fusi orari distinti (ben 12), considerando anche i suoi territori d'oltremare?",
-      "opzioni": [
-        "Stati Uniti",
-        "Russia",
-        "Regno Unito",
-        "Francia"
-      ],
-      "risposta_corretta": "Francia"
-    },
-    {
-      "domanda": "Quale tra questi simpatici animali produce feci a forma di cubo perfetto, un'incredibile caratteristica unica in natura?",
-      "opzioni": [
-        "Il diavolo della Tasmania",
-        "L'ornitorinco",
         "Il koala",
-        "Il vombato"
+        "Il vombato",
+        "Il diavolo della Tasmania",
+        "L'ornitorinco"
       ],
       "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "In quale Paese è stata inventata la celebre e discussa 'pizza hawaiana' con prosciutto e ananas?",
+      "domanda": "Cosa mostrava il primissimo video caricato su YouTube nel 2005, intitolato \"Me at the zoo\"?",
       "opzioni": [
-        "Filippine",
-        "Australia",
-        "Canada",
-        "Stati Uniti (alle Hawaii)"
+        "Un ragazzo davanti al recinto degli elefanti",
+        "Un gatto che gioca con una palla",
+        "Un concerto rock amatoriale",
+        "Un ragazzo che dà da mangiare ai pinguini"
       ],
-      "risposta_corretta": "Canada"
+      "risposta_corretta": "Un ragazzo davanti al recinto degli elefanti"
     },
     {
-      "domanda": "Da cosa prende il nome la nota tecnologia di connessione senza fili 'Bluetooth'?",
+      "domanda": "Da dove proviene visivamente l'iconico \"codice verde\" che scorre sullo schermo all'inizio del film Matrix?",
       "opzioni": [
-        "Da un personaggio di un celebre romanzo di fantascienza",
-        "Dal soprannome di un re vichingo del X secolo",
-        "Dall'acronimo dei suoi quattro inventori",
-        "Dalla marca del primo auricolare svedese"
+        "Da spartiti musicali di Bach invertiti",
+        "Da un algoritmo di crittografia della NASA",
+        "Da frammenti del codice sorgente di un vecchio sistema operativo",
+        "Da ricette di sushi giapponese scansionate"
       ],
-      "risposta_corretta": "Dal soprannome di un re vichingo del X secolo"
+      "risposta_corretta": "Da ricette di sushi giapponese scansionate"
+    },
+    {
+      "domanda": "In quale di questi Paesi europei praticamente non esistono zanzare, a causa del suo particolare clima?",
+      "opzioni": [
+        "Irlanda",
+        "Islanda",
+        "Norvegia",
+        "Finlandia"
+      ],
+      "risposta_corretta": "Islanda"
+    },
+    {
+      "domanda": "Nel 1932, l'esercito australiano combatté un'insolita e reale \"guerra\" utilizzando fucili e mitragliatrici contro quale animale?",
+      "opzioni": [
+        "Emù",
+        "Cani selvatici",
+        "Canguri",
+        "Dingo"
+      ],
+      "risposta_corretta": "Emù"
+    },
+    {
+      "domanda": "Prima di diventare un gigante dei videogiochi, cosa produceva la Nintendo quando fu fondata nel 1889?",
+      "opzioni": [
+        "Orologi da tasca",
+        "Stufe a carbone",
+        "Giocattoli meccanici in legno",
+        "Carte da gioco fatte a mano"
+      ],
+      "risposta_corretta": "Carte da gioco fatte a mano"
     }
   ]
 }
