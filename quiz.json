@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale celebre effetto sonoro, registrato nel 1951, viene inserito per scherzo dagli ingegneri del suono in centinaia di film famosi, tra cui Star Wars e Il Signore degli Anelli?",
+      "domanda": "Come si chiama l'iconico effetto sonoro dell'urlo utilizzato in oltre 400 film, tra cui Star Wars, Indiana Jones e Il Signore degli Anelli?",
       "opzioni": [
-        "Il Ruggito del Leone",
-        "Il Sospiro di Hollywood",
-        "L'Eco di Kubrick",
-        "L'Urlo di Wilhelm"
+        "L'urlo Wilhelm",
+        "L'urlo di Goofy",
+        "L'urlo di Spielberg",
+        "L'urlo di Tarzan"
       ],
-      "risposta_corretta": "L'Urlo di Wilhelm"
+      "risposta_corretta": "L'urlo Wilhelm"
     },
     {
-      "domanda": "Nel 2010, un programmatore ha compiuto la prima transazione reale della storia utilizzando Bitcoin per acquistare un bene di consumo. Di cosa si trattava?",
+      "domanda": "Qual è il soggetto del primissimo video pubblicato su YouTube nel lontano aprile del 2005?",
       "opzioni": [
-        "Una console da gioco",
-        "Due pizze a domicilio",
-        "Un biglietto aereo",
-        "Un'auto usata"
+        "Un gatto che gioca con un gomitolo",
+        "Un co-fondatore del sito allo zoo davanti agli elefanti",
+        "Un ragazzo che mangia un trancio di pizza",
+        "Una prova di chitarra elettrica"
       ],
-      "risposta_corretta": "Due pizze a domicilio"
+      "risposta_corretta": "Un co-fondatore del sito allo zoo davanti agli elefanti"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano intraprese una bizzarra operazione militare ufficiale inviando soldati armati di mitragliatrici contro una specie animale. Quale?",
+      "domanda": "Quale Stato al mondo possiede il maggior numero di fusi orari distinti (ben 12), considerando anche i suoi territori d'oltremare?",
       "opzioni": [
-        "I rospi giganti",
-        "I canguri",
-        "Gli emù",
-        "I dingo"
+        "Stati Uniti",
+        "Russia",
+        "Regno Unito",
+        "Francia"
       ],
-      "risposta_corretta": "Gli emù"
+      "risposta_corretta": "Francia"
     },
     {
-      "domanda": "Quale tra questi animali ha la sorprendente particolarità biologica di produrre escrementi di forma cubica, utilissimi per evitare che rotolino via dal territorio marcato?",
+      "domanda": "Quale tra questi simpatici animali produce feci a forma di cubo perfetto, un'incredibile caratteristica unica in natura?",
       "opzioni": [
-        "Il vombato",
+        "Il diavolo della Tasmania",
         "L'ornitorinco",
         "Il koala",
-        "Il diavolo della Tasmania"
+        "Il vombato"
       ],
       "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Quale nazione possiede sul proprio territorio più della metà di tutti i laghi naturali presenti sull'intero pianeta Terra?",
+      "domanda": "In quale Paese è stata inventata la celebre e discussa 'pizza hawaiana' con prosciutto e ananas?",
       "opzioni": [
-        "Il Brasile",
-        "Il Canada",
-        "La Svezia",
-        "La Russia"
+        "Filippine",
+        "Australia",
+        "Canada",
+        "Stati Uniti (alle Hawaii)"
       ],
-      "risposta_corretta": "Il Canada"
+      "risposta_corretta": "Canada"
     },
     {
-      "domanda": "Prima di diventare un'icona globale dei videogiochi con il suo nome attuale, con quale appellativo era conosciuto il personaggio di Mario al suo debutto nel 1981?",
+      "domanda": "Da cosa prende il nome la nota tecnologia di connessione senza fili 'Bluetooth'?",
       "opzioni": [
-        "Jumpman",
-        "Plumber Joe",
-        "Super Boy",
-        "Red Cap"
+        "Da un personaggio di un celebre romanzo di fantascienza",
+        "Dal soprannome di un re vichingo del X secolo",
+        "Dall'acronimo dei suoi quattro inventori",
+        "Dalla marca del primo auricolare svedese"
       ],
-      "risposta_corretta": "Jumpman"
+      "risposta_corretta": "Dal soprannome di un re vichingo del X secolo"
     }
   ]
 }
