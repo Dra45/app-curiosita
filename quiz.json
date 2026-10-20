@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale animale produce feci a forma di cubo perfetto per evitare che rotolino via dalle rocce e per marcare il territorio?",
+      "domanda": "Quale animaletto australiano è famoso per essere l'unico essere vivente al mondo a produrre feci a forma di cubo?",
       "opzioni": [
-        "Il koala",
-        "L'ornitorinco",
-        "Il diavolo della Tasmania",
-        "Il vombato"
+        "Pangolino",
+        "Koala",
+        "Ornitorinco",
+        "Wombat"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "Wombat"
     },
     {
-      "domanda": "Da dove deriva il nome della tecnologia wireless 'Bluetooth' che usiamo ogni giorno sui nostri smartphone?",
+      "domanda": "Come si chiama il celebre effetto sonoro dell'urlo umano inserito come 'inside joke' in centinaia di film, tra cui Star Wars, Indiana Jones e Il Signore degli Anelli?",
       "opzioni": [
-        "Dal nome in codice del primo prototipo di auricolare della Nokia",
-        "Da un errore di traduzione del termine svedese 'onda azzurra'",
-        "Da un re vichingo del X secolo noto per aver unito le tribù scandinave",
-        "Da un celebre personaggio di una fiaba di Hans Christian Andersen"
+        "L'urlo di Tarzan",
+        "Il grido di Goofy",
+        "L'urlo di Wilhelm",
+        "Il ruggito MGM"
       ],
-      "risposta_corretta": "Da un re vichingo del X secolo noto per aver unito le tribù scandinave"
+      "risposta_corretta": "L'urlo di Wilhelm"
     },
     {
-      "domanda": "Nei film d'animazione della Pixar e della Disney compare spesso il codice nascosto 'A113'. A cosa corrisponde?",
+      "domanda": "Nel 1974, quale fu il primo oggetto in assoluto a venire scansionato alla cassa di un supermercato tramite codice a barre?",
       "opzioni": [
-        "Al codice fiscale di Steve Jobs, co-fondatore della Pixar",
-        "All'aula universitaria del California Institute of the Arts dove si sono formati molti animatori",
-        "Al numero di serie del primo computer usato per fare un lungometraggio",
-        "Al numero del brevetto del primo software d'animazione 3D"
+        "Un pacchetto di sigarette",
+        "Una scatola di cereali",
+        "Una lattina di Coca-Cola",
+        "Un pacchetto di gomma da masticare"
       ],
-      "risposta_corretta": "All'aula universitaria del California Institute of the Arts dove si sono formati molti animatori"
+      "risposta_corretta": "Un pacchetto di gomma da masticare"
     },
     {
-      "domanda": "Se ti trovassi al 'Punto Nemo', il luogo dell'oceano più lontano da qualsiasi terra emersa, quali sarebbero gli esseri umani più vicini a te?",
+      "domanda": "In quale Paese si trova una vera città chiamata 'Batman', il cui sindaco nel 2008 minacciò persino di fare causa a Christopher Nolan per l'uso del nome?",
       "opzioni": [
-        "Gli abitanti dell'Isola di Pasqua",
-        "I marinai delle navi cargo transoceaniche",
-        "Gli astronauti a bordo della Stazione Spaziale Internazionale",
-        "I ricercatori delle basi scientifiche in Antartide"
+        "Australia",
+        "Grecia",
+        "Turchia",
+        "Romania"
       ],
-      "risposta_corretta": "Gli astronauti a bordo della Stazione Spaziale Internazionale"
+      "risposta_corretta": "Turchia"
     },
     {
-      "domanda": "Quale famosissimo artista surrealista ha disegnato nel 1969 il celebre logo a forma di margherita dei lecca-lecca Chupa Chups?",
+      "domanda": "Da quale lingua deriva la parola 'Emoji', che letteralmente significa 'immagine' (e) + 'carattere' (moji)?",
       "opzioni": [
-        "René Magritte",
-        "Pablo Picasso",
-        "Andy Warhol",
-        "Salvador Dalí"
+        "Coreano",
+        "Inglese",
+        "Cinese",
+        "Giapponese"
       ],
-      "risposta_corretta": "Salvador Dalí"
+      "risposta_corretta": "Giapponese"
     },
     {
-      "domanda": "Come è stato scoperto per caso il principio di funzionamento del forno a microonde nel 1945?",
+      "domanda": "Nel 1932, l'esercito australiano combatté un'insolita 'guerra' ufficiale (e la perse!) per fermare la migrazione di massa di quali animali?",
       "opzioni": [
-        "Un cuoco lasciò cadere dei chicchi di mais su una batteria per navi in corto circuito",
-        "Un chimico cercava di sintetizzare una nuova plastica resistente al calore",
-        "Un fisico lasciò per errore un bicchiere d'acqua vicino a un'antenna radio ad alta frequenza",
-        "Un ingegnere notò che una barretta di cioccolato gli si era sciolta in tasca mentre lavorava vicino a un radar"
+        "Conigli",
+        "Emu",
+        "Canguri",
+        "Dingo"
       ],
-      "risposta_corretta": "Un ingegnere notò che una barretta di cioccolato gli si era sciolta in tasca mentre lavorava vicino a un radar"
+      "risposta_corretta": "Emu"
     }
   ]
 }
