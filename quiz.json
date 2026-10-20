@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è l'unico animale conosciuto al mondo in grado di produrre feci a forma di cubo?",
+      "domanda": "Quale animale produce feci a forma di cubo perfetto per evitare che rotolino via dalle rocce e per marcare il territorio?",
       "opzioni": [
         "Il koala",
-        "Il vombato",
+        "L'ornitorinco",
         "Il diavolo della Tasmania",
-        "L'ornitorinco"
+        "Il vombato"
       ],
       "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Cosa mostrava il primissimo video caricato su YouTube nel 2005, intitolato \"Me at the zoo\"?",
+      "domanda": "Da dove deriva il nome della tecnologia wireless 'Bluetooth' che usiamo ogni giorno sui nostri smartphone?",
       "opzioni": [
-        "Un ragazzo davanti al recinto degli elefanti",
-        "Un gatto che gioca con una palla",
-        "Un concerto rock amatoriale",
-        "Un ragazzo che dà da mangiare ai pinguini"
+        "Dal nome in codice del primo prototipo di auricolare della Nokia",
+        "Da un errore di traduzione del termine svedese 'onda azzurra'",
+        "Da un re vichingo del X secolo noto per aver unito le tribù scandinave",
+        "Da un celebre personaggio di una fiaba di Hans Christian Andersen"
       ],
-      "risposta_corretta": "Un ragazzo davanti al recinto degli elefanti"
+      "risposta_corretta": "Da un re vichingo del X secolo noto per aver unito le tribù scandinave"
     },
     {
-      "domanda": "Da dove proviene visivamente l'iconico \"codice verde\" che scorre sullo schermo all'inizio del film Matrix?",
+      "domanda": "Nei film d'animazione della Pixar e della Disney compare spesso il codice nascosto 'A113'. A cosa corrisponde?",
       "opzioni": [
-        "Da spartiti musicali di Bach invertiti",
-        "Da un algoritmo di crittografia della NASA",
-        "Da frammenti del codice sorgente di un vecchio sistema operativo",
-        "Da ricette di sushi giapponese scansionate"
+        "Al codice fiscale di Steve Jobs, co-fondatore della Pixar",
+        "All'aula universitaria del California Institute of the Arts dove si sono formati molti animatori",
+        "Al numero di serie del primo computer usato per fare un lungometraggio",
+        "Al numero del brevetto del primo software d'animazione 3D"
       ],
-      "risposta_corretta": "Da ricette di sushi giapponese scansionate"
+      "risposta_corretta": "All'aula universitaria del California Institute of the Arts dove si sono formati molti animatori"
     },
     {
-      "domanda": "In quale di questi Paesi europei praticamente non esistono zanzare, a causa del suo particolare clima?",
+      "domanda": "Se ti trovassi al 'Punto Nemo', il luogo dell'oceano più lontano da qualsiasi terra emersa, quali sarebbero gli esseri umani più vicini a te?",
       "opzioni": [
-        "Irlanda",
-        "Islanda",
-        "Norvegia",
-        "Finlandia"
+        "Gli abitanti dell'Isola di Pasqua",
+        "I marinai delle navi cargo transoceaniche",
+        "Gli astronauti a bordo della Stazione Spaziale Internazionale",
+        "I ricercatori delle basi scientifiche in Antartide"
       ],
-      "risposta_corretta": "Islanda"
+      "risposta_corretta": "Gli astronauti a bordo della Stazione Spaziale Internazionale"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano combatté un'insolita e reale \"guerra\" utilizzando fucili e mitragliatrici contro quale animale?",
+      "domanda": "Quale famosissimo artista surrealista ha disegnato nel 1969 il celebre logo a forma di margherita dei lecca-lecca Chupa Chups?",
       "opzioni": [
-        "Emù",
-        "Cani selvatici",
-        "Canguri",
-        "Dingo"
+        "René Magritte",
+        "Pablo Picasso",
+        "Andy Warhol",
+        "Salvador Dalí"
       ],
-      "risposta_corretta": "Emù"
+      "risposta_corretta": "Salvador Dalí"
     },
     {
-      "domanda": "Prima di diventare un gigante dei videogiochi, cosa produceva la Nintendo quando fu fondata nel 1889?",
+      "domanda": "Come è stato scoperto per caso il principio di funzionamento del forno a microonde nel 1945?",
       "opzioni": [
-        "Orologi da tasca",
-        "Stufe a carbone",
-        "Giocattoli meccanici in legno",
-        "Carte da gioco fatte a mano"
+        "Un cuoco lasciò cadere dei chicchi di mais su una batteria per navi in corto circuito",
+        "Un chimico cercava di sintetizzare una nuova plastica resistente al calore",
+        "Un fisico lasciò per errore un bicchiere d'acqua vicino a un'antenna radio ad alta frequenza",
+        "Un ingegnere notò che una barretta di cioccolato gli si era sciolta in tasca mentre lavorava vicino a un radar"
       ],
-      "risposta_corretta": "Carte da gioco fatte a mano"
+      "risposta_corretta": "Un ingegnere notò che una barretta di cioccolato gli si era sciolta in tasca mentre lavorava vicino a un radar"
     }
   ]
 }
