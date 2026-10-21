@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale animaletto australiano è famoso per essere l'unico essere vivente al mondo a produrre feci a forma di cubo?",
+      "domanda": "Quale di questi animali ha l'abitudine di tenersi per mano mentre dorme per evitare di andare alla deriva nella corrente?",
       "opzioni": [
-        "Pangolino",
-        "Koala",
-        "Ornitorinco",
-        "Wombat"
+        "Le lontre marine",
+        "I delfini",
+        "I pinguini",
+        "I leoni marini"
       ],
-      "risposta_corretta": "Wombat"
+      "risposta_corretta": "Le lontre marine"
     },
     {
-      "domanda": "Come si chiama il celebre effetto sonoro dell'urlo umano inserito come 'inside joke' in centinaia di film, tra cui Star Wars, Indiana Jones e Il Signore degli Anelli?",
+      "domanda": "Nel mondo del cinema, cosa rappresenta il famoso codice 'A113' che compare discretamente in quasi tutti i film d'animazione Pixar?",
       "opzioni": [
-        "L'urlo di Tarzan",
-        "Il grido di Goofy",
-        "L'urlo di Wilhelm",
-        "Il ruggito MGM"
+        "Un codice segreto per la resa digitale dei colori",
+        "La data di fondazione degli studios",
+        "L'aula universitaria dove hanno studiato molti storici animatori",
+        "Il numero di matricola di Steve Jobs"
       ],
-      "risposta_corretta": "L'urlo di Wilhelm"
+      "risposta_corretta": "L'aula universitaria dove hanno studiato molti storici animatori"
     },
     {
-      "domanda": "Nel 1974, quale fu il primo oggetto in assoluto a venire scansionato alla cassa di un supermercato tramite codice a barre?",
+      "domanda": "Nel 1866, il piccolo stato del Liechtenstein inviò 80 soldati in guerra. Quanti soldati tornarono a casa alla fine della spedizione?",
       "opzioni": [
-        "Un pacchetto di sigarette",
-        "Una scatola di cereali",
-        "Una lattina di Coca-Cola",
-        "Un pacchetto di gomma da masticare"
+        "81, perché fecero amicizia con un soldato italiano",
+        "Nessuno, si arresero subito",
+        "Esattamente 80",
+        "40, poiché la metà fondò un nuovo villaggio"
       ],
-      "risposta_corretta": "Un pacchetto di gomma da masticare"
+      "risposta_corretta": "81, perché fecero amicizia con un soldato italiano"
     },
     {
-      "domanda": "In quale Paese si trova una vera città chiamata 'Batman', il cui sindaco nel 2008 minacciò persino di fare causa a Christopher Nolan per l'uso del nome?",
+      "domanda": "Da dove deriva il nome della tecnologia senza fili 'Bluetooth' che usiamo ogni giorno?",
       "opzioni": [
+        "Dal colore del primo prototipo di chip sviluppato in laboratorio",
+        "Da un errore di battitura del suo inventore nel brevetto originale",
+        "Da un'espressione gergale usata dai programmatori svedesi",
+        "Da un re vichingo del X secolo famoso per aver unito diverse tribù"
+      ],
+      "risposta_corretta": "Da un re vichingo del X secolo famoso per aver unito diverse tribù"
+    },
+    {
+      "domanda": "In quale di questi paesi europei non esistono zanzare, grazie a un clima unico che impedisce loro di riprodursi?",
+      "opzioni": [
+        "Islanda",
+        "Norvegia",
+        "Irlanda",
+        "Svizzera"
+      ],
+      "risposta_corretta": "Islanda"
+    },
+    {
+      "domanda": "In quale nazione è stata inventata negli anni '60 la famosa (e spesso discussa) pizza hawaiana con l'ananas?",
+      "opzioni": [
+        "Stati Uniti",
+        "Canada",
         "Australia",
-        "Grecia",
-        "Turchia",
-        "Romania"
+        "Grecia"
       ],
-      "risposta_corretta": "Turchia"
-    },
-    {
-      "domanda": "Da quale lingua deriva la parola 'Emoji', che letteralmente significa 'immagine' (e) + 'carattere' (moji)?",
-      "opzioni": [
-        "Coreano",
-        "Inglese",
-        "Cinese",
-        "Giapponese"
-      ],
-      "risposta_corretta": "Giapponese"
-    },
-    {
-      "domanda": "Nel 1932, l'esercito australiano combatté un'insolita 'guerra' ufficiale (e la perse!) per fermare la migrazione di massa di quali animali?",
-      "opzioni": [
-        "Conigli",
-        "Emu",
-        "Canguri",
-        "Dingo"
-      ],
-      "risposta_corretta": "Emu"
+      "risposta_corretta": "Canada"
     }
   ]
 }
