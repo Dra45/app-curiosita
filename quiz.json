@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale di questi animali ha l'abitudine di tenersi per mano mentre dorme per evitare di andare alla deriva nella corrente?",
+      "domanda": "Quale animale, unico nel mondo naturale, produce escrementi a forma di cubo perfetto per evitare che rotolino via dalle rocce?",
       "opzioni": [
-        "Le lontre marine",
-        "I delfini",
-        "I pinguini",
-        "I leoni marini"
+        "Il capibara",
+        "Il panda minore",
+        "Il diavolo della Tasmania",
+        "Il vombato (Wombat)"
       ],
-      "risposta_corretta": "Le lontre marine"
+      "risposta_corretta": "Il vombato (Wombat)"
     },
     {
-      "domanda": "Nel mondo del cinema, cosa rappresenta il famoso codice 'A113' che compare discretamente in quasi tutti i film d'animazione Pixar?",
+      "domanda": "Da dove proviene in realtà la celebre 'pioggia di codici verdi' che scorre all'inizio del film 'The Matrix'?",
       "opzioni": [
-        "Un codice segreto per la resa digitale dei colori",
-        "La data di fondazione degli studios",
-        "L'aula universitaria dove hanno studiato molti storici animatori",
-        "Il numero di matricola di Steve Jobs"
+        "Da un antico poema giapponese",
+        "Dal codice sorgente di Windows 95",
+        "Da ricette di sushi digitalizzate",
+        "Da equazioni di fisica quantistica"
       ],
-      "risposta_corretta": "L'aula universitaria dove hanno studiato molti storici animatori"
+      "risposta_corretta": "Da ricette di sushi digitalizzate"
     },
     {
-      "domanda": "Nel 1866, il piccolo stato del Liechtenstein inviò 80 soldati in guerra. Quanti soldati tornarono a casa alla fine della spedizione?",
+      "domanda": "Qual è stato il primissimo prodotto in assoluto acquistato su Amazon nel 1995?",
       "opzioni": [
-        "81, perché fecero amicizia con un soldato italiano",
-        "Nessuno, si arresero subito",
-        "Esattamente 80",
-        "40, poiché la metà fondò un nuovo villaggio"
+        "Un libro di testo scientifico",
+        "Una tazza da caffè con il logo dell'azienda",
+        "Un lettore CD portatile",
+        "Un paio di floppy disk"
       ],
-      "risposta_corretta": "81, perché fecero amicizia con un soldato italiano"
+      "risposta_corretta": "Un libro di testo scientifico"
     },
     {
-      "domanda": "Da dove deriva il nome della tecnologia senza fili 'Bluetooth' che usiamo ogni giorno?",
+      "domanda": "In quale di queste nazioni europee non esistono zanzare, grazie al suo clima unico e alla composizione del terreno?",
       "opzioni": [
-        "Dal colore del primo prototipo di chip sviluppato in laboratorio",
-        "Da un errore di battitura del suo inventore nel brevetto originale",
-        "Da un'espressione gergale usata dai programmatori svedesi",
-        "Da un re vichingo del X secolo famoso per aver unito diverse tribù"
-      ],
-      "risposta_corretta": "Da un re vichingo del X secolo famoso per aver unito diverse tribù"
-    },
-    {
-      "domanda": "In quale di questi paesi europei non esistono zanzare, grazie a un clima unico che impedisce loro di riprodursi?",
-      "opzioni": [
-        "Islanda",
         "Norvegia",
-        "Irlanda",
-        "Svizzera"
+        "Islanda",
+        "Finlandia",
+        "Irlanda"
       ],
       "risposta_corretta": "Islanda"
     },
     {
-      "domanda": "In quale nazione è stata inventata negli anni '60 la famosa (e spesso discussa) pizza hawaiana con l'ananas?",
+      "domanda": "Prima di diventare il gigante dei videogiochi che tutti conosciamo, cosa produceva la Nintendo quando è stata fondata nel 1889?",
       "opzioni": [
-        "Stati Uniti",
-        "Canada",
-        "Australia",
-        "Grecia"
+        "Strumenti musicali",
+        "Carte da gioco tradizionali",
+        "Orologi da taschino",
+        "Giocattoli di legno"
       ],
-      "risposta_corretta": "Canada"
+      "risposta_corretta": "Carte da gioco tradizionali"
+    },
+    {
+      "domanda": "Cosa succede al corpo umano degli astronauti durante una permanenza prolungata nello spazio a causa della mancanza di gravità?",
+      "opzioni": [
+        "Le impronte digitali scompaiono",
+        "La vista migliora temporaneamente",
+        "I capelli smettono di crescere",
+        "Si diventa leggermente più alti"
+      ],
+      "risposta_corretta": "Si diventa leggermente più alti"
     }
   ]
 }
