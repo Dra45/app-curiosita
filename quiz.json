@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale celebre attore ha prestato la voce al Genio nella versione originale in inglese del film d'animazione Disney 'Aladdin' del 1992?",
+      "domanda": "Quale celebre dipinto ha direttamente ispirato l'iconica emoji del faccino che urla dalla paura (😱)?",
       "opzioni": [
-        "Jim Carrey",
-        "Robin Williams",
-        "Tom Hanks",
-        "Eddie Murphy"
+        "Guernica di Pablo Picasso",
+        "La Persistenza della Memoria di Dalí",
+        "L'Urlo di Edvard Munch",
+        "La Notte Stellata di Van Gogh"
       ],
-      "risposta_corretta": "Robin Williams"
+      "risposta_corretta": "L'Urlo di Edvard Munch"
     },
     {
-      "domanda": "Prima di diventare il colosso dell'e-commerce che conosciamo oggi, cosa vendeva esclusivamente Amazon quando è stata fondata nel 1994?",
+      "domanda": "Nel film 'Matrix', da dove proviene davvero l'iconico codice verde a cascata visibile sullo schermo?",
       "opzioni": [
-        "CD musicali",
-        "Computer usati",
-        "Videogiochi",
-        "Libri"
+        "Da un algoritmo casuale generato in studio",
+        "Da ricette di sushi scannerizzate da un libro di cucina",
+        "Da schemi di circuiti informatici",
+        "Da codici di lancio nucleare declassificati"
       ],
-      "risposta_corretta": "Libri"
+      "risposta_corretta": "Da ricette di sushi scannerizzate da un libro di cucina"
     },
     {
-      "domanda": "I fenicotteri nascono con le piume grigie o bianche. Da cosa deriva il loro caratteristico colore rosa?",
+      "domanda": "Per quale tenero motivo le lontre marine si tengono per mano mentre dormono nell'acqua?",
       "opzioni": [
-        "Dal contatto prolungato con i sali minerali dell'acqua",
-        "Dall'esposizione al sole tropicale",
-        "Dalla loro dieta ricca di gamberetti e alghe",
-        "Da un gene che si attiva con l'età adulta"
+        "Per condividere le provviste di cibo",
+        "Per evitare di andare alla deriva e separarsi",
+        "Per avvisarsi in caso di attacco dei predatori",
+        "Per scambiarsi il calore corporeo"
       ],
-      "risposta_corretta": "Dalla loro dieta ricca di gamberetti e alghe"
+      "risposta_corretta": "Per evitare di andare alla deriva e separarsi"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano fu coinvolto in una bizzarra 'guerra' militare contro quale specie animale che devastava i campi di grano?",
+      "domanda": "Nel 1932, l'esercito australiano ha ingaggiato una bizzarra operazione militare (e ha perso!) contro quale specie animale?",
       "opzioni": [
-        "Canguri",
-        "Conigli",
-        "Dingo",
-        "Emù"
+        "I conigli selvatici",
+        "I canguri",
+        "Gli emù",
+        "I dingo"
       ],
-      "risposta_corretta": "Emù"
+      "risposta_corretta": "Gli emù"
     },
     {
-      "domanda": "Istanbul è famosa per essere l'unica metropoli al mondo a estendersi contemporaneamente su due continenti. Quale nazione la ospita?",
+      "domanda": "In quale tra questi Paesi le zanzare sono completamente assenti a causa del clima e dell'ecosistema unico?",
       "opzioni": [
-        "Egitto",
-        "Turchia",
-        "Grecia",
-        "Azerbaigian"
+        "Madagascar",
+        "Islanda",
+        "Nuova Zelanda",
+        "Norvegia"
       ],
-      "risposta_corretta": "Turchia"
+      "risposta_corretta": "Islanda"
     },
     {
-      "domanda": "Quale popolarissimo videogioco ha reso globale la moda del ballo 'Floss', diventato un fenomeno virale tra i giovanissimi?",
+      "domanda": "Prima di diventare un colosso globale dei videogiochi, cosa produceva la Nintendo alla sua fondazione nel 1889?",
       "opzioni": [
-        "Minecraft",
-        "Fortnite",
-        "Just Dance",
-        "Roblox"
+        "Giocattoli meccanici in legno",
+        "Carte da gioco fatte a mano",
+        "Riso e prodotti alimentari",
+        "Orologi da tasca"
       ],
-      "risposta_corretta": "Fortnite"
+      "risposta_corretta": "Carte da gioco fatte a mano"
     }
   ]
 }
