@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale animale, unico nel mondo naturale, produce escrementi a forma di cubo perfetto per evitare che rotolino via dalle rocce?",
+      "domanda": "Quale celebre attore ha prestato la voce al Genio nella versione originale in inglese del film d'animazione Disney 'Aladdin' del 1992?",
       "opzioni": [
-        "Il capibara",
-        "Il panda minore",
-        "Il diavolo della Tasmania",
-        "Il vombato (Wombat)"
+        "Jim Carrey",
+        "Robin Williams",
+        "Tom Hanks",
+        "Eddie Murphy"
       ],
-      "risposta_corretta": "Il vombato (Wombat)"
+      "risposta_corretta": "Robin Williams"
     },
     {
-      "domanda": "Da dove proviene in realtà la celebre 'pioggia di codici verdi' che scorre all'inizio del film 'The Matrix'?",
+      "domanda": "Prima di diventare il colosso dell'e-commerce che conosciamo oggi, cosa vendeva esclusivamente Amazon quando è stata fondata nel 1994?",
       "opzioni": [
-        "Da un antico poema giapponese",
-        "Dal codice sorgente di Windows 95",
-        "Da ricette di sushi digitalizzate",
-        "Da equazioni di fisica quantistica"
+        "CD musicali",
+        "Computer usati",
+        "Videogiochi",
+        "Libri"
       ],
-      "risposta_corretta": "Da ricette di sushi digitalizzate"
+      "risposta_corretta": "Libri"
     },
     {
-      "domanda": "Qual è stato il primissimo prodotto in assoluto acquistato su Amazon nel 1995?",
+      "domanda": "I fenicotteri nascono con le piume grigie o bianche. Da cosa deriva il loro caratteristico colore rosa?",
       "opzioni": [
-        "Un libro di testo scientifico",
-        "Una tazza da caffè con il logo dell'azienda",
-        "Un lettore CD portatile",
-        "Un paio di floppy disk"
+        "Dal contatto prolungato con i sali minerali dell'acqua",
+        "Dall'esposizione al sole tropicale",
+        "Dalla loro dieta ricca di gamberetti e alghe",
+        "Da un gene che si attiva con l'età adulta"
       ],
-      "risposta_corretta": "Un libro di testo scientifico"
+      "risposta_corretta": "Dalla loro dieta ricca di gamberetti e alghe"
     },
     {
-      "domanda": "In quale di queste nazioni europee non esistono zanzare, grazie al suo clima unico e alla composizione del terreno?",
+      "domanda": "Nel 1932, l'esercito australiano fu coinvolto in una bizzarra 'guerra' militare contro quale specie animale che devastava i campi di grano?",
       "opzioni": [
-        "Norvegia",
-        "Islanda",
-        "Finlandia",
-        "Irlanda"
+        "Canguri",
+        "Conigli",
+        "Dingo",
+        "Emù"
       ],
-      "risposta_corretta": "Islanda"
+      "risposta_corretta": "Emù"
     },
     {
-      "domanda": "Prima di diventare il gigante dei videogiochi che tutti conosciamo, cosa produceva la Nintendo quando è stata fondata nel 1889?",
+      "domanda": "Istanbul è famosa per essere l'unica metropoli al mondo a estendersi contemporaneamente su due continenti. Quale nazione la ospita?",
       "opzioni": [
-        "Strumenti musicali",
-        "Carte da gioco tradizionali",
-        "Orologi da taschino",
-        "Giocattoli di legno"
+        "Egitto",
+        "Turchia",
+        "Grecia",
+        "Azerbaigian"
       ],
-      "risposta_corretta": "Carte da gioco tradizionali"
+      "risposta_corretta": "Turchia"
     },
     {
-      "domanda": "Cosa succede al corpo umano degli astronauti durante una permanenza prolungata nello spazio a causa della mancanza di gravità?",
+      "domanda": "Quale popolarissimo videogioco ha reso globale la moda del ballo 'Floss', diventato un fenomeno virale tra i giovanissimi?",
       "opzioni": [
-        "Le impronte digitali scompaiono",
-        "La vista migliora temporaneamente",
-        "I capelli smettono di crescere",
-        "Si diventa leggermente più alti"
+        "Minecraft",
+        "Fortnite",
+        "Just Dance",
+        "Roblox"
       ],
-      "risposta_corretta": "Si diventa leggermente più alti"
+      "risposta_corretta": "Fortnite"
     }
   ]
 }
