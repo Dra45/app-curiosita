@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale celebre dipinto ha direttamente ispirato l'iconica emoji del faccino che urla dalla paura (😱)?",
+      "domanda": "Da cosa è stato originariamente creato l'iconico codice verde a cascata che compare nel film 'The Matrix'?",
       "opzioni": [
-        "Guernica di Pablo Picasso",
-        "La Persistenza della Memoria di Dalí",
-        "L'Urlo di Edvard Munch",
-        "La Notte Stellata di Van Gogh"
+        "Da righe di codice sorgente in C++",
+        "Da versi di antiche poesie cinesi",
+        "Da dati finanziari della Borsa di Tokyo",
+        "Da ricette di sushi digitalizzate in giapponese"
       ],
-      "risposta_corretta": "L'Urlo di Edvard Munch"
+      "risposta_corretta": "Da ricette di sushi digitalizzate in giapponese"
     },
     {
-      "domanda": "Nel film 'Matrix', da dove proviene davvero l'iconico codice verde a cascata visibile sullo schermo?",
+      "domanda": "A chi o a cosa si ispira il nome della celebre tecnologia wireless 'Bluetooth'?",
       "opzioni": [
-        "Da un algoritmo casuale generato in studio",
-        "Da ricette di sushi scannerizzate da un libro di cucina",
-        "Da schemi di circuiti informatici",
-        "Da codici di lancio nucleare declassificati"
+        "A un celebre romanzo di fantascienza degli anni '60",
+        "A una stella della costellazione dell'Orsa Maggiore",
+        "Al soprannome del cane del creatore del progetto",
+        "A un re vichingo noto per aver unito diverse tribù scandinave"
       ],
-      "risposta_corretta": "Da ricette di sushi scannerizzate da un libro di cucina"
+      "risposta_corretta": "A un re vichingo noto per aver unito diverse tribù scandinave"
     },
     {
-      "domanda": "Per quale tenero motivo le lontre marine si tengono per mano mentre dormono nell'acqua?",
+      "domanda": "Quale tra questi animali produce feci a forma di cubo perfetto, una caratteristica unica al mondo che impedisce loro di rotolare via?",
       "opzioni": [
-        "Per condividere le provviste di cibo",
-        "Per evitare di andare alla deriva e separarsi",
-        "Per avvisarsi in caso di attacco dei predatori",
-        "Per scambiarsi il calore corporeo"
+        "Il Tarsio",
+        "Il Capibara",
+        "Il Vombato",
+        "Il Koala"
       ],
-      "risposta_corretta": "Per evitare di andare alla deriva e separarsi"
+      "risposta_corretta": "Il Vombato"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano ha ingaggiato una bizzarra operazione militare (e ha perso!) contro quale specie animale?",
+      "domanda": "Nel 1932, l'esercito australiano intraprese una bizzarra operazione militare (poi clamorosamente persa) contro quale tipo di animale?",
       "opzioni": [
-        "I conigli selvatici",
-        "I canguri",
-        "Gli emù",
-        "I dingo"
+        "Emo",
+        "Dingo",
+        "Canguri rossi",
+        "Conigli selvatici"
       ],
-      "risposta_corretta": "Gli emù"
+      "risposta_corretta": "Emo"
     },
     {
-      "domanda": "In quale tra questi Paesi le zanzare sono completamente assenti a causa del clima e dell'ecosistema unico?",
+      "domanda": "Quale Stato del mondo possiede il maggior numero di fusi orari in assoluto, considerando anche i suoi territori d'oltremare?",
       "opzioni": [
-        "Madagascar",
-        "Islanda",
-        "Nuova Zelanda",
-        "Norvegia"
+        "Il Canada",
+        "La Francia",
+        "Gli Stati Uniti",
+        "La Russia"
       ],
-      "risposta_corretta": "Islanda"
+      "risposta_corretta": "La Francia"
     },
     {
-      "domanda": "Prima di diventare un colosso globale dei videogiochi, cosa produceva la Nintendo alla sua fondazione nel 1889?",
+      "domanda": "Come è stata scoperta accidentalmente la tecnologia del forno a microonde negli anni '40?",
       "opzioni": [
-        "Giocattoli meccanici in legno",
-        "Carte da gioco fatte a mano",
-        "Riso e prodotti alimentari",
-        "Orologi da tasca"
+        "Un esperimento sul vetro temperato generò un'onda di calore improvvisa",
+        "Un fisico stava cercando un metodo rapido per scongelare campioni di laboratorio",
+        "Uno chef fece cadere per sbaglio dell'impasto dentro una radio ad alta frequenza",
+        "Un ingegnere notò che una tavoletta di cioccolato si era sciolta nella sua tasca vicino a un radar"
       ],
-      "risposta_corretta": "Carte da gioco fatte a mano"
+      "risposta_corretta": "Un ingegnere notò che una tavoletta di cioccolato si era sciolta nella sua tasca vicino a un radar"
     }
   ]
 }
