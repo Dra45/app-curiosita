@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Da cosa è stato originariamente creato l'iconico codice verde a cascata che compare nel film 'The Matrix'?",
+      "domanda": "Quale tra questi è stato il primo film d'animazione nella storia ad essere candidato all'Oscar come 'Miglior Film'?",
       "opzioni": [
-        "Da righe di codice sorgente in C++",
-        "Da versi di antiche poesie cinesi",
-        "Da dati finanziari della Borsa di Tokyo",
-        "Da ricette di sushi digitalizzate in giapponese"
+        "Shrek",
+        "Il Re Leone",
+        "La Bella e la Bestia",
+        "La Sirenetta"
       ],
-      "risposta_corretta": "Da ricette di sushi digitalizzate in giapponese"
+      "risposta_corretta": "La Bella e la Bestia"
     },
     {
-      "domanda": "A chi o a cosa si ispira il nome della celebre tecnologia wireless 'Bluetooth'?",
+      "domanda": "Nel 2010 è stato effettuato il primo acquisto reale della storia utilizzando Bitcoin. Cosa fu comprato per 10.000 Bitcoin?",
       "opzioni": [
-        "A un celebre romanzo di fantascienza degli anni '60",
-        "A una stella della costellazione dell'Orsa Maggiore",
-        "Al soprannome del cane del creatore del progetto",
-        "A un re vichingo noto per aver unito diverse tribù scandinave"
+        "Due pizze a domicilio",
+        "Un biglietto aereo per New York",
+        "Una chitarra elettrica autografata",
+        "Un laptop di ultima generazione"
       ],
-      "risposta_corretta": "A un re vichingo noto per aver unito diverse tribù scandinave"
+      "risposta_corretta": "Due pizze a domicilio"
     },
     {
-      "domanda": "Quale tra questi animali produce feci a forma di cubo perfetto, una caratteristica unica al mondo che impedisce loro di rotolare via?",
+      "domanda": "Qual è l'unico animale al mondo noto per produrre feci di forma cubica?",
       "opzioni": [
-        "Il Tarsio",
-        "Il Capibara",
-        "Il Vombato",
-        "Il Koala"
+        "Il bradipo tridattilo",
+        "Il diavolo della Tasmania",
+        "Il vombato",
+        "L'ornitorinco"
       ],
-      "risposta_corretta": "Il Vombato"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano intraprese una bizzarra operazione militare (poi clamorosamente persa) contro quale tipo di animale?",
+      "domanda": "Nel 1932, l'esercito australiano intraprese una bizzarra operazione militare ufficiale (rimasta famosa per essere stata vinta dagli animali) contro quale specie?",
       "opzioni": [
-        "Emo",
-        "Dingo",
-        "Canguri rossi",
-        "Conigli selvatici"
+        "I canguri rossi",
+        "I dingo",
+        "I coccodrilli",
+        "Gli emù"
       ],
-      "risposta_corretta": "Emo"
+      "risposta_corretta": "Gli emù"
     },
     {
-      "domanda": "Quale Stato del mondo possiede il maggior numero di fusi orari in assoluto, considerando anche i suoi territori d'oltremare?",
+      "domanda": "In quale Paese europeo, unico al mondo insieme all'Antartide, non esistono le zanzare?",
       "opzioni": [
-        "Il Canada",
-        "La Francia",
-        "Gli Stati Uniti",
-        "La Russia"
+        "Irlanda",
+        "Islanda",
+        "Finlandia",
+        "Svizzera"
       ],
-      "risposta_corretta": "La Francia"
+      "risposta_corretta": "Islanda"
     },
     {
-      "domanda": "Come è stata scoperta accidentalmente la tecnologia del forno a microonde negli anni '40?",
+      "domanda": "Quale celebre videoclip musicale è stato il primo in assoluto nella storia a raggiungere 1 miliardo di visualizzazioni su YouTube?",
       "opzioni": [
-        "Un esperimento sul vetro temperato generò un'onda di calore improvvisa",
-        "Un fisico stava cercando un metodo rapido per scongelare campioni di laboratorio",
-        "Uno chef fece cadere per sbaglio dell'impasto dentro una radio ad alta frequenza",
-        "Un ingegnere notò che una tavoletta di cioccolato si era sciolta nella sua tasca vicino a un radar"
+        "Despacito di Luis Fonsi",
+        "Baby di Justin Bieber",
+        "Gangnam Style di Psy",
+        "Thriller di Michael Jackson"
       ],
-      "risposta_corretta": "Un ingegnere notò che una tavoletta di cioccolato si era sciolta nella sua tasca vicino a un radar"
+      "risposta_corretta": "Gangnam Style di Psy"
     }
   ]
 }
