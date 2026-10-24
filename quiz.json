@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale tra questi è stato il primo film d'animazione nella storia ad essere candidato all'Oscar come 'Miglior Film'?",
+      "domanda": "Per creare l'iconico ruggito del T-Rex nel film 'Jurassic Park', il sound designer Gary Rydstrom ha unito i versi di vari animali. Quale tra questi era la fonte principale del suono?",
       "opzioni": [
-        "Shrek",
-        "Il Re Leone",
-        "La Bella e la Bestia",
-        "La Sirenetta"
+        "Un cucciolo di elefante",
+        "Un leone marino",
+        "Un alligatore americano",
+        "Un gatto inferocito"
       ],
-      "risposta_corretta": "La Bella e la Bestia"
+      "risposta_corretta": "Un cucciolo di elefante"
     },
     {
-      "domanda": "Nel 2010 è stato effettuato il primo acquisto reale della storia utilizzando Bitcoin. Cosa fu comprato per 10.000 Bitcoin?",
+      "domanda": "I vombati, simpatici marsupiali australiani, sono famosi nel regno animale per una particolarità biologica decisamente unica. Quale?",
       "opzioni": [
-        "Due pizze a domicilio",
-        "Un biglietto aereo per New York",
-        "Una chitarra elettrica autografata",
-        "Un laptop di ultima generazione"
+        "Fanno la cacca a forma di cubo",
+        "Possono trattenere il respiro sott'acqua per un'ora",
+        "Dormono capovolti come i pipistrelli",
+        "I loro denti sono naturalmente blu"
       ],
-      "risposta_corretta": "Due pizze a domicilio"
+      "risposta_corretta": "Fanno la cacca a forma di cubo"
     },
     {
-      "domanda": "Qual è l'unico animale al mondo noto per produrre feci di forma cubica?",
+      "domanda": "La tecnologia wireless 'Bluetooth' deve il suo nome curioso a un personaggio storico. Chi era?",
       "opzioni": [
-        "Il bradipo tridattilo",
-        "Il diavolo della Tasmania",
-        "Il vombato",
-        "L'ornitorinco"
+        "Un pirata britannico del '700",
+        "Un astronomo danese del Rinascimento",
+        "Un inventore scozzese dell'Ottocento",
+        "Un re vichingo del X secolo"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "Un re vichingo del X secolo"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano intraprese una bizzarra operazione militare ufficiale (rimasta famosa per essere stata vinta dagli animali) contro quale specie?",
+      "domanda": "Quale Stato del mondo possiede il maggior numero di fusi orari ufficiali, considerando anche i suoi territori d'oltremare?",
       "opzioni": [
-        "I canguri rossi",
-        "I dingo",
-        "I coccodrilli",
-        "Gli emù"
+        "La Russia",
+        "La Francia",
+        "Il Regno Unito",
+        "Gli Stati Uniti"
       ],
-      "risposta_corretta": "Gli emù"
+      "risposta_corretta": "La Francia"
     },
     {
-      "domanda": "In quale Paese europeo, unico al mondo insieme all'Antartide, non esistono le zanzare?",
+      "domanda": "La celebre (e controversa) 'Pizza Hawaiana' con l'ananas non è stata inventata alle Hawaii. In quale Paese è stata creata per la prima volta nel 1962?",
       "opzioni": [
-        "Irlanda",
-        "Islanda",
-        "Finlandia",
-        "Svizzera"
+        "Stati Uniti",
+        "Australia",
+        "Germania",
+        "Canada"
       ],
-      "risposta_corretta": "Islanda"
+      "risposta_corretta": "Canada"
     },
     {
-      "domanda": "Quale celebre videoclip musicale è stato il primo in assoluto nella storia a raggiungere 1 miliardo di visualizzazioni su YouTube?",
+      "domanda": "Il forno a microonde è stato inventato per caso negli anni '40 durante dei test sui radar. Quale 'incidente' fece capire all'inventore Percy Spencer la sua utilità?",
       "opzioni": [
-        "Despacito di Luis Fonsi",
-        "Baby di Justin Bieber",
-        "Gangnam Style di Psy",
-        "Thriller di Michael Jackson"
+        "Una tazza di caffè prese a bollire da sola",
+        "Una barretta di cioccolato gli si sciolse in tasca",
+        "Un pezzo di formaggio iniziò a filare all'improvviso",
+        "Un uovo esplose sul suo banco di lavoro"
       ],
-      "risposta_corretta": "Gangnam Style di Psy"
+      "risposta_corretta": "Una barretta di cioccolato gli si sciolse in tasca"
     }
   ]
 }
