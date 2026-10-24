@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Per creare l'iconico ruggito del T-Rex nel film 'Jurassic Park', il sound designer Gary Rydstrom ha unito i versi di vari animali. Quale tra questi era la fonte principale del suono?",
+      "domanda": "Qual è stato il primissimo video in assoluto caricato su YouTube nel lontano 2005?",
       "opzioni": [
-        "Un cucciolo di elefante",
-        "Un leone marino",
-        "Un alligatore americano",
-        "Un gatto inferocito"
+        "Evolution of Dance",
+        "Hello World",
+        "Me at the zoo",
+        "Charlie bit my finger"
       ],
-      "risposta_corretta": "Un cucciolo di elefante"
+      "risposta_corretta": "Me at the zoo"
     },
     {
-      "domanda": "I vombati, simpatici marsupiali australiani, sono famosi nel regno animale per una particolarità biologica decisamente unica. Quale?",
+      "domanda": "Perché i fenicotteri acquisiscono il loro iconico colore rosa?",
       "opzioni": [
-        "Fanno la cacca a forma di cubo",
-        "Possono trattenere il respiro sott'acqua per un'ora",
-        "Dormono capovolti come i pipistrelli",
-        "I loro denti sono naturalmente blu"
+        "Rilasciando una tossina difensiva dalla pelle",
+        "A causa dei pigmenti contenuti nei gamberetti di cui si nutrono",
+        "È il loro colore naturale fin dalla nascita",
+        "Dipende dall'esposizione prolungata ai raggi UV"
       ],
-      "risposta_corretta": "Fanno la cacca a forma di cubo"
+      "risposta_corretta": "A causa dei pigmenti contenuti nei gamberetti di cui si nutrono"
     },
     {
-      "domanda": "La tecnologia wireless 'Bluetooth' deve il suo nome curioso a un personaggio storico. Chi era?",
+      "domanda": "Qual è l'unico Paese al mondo la cui bandiera nazionale non ha forma né rettangolare né quadrata?",
       "opzioni": [
-        "Un pirata britannico del '700",
-        "Un astronomo danese del Rinascimento",
-        "Un inventore scozzese dell'Ottocento",
-        "Un re vichingo del X secolo"
+        "Città del Vaticano",
+        "Bhutan",
+        "Nepal",
+        "Svizzera"
       ],
-      "risposta_corretta": "Un re vichingo del X secolo"
+      "risposta_corretta": "Nepal"
     },
     {
-      "domanda": "Quale Stato del mondo possiede il maggior numero di fusi orari ufficiali, considerando anche i suoi territori d'oltremare?",
+      "domanda": "Nei cinecomic Marvel, qual è il prezioso e indistruttibile metallo di cui è composto lo scudo di Captain America?",
       "opzioni": [
-        "La Russia",
-        "La Francia",
-        "Il Regno Unito",
-        "Gli Stati Uniti"
+        "Kryptonite",
+        "Vibranio",
+        "Adamantio",
+        "Mithril"
       ],
-      "risposta_corretta": "La Francia"
+      "risposta_corretta": "Vibranio"
     },
     {
-      "domanda": "La celebre (e controversa) 'Pizza Hawaiana' con l'ananas non è stata inventata alle Hawaii. In quale Paese è stata creata per la prima volta nel 1962?",
+      "domanda": "Quale tormentone musicale è diventato il primo video nella storia di Internet a superare 1 miliardo di visualizzazioni su YouTube?",
       "opzioni": [
-        "Stati Uniti",
-        "Australia",
-        "Germania",
-        "Canada"
+        "Despacito",
+        "Uptown Funk",
+        "Baby Shark",
+        "Gangnam Style"
       ],
-      "risposta_corretta": "Canada"
+      "risposta_corretta": "Gangnam Style"
     },
     {
-      "domanda": "Il forno a microonde è stato inventato per caso negli anni '40 durante dei test sui radar. Quale 'incidente' fece capire all'inventore Percy Spencer la sua utilità?",
+      "domanda": "Nel 1932 l'esercito australiano combatté una bizzarra 'guerra' ufficiale (e la perse!) contro quale specie animale?",
       "opzioni": [
-        "Una tazza di caffè prese a bollire da sola",
-        "Una barretta di cioccolato gli si sciolse in tasca",
-        "Un pezzo di formaggio iniziò a filare all'improvviso",
-        "Un uovo esplose sul suo banco di lavoro"
+        "Conigli",
+        "Canguri",
+        "Dingo",
+        "Emù"
       ],
-      "risposta_corretta": "Una barretta di cioccolato gli si sciolse in tasca"
+      "risposta_corretta": "Emù"
     }
   ]
 }
