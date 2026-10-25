@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Come è nato il famoso suono del ruggito del T-Rex nel film 'Jurassic Park' del 1993?",
+      "domanda": "Nel celebre film 'Titanic' (1997), di chi sono in realtà le mani che vediamo disegnare il famoso ritratto di Rose?",
       "opzioni": [
-        "Creando un suono sintetico al computer da zero",
-        "Mixando i versi di un cucciolo di elefante, una tigre e un alligatore",
-        "Rallentando il verso di un pellicano combinato con quello di un orso",
-        "Registrando la distorsione del ruggito di dieci leoni africani"
+        "Del regista James Cameron",
+        "Di un famoso pittore parigino",
+        "Di Leonardo DiCaprio",
+        "Di una controfigura d'arte"
       ],
-      "risposta_corretta": "Mixando i versi di un cucciolo di elefante, una tigre e un alligatore"
+      "risposta_corretta": "Del regista James Cameron"
     },
     {
-      "domanda": "Quale animale è famoso in natura per produrre feci a forma di cubo perfetto?",
+      "domanda": "Quale tra questi animali è famoso per produrre deiezioni (cacche) a forma di cubo perfetto?",
       "opzioni": [
         "L'ornitorinco",
+        "Il vombato",
         "Il diavolo della Tasmania",
-        "Il koala",
-        "Il vombato"
+        "Il koala"
       ],
       "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Da dove deriva il nome della celebre tecnologia senza fili 'Bluetooth'?",
+      "domanda": "Nel 2010, un programmatore ha effettuato la prima transazione commerciale reale della storia usando 10.000 Bitcoin. Cosa ha acquistato?",
       "opzioni": [
-        "Da un cocktail azzurro inventato nella Silicon Valley",
-        "Dal nome del laboratorio segreto di ricerca della NASA",
-        "Da un re vichingo del X secolo famoso per aver unito la Scandinavia",
-        "Da un errore di battitura del creatore durante la registrazione del brevetto"
+        "Due pizze a domicilio",
+        "Un'automobile usata",
+        "Un biglietto aereo per Tokyo",
+        "Un computer portatile"
       ],
-      "risposta_corretta": "Da un re vichingo del X secolo famoso per aver unito la Scandinavia"
+      "risposta_corretta": "Due pizze a domicilio"
     },
     {
-      "domanda": "Nel 1989, la Pepsi Co. divenne temporaneamente la sesta potenza militare al mondo per numero di sottomarini a causa di un accordo commerciale con quale Paese?",
+      "domanda": "La celebre bevanda 'Fanta' è stata creata in Germania negli anni '40 per quale motivo?",
       "opzioni": [
-        "Corea del Nord",
-        "Germania Est",
-        "Unione Sovietica",
-        "Cuba"
+        "Per una scommessa tra due baristi di Berlino",
+        "Per lanciare uno sponsor alle Olimpiadi",
+        "Per smaltire un enorme surplus di succo d'arancia",
+        "A causa della mancanza di ingredienti per produrre la Coca-Cola"
       ],
-      "risposta_corretta": "Unione Sovietica"
+      "risposta_corretta": "A causa della mancanza di ingredienti per produrre la Coca-Cola"
     },
     {
-      "domanda": "Quale nazione possiede il maggior numero di fusi orari differenti al mondo, contando anche i suoi territori d'oltremare?",
+      "domanda": "Quale tra questi Paesi è famoso per essere uno dei pochissimi al mondo totalmente privo di zanzare?",
       "opzioni": [
-        "La Cina",
-        "La Francia",
-        "La Russia",
-        "Gli Stati Uniti"
+        "Il Madagascar",
+        "La Nuova Zelanda",
+        "L'Islanda",
+        "L'Irlanda"
       ],
-      "risposta_corretta": "La Francia"
+      "risposta_corretta": "L'Islanda"
     },
     {
-      "domanda": "Qual è il soggetto del primissimo video in assoluto caricato su YouTube nel 2005?",
+      "domanda": "Il celebre personaggio dei videogiochi 'Super Mario' deve il suo nome a quale persona reale?",
       "opzioni": [
-        "Una partita a uno dei primi videogiochi 3D",
-        "Il videoclip amatoriale di una band rock",
-        "Un gatto che suona una tastiera",
-        "Un ragazzo allo zoo davanti al recinto degli elefanti"
+        "Al nonno del creatore Shigeru Miyamoto",
+        "A un famoso cantante italiano dell'epoca",
+        "Al proprietario del primo magazzino americano di Nintendo",
+        "A un idraulico italo-americano di Brooklyn"
       ],
-      "risposta_corretta": "Un ragazzo allo zoo davanti al recinto degli elefanti"
+      "risposta_corretta": "Al proprietario del primo magazzino americano di Nintendo"
     }
   ]
 }
