@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è stato il primissimo video in assoluto caricato su YouTube nel lontano 2005?",
+      "domanda": "Come è nato il famoso suono del ruggito del T-Rex nel film 'Jurassic Park' del 1993?",
       "opzioni": [
-        "Evolution of Dance",
-        "Hello World",
-        "Me at the zoo",
-        "Charlie bit my finger"
+        "Creando un suono sintetico al computer da zero",
+        "Mixando i versi di un cucciolo di elefante, una tigre e un alligatore",
+        "Rallentando il verso di un pellicano combinato con quello di un orso",
+        "Registrando la distorsione del ruggito di dieci leoni africani"
       ],
-      "risposta_corretta": "Me at the zoo"
+      "risposta_corretta": "Mixando i versi di un cucciolo di elefante, una tigre e un alligatore"
     },
     {
-      "domanda": "Perché i fenicotteri acquisiscono il loro iconico colore rosa?",
+      "domanda": "Quale animale è famoso in natura per produrre feci a forma di cubo perfetto?",
       "opzioni": [
-        "Rilasciando una tossina difensiva dalla pelle",
-        "A causa dei pigmenti contenuti nei gamberetti di cui si nutrono",
-        "È il loro colore naturale fin dalla nascita",
-        "Dipende dall'esposizione prolungata ai raggi UV"
+        "L'ornitorinco",
+        "Il diavolo della Tasmania",
+        "Il koala",
+        "Il vombato"
       ],
-      "risposta_corretta": "A causa dei pigmenti contenuti nei gamberetti di cui si nutrono"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Qual è l'unico Paese al mondo la cui bandiera nazionale non ha forma né rettangolare né quadrata?",
+      "domanda": "Da dove deriva il nome della celebre tecnologia senza fili 'Bluetooth'?",
       "opzioni": [
-        "Città del Vaticano",
-        "Bhutan",
-        "Nepal",
-        "Svizzera"
+        "Da un cocktail azzurro inventato nella Silicon Valley",
+        "Dal nome del laboratorio segreto di ricerca della NASA",
+        "Da un re vichingo del X secolo famoso per aver unito la Scandinavia",
+        "Da un errore di battitura del creatore durante la registrazione del brevetto"
       ],
-      "risposta_corretta": "Nepal"
+      "risposta_corretta": "Da un re vichingo del X secolo famoso per aver unito la Scandinavia"
     },
     {
-      "domanda": "Nei cinecomic Marvel, qual è il prezioso e indistruttibile metallo di cui è composto lo scudo di Captain America?",
+      "domanda": "Nel 1989, la Pepsi Co. divenne temporaneamente la sesta potenza militare al mondo per numero di sottomarini a causa di un accordo commerciale con quale Paese?",
       "opzioni": [
-        "Kryptonite",
-        "Vibranio",
-        "Adamantio",
-        "Mithril"
+        "Corea del Nord",
+        "Germania Est",
+        "Unione Sovietica",
+        "Cuba"
       ],
-      "risposta_corretta": "Vibranio"
+      "risposta_corretta": "Unione Sovietica"
     },
     {
-      "domanda": "Quale tormentone musicale è diventato il primo video nella storia di Internet a superare 1 miliardo di visualizzazioni su YouTube?",
+      "domanda": "Quale nazione possiede il maggior numero di fusi orari differenti al mondo, contando anche i suoi territori d'oltremare?",
       "opzioni": [
-        "Despacito",
-        "Uptown Funk",
-        "Baby Shark",
-        "Gangnam Style"
+        "La Cina",
+        "La Francia",
+        "La Russia",
+        "Gli Stati Uniti"
       ],
-      "risposta_corretta": "Gangnam Style"
+      "risposta_corretta": "La Francia"
     },
     {
-      "domanda": "Nel 1932 l'esercito australiano combatté una bizzarra 'guerra' ufficiale (e la perse!) contro quale specie animale?",
+      "domanda": "Qual è il soggetto del primissimo video in assoluto caricato su YouTube nel 2005?",
       "opzioni": [
-        "Conigli",
-        "Canguri",
-        "Dingo",
-        "Emù"
+        "Una partita a uno dei primi videogiochi 3D",
+        "Il videoclip amatoriale di una band rock",
+        "Un gatto che suona una tastiera",
+        "Un ragazzo allo zoo davanti al recinto degli elefanti"
       ],
-      "risposta_corretta": "Emù"
+      "risposta_corretta": "Un ragazzo allo zoo davanti al recinto degli elefanti"
     }
   ]
 }
