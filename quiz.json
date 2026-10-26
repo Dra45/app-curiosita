@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale famosissima app di condivisione foto è nata originariamente nel 2010 con il nome di 'Burbn'?",
+      "domanda": "Quale attore ha prestato la voce e i movimenti (tramite motion capture) al potente supercattivo Thanos nei film della Marvel?",
       "opzioni": [
-        "Snapchat",
-        "Instagram",
-        "TikTok",
-        "Pinterest"
+        "Josh Brolin",
+        "Chris Hemsworth",
+        "Samuel L. Jackson",
+        "Benedict Cumberbatch"
       ],
-      "risposta_corretta": "Instagram"
+      "risposta_corretta": "Josh Brolin"
     },
     {
-      "domanda": "Quale di questi animali è famoso per essere l'unico al mondo a produrre escrementi di forma cubica?",
+      "domanda": "Nel maggio 2010 è stata effettuata la prima transazione commerciale reale della storia usando Bitcoin. Che cosa fu acquistato con 10.000 Bitcoin?",
       "opzioni": [
-        "L'ornitorinco",
-        "Il bradipo",
-        "Il koala",
-        "Il vombato"
+        "Un biglietto aereo per New York",
+        "Due pizze",
+        "Un libro di programmazione",
+        "Un iPhone 4"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "Due pizze"
     },
     {
-      "domanda": "Nel 1866, il piccolo Stato del Liechtenstein inviò un esercito di 80 soldati in guerra. Quanti ne tornarono a casa alla fine del conflitto?",
+      "domanda": "I vombati, simpatici marsupiali australiani, sono famosi per una particolarità biologica unica nel regno animale. Quale?",
       "opzioni": [
-        "Esattamente 80",
-        "79, con un solo ferito",
-        "Nessuno",
-        "81, perché fecero amicizia con un italiano"
+        "Possono planare per brevi tratti",
+        "Hanno il sangue di colore verde brillante",
+        "Producono feci a forma di cubo",
+        "Dormono esclusivamente a testa in giù"
       ],
-      "risposta_corretta": "81, perché fecero amicizia con un italiano"
+      "risposta_corretta": "Producono feci a forma di cubo"
     },
     {
-      "domanda": "Se si contano anche tutti i territori d'oltremare, qual è la nazione al mondo con il maggior numero di fusi orari differenti?",
+      "domanda": "Negli anni '60, durante la Guerra Fredda, la CIA ideò un bizzarro progetto di spionaggio chiamato 'Acoustic Kitty'. Quale animale fu addestrato e dotato di microfoni nascosti?",
       "opzioni": [
-        "Il Regno Unito",
-        "Gli Stati Uniti",
-        "La Francia",
-        "La Russia"
+        "Un piccione viaggiatore",
+        "Un cane randagio",
+        "Un delfino",
+        "Un gatto"
       ],
-      "risposta_corretta": "La Francia"
+      "risposta_corretta": "Un gatto"
     },
     {
-      "domanda": "Nel famoso film 'The Matrix', da cosa è stato creato l'iconico codice verde a cascata che si vede sullo schermo?",
+      "domanda": "Nel 1950, la cittadina di Hot Springs nel Nuovo Messico cambiò ufficialmente il proprio nome in 'Truth or Consequences' (Verità o Conseguenze). Perché?",
       "opzioni": [
-        "Da estratti in codice Morse della Bibbia",
-        "Da ricette per il sushi scansionate da un libro di cucina",
-        "Da sequenze casuali dell'alfabeto cirillico",
-        "Da un algoritmo di crittografia della CIA"
+        "Per vincere un contest lanciato da un popolare quiz radiofonico",
+        "In omaggio a un celebre film western girato in zona",
+        "Perché la città fu acquistata da un grande studio legale",
+        "A causa di una scommessa persa dal sindaco dell'epoca"
       ],
-      "risposta_corretta": "Da ricette per il sushi scansionate da un libro di cucina"
+      "risposta_corretta": "Per vincere un contest lanciato da un popolare quiz radiofonico"
     },
     {
-      "domanda": "Da dove deriva il nome della tecnologia 'Bluetooth' che usiamo tutti i giorni sui nostri smartphone?",
+      "domanda": "Tutti ricordiamo la leggendaria 'pioggia di codice verde' che scorre sugli schermi nel film 'Matrix'. Da dove arrivavano in realtà quei simboli scritti dal designer?",
       "opzioni": [
-        "Da un re vichingo del X secolo, Harald Bluetooth",
-        "Da una popolare gomma da masticare degli anni '80",
-        "Da un progetto mai realizzato per uno spazzolino digitale",
-        "Da un brevetto segreto della Marina Militare USA"
+        "Da veri codici di calcolo della NASA",
+        "Da equazioni di fisica quantistica inventate",
+        "Da ricette di sushi digitalizzate della moglie del designer",
+        "Da frammenti di antichi testi in sanscrito"
       ],
-      "risposta_corretta": "Da un re vichingo del X secolo, Harald Bluetooth"
+      "risposta_corretta": "Da ricette di sushi digitalizzate della moglie del designer"
     }
   ]
 }
