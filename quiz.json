@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Nel celebre film 'Titanic' (1997), di chi sono in realtà le mani che vediamo disegnare il famoso ritratto di Rose?",
+      "domanda": "Quale famosissima app di condivisione foto è nata originariamente nel 2010 con il nome di 'Burbn'?",
       "opzioni": [
-        "Del regista James Cameron",
-        "Di un famoso pittore parigino",
-        "Di Leonardo DiCaprio",
-        "Di una controfigura d'arte"
+        "Snapchat",
+        "Instagram",
+        "TikTok",
+        "Pinterest"
       ],
-      "risposta_corretta": "Del regista James Cameron"
+      "risposta_corretta": "Instagram"
     },
     {
-      "domanda": "Quale tra questi animali è famoso per produrre deiezioni (cacche) a forma di cubo perfetto?",
+      "domanda": "Quale di questi animali è famoso per essere l'unico al mondo a produrre escrementi di forma cubica?",
       "opzioni": [
         "L'ornitorinco",
-        "Il vombato",
-        "Il diavolo della Tasmania",
-        "Il koala"
+        "Il bradipo",
+        "Il koala",
+        "Il vombato"
       ],
       "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Nel 2010, un programmatore ha effettuato la prima transazione commerciale reale della storia usando 10.000 Bitcoin. Cosa ha acquistato?",
+      "domanda": "Nel 1866, il piccolo Stato del Liechtenstein inviò un esercito di 80 soldati in guerra. Quanti ne tornarono a casa alla fine del conflitto?",
       "opzioni": [
-        "Due pizze a domicilio",
-        "Un'automobile usata",
-        "Un biglietto aereo per Tokyo",
-        "Un computer portatile"
+        "Esattamente 80",
+        "79, con un solo ferito",
+        "Nessuno",
+        "81, perché fecero amicizia con un italiano"
       ],
-      "risposta_corretta": "Due pizze a domicilio"
+      "risposta_corretta": "81, perché fecero amicizia con un italiano"
     },
     {
-      "domanda": "La celebre bevanda 'Fanta' è stata creata in Germania negli anni '40 per quale motivo?",
+      "domanda": "Se si contano anche tutti i territori d'oltremare, qual è la nazione al mondo con il maggior numero di fusi orari differenti?",
       "opzioni": [
-        "Per una scommessa tra due baristi di Berlino",
-        "Per lanciare uno sponsor alle Olimpiadi",
-        "Per smaltire un enorme surplus di succo d'arancia",
-        "A causa della mancanza di ingredienti per produrre la Coca-Cola"
+        "Il Regno Unito",
+        "Gli Stati Uniti",
+        "La Francia",
+        "La Russia"
       ],
-      "risposta_corretta": "A causa della mancanza di ingredienti per produrre la Coca-Cola"
+      "risposta_corretta": "La Francia"
     },
     {
-      "domanda": "Quale tra questi Paesi è famoso per essere uno dei pochissimi al mondo totalmente privo di zanzare?",
+      "domanda": "Nel famoso film 'The Matrix', da cosa è stato creato l'iconico codice verde a cascata che si vede sullo schermo?",
       "opzioni": [
-        "Il Madagascar",
-        "La Nuova Zelanda",
-        "L'Islanda",
-        "L'Irlanda"
+        "Da estratti in codice Morse della Bibbia",
+        "Da ricette per il sushi scansionate da un libro di cucina",
+        "Da sequenze casuali dell'alfabeto cirillico",
+        "Da un algoritmo di crittografia della CIA"
       ],
-      "risposta_corretta": "L'Islanda"
+      "risposta_corretta": "Da ricette per il sushi scansionate da un libro di cucina"
     },
     {
-      "domanda": "Il celebre personaggio dei videogiochi 'Super Mario' deve il suo nome a quale persona reale?",
+      "domanda": "Da dove deriva il nome della tecnologia 'Bluetooth' che usiamo tutti i giorni sui nostri smartphone?",
       "opzioni": [
-        "Al nonno del creatore Shigeru Miyamoto",
-        "A un famoso cantante italiano dell'epoca",
-        "Al proprietario del primo magazzino americano di Nintendo",
-        "A un idraulico italo-americano di Brooklyn"
+        "Da un re vichingo del X secolo, Harald Bluetooth",
+        "Da una popolare gomma da masticare degli anni '80",
+        "Da un progetto mai realizzato per uno spazzolino digitale",
+        "Da un brevetto segreto della Marina Militare USA"
       ],
-      "risposta_corretta": "Al proprietario del primo magazzino americano di Nintendo"
+      "risposta_corretta": "Da un re vichingo del X secolo, Harald Bluetooth"
     }
   ]
 }
