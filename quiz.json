@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale animale marino è famoso per tenersi per 'mano' mentre dorme per evitare di andare alla deriva?",
+      "domanda": "Nel mondo del cinema, come viene chiamato il famoso effetto sonoro dell'urlo che è stato riutilizzato in oltre 400 film a partire dal 1951?",
       "opzioni": [
-        "Le foche grigie",
-        "I delfini",
-        "I pinguini imperatore",
-        "Le lontre di mare"
+        "Boato di Godzilla",
+        "Urlo di Wilhelm",
+        "Effetto Pac-Man",
+        "Lamento di Tarzan"
       ],
-      "risposta_corretta": "Le lontre di mare"
+      "risposta_corretta": "Urlo di Wilhelm"
     },
     {
-      "domanda": "Qual è stato il primo video in assoluto caricato su YouTube nel 2005?",
+      "domanda": "Nel 2010 è stato effettuato il primo acquisto documentato di un bene reale usando i Bitcoin: cosa è stato comprato?",
       "opzioni": [
-        "Un gatto che suona il pianoforte",
-        "Un ragazzo allo zoo di San Diego",
-        "Un test di qualità video",
-        "La canzone 'Never Gonna Give You Up'"
+        "Una tazza di caffè",
+        "Un iPhone 3GS",
+        "Un biglietto aereo",
+        "Due pizze"
       ],
-      "risposta_corretta": "Un ragazzo allo zoo di San Diego"
+      "risposta_corretta": "Due pizze"
     },
     {
-      "domanda": "Il famoso 'codice verde' che scorre sugli schermi nel film 'Matrix' è in realtà composto da:",
+      "domanda": "Se pensi che l'Egitto sia il paese con più piramidi al mondo, ti sbagli! Quale nazione ne possiede oltre 200, quasi il doppio rispetto all'Egitto?",
       "opzioni": [
-        "Frammenti di codice C++",
-        "Nomi del cast scritti al contrario",
-        "Ricette di sushi in giapponese",
-        "Poesie tradizionali cinesi"
+        "Perù",
+        "Messico",
+        "Sudan",
+        "Grecia"
       ],
-      "risposta_corretta": "Ricette di sushi in giapponese"
+      "risposta_corretta": "Sudan"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano combatté una bizzarra e infruttuosa 'guerra' contro quale animale?",
+      "domanda": "Natura bizzarra: quale unico animale al mondo produce feci a forma di cubo perfetto?",
       "opzioni": [
-        "I rospi giganti",
-        "I dingo",
-        "Gli emù",
-        "I canguri"
+        "Ornitorinco",
+        "Vombato",
+        "Koala",
+        "Camaleonte"
       ],
-      "risposta_corretta": "Gli emù"
+      "risposta_corretta": "Vombato"
     },
     {
-      "domanda": "In quale Paese europeo non esistono le zanzare a causa del suo clima e terreno unici?",
+      "domanda": "Nel 1932 l'esercito australiano ingaggiò una vera e propria bizzarra 'guerra' contro una specie animale che stava devastando i raccolti (e perse la guerra!). Di quale animale si trattava?",
       "opzioni": [
-        "Finlandia",
-        "Irlanda",
-        "Svizzera",
-        "Islanda"
+        "Canguri",
+        "Conigli",
+        "Emù",
+        "Dingo"
       ],
-      "risposta_corretta": "Islanda"
+      "risposta_corretta": "Emù"
     },
     {
-      "domanda": "Qual è stata la prima canzone il cui videoclip è stato trasmesso su MTV al suo storico lancio nel 1981?",
+      "domanda": "Qual è stato il primissimo videoclip musicale trasmesso sul canale americano MTV al suo lancio il 1° agosto 1981?",
       "opzioni": [
-        "Video Killed the Radio Star (The Buggles)",
-        "Bohemian Rhapsody (Queen)",
-        "Like a Virgin (Madonna)",
-        "Thriller (Michael Jackson)"
+        "Take On Me degli A-ha",
+        "Thriller di Michael Jackson",
+        "Bohemian Rhapsody dei Queen",
+        "Video Killed the Radio Star dei Buggles"
       ],
-      "risposta_corretta": "Video Killed the Radio Star (The Buggles)"
+      "risposta_corretta": "Video Killed the Radio Star dei Buggles"
     }
   ]
 }
