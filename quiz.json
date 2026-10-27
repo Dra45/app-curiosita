@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale attore ha prestato la voce e i movimenti (tramite motion capture) al potente supercattivo Thanos nei film della Marvel?",
+      "domanda": "Quale animale marino è famoso per tenersi per 'mano' mentre dorme per evitare di andare alla deriva?",
       "opzioni": [
-        "Josh Brolin",
-        "Chris Hemsworth",
-        "Samuel L. Jackson",
-        "Benedict Cumberbatch"
+        "Le foche grigie",
+        "I delfini",
+        "I pinguini imperatore",
+        "Le lontre di mare"
       ],
-      "risposta_corretta": "Josh Brolin"
+      "risposta_corretta": "Le lontre di mare"
     },
     {
-      "domanda": "Nel maggio 2010 è stata effettuata la prima transazione commerciale reale della storia usando Bitcoin. Che cosa fu acquistato con 10.000 Bitcoin?",
+      "domanda": "Qual è stato il primo video in assoluto caricato su YouTube nel 2005?",
       "opzioni": [
-        "Un biglietto aereo per New York",
-        "Due pizze",
-        "Un libro di programmazione",
-        "Un iPhone 4"
+        "Un gatto che suona il pianoforte",
+        "Un ragazzo allo zoo di San Diego",
+        "Un test di qualità video",
+        "La canzone 'Never Gonna Give You Up'"
       ],
-      "risposta_corretta": "Due pizze"
+      "risposta_corretta": "Un ragazzo allo zoo di San Diego"
     },
     {
-      "domanda": "I vombati, simpatici marsupiali australiani, sono famosi per una particolarità biologica unica nel regno animale. Quale?",
+      "domanda": "Il famoso 'codice verde' che scorre sugli schermi nel film 'Matrix' è in realtà composto da:",
       "opzioni": [
-        "Possono planare per brevi tratti",
-        "Hanno il sangue di colore verde brillante",
-        "Producono feci a forma di cubo",
-        "Dormono esclusivamente a testa in giù"
+        "Frammenti di codice C++",
+        "Nomi del cast scritti al contrario",
+        "Ricette di sushi in giapponese",
+        "Poesie tradizionali cinesi"
       ],
-      "risposta_corretta": "Producono feci a forma di cubo"
+      "risposta_corretta": "Ricette di sushi in giapponese"
     },
     {
-      "domanda": "Negli anni '60, durante la Guerra Fredda, la CIA ideò un bizzarro progetto di spionaggio chiamato 'Acoustic Kitty'. Quale animale fu addestrato e dotato di microfoni nascosti?",
+      "domanda": "Nel 1932, l'esercito australiano combatté una bizzarra e infruttuosa 'guerra' contro quale animale?",
       "opzioni": [
-        "Un piccione viaggiatore",
-        "Un cane randagio",
-        "Un delfino",
-        "Un gatto"
+        "I rospi giganti",
+        "I dingo",
+        "Gli emù",
+        "I canguri"
       ],
-      "risposta_corretta": "Un gatto"
+      "risposta_corretta": "Gli emù"
     },
     {
-      "domanda": "Nel 1950, la cittadina di Hot Springs nel Nuovo Messico cambiò ufficialmente il proprio nome in 'Truth or Consequences' (Verità o Conseguenze). Perché?",
+      "domanda": "In quale Paese europeo non esistono le zanzare a causa del suo clima e terreno unici?",
       "opzioni": [
-        "Per vincere un contest lanciato da un popolare quiz radiofonico",
-        "In omaggio a un celebre film western girato in zona",
-        "Perché la città fu acquistata da un grande studio legale",
-        "A causa di una scommessa persa dal sindaco dell'epoca"
+        "Finlandia",
+        "Irlanda",
+        "Svizzera",
+        "Islanda"
       ],
-      "risposta_corretta": "Per vincere un contest lanciato da un popolare quiz radiofonico"
+      "risposta_corretta": "Islanda"
     },
     {
-      "domanda": "Tutti ricordiamo la leggendaria 'pioggia di codice verde' che scorre sugli schermi nel film 'Matrix'. Da dove arrivavano in realtà quei simboli scritti dal designer?",
+      "domanda": "Qual è stata la prima canzone il cui videoclip è stato trasmesso su MTV al suo storico lancio nel 1981?",
       "opzioni": [
-        "Da veri codici di calcolo della NASA",
-        "Da equazioni di fisica quantistica inventate",
-        "Da ricette di sushi digitalizzate della moglie del designer",
-        "Da frammenti di antichi testi in sanscrito"
+        "Video Killed the Radio Star (The Buggles)",
+        "Bohemian Rhapsody (Queen)",
+        "Like a Virgin (Madonna)",
+        "Thriller (Michael Jackson)"
       ],
-      "risposta_corretta": "Da ricette di sushi digitalizzate della moglie del designer"
+      "risposta_corretta": "Video Killed the Radio Star (The Buggles)"
     }
   ]
 }
