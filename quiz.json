@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale animale è famoso per produrre escrementi a forma perfettamente cubica per evitare che rotolino via dalle rocce?",
+      "domanda": "Da dove deriva il celebre nome della tecnologia 'Bluetooth' che usiamo ogni giorno per collegare i nostri dispositivi?",
       "opzioni": [
-        "Il vombato",
-        "L'ornitorinco",
-        "Il koala",
-        "Il diavolo della Tasmania"
+        "Da un errore di battitura del creatore nel 1997",
+        "Da una marca di caramelle svedesi alla menta",
+        "Dal soprannome di un re vichingo del X secolo",
+        "Dal colore del primo prototipo di cavo di connessione"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "Dal soprannome di un re vichingo del X secolo"
     },
     {
-      "domanda": "Qual è stato il primo video musicale nella storia di YouTube a superare la cifra record di 1 miliardo di visualizzazioni?",
+      "domanda": "Per quale motivo anatomico e curioso i vombati, simpatici marsupiali australiani, sono unici al mondo nel regno animale?",
       "opzioni": [
-        "Blank Space di Taylor Swift",
-        "Baby di Justin Bieber",
-        "Despacito di Luis Fonsi",
-        "Gangnam Style di Psy"
+        "Dormono a testa in giù come i pipistrelli",
+        "Producono latte di colore azzurro",
+        "Hanno impronte digitali identiche a quelle umane",
+        "Fanno la cacca a forma di cubo"
       ],
-      "risposta_corretta": "Gangnam Style di Psy"
+      "risposta_corretta": "Fanno la cacca a forma di cubo"
     },
     {
-      "domanda": "Nel kolossal Titanic (1997), il celebre ritratto a carboncino di Rose non è stato realizzato da Leonardo DiCaprio. Chi ha disegnato lo schizzo nella realtà?",
+      "domanda": "Quale affascinante e storica città ha la particolarità geografica unica di estendersi contemporaneamente su due continenti diversi (Europa e Asia)?",
       "opzioni": [
-        "James Cameron",
-        "Kate Winslet",
-        "Il direttore della fotografia",
-        "Un noto pittore parigino"
+        "Istanbul",
+        "Il Cairo",
+        "Baku",
+        "Mosca"
       ],
-      "risposta_corretta": "James Cameron"
+      "risposta_corretta": "Istanbul"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano ingaggiò una bizzarra 'guerra' militare ufficiale (e la perse clamorosamente!) contro quale specie animale?",
+      "domanda": "Quale oggetto di uso comune è stato utilizzato dal sound designer Ben Burtt per creare l'iconico e cupo suono del respiro di Darth Vader in Star Wars?",
       "opzioni": [
-        "I dingo",
-        "Gli emù",
-        "I canguri",
-        "I cammelli selvatici"
+        "Una maschera antigas della Seconda Guerra Mondiale",
+        "Un erogatore da sub per la respirazione subacquea",
+        "Un aspirapolvere vintage a bassa potenza",
+        "Un tubo da giardinaggio in plastica"
       ],
-      "risposta_corretta": "Gli emù"
+      "risposta_corretta": "Un erogatore da sub per la respirazione subacquea"
     },
     {
-      "domanda": "Istanbul è una metropoli straordinaria: passeggiando e attraversando semplicemente il Ponte sul Bosforo, cosa stai cambiando letteralmente?",
+      "domanda": "Intitolato 'Me at the zoo', qual è stato il primissimo video in assoluto caricato su YouTube nell'aprile del 2005?",
       "opzioni": [
-        "Fuso orario",
-        "Continente",
-        "Valuta corrente",
-        "Emisfero terrestre"
+        "Un gatto che suona un piccolo pianoforte",
+        "Un ragazzo che esegue un trucco con lo skateboard",
+        "Il co-fondatore della piattaforma davanti alla gabbia degli elefanti",
+        "Un test d'animazione digitale in 3D"
       ],
-      "risposta_corretta": "Continente"
+      "risposta_corretta": "Il co-fondatore della piattaforma davanti alla gabbia degli elefanti"
     },
     {
-      "domanda": "Quale famosissima bevanda fu creata nel 1886 da un farmacista americano che la vendeva inizialmente come sciroppo curativo per il mal di testa?",
+      "domanda": "Nel 1932, il governo australiano sguinzagliò l'esercito armato di mitragliatrici per combattere un'insolita 'guerra' contro una sovrappopolazione di quali animali (e perse)?",
       "opzioni": [
-        "Fanta",
-        "Red Bull",
-        "Coca-Cola",
-        "Sprite"
+        "Emu",
+        "Canguri rossi",
+        "Dingo",
+        "Conigli selvatici"
       ],
-      "risposta_corretta": "Coca-Cola"
+      "risposta_corretta": "Emu"
     }
   ]
 }
