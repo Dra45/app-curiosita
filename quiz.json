@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Nel mondo del cinema, come viene chiamato il famoso effetto sonoro dell'urlo che è stato riutilizzato in oltre 400 film a partire dal 1951?",
+      "domanda": "Quale animale è famoso per produrre escrementi a forma perfettamente cubica per evitare che rotolino via dalle rocce?",
       "opzioni": [
-        "Boato di Godzilla",
-        "Urlo di Wilhelm",
-        "Effetto Pac-Man",
-        "Lamento di Tarzan"
+        "Il vombato",
+        "L'ornitorinco",
+        "Il koala",
+        "Il diavolo della Tasmania"
       ],
-      "risposta_corretta": "Urlo di Wilhelm"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Nel 2010 è stato effettuato il primo acquisto documentato di un bene reale usando i Bitcoin: cosa è stato comprato?",
+      "domanda": "Qual è stato il primo video musicale nella storia di YouTube a superare la cifra record di 1 miliardo di visualizzazioni?",
       "opzioni": [
-        "Una tazza di caffè",
-        "Un iPhone 3GS",
-        "Un biglietto aereo",
-        "Due pizze"
+        "Blank Space di Taylor Swift",
+        "Baby di Justin Bieber",
+        "Despacito di Luis Fonsi",
+        "Gangnam Style di Psy"
       ],
-      "risposta_corretta": "Due pizze"
+      "risposta_corretta": "Gangnam Style di Psy"
     },
     {
-      "domanda": "Se pensi che l'Egitto sia il paese con più piramidi al mondo, ti sbagli! Quale nazione ne possiede oltre 200, quasi il doppio rispetto all'Egitto?",
+      "domanda": "Nel kolossal Titanic (1997), il celebre ritratto a carboncino di Rose non è stato realizzato da Leonardo DiCaprio. Chi ha disegnato lo schizzo nella realtà?",
       "opzioni": [
-        "Perù",
-        "Messico",
-        "Sudan",
-        "Grecia"
+        "James Cameron",
+        "Kate Winslet",
+        "Il direttore della fotografia",
+        "Un noto pittore parigino"
       ],
-      "risposta_corretta": "Sudan"
+      "risposta_corretta": "James Cameron"
     },
     {
-      "domanda": "Natura bizzarra: quale unico animale al mondo produce feci a forma di cubo perfetto?",
+      "domanda": "Nel 1932, l'esercito australiano ingaggiò una bizzarra 'guerra' militare ufficiale (e la perse clamorosamente!) contro quale specie animale?",
       "opzioni": [
-        "Ornitorinco",
-        "Vombato",
-        "Koala",
-        "Camaleonte"
+        "I dingo",
+        "Gli emù",
+        "I canguri",
+        "I cammelli selvatici"
       ],
-      "risposta_corretta": "Vombato"
+      "risposta_corretta": "Gli emù"
     },
     {
-      "domanda": "Nel 1932 l'esercito australiano ingaggiò una vera e propria bizzarra 'guerra' contro una specie animale che stava devastando i raccolti (e perse la guerra!). Di quale animale si trattava?",
+      "domanda": "Istanbul è una metropoli straordinaria: passeggiando e attraversando semplicemente il Ponte sul Bosforo, cosa stai cambiando letteralmente?",
       "opzioni": [
-        "Canguri",
-        "Conigli",
-        "Emù",
-        "Dingo"
+        "Fuso orario",
+        "Continente",
+        "Valuta corrente",
+        "Emisfero terrestre"
       ],
-      "risposta_corretta": "Emù"
+      "risposta_corretta": "Continente"
     },
     {
-      "domanda": "Qual è stato il primissimo videoclip musicale trasmesso sul canale americano MTV al suo lancio il 1° agosto 1981?",
+      "domanda": "Quale famosissima bevanda fu creata nel 1886 da un farmacista americano che la vendeva inizialmente come sciroppo curativo per il mal di testa?",
       "opzioni": [
-        "Take On Me degli A-ha",
-        "Thriller di Michael Jackson",
-        "Bohemian Rhapsody dei Queen",
-        "Video Killed the Radio Star dei Buggles"
+        "Fanta",
+        "Red Bull",
+        "Coca-Cola",
+        "Sprite"
       ],
-      "risposta_corretta": "Video Killed the Radio Star dei Buggles"
+      "risposta_corretta": "Coca-Cola"
     }
   ]
 }
