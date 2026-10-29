@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale di questi animali produce naturalmente un latte di colore rosa acceso?",
+      "domanda": "Da dove deriva il celebre nome della tecnologia di connessione wireless 'Bluetooth'?",
       "opzioni": [
-        "Ornitorinco",
-        "Fenicottero",
-        "Lama",
-        "Ippopotamo"
+        "Dal soprannome dell'inventore, appassionato di mirtilli",
+        "Da un acronimo militare utilizzato durante la Guerra Fredda",
+        "Da un re vichingo del X secolo noto per aver unificato le tribù scandinave",
+        "Dal nome della prima nave da ricerca che utilizzò il segnale"
       ],
-      "risposta_corretta": "Ippopotamo"
+      "risposta_corretta": "Da un re vichingo del X secolo noto per aver unificato le tribù scandinave"
     },
     {
-      "domanda": "La tecnologia wireless 'Bluetooth' prende il nome da un re vichingo del X secolo. Da cosa deriva questo curioso soprannome?",
+      "domanda": "Come è stato creato il terrificante e iconico ruggito del T-Rex nel film 'Jurassic Park' del 1993?",
       "opzioni": [
-        "Aveva un dente scuro e rovinato",
-        "Aveva gli occhi di due colori diversi",
-        "Indossava sempre un mantello blu",
-        "Dipingeva le sue navi di blu"
+        "Mixando i versi di un cucciolo di elefante, una tigre e un alligatore",
+        "Sintetizzando il suono del motore di un jet in fase di decollo",
+        "Rallentando e amplificando il verso di un orso polare",
+        "Registrando un ruggito di leone distorto al computer"
       ],
-      "risposta_corretta": "Aveva un dente scuro e rovinato"
+      "risposta_corretta": "Mixando i versi di un cucciolo di elefante, una tigre e un alligatore"
     },
     {
-      "domanda": "Nel mondo del cinema, come viene chiamato il famosissimo effetto sonoro di un urlo acuto usato in centinaia di film e serie TV fin dal 1951?",
+      "domanda": "I vombati, simpatici marsupiali australiani, sono famosi nel regno animale per una caratteristica unica al mondo. Quale?",
       "opzioni": [
-        "Urlo di Godzilla",
-        "Urlo Wilhelm",
-        "Urlo di Hitchcock",
-        "Urlo di Tarzan"
+        "Le loro impronte digitali sono identiche a quelle umane",
+        "Hanno una lingua lunga il doppio del loro corpo",
+        "Producono feci perfettamente cubiche",
+        "I loro denti cambiano colore in base a ciò che mangiano"
       ],
-      "risposta_corretta": "Urlo Wilhelm"
+      "risposta_corretta": "Producono feci perfettamente cubiche"
     },
     {
-      "domanda": "Come si chiama il punto dell'oceano più lontano da qualsiasi terra emersa, così isolato che le persone più vicine sono spesso gli astronauti della Stazione Spaziale?",
+      "domanda": "Nel 1925, il geniale truffatore Victor Lustig è passato alla storia per essere riuscito a vendere illegittimamente (e per ben due volte) quale famoso monumento?",
       "opzioni": [
-        "Fossa delle Marianne",
-        "Triangolo delle Bermude",
-        "Punto Nemo",
-        "Abisso Challenger"
+        "La Statua della Libertà",
+        "Il Colosseo",
+        "Il Ponte di Brooklyn",
+        "La Torre Eiffel"
       ],
-      "risposta_corretta": "Punto Nemo"
+      "risposta_corretta": "La Torre Eiffel"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano fu coinvolto in una celebre e bizzarra 'guerra' militare combattuta con le mitragliatrici. Contro quale animale?",
+      "domanda": "Quale Paese al mondo detiene il record per il maggior numero di fusi orari (ben 12), considerando anche i suoi territori d'oltremare?",
       "opzioni": [
-        "Dingo",
-        "Emù",
-        "Conigli selvatici",
-        "Canguri"
+        "La Russia",
+        "Il Regno Unito",
+        "La Francia",
+        "Gli Stati Uniti"
       ],
-      "risposta_corretta": "Emù"
+      "risposta_corretta": "La Francia"
     },
     {
-      "domanda": "Nell'Europa del XVIII secolo, quale frutto era talmente raro e costoso che i nobili lo affittavano solo per sfoggiarlo ai party come simbolo di ricchezza?",
+      "domanda": "In quale Paese è stata inventata negli anni '60 la celebre e controversa 'Pizza Hawaii' con l'ananas?",
       "opzioni": [
-        "L'Ananas",
-        "Il Cocco",
-        "La Banana",
-        "Il Mango"
+        "In Australia",
+        "Nelle isole Hawaii",
+        "In Canada",
+        "Negli Stati Uniti"
       ],
-      "risposta_corretta": "L'Ananas"
+      "risposta_corretta": "In Canada"
     }
   ]
 }
