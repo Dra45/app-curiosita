@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Da dove deriva il celebre nome della tecnologia 'Bluetooth' che usiamo ogni giorno per collegare i nostri dispositivi?",
+      "domanda": "Quale di questi animali produce naturalmente un latte di colore rosa acceso?",
       "opzioni": [
-        "Da un errore di battitura del creatore nel 1997",
-        "Da una marca di caramelle svedesi alla menta",
-        "Dal soprannome di un re vichingo del X secolo",
-        "Dal colore del primo prototipo di cavo di connessione"
+        "Ornitorinco",
+        "Fenicottero",
+        "Lama",
+        "Ippopotamo"
       ],
-      "risposta_corretta": "Dal soprannome di un re vichingo del X secolo"
+      "risposta_corretta": "Ippopotamo"
     },
     {
-      "domanda": "Per quale motivo anatomico e curioso i vombati, simpatici marsupiali australiani, sono unici al mondo nel regno animale?",
+      "domanda": "La tecnologia wireless 'Bluetooth' prende il nome da un re vichingo del X secolo. Da cosa deriva questo curioso soprannome?",
       "opzioni": [
-        "Dormono a testa in giù come i pipistrelli",
-        "Producono latte di colore azzurro",
-        "Hanno impronte digitali identiche a quelle umane",
-        "Fanno la cacca a forma di cubo"
+        "Aveva un dente scuro e rovinato",
+        "Aveva gli occhi di due colori diversi",
+        "Indossava sempre un mantello blu",
+        "Dipingeva le sue navi di blu"
       ],
-      "risposta_corretta": "Fanno la cacca a forma di cubo"
+      "risposta_corretta": "Aveva un dente scuro e rovinato"
     },
     {
-      "domanda": "Quale affascinante e storica città ha la particolarità geografica unica di estendersi contemporaneamente su due continenti diversi (Europa e Asia)?",
+      "domanda": "Nel mondo del cinema, come viene chiamato il famosissimo effetto sonoro di un urlo acuto usato in centinaia di film e serie TV fin dal 1951?",
       "opzioni": [
-        "Istanbul",
-        "Il Cairo",
-        "Baku",
-        "Mosca"
+        "Urlo di Godzilla",
+        "Urlo Wilhelm",
+        "Urlo di Hitchcock",
+        "Urlo di Tarzan"
       ],
-      "risposta_corretta": "Istanbul"
+      "risposta_corretta": "Urlo Wilhelm"
     },
     {
-      "domanda": "Quale oggetto di uso comune è stato utilizzato dal sound designer Ben Burtt per creare l'iconico e cupo suono del respiro di Darth Vader in Star Wars?",
+      "domanda": "Come si chiama il punto dell'oceano più lontano da qualsiasi terra emersa, così isolato che le persone più vicine sono spesso gli astronauti della Stazione Spaziale?",
       "opzioni": [
-        "Una maschera antigas della Seconda Guerra Mondiale",
-        "Un erogatore da sub per la respirazione subacquea",
-        "Un aspirapolvere vintage a bassa potenza",
-        "Un tubo da giardinaggio in plastica"
+        "Fossa delle Marianne",
+        "Triangolo delle Bermude",
+        "Punto Nemo",
+        "Abisso Challenger"
       ],
-      "risposta_corretta": "Un erogatore da sub per la respirazione subacquea"
+      "risposta_corretta": "Punto Nemo"
     },
     {
-      "domanda": "Intitolato 'Me at the zoo', qual è stato il primissimo video in assoluto caricato su YouTube nell'aprile del 2005?",
+      "domanda": "Nel 1932, l'esercito australiano fu coinvolto in una celebre e bizzarra 'guerra' militare combattuta con le mitragliatrici. Contro quale animale?",
       "opzioni": [
-        "Un gatto che suona un piccolo pianoforte",
-        "Un ragazzo che esegue un trucco con lo skateboard",
-        "Il co-fondatore della piattaforma davanti alla gabbia degli elefanti",
-        "Un test d'animazione digitale in 3D"
-      ],
-      "risposta_corretta": "Il co-fondatore della piattaforma davanti alla gabbia degli elefanti"
-    },
-    {
-      "domanda": "Nel 1932, il governo australiano sguinzagliò l'esercito armato di mitragliatrici per combattere un'insolita 'guerra' contro una sovrappopolazione di quali animali (e perse)?",
-      "opzioni": [
-        "Emu",
-        "Canguri rossi",
         "Dingo",
-        "Conigli selvatici"
+        "Emù",
+        "Conigli selvatici",
+        "Canguri"
       ],
-      "risposta_corretta": "Emu"
+      "risposta_corretta": "Emù"
+    },
+    {
+      "domanda": "Nell'Europa del XVIII secolo, quale frutto era talmente raro e costoso che i nobili lo affittavano solo per sfoggiarlo ai party come simbolo di ricchezza?",
+      "opzioni": [
+        "L'Ananas",
+        "Il Cocco",
+        "La Banana",
+        "Il Mango"
+      ],
+      "risposta_corretta": "L'Ananas"
     }
   ]
 }
