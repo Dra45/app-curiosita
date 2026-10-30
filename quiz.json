@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Da dove deriva il celebre nome della tecnologia di connessione wireless 'Bluetooth'?",
+      "domanda": "Quale animale è famoso per produrre escrementi a forma di cubo quasi perfetto?",
       "opzioni": [
-        "Dal soprannome dell'inventore, appassionato di mirtilli",
-        "Da un acronimo militare utilizzato durante la Guerra Fredda",
-        "Da un re vichingo del X secolo noto per aver unificato le tribù scandinave",
-        "Dal nome della prima nave da ricerca che utilizzò il segnale"
+        "Il koala",
+        "Il vombato",
+        "L'ornitorinco",
+        "Il bradipo"
       ],
-      "risposta_corretta": "Da un re vichingo del X secolo noto per aver unificato le tribù scandinave"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Come è stato creato il terrificante e iconico ruggito del T-Rex nel film 'Jurassic Park' del 1993?",
+      "domanda": "Nel film 'Jurassic Park' del 1993, da quale inaspettata combinazione di suoni è stato creato l'iconico ruggito del T-Rex?",
       "opzioni": [
-        "Mixando i versi di un cucciolo di elefante, una tigre e un alligatore",
-        "Sintetizzando il suono del motore di un jet in fase di decollo",
-        "Rallentando e amplificando il verso di un orso polare",
-        "Registrando un ruggito di leone distorto al computer"
+        "Una motosega, un orso e un tuono",
+        "Un elefantino, una tigre e un alligatore",
+        "Una balena, un cane e un pneumatici sgonfio",
+        "Un leone, un gatto e un gorilla"
       ],
-      "risposta_corretta": "Mixando i versi di un cucciolo di elefante, una tigre e un alligatore"
+      "risposta_corretta": "Un elefantino, una tigre e un alligatore"
     },
     {
-      "domanda": "I vombati, simpatici marsupiali australiani, sono famosi nel regno animale per una caratteristica unica al mondo. Quale?",
+      "domanda": "Qual è stato il primissimo oggetto in assoluto venduto sul sito di e-commerce eBay nel 1995?",
       "opzioni": [
-        "Le loro impronte digitali sono identiche a quelle umane",
-        "Hanno una lingua lunga il doppio del loro corpo",
-        "Producono feci perfettamente cubiche",
-        "I loro denti cambiano colore in base a ciò che mangiano"
+        "Un puntatore laser rotto",
+        "Una chitarra elettrica",
+        "Un libro di ricette usato",
+        "Una sveglia d'epoca"
       ],
-      "risposta_corretta": "Producono feci perfettamente cubiche"
+      "risposta_corretta": "Un puntatore laser rotto"
     },
     {
-      "domanda": "Nel 1925, il geniale truffatore Victor Lustig è passato alla storia per essere riuscito a vendere illegittimamente (e per ben due volte) quale famoso monumento?",
+      "domanda": "Nonostante il nome esotico e l'associazione con le isole del Pacifico, in quale paese è stata inventata la 'Pizza Hawaiana' con l'ananas?",
       "opzioni": [
-        "La Statua della Libertà",
-        "Il Colosseo",
-        "Il Ponte di Brooklyn",
-        "La Torre Eiffel"
+        "Canada",
+        "Australia",
+        "Stati Uniti",
+        "Filippine"
       ],
-      "risposta_corretta": "La Torre Eiffel"
+      "risposta_corretta": "Canada"
     },
     {
-      "domanda": "Quale Paese al mondo detiene il record per il maggior numero di fusi orari (ben 12), considerando anche i suoi territori d'oltremare?",
+      "domanda": "Quale nazione al mondo possiede il maggior numero di fusi orari diversi, considerando anche i suoi territori d'oltremare?",
       "opzioni": [
-        "La Russia",
-        "Il Regno Unito",
-        "La Francia",
-        "Gli Stati Uniti"
+        "Russia",
+        "Stati Uniti",
+        "Francia",
+        "Cina"
       ],
-      "risposta_corretta": "La Francia"
+      "risposta_corretta": "Francia"
     },
     {
-      "domanda": "In quale Paese è stata inventata negli anni '60 la celebre e controversa 'Pizza Hawaii' con l'ananas?",
+      "domanda": "Quale celebre canzone dei Beatles aveva inizialmente il titolo provvisorio di 'Scrambled Eggs' (Uova strapazzate)?",
       "opzioni": [
-        "In Australia",
-        "Nelle isole Hawaii",
-        "In Canada",
-        "Negli Stati Uniti"
+        "Hey Jude",
+        "Let It Be",
+        "Help!",
+        "Yesterday"
       ],
-      "risposta_corretta": "In Canada"
+      "risposta_corretta": "Yesterday"
     }
   ]
 }
