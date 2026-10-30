@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale animale è famoso per produrre escrementi a forma di cubo quasi perfetto?",
+      "domanda": "Quale celebre evento della cultura pop ha spinto Google a creare il servizio 'Google Immagini' nel 2000 a causa dell'altissimo numero di ricerche?",
       "opzioni": [
-        "Il koala",
-        "Il vombato",
-        "L'ornitorinco",
-        "Il bradipo"
+        "Il lancio del primo iPod",
+        "La vittoria dell'Oscar di Titanic",
+        "Il vestito verde Versace indossato da Jennifer Lopez",
+        "Il concerto dei Queen al Live Aid"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "Il vestito verde Versace indossato da Jennifer Lopez"
     },
     {
-      "domanda": "Nel film 'Jurassic Park' del 1993, da quale inaspettata combinazione di suoni è stato creato l'iconico ruggito del T-Rex?",
+      "domanda": "Oltre agli esseri umani, qual è l'unico altro animale noto per dare un 'nome proprio' (sotto forma di un fischio unico) ai singoli membri del proprio gruppo?",
       "opzioni": [
-        "Una motosega, un orso e un tuono",
-        "Un elefantino, una tigre e un alligatore",
-        "Una balena, un cane e un pneumatici sgonfio",
-        "Un leone, un gatto e un gorilla"
+        "L'elefante africano",
+        "Il delfino tursiope",
+        "Il corvo imperiale",
+        "Lo scimpanzé"
       ],
-      "risposta_corretta": "Un elefantino, una tigre e un alligatore"
+      "risposta_corretta": "Il delfino tursiope"
     },
     {
-      "domanda": "Qual è stato il primissimo oggetto in assoluto venduto sul sito di e-commerce eBay nel 1995?",
+      "domanda": "Nel 1932, l'esercito australiano intraprese una curiosa operazione militare ufficiale (che finì per perdere) contro quali animali?",
       "opzioni": [
-        "Un puntatore laser rotto",
-        "Una chitarra elettrica",
-        "Un libro di ricette usato",
-        "Una sveglia d'epoca"
+        "I Dingo",
+        "Gli Emu",
+        "I Canguri",
+        "I Conigli selvatici"
       ],
-      "risposta_corretta": "Un puntatore laser rotto"
+      "risposta_corretta": "Gli Emu"
     },
     {
-      "domanda": "Nonostante il nome esotico e l'associazione con le isole del Pacifico, in quale paese è stata inventata la 'Pizza Hawaiana' con l'ananas?",
+      "domanda": "Nel film 'Jurassic Park' (1993), quale bizzarra fonte audio è stata usata dal sound designer per registrare il verso dei Velociraptor che comunicano nella cucina?",
       "opzioni": [
-        "Canada",
-        "Australia",
-        "Stati Uniti",
-        "Filippine"
+        "Il soffio di un cigno arrabbiato",
+        "Tartarughe marine durante l'accoppiamento",
+        "Il ruggito di un leone rallentato",
+        "I versi di un maiale durante il pasto"
       ],
-      "risposta_corretta": "Canada"
+      "risposta_corretta": "Tartarughe marine durante l'accoppiamento"
     },
     {
-      "domanda": "Quale nazione al mondo possiede il maggior numero di fusi orari diversi, considerando anche i suoi territori d'oltremare?",
+      "domanda": "Escludendo la Città del Vaticano e San Marino, qual è l'unico altro Stato sovrano al mondo ad essere completamente circondato dal territorio di un'unica altra nazione?",
       "opzioni": [
-        "Russia",
-        "Stati Uniti",
-        "Francia",
-        "Cina"
+        "Andorra",
+        "Eswatini",
+        "Monaco",
+        "Lesotho"
       ],
-      "risposta_corretta": "Francia"
+      "risposta_corretta": "Lesotho"
     },
     {
-      "domanda": "Quale celebre canzone dei Beatles aveva inizialmente il titolo provvisorio di 'Scrambled Eggs' (Uova strapazzate)?",
+      "domanda": "Il celebre personaggio dei videogiochi Pac-Man è stato ideato dal designer Toru Iwatani dopo essersi ispirato alla forma di quale cibo a cui mancava una fetta?",
       "opzioni": [
-        "Hey Jude",
-        "Let It Be",
-        "Help!",
-        "Yesterday"
+        "Una pizza",
+        "Una forma di formaggio",
+        "Una torta di mele",
+        "Un cocomero"
       ],
-      "risposta_corretta": "Yesterday"
+      "risposta_corretta": "Una pizza"
     }
   ]
 }
