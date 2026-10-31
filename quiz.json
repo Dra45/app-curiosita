@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale celebre evento della cultura pop ha spinto Google a creare il servizio 'Google Immagini' nel 2000 a causa dell'altissimo numero di ricerche?",
+      "domanda": "Qual è stato il primissimo video pubblicato nella storia di YouTube nel 2005?",
       "opzioni": [
-        "Il lancio del primo iPod",
-        "La vittoria dell'Oscar di Titanic",
-        "Il vestito verde Versace indossato da Jennifer Lopez",
-        "Il concerto dei Queen al Live Aid"
+        "Un test di trasmissione televisiva",
+        "Un gatto che suona il pianoforte",
+        "Me at the zoo",
+        "Charlie bit my finger"
       ],
-      "risposta_corretta": "Il vestito verde Versace indossato da Jennifer Lopez"
+      "risposta_corretta": "Me at the zoo"
     },
     {
-      "domanda": "Oltre agli esseri umani, qual è l'unico altro animale noto per dare un 'nome proprio' (sotto forma di un fischio unico) ai singoli membri del proprio gruppo?",
+      "domanda": "Cosa rappresentano in realtà i misteriosi simboli verdi del famoso 'codice a cascata' all'inizio del film Matrix?",
       "opzioni": [
-        "L'elefante africano",
-        "Il delfino tursiope",
-        "Il corvo imperiale",
-        "Lo scimpanzé"
+        "Ricette di sushi scansionate da un libro da cucina",
+        "Algoritmi di crittografia militare della Guerra Fredda",
+        "Frammenti di codice della prima versione di Windows",
+        "Pagine di un antico dizionario di latino"
       ],
-      "risposta_corretta": "Il delfino tursiope"
+      "risposta_corretta": "Ricette di sushi scansionate da un libro da cucina"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano intraprese una curiosa operazione militare ufficiale (che finì per perdere) contro quali animali?",
+      "domanda": "Nel 1932, l'esercito australiano intraprese una bizzarra operazione militare (poi rivelatasi un completo fallimento) contro quale specie animale?",
       "opzioni": [
-        "I Dingo",
-        "Gli Emu",
-        "I Canguri",
-        "I Conigli selvatici"
+        "I canguri rossi",
+        "I conigli selvatici",
+        "Gli emù",
+        "I dingo"
       ],
-      "risposta_corretta": "Gli Emu"
+      "risposta_corretta": "Gli emù"
     },
     {
-      "domanda": "Nel film 'Jurassic Park' (1993), quale bizzarra fonte audio è stata usata dal sound designer per registrare il verso dei Velociraptor che comunicano nella cucina?",
+      "domanda": "Quale di questi animali ha sorpreso gli etologi superando il 'test dello specchio', dimostrando così di possedere autoconsapevolezza?",
       "opzioni": [
-        "Il soffio di un cigno arrabbiato",
-        "Tartarughe marine durante l'accoppiamento",
-        "Il ruggito di un leone rallentato",
-        "I versi di un maiale durante il pasto"
+        "L'aquila reale",
+        "La gazza ladra",
+        "Il polpo comune",
+        "Il cane pastore"
       ],
-      "risposta_corretta": "Tartarughe marine durante l'accoppiamento"
+      "risposta_corretta": "La gazza ladra"
     },
     {
-      "domanda": "Escludendo la Città del Vaticano e San Marino, qual è l'unico altro Stato sovrano al mondo ad essere completamente circondato dal territorio di un'unica altra nazione?",
+      "domanda": "Se pensi alle isole immagini la Grecia o l'Indonesia, ma qual è in realtà la nazione al mondo con il maggior numero di isole (oltre 260.000)?",
       "opzioni": [
-        "Andorra",
-        "Eswatini",
-        "Monaco",
-        "Lesotho"
+        "La Svezia",
+        "L'Indonesia",
+        "La Norvegia",
+        "Il Canada"
       ],
-      "risposta_corretta": "Lesotho"
+      "risposta_corretta": "La Svezia"
     },
     {
-      "domanda": "Il celebre personaggio dei videogiochi Pac-Man è stato ideato dal designer Toru Iwatani dopo essersi ispirato alla forma di quale cibo a cui mancava una fetta?",
+      "domanda": "Nel famoso videogioco 'Minecraft', da dove proviene l'inquietante verso emesso dal mostro volante 'Ghast'?",
       "opzioni": [
-        "Una pizza",
-        "Una forma di formaggio",
-        "Una torta di mele",
-        "Un cocomero"
+        "Dalla voce distorta di un bambino che piange",
+        "Da un sintetizzatore audio degli anni '80",
+        "Dal ruggito di un giaguaro rallentato al 50%",
+        "Dal gatto del sound designer registrato mentre dormiva"
       ],
-      "risposta_corretta": "Una pizza"
+      "risposta_corretta": "Dal gatto del sound designer registrato mentre dormiva"
     }
   ]
 }
