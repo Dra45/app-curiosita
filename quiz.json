@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è stato il primissimo video pubblicato nella storia di YouTube nel 2005?",
+      "domanda": "Quale tra questi animali è famoso per produrre escrementi di forma perfettamente cubica?",
       "opzioni": [
-        "Un test di trasmissione televisiva",
-        "Un gatto che suona il pianoforte",
-        "Me at the zoo",
-        "Charlie bit my finger"
+        "Vombato",
+        "Iena",
+        "Tasso",
+        "Castoro"
       ],
-      "risposta_corretta": "Me at the zoo"
+      "risposta_corretta": "Vombato"
     },
     {
-      "domanda": "Cosa rappresentano in realtà i misteriosi simboli verdi del famoso 'codice a cascata' all'inizio del film Matrix?",
+      "domanda": "Prima di assumere il celebre nome 'Google', con quale curioso nome era conosciuto il motore di ricerca creato da Larry Page e Sergey Brin?",
       "opzioni": [
-        "Ricette di sushi scansionate da un libro da cucina",
-        "Algoritmi di crittografia militare della Guerra Fredda",
-        "Frammenti di codice della prima versione di Windows",
-        "Pagine di un antico dizionario di latino"
+        "PageSearch",
+        "BackRub",
+        "WebCrawler",
+        "GoNet"
       ],
-      "risposta_corretta": "Ricette di sushi scansionate da un libro da cucina"
+      "risposta_corretta": "BackRub"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano intraprese una bizzarra operazione militare (poi rivelatasi un completo fallimento) contro quale specie animale?",
+      "domanda": "Nel film d'animazione 'Super Mario Bros.' (2023), quale celebre attore canta l'iconica canzone 'Peaches' doppiando il malvagio Bowser?",
       "opzioni": [
-        "I canguri rossi",
-        "I conigli selvatici",
-        "Gli emù",
-        "I dingo"
+        "Dwayne Johnson",
+        "Chris Pratt",
+        "Seth Rogen",
+        "Jack Black"
       ],
-      "risposta_corretta": "Gli emù"
+      "risposta_corretta": "Jack Black"
     },
     {
-      "domanda": "Quale di questi animali ha sorpreso gli etologi superando il 'test dello specchio', dimostrando così di possedere autoconsapevolezza?",
+      "domanda": "Se pensi che l'Egitto sia il Paese con più piramidi al mondo ti sbagli! Quale nazione ne possiede oltre 200, quasi il doppio rispetto all'Egitto?",
       "opzioni": [
-        "L'aquila reale",
-        "La gazza ladra",
-        "Il polpo comune",
-        "Il cane pastore"
+        "Sudan",
+        "Perù",
+        "Messico",
+        "Guatemala"
       ],
-      "risposta_corretta": "La gazza ladra"
+      "risposta_corretta": "Sudan"
     },
     {
-      "domanda": "Se pensi alle isole immagini la Grecia o l'Indonesia, ma qual è in realtà la nazione al mondo con il maggior numero di isole (oltre 260.000)?",
+      "domanda": "La Torre Eiffel fu eretta a Parigi per l'Esposizione Universale del 1889. Qual era il piano originale previsto per l'opera allo scadere dei 20 anni dalla costruzione?",
       "opzioni": [
-        "La Svezia",
-        "L'Indonesia",
-        "La Norvegia",
-        "Il Canada"
+        "Essere dipinta completamente d'oro",
+        "Rimanere intatta come monumento nazionale",
+        "Essere regalata agli Stati Uniti",
+        "Essere smontata e demolita"
       ],
-      "risposta_corretta": "La Svezia"
+      "risposta_corretta": "Essere smontata e demolita"
     },
     {
-      "domanda": "Nel famoso videogioco 'Minecraft', da dove proviene l'inquietante verso emesso dal mostro volante 'Ghast'?",
+      "domanda": "Nel 2015, per la prima volta nella storia, l'Oxford English Dictionary ha eletto come 'Parola dell'Anno' un'emoji. Quale?",
       "opzioni": [
-        "Dalla voce distorta di un bambino che piange",
-        "Da un sintetizzatore audio degli anni '80",
-        "Dal ruggito di un giaguaro rallentato al 50%",
-        "Dal gatto del sound designer registrato mentre dormiva"
+        "Cuore rosso ❤️",
+        "Faccia con lacrime di gioia 😂",
+        "Faccina che manda un bacio 😘",
+        "Scimmia con le mani sugli occhi 🙈"
       ],
-      "risposta_corretta": "Dal gatto del sound designer registrato mentre dormiva"
+      "risposta_corretta": "Faccia con lacrime di gioia 😂"
     }
   ]
 }
