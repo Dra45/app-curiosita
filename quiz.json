@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Come si chiama il celebre effetto sonoro di un urlo, usato come 'easter egg' in centinaia di film tra cui Star Wars, Il Signore degli Anelli e Indiana Jones?",
+      "domanda": "Qual è stato il primo personaggio animato della Disney a ricevere una stella sulla famosissima Hollywood Walk of Fame?",
       "opzioni": [
-        "L'Urlo del Coyote",
-        "L'Urlo di Tarzan",
-        "L'Urlo di Kubrick",
-        "L'Urlo di Wilhelm"
+        "Paperino",
+        "Biancaneve",
+        "Cenerentola",
+        "Topolino"
       ],
-      "risposta_corretta": "L'Urlo di Wilhelm"
+      "risposta_corretta": "Topolino"
     },
     {
-      "domanda": "Quale paese ha inventato le prime 'emoji' alla fine degli anni '90 per facilitare la comunicazione sui telefoni cellulari?",
+      "domanda": "Nel 1995, quale fu il primissimo tipo di articolo venduto e spedito online su Amazon?",
       "opzioni": [
-        "Corea del Sud",
-        "Giappone",
-        "Svezia",
-        "Stati Uniti"
+        "Un paio di scarpe",
+        "Un floppy disk",
+        "Una tazza da caffè",
+        "Un libro"
       ],
-      "risposta_corretta": "Giappone"
+      "risposta_corretta": "Un libro"
     },
     {
-      "domanda": "Quale tra questi animali è famoso per produrre feci a forma di cubo, un adattamento unico in natura che evita che rotolino via dal suo territorio?",
+      "domanda": "In natura esistono animali davvero bizzarri: quale di questi animali australiani produce feci di forma perfettamente cubica?",
       "opzioni": [
-        "L'Ornitorinco",
-        "Il Tasso australiano",
-        "Il Koala",
-        "Il Vombato"
+        "L'ornitorinco",
+        "Il koala",
+        "Il diavolo della Tasmania",
+        "Il vombato"
       ],
-      "risposta_corretta": "Il Vombato"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Considerando anche i suoi territori d'oltremare, con quale di questi paesi la Francia condivide il suo confine terrestre più lungo?",
+      "domanda": "Nel 1932, l'esercito australiano ingaggiò una vera e propria 'guerra' militare contro quale specie animale, venendo clamorosamente sconfitto?",
       "opzioni": [
-        "Brasile",
-        "Italia",
-        "Germania",
-        "Spagna"
+        "I cammelli",
+        "Gli emù",
+        "I dingo",
+        "I canguri"
       ],
-      "risposta_corretta": "Brasile"
+      "risposta_corretta": "Gli emù"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano intraprese una bizzarra operazione militare (e venne di fatto sconfitto) contro quale specie animale che stava devastando i raccolti?",
+      "domanda": "Quando pensiamo alle piramidi antiche pensiamo subito all'Egitto, ma quale paese al mondo ne possiede in realtà il numero maggiore?",
       "opzioni": [
-        "I Canguri",
-        "I Conigli",
-        "Gli Emu",
-        "I Dingo"
+        "Il Sudan",
+        "Il Messico",
+        "Il Perù",
+        "La Cina"
       ],
-      "risposta_corretta": "Gli Emu"
+      "risposta_corretta": "Il Sudan"
     },
     {
-      "domanda": "Quale celebre brano è stato la prima canzone in assoluto ad essere suonata nello spazio, eseguita nel 1965 dall'equipaggio della missione Gemini 6?",
+      "domanda": "Qual è stato il primo video nella storia di YouTube a superare l'incredibile traguardo di 1 miliardo di visualizzazioni?",
       "opzioni": [
-        "Space Oddity",
-        "Silent Night",
-        "Fly Me to the Moon",
-        "Jingle Bells"
+        "'Baby Shark Dance'",
+        "'Gangnam Style' di Psy",
+        "'Despacito' di Luis Fonsi",
+        "'Baby' di Justin Bieber"
       ],
-      "risposta_corretta": "Jingle Bells"
+      "risposta_corretta": "'Gangnam Style' di Psy"
     }
   ]
 }
