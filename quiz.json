@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale tra questi animali è famoso per produrre escrementi di forma perfettamente cubica?",
+      "domanda": "Come si chiama il celebre effetto sonoro di un urlo, usato come 'easter egg' in centinaia di film tra cui Star Wars, Il Signore degli Anelli e Indiana Jones?",
       "opzioni": [
-        "Vombato",
-        "Iena",
-        "Tasso",
-        "Castoro"
+        "L'Urlo del Coyote",
+        "L'Urlo di Tarzan",
+        "L'Urlo di Kubrick",
+        "L'Urlo di Wilhelm"
       ],
-      "risposta_corretta": "Vombato"
+      "risposta_corretta": "L'Urlo di Wilhelm"
     },
     {
-      "domanda": "Prima di assumere il celebre nome 'Google', con quale curioso nome era conosciuto il motore di ricerca creato da Larry Page e Sergey Brin?",
+      "domanda": "Quale paese ha inventato le prime 'emoji' alla fine degli anni '90 per facilitare la comunicazione sui telefoni cellulari?",
       "opzioni": [
-        "PageSearch",
-        "BackRub",
-        "WebCrawler",
-        "GoNet"
+        "Corea del Sud",
+        "Giappone",
+        "Svezia",
+        "Stati Uniti"
       ],
-      "risposta_corretta": "BackRub"
+      "risposta_corretta": "Giappone"
     },
     {
-      "domanda": "Nel film d'animazione 'Super Mario Bros.' (2023), quale celebre attore canta l'iconica canzone 'Peaches' doppiando il malvagio Bowser?",
+      "domanda": "Quale tra questi animali è famoso per produrre feci a forma di cubo, un adattamento unico in natura che evita che rotolino via dal suo territorio?",
       "opzioni": [
-        "Dwayne Johnson",
-        "Chris Pratt",
-        "Seth Rogen",
-        "Jack Black"
+        "L'Ornitorinco",
+        "Il Tasso australiano",
+        "Il Koala",
+        "Il Vombato"
       ],
-      "risposta_corretta": "Jack Black"
+      "risposta_corretta": "Il Vombato"
     },
     {
-      "domanda": "Se pensi che l'Egitto sia il Paese con più piramidi al mondo ti sbagli! Quale nazione ne possiede oltre 200, quasi il doppio rispetto all'Egitto?",
+      "domanda": "Considerando anche i suoi territori d'oltremare, con quale di questi paesi la Francia condivide il suo confine terrestre più lungo?",
       "opzioni": [
-        "Sudan",
-        "Perù",
-        "Messico",
-        "Guatemala"
+        "Brasile",
+        "Italia",
+        "Germania",
+        "Spagna"
       ],
-      "risposta_corretta": "Sudan"
+      "risposta_corretta": "Brasile"
     },
     {
-      "domanda": "La Torre Eiffel fu eretta a Parigi per l'Esposizione Universale del 1889. Qual era il piano originale previsto per l'opera allo scadere dei 20 anni dalla costruzione?",
+      "domanda": "Nel 1932, l'esercito australiano intraprese una bizzarra operazione militare (e venne di fatto sconfitto) contro quale specie animale che stava devastando i raccolti?",
       "opzioni": [
-        "Essere dipinta completamente d'oro",
-        "Rimanere intatta come monumento nazionale",
-        "Essere regalata agli Stati Uniti",
-        "Essere smontata e demolita"
+        "I Canguri",
+        "I Conigli",
+        "Gli Emu",
+        "I Dingo"
       ],
-      "risposta_corretta": "Essere smontata e demolita"
+      "risposta_corretta": "Gli Emu"
     },
     {
-      "domanda": "Nel 2015, per la prima volta nella storia, l'Oxford English Dictionary ha eletto come 'Parola dell'Anno' un'emoji. Quale?",
+      "domanda": "Quale celebre brano è stato la prima canzone in assoluto ad essere suonata nello spazio, eseguita nel 1965 dall'equipaggio della missione Gemini 6?",
       "opzioni": [
-        "Cuore rosso ❤️",
-        "Faccia con lacrime di gioia 😂",
-        "Faccina che manda un bacio 😘",
-        "Scimmia con le mani sugli occhi 🙈"
+        "Space Oddity",
+        "Silent Night",
+        "Fly Me to the Moon",
+        "Jingle Bells"
       ],
-      "risposta_corretta": "Faccia con lacrime di gioia 😂"
+      "risposta_corretta": "Jingle Bells"
     }
   ]
 }
