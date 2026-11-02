@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è stato il primo personaggio animato della Disney a ricevere una stella sulla famosissima Hollywood Walk of Fame?",
+      "domanda": "Quale tra questi animali ha la curiosa particolarità di produrre naturalmente feci di forma cubica?",
       "opzioni": [
-        "Paperino",
-        "Biancaneve",
-        "Cenerentola",
-        "Topolino"
+        "Armadillo",
+        "Koala",
+        "Vombato",
+        "Ornitorinco"
       ],
-      "risposta_corretta": "Topolino"
+      "risposta_corretta": "Vombato"
     },
     {
-      "domanda": "Nel 1995, quale fu il primissimo tipo di articolo venduto e spedito online su Amazon?",
+      "domanda": "Qual è il nome del celebre effetto sonoro di un urlo utilizzato come citazione nascosta in oltre 400 film, tra cui Star Wars e Indiana Jones?",
       "opzioni": [
-        "Un paio di scarpe",
-        "Un floppy disk",
-        "Una tazza da caffè",
-        "Un libro"
+        "Urlo Wilhelm",
+        "Urlo Spielberg",
+        "Urlo di Kubrick",
+        "Urlo di Tarzan"
       ],
-      "risposta_corretta": "Un libro"
+      "risposta_corretta": "Urlo Wilhelm"
     },
     {
-      "domanda": "In natura esistono animali davvero bizzarri: quale di questi animali australiani produce feci di forma perfettamente cubica?",
+      "domanda": "La tecnologia wireless 'Bluetooth' prende il nome da Harald Bluetooth, uno storico re di quale paese?",
       "opzioni": [
-        "L'ornitorinco",
-        "Il koala",
-        "Il diavolo della Tasmania",
-        "Il vombato"
+        "Svezia",
+        "Scozia",
+        "Norvegia",
+        "Danimarca"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "Danimarca"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano ingaggiò una vera e propria 'guerra' militare contro quale specie animale, venendo clamorosamente sconfitto?",
+      "domanda": "Quale tra questi stati sovrani ha la particolarità di non avere nemmeno un fiume permanente sul proprio territorio?",
       "opzioni": [
-        "I cammelli",
-        "Gli emù",
-        "I dingo",
-        "I canguri"
+        "Australia",
+        "Arabia Saudita",
+        "Mongolia",
+        "Egitto"
       ],
-      "risposta_corretta": "Gli emù"
+      "risposta_corretta": "Arabia Saudita"
     },
     {
-      "domanda": "Quando pensiamo alle piramidi antiche pensiamo subito all'Egitto, ma quale paese al mondo ne possiede in realtà il numero maggiore?",
+      "domanda": "Nel 1932 l'esercito australiano venne impiegato in un'insolita campagna militare ufficiale contro quale specie animale?",
       "opzioni": [
-        "Il Sudan",
-        "Il Messico",
-        "Il Perù",
-        "La Cina"
+        "Conigli",
+        "Dingo",
+        "Emu",
+        "Canguri"
       ],
-      "risposta_corretta": "Il Sudan"
+      "risposta_corretta": "Emu"
     },
     {
-      "domanda": "Qual è stato il primo video nella storia di YouTube a superare l'incredibile traguardo di 1 miliardo di visualizzazioni?",
+      "domanda": "Prima di diventare un colosso dei videogiochi, cosa produceva la Nintendo quando fu fondata a Kyoto nel 1889?",
       "opzioni": [
-        "'Baby Shark Dance'",
-        "'Gangnam Style' di Psy",
-        "'Despacito' di Luis Fonsi",
-        "'Baby' di Justin Bieber"
+        "Carte da gioco",
+        "Orologi da tasca",
+        "Giocattoli in legno",
+        "Macchine da scrivere"
       ],
-      "risposta_corretta": "'Gangnam Style' di Psy"
+      "risposta_corretta": "Carte da gioco"
     }
   ]
 }
