@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale tra questi animali ha la curiosa particolarità di produrre naturalmente feci di forma cubica?",
+      "domanda": "Qual è il titolo del primo video in assoluto caricato su YouTube nel 2005?",
       "opzioni": [
-        "Armadillo",
-        "Koala",
-        "Vombato",
-        "Ornitorinco"
+        "Testing YouTube",
+        "My first video",
+        "Hello World",
+        "Me at the zoo"
       ],
-      "risposta_corretta": "Vombato"
+      "risposta_corretta": "Me at the zoo"
     },
     {
-      "domanda": "Qual è il nome del celebre effetto sonoro di un urlo utilizzato come citazione nascosta in oltre 400 film, tra cui Star Wars e Indiana Jones?",
+      "domanda": "Quale celebre film d'animazione è stato il primo nella storia a ricevere una candidatura agli Oscar nella categoria 'Miglior Film'?",
       "opzioni": [
-        "Urlo Wilhelm",
-        "Urlo Spielberg",
-        "Urlo di Kubrick",
-        "Urlo di Tarzan"
+        "Shrek",
+        "La Bella e la Bestia",
+        "Il Re Leone",
+        "Toy Story"
       ],
-      "risposta_corretta": "Urlo Wilhelm"
+      "risposta_corretta": "La Bella e la Bestia"
     },
     {
-      "domanda": "La tecnologia wireless 'Bluetooth' prende il nome da Harald Bluetooth, uno storico re di quale paese?",
+      "domanda": "I vombati, simpatici marsupiali australiani, sono noti per un'insolita particolarità naturale. Di che forma sono le loro feci?",
       "opzioni": [
-        "Svezia",
-        "Scozia",
-        "Norvegia",
-        "Danimarca"
+        "Piramidale",
+        "Cubica",
+        "Sferica",
+        "Cilindrica"
       ],
-      "risposta_corretta": "Danimarca"
+      "risposta_corretta": "Cubica"
     },
     {
-      "domanda": "Quale tra questi stati sovrani ha la particolarità di non avere nemmeno un fiume permanente sul proprio territorio?",
+      "domanda": "Prima di assumere il nome con cui tutti lo conosciamo oggi, qual era il nome di lavoro originale del motore di ricerca Google?",
       "opzioni": [
-        "Australia",
-        "Arabia Saudita",
-        "Mongolia",
-        "Egitto"
+        "PageSearch",
+        "BackRub",
+        "WebFinder",
+        "Googolplex"
       ],
-      "risposta_corretta": "Arabia Saudita"
+      "risposta_corretta": "BackRub"
     },
     {
-      "domanda": "Nel 1932 l'esercito australiano venne impiegato in un'insolita campagna militare ufficiale contro quale specie animale?",
+      "domanda": "Se si considerano anche tutti i territori d'oltremare, quale Paese al mondo detiene il record per il maggior numero di fusi orari?",
       "opzioni": [
-        "Conigli",
-        "Dingo",
-        "Emu",
-        "Canguri"
+        "Francia",
+        "Regno Unito",
+        "Russia",
+        "Stati Uniti"
       ],
-      "risposta_corretta": "Emu"
+      "risposta_corretta": "Francia"
     },
     {
-      "domanda": "Prima di diventare un colosso dei videogiochi, cosa produceva la Nintendo quando fu fondata a Kyoto nel 1889?",
+      "domanda": "Nel 1932 l'esercito australiano ingaggiò una vera e bizzarra 'guerra' militare armata di mitragliatrici contro una specie animale. Quale?",
       "opzioni": [
-        "Carte da gioco",
-        "Orologi da tasca",
-        "Giocattoli in legno",
-        "Macchine da scrivere"
+        "I dingo",
+        "Gli emù",
+        "I conigli",
+        "I canguri"
       ],
-      "risposta_corretta": "Carte da gioco"
+      "risposta_corretta": "Gli emù"
     }
   ]
 }
