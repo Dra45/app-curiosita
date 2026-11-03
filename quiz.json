@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è stato il primo lungometraggio della storia del cinema interamente realizzato in computer grafica?",
+      "domanda": "Quale tra questi animali è l'unico al mondo a produrre feci di forma perfettamente cubica?",
       "opzioni": [
-        "A Bug's Life",
-        "Toy Story",
-        "Tron",
-        "Shrek"
+        "Il diavolo della Tasmania",
+        "Il koala",
+        "L'ornitorinco",
+        "Il vombato"
       ],
-      "risposta_corretta": "Toy Story"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Qual è l'unico continente sulla Terra in cui non è presente neanche un vulcano attivo?",
+      "domanda": "Da dove proviene in realtà l'iconico 'codice verde' a cascata che appare all'inizio del film Matrix?",
       "opzioni": [
-        "Antartide",
-        "Europa",
-        "Australia",
-        "Sud America"
+        "Da un manuale di crittografia della NSA",
+        "Da ricette di sushi scannerizzate da un libro di cucina",
+        "Da righe di codice sorgente di MS-DOS",
+        "Da spartiti musicali per pianoforte"
       ],
-      "risposta_corretta": "Australia"
+      "risposta_corretta": "Da ricette di sushi scannerizzate da un libro di cucina"
     },
     {
-      "domanda": "Per quale scopo fu inventata negli anni '30 la celebre pasta modellabile oggi conosciuta come 'Play-Doh'?",
+      "domanda": "Bratislava, la capitale della Slovacchia, possiede una particolarità geografica unica al mondo. Quale?",
       "opzioni": [
-        "Come isolante acustico per finestre",
-        "Come stucco provvisorio per dentisti",
-        "Per pulire la carta da parati dal carbone",
-        "Come esca sintetica per la pesca"
+        "È interamente costruita su un arcipelago artificiale",
+        "Confina direttamente con ben due Stati esteri",
+        "È l'unica capitale a non avere un fiume che la attraversa",
+        "È la capitale posta all'altitudine più bassa del mondo"
       ],
-      "risposta_corretta": "Per pulire la carta da parati dal carbone"
+      "risposta_corretta": "Confina direttamente con ben due Stati esteri"
     },
     {
-      "domanda": "Nel 2018, la società SpaceX ha lanciato nello spazio un oggetto decisamente insolito a bordo del razzo Falcon Heavy. Di cosa si trattava?",
+      "domanda": "Qual è stato il primissimo oggetto in assoluto a essere scansionato tramite codice a barre alla cassa di un supermercato nel 1974?",
       "opzioni": [
-        "Un distributore automatico di pizza",
-        "Un pianoforte a coda",
-        "Un server contenente l'intera Wikipedia",
-        "Una Tesla Roadster rossa"
+        "Un flacone di shampoo",
+        "Una scatola di cereali Kellogg's",
+        "Una lattina di Coca-Cola",
+        "Un pacchetto di chewing gum alla menta"
       ],
-      "risposta_corretta": "Una Tesla Roadster rossa"
+      "risposta_corretta": "Un pacchetto di chewing gum alla menta"
     },
     {
-      "domanda": "Oltre a Città del Vaticano e San Marino, qual è il terzo unico Stato al mondo ad essere completamente circondato dal territorio di un'unica altra nazione?",
+      "domanda": "Nel 1932, l'esercito australiano ingaggiò una vera e propria 'guerra' armata di mitragliatrici contro un'invasione di animali, finendo per perdere. Di quali animali si trattava?",
       "opzioni": [
-        "Lesotho",
-        "Monaco",
-        "Liechtenstein",
-        "Andorra"
+        "Gli emù",
+        "I dingo",
+        "I canguri rossi",
+        "I conigli selvatici"
       ],
-      "risposta_corretta": "Lesotho"
+      "risposta_corretta": "Gli emù"
     },
     {
-      "domanda": "Quale celebre attore hollywoodiano ha iniziato la sua carriera nel mondo dello spettacolo come rapper con lo pseudonimo di 'The Fresh Prince'?",
+      "domanda": "L'ispirazione per il design dell'iconico personaggio dei videogiochi Pac-Man venne al suo creatore Toru Iwatani mentre osservava:",
       "opzioni": [
-        "Mark Wahlberg",
-        "Will Smith",
-        "Jamie Foxx",
-        "Ludacris"
+        "Una pizza a cui era stata tolta una fetta",
+        "Una sveglia con la suoneria aperta",
+        "Un limone tagliato a metà",
+        "Una luna piena parzialmente coperta dalle nuvole"
       ],
-      "risposta_corretta": "Will Smith"
+      "risposta_corretta": "Una pizza a cui era stata tolta una fetta"
     }
   ]
 }
