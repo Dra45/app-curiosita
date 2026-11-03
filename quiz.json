@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è il titolo del primo video in assoluto caricato su YouTube nel 2005?",
+      "domanda": "Qual è stato il primo lungometraggio della storia del cinema interamente realizzato in computer grafica?",
       "opzioni": [
-        "Testing YouTube",
-        "My first video",
-        "Hello World",
-        "Me at the zoo"
+        "A Bug's Life",
+        "Toy Story",
+        "Tron",
+        "Shrek"
       ],
-      "risposta_corretta": "Me at the zoo"
+      "risposta_corretta": "Toy Story"
     },
     {
-      "domanda": "Quale celebre film d'animazione è stato il primo nella storia a ricevere una candidatura agli Oscar nella categoria 'Miglior Film'?",
+      "domanda": "Qual è l'unico continente sulla Terra in cui non è presente neanche un vulcano attivo?",
       "opzioni": [
-        "Shrek",
-        "La Bella e la Bestia",
-        "Il Re Leone",
-        "Toy Story"
+        "Antartide",
+        "Europa",
+        "Australia",
+        "Sud America"
       ],
-      "risposta_corretta": "La Bella e la Bestia"
+      "risposta_corretta": "Australia"
     },
     {
-      "domanda": "I vombati, simpatici marsupiali australiani, sono noti per un'insolita particolarità naturale. Di che forma sono le loro feci?",
+      "domanda": "Per quale scopo fu inventata negli anni '30 la celebre pasta modellabile oggi conosciuta come 'Play-Doh'?",
       "opzioni": [
-        "Piramidale",
-        "Cubica",
-        "Sferica",
-        "Cilindrica"
+        "Come isolante acustico per finestre",
+        "Come stucco provvisorio per dentisti",
+        "Per pulire la carta da parati dal carbone",
+        "Come esca sintetica per la pesca"
       ],
-      "risposta_corretta": "Cubica"
+      "risposta_corretta": "Per pulire la carta da parati dal carbone"
     },
     {
-      "domanda": "Prima di assumere il nome con cui tutti lo conosciamo oggi, qual era il nome di lavoro originale del motore di ricerca Google?",
+      "domanda": "Nel 2018, la società SpaceX ha lanciato nello spazio un oggetto decisamente insolito a bordo del razzo Falcon Heavy. Di cosa si trattava?",
       "opzioni": [
-        "PageSearch",
-        "BackRub",
-        "WebFinder",
-        "Googolplex"
+        "Un distributore automatico di pizza",
+        "Un pianoforte a coda",
+        "Un server contenente l'intera Wikipedia",
+        "Una Tesla Roadster rossa"
       ],
-      "risposta_corretta": "BackRub"
+      "risposta_corretta": "Una Tesla Roadster rossa"
     },
     {
-      "domanda": "Se si considerano anche tutti i territori d'oltremare, quale Paese al mondo detiene il record per il maggior numero di fusi orari?",
+      "domanda": "Oltre a Città del Vaticano e San Marino, qual è il terzo unico Stato al mondo ad essere completamente circondato dal territorio di un'unica altra nazione?",
       "opzioni": [
-        "Francia",
-        "Regno Unito",
-        "Russia",
-        "Stati Uniti"
+        "Lesotho",
+        "Monaco",
+        "Liechtenstein",
+        "Andorra"
       ],
-      "risposta_corretta": "Francia"
+      "risposta_corretta": "Lesotho"
     },
     {
-      "domanda": "Nel 1932 l'esercito australiano ingaggiò una vera e bizzarra 'guerra' militare armata di mitragliatrici contro una specie animale. Quale?",
+      "domanda": "Quale celebre attore hollywoodiano ha iniziato la sua carriera nel mondo dello spettacolo come rapper con lo pseudonimo di 'The Fresh Prince'?",
       "opzioni": [
-        "I dingo",
-        "Gli emù",
-        "I conigli",
-        "I canguri"
+        "Mark Wahlberg",
+        "Will Smith",
+        "Jamie Foxx",
+        "Ludacris"
       ],
-      "risposta_corretta": "Gli emù"
+      "risposta_corretta": "Will Smith"
     }
   ]
 }
