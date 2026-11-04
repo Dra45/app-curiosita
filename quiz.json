@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Perché il celebre personaggio dei videogiochi Mario si chiama proprio così?",
+      "domanda": "Quale famosa emoji è stata eletta ufficialmente 'Parola dell'Anno' dal Dizionario Oxford nel 2015?",
       "opzioni": [
-        "Dal nome della trattoria italiana preferita dal creatore Shigeru Miyamoto.",
-        "In omaggio al cantante Mario Lanza, molto popolare in Giappone all'epoca.",
-        "È l'acronimo di 'Mechanical Automated Repair & Interactive Operator'.",
-        "In onore di Mario Segale, il proprietario del deposito americano di Nintendo negli anni '80."
+        "Il pollice in su",
+        "Il cuoricino rosso",
+        "La faccina con gli occhi a cuore",
+        "La faccina con le lacrime di gioia (😂)"
       ],
-      "risposta_corretta": "In onore di Mario Segale, il proprietario del deposito americano di Nintendo negli anni '80."
+      "risposta_corretta": "La faccina con le lacrime di gioia (😂)"
     },
     {
-      "domanda": "Quale tra questi animali produce naturalmente feci a forma di cubo?",
+      "domanda": "Quale tra questi animali è famoso per essere l'unico al mondo a produrre feci di forma cubica?",
       "opzioni": [
-        "Il vombato",
+        "Il capibara",
+        "Il koala",
         "L'ornitorinco",
-        "Il bradipo tridattilo",
-        "Il diavolo della Tasmania"
+        "Il vombato"
       ],
       "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Da dove deriva il nome della nota tecnologia wireless 'Bluetooth'?",
+      "domanda": "Per creare l'iconico e terrificante ruggito del T-Rex nel film 'Jurassic Park' (1993), quale suono animale è stato usato come base principale?",
       "opzioni": [
-        "Dal nome di un cocktail azzurro inventato nei laboratori Ericsson",
-        "Da un cavo sottomarino di colore blu usato nei primi esperimenti",
-        "Da un re vichingo del X secolo famoso per un dente scuro o rovinato",
-        "Da un acronimo militare per la trasmissione di dati a corto raggio"
+        "Un cucciolo di elefante",
+        "Un gatto arrabbiato",
+        "Un leone marino",
+        "Un alligatore"
       ],
-      "risposta_corretta": "Da un re vichingo del X secolo famoso per un dente scuro o rovinato"
+      "risposta_corretta": "Un cucciolo di elefante"
     },
     {
-      "domanda": "Quale Paese al mondo possiede il maggior numero di fusi orari ufficiali, considerando anche i territori d'oltremare?",
+      "domanda": "In quale Paese è stata inventata negli anni '60 la celebre (e dibattuta) 'Pizza Hawaiana' con l'ananas?",
       "opzioni": [
-        "Gli Stati Uniti",
-        "La Francia",
-        "La Cina",
-        "La Russia"
+        "Germania",
+        "Canada",
+        "Stati Uniti",
+        "Australia"
       ],
-      "risposta_corretta": "La Francia"
+      "risposta_corretta": "Canada"
     },
     {
-      "domanda": "In quale Paese è stata inventata la celebre e discussa 'Pizza Hawaiana' con l'ananas?",
+      "domanda": "Quale nazione al mondo detiene il record per il maggior numero di isole nel proprio territorio (oltre 260.000)?",
       "opzioni": [
-        "Nel Regno Unito",
-        "In Canada",
-        "Negli Stati Uniti",
-        "In Australia"
+        "Filippine",
+        "Indonesia",
+        "Grecia",
+        "Svezia"
       ],
-      "risposta_corretta": "In Canada"
+      "risposta_corretta": "Svezia"
     },
     {
-      "domanda": "Nel cult cinematografico 'Jurassic Park' (1993), come è stato realizzato l'iconico e spaventoso ruggito del T-Rex?",
+      "domanda": "Nel 2018, quale singolare oggetto è stato lanciato nello spazio come carico di prova del razzo Falcon Heavy di SpaceX?",
       "opzioni": [
-        "Amplificando il verso di un leone marino dentro un hangar",
-        "Mixando i versi di un cucciolo di elefante, una tigre e un alligatore",
-        "Registrando il motore di un trattore al rallentatore",
-        "Usando una sequenza puramente sintetica creata al computer"
+        "Un pianoforte a coda",
+        "Una capsula del tempo in rame",
+        "Un'automobile elettrica Tesla",
+        "Una statua di bronzo"
       ],
-      "risposta_corretta": "Mixando i versi di un cucciolo di elefante, una tigre e un alligatore"
+      "risposta_corretta": "Un'automobile elettrica Tesla"
     }
   ]
 }
