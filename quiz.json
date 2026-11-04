@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale tra questi animali è l'unico al mondo a produrre feci di forma perfettamente cubica?",
+      "domanda": "Perché il celebre personaggio dei videogiochi Mario si chiama proprio così?",
       "opzioni": [
-        "Il diavolo della Tasmania",
-        "Il koala",
+        "Dal nome della trattoria italiana preferita dal creatore Shigeru Miyamoto.",
+        "In omaggio al cantante Mario Lanza, molto popolare in Giappone all'epoca.",
+        "È l'acronimo di 'Mechanical Automated Repair & Interactive Operator'.",
+        "In onore di Mario Segale, il proprietario del deposito americano di Nintendo negli anni '80."
+      ],
+      "risposta_corretta": "In onore di Mario Segale, il proprietario del deposito americano di Nintendo negli anni '80."
+    },
+    {
+      "domanda": "Quale tra questi animali produce naturalmente feci a forma di cubo?",
+      "opzioni": [
+        "Il vombato",
         "L'ornitorinco",
-        "Il vombato"
+        "Il bradipo tridattilo",
+        "Il diavolo della Tasmania"
       ],
       "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Da dove proviene in realtà l'iconico 'codice verde' a cascata che appare all'inizio del film Matrix?",
+      "domanda": "Da dove deriva il nome della nota tecnologia wireless 'Bluetooth'?",
       "opzioni": [
-        "Da un manuale di crittografia della NSA",
-        "Da ricette di sushi scannerizzate da un libro di cucina",
-        "Da righe di codice sorgente di MS-DOS",
-        "Da spartiti musicali per pianoforte"
+        "Dal nome di un cocktail azzurro inventato nei laboratori Ericsson",
+        "Da un cavo sottomarino di colore blu usato nei primi esperimenti",
+        "Da un re vichingo del X secolo famoso per un dente scuro o rovinato",
+        "Da un acronimo militare per la trasmissione di dati a corto raggio"
       ],
-      "risposta_corretta": "Da ricette di sushi scannerizzate da un libro di cucina"
+      "risposta_corretta": "Da un re vichingo del X secolo famoso per un dente scuro o rovinato"
     },
     {
-      "domanda": "Bratislava, la capitale della Slovacchia, possiede una particolarità geografica unica al mondo. Quale?",
+      "domanda": "Quale Paese al mondo possiede il maggior numero di fusi orari ufficiali, considerando anche i territori d'oltremare?",
       "opzioni": [
-        "È interamente costruita su un arcipelago artificiale",
-        "Confina direttamente con ben due Stati esteri",
-        "È l'unica capitale a non avere un fiume che la attraversa",
-        "È la capitale posta all'altitudine più bassa del mondo"
+        "Gli Stati Uniti",
+        "La Francia",
+        "La Cina",
+        "La Russia"
       ],
-      "risposta_corretta": "Confina direttamente con ben due Stati esteri"
+      "risposta_corretta": "La Francia"
     },
     {
-      "domanda": "Qual è stato il primissimo oggetto in assoluto a essere scansionato tramite codice a barre alla cassa di un supermercato nel 1974?",
+      "domanda": "In quale Paese è stata inventata la celebre e discussa 'Pizza Hawaiana' con l'ananas?",
       "opzioni": [
-        "Un flacone di shampoo",
-        "Una scatola di cereali Kellogg's",
-        "Una lattina di Coca-Cola",
-        "Un pacchetto di chewing gum alla menta"
+        "Nel Regno Unito",
+        "In Canada",
+        "Negli Stati Uniti",
+        "In Australia"
       ],
-      "risposta_corretta": "Un pacchetto di chewing gum alla menta"
+      "risposta_corretta": "In Canada"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano ingaggiò una vera e propria 'guerra' armata di mitragliatrici contro un'invasione di animali, finendo per perdere. Di quali animali si trattava?",
+      "domanda": "Nel cult cinematografico 'Jurassic Park' (1993), come è stato realizzato l'iconico e spaventoso ruggito del T-Rex?",
       "opzioni": [
-        "Gli emù",
-        "I dingo",
-        "I canguri rossi",
-        "I conigli selvatici"
+        "Amplificando il verso di un leone marino dentro un hangar",
+        "Mixando i versi di un cucciolo di elefante, una tigre e un alligatore",
+        "Registrando il motore di un trattore al rallentatore",
+        "Usando una sequenza puramente sintetica creata al computer"
       ],
-      "risposta_corretta": "Gli emù"
-    },
-    {
-      "domanda": "L'ispirazione per il design dell'iconico personaggio dei videogiochi Pac-Man venne al suo creatore Toru Iwatani mentre osservava:",
-      "opzioni": [
-        "Una pizza a cui era stata tolta una fetta",
-        "Una sveglia con la suoneria aperta",
-        "Un limone tagliato a metà",
-        "Una luna piena parzialmente coperta dalle nuvole"
-      ],
-      "risposta_corretta": "Una pizza a cui era stata tolta una fetta"
+      "risposta_corretta": "Mixando i versi di un cucciolo di elefante, una tigre e un alligatore"
     }
   ]
 }
