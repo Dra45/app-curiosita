@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Nel film 'The Matrix', da cosa è stato creato in realtà il celebre codice verde a cascata visibile nei titoli di testa?",
+      "domanda": "Da cosa prende il nome la famosa tecnologia wireless 'Bluetooth'?",
       "opzioni": [
-        "Da poesie tradizionali haiku tradotte",
-        "Da registri finanziari di una banca giapponese",
-        "Dalle ricette di un libro di sushi scansionato",
-        "Da frammenti di codice informatico in C++"
+        "Da una combinazione dei cognomi dei due inventori",
+        "Da un pirata scandinavo del XVII secolo",
+        "Da un personaggio di un romanzo di fantascienza",
+        "Da un re vichingo del X secolo"
       ],
-      "risposta_corretta": "Dalle ricette di un libro di sushi scansionato"
+      "risposta_corretta": "Da un re vichingo del X secolo"
     },
     {
-      "domanda": "Quale tra questi animali è incredibilmente in grado di trattenere il respiro sott'acqua più a lungo di un delfino, fino a 40 minuti?",
+      "domanda": "In quale celebre film d'animazione Pixar appare per la prima volta l'iconico codice 'A113'?",
       "opzioni": [
+        "Monsters & Co.",
+        "Alla ricerca di Nemo",
+        "Toy Story - Il mondo dei giocattoli",
+        "A Bug's Life - Megaminimondo"
+      ],
+      "risposta_corretta": "Toy Story - Il mondo dei giocattoli"
+    },
+    {
+      "domanda": "Quale tra questi animali possiede impronte digitali così simili a quelle umane da poter virtualmente confondere la polizia scientifica?",
+      "opzioni": [
+        "Lo scimpanzé",
+        "Il koala",
         "Il bradipo",
-        "L'ippopotamo",
-        "Il castoro",
-        "La lontra marina"
+        "Il panda gigante"
       ],
-      "risposta_corretta": "Il bradipo"
+      "risposta_corretta": "Il koala"
     },
     {
-      "domanda": "Qual è stato il primissimo oggetto in assoluto ad essere stato venduto sulla piattaforma eBay nel 1995?",
+      "domanda": "Qual è l'unico Paese al mondo ad avere una bandiera nazionale che non ha forma rettangolare né quadrata?",
       "opzioni": [
-        "Una stampante usata",
-        "Un puntatore laser rotto",
-        "Un fumetto dei Simpson",
-        "Una chitarra elettrica"
+        "Città del Vaticano",
+        "Nepal",
+        "Bhutan",
+        "Sri Lanka"
       ],
-      "risposta_corretta": "Un puntatore laser rotto"
+      "risposta_corretta": "Nepal"
     },
     {
-      "domanda": "Quale nazione al mondo detiene il record per il maggior numero di fusi orari diversi, contando anche tutti i suoi territori d'oltremare?",
+      "domanda": "A quale di questi giochi tradizionali si è ispirato il creatore di Tetris per ideare il famosissimo videogioco?",
       "opzioni": [
-        "Il Regno Unito",
-        "Gli Stati Uniti",
-        "La Russia",
-        "La Francia"
+        "Mahjong",
+        "Pentamino",
+        "Scacchi",
+        "Domino"
       ],
-      "risposta_corretta": "La Francia"
+      "risposta_corretta": "Pentamino"
     },
     {
-      "domanda": "Nel 1932, il governo e l'esercito dell'Australia combatterono una bizzarra e infruttuosa 'guerra' contro quale specie animale?",
+      "domanda": "Per quale scopo fu originariamente inventato il Pluriball (Bubble Wrap), la famosa plastica con le bolle d'aria, nel 1957?",
       "opzioni": [
-        "I canguri rossi",
-        "I dingo",
-        "I conigli selvatici",
-        "Gli emù"
+        "Come tappetino antiscivolo per imbarcazioni",
+        "Come isolante termico per serre",
+        "Come carta da parati 3D lavabile",
+        "Come imballaggio protettivo per televisori"
       ],
-      "risposta_corretta": "Gli emù"
-    },
-    {
-      "domanda": "In quale paese è stata inventata la celebre e discussa 'Pizza Hawaiana' a base di ananas e prosciutto?",
-      "opzioni": [
-        "Australia",
-        "Regno Unito",
-        "Canada",
-        "Stati Uniti"
-      ],
-      "risposta_corretta": "Canada"
+      "risposta_corretta": "Come carta da parati 3D lavabile"
     }
   ]
 }
