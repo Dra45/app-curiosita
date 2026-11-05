@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale famosa emoji è stata eletta ufficialmente 'Parola dell'Anno' dal Dizionario Oxford nel 2015?",
+      "domanda": "Nel film 'The Matrix', da cosa è stato creato in realtà il celebre codice verde a cascata visibile nei titoli di testa?",
       "opzioni": [
-        "Il pollice in su",
-        "Il cuoricino rosso",
-        "La faccina con gli occhi a cuore",
-        "La faccina con le lacrime di gioia (😂)"
+        "Da poesie tradizionali haiku tradotte",
+        "Da registri finanziari di una banca giapponese",
+        "Dalle ricette di un libro di sushi scansionato",
+        "Da frammenti di codice informatico in C++"
       ],
-      "risposta_corretta": "La faccina con le lacrime di gioia (😂)"
+      "risposta_corretta": "Dalle ricette di un libro di sushi scansionato"
     },
     {
-      "domanda": "Quale tra questi animali è famoso per essere l'unico al mondo a produrre feci di forma cubica?",
+      "domanda": "Quale tra questi animali è incredibilmente in grado di trattenere il respiro sott'acqua più a lungo di un delfino, fino a 40 minuti?",
       "opzioni": [
-        "Il capibara",
-        "Il koala",
-        "L'ornitorinco",
-        "Il vombato"
+        "Il bradipo",
+        "L'ippopotamo",
+        "Il castoro",
+        "La lontra marina"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "Il bradipo"
     },
     {
-      "domanda": "Per creare l'iconico e terrificante ruggito del T-Rex nel film 'Jurassic Park' (1993), quale suono animale è stato usato come base principale?",
+      "domanda": "Qual è stato il primissimo oggetto in assoluto ad essere stato venduto sulla piattaforma eBay nel 1995?",
       "opzioni": [
-        "Un cucciolo di elefante",
-        "Un gatto arrabbiato",
-        "Un leone marino",
-        "Un alligatore"
+        "Una stampante usata",
+        "Un puntatore laser rotto",
+        "Un fumetto dei Simpson",
+        "Una chitarra elettrica"
       ],
-      "risposta_corretta": "Un cucciolo di elefante"
+      "risposta_corretta": "Un puntatore laser rotto"
     },
     {
-      "domanda": "In quale Paese è stata inventata negli anni '60 la celebre (e dibattuta) 'Pizza Hawaiana' con l'ananas?",
+      "domanda": "Quale nazione al mondo detiene il record per il maggior numero di fusi orari diversi, contando anche tutti i suoi territori d'oltremare?",
       "opzioni": [
-        "Germania",
+        "Il Regno Unito",
+        "Gli Stati Uniti",
+        "La Russia",
+        "La Francia"
+      ],
+      "risposta_corretta": "La Francia"
+    },
+    {
+      "domanda": "Nel 1932, il governo e l'esercito dell'Australia combatterono una bizzarra e infruttuosa 'guerra' contro quale specie animale?",
+      "opzioni": [
+        "I canguri rossi",
+        "I dingo",
+        "I conigli selvatici",
+        "Gli emù"
+      ],
+      "risposta_corretta": "Gli emù"
+    },
+    {
+      "domanda": "In quale paese è stata inventata la celebre e discussa 'Pizza Hawaiana' a base di ananas e prosciutto?",
+      "opzioni": [
+        "Australia",
+        "Regno Unito",
         "Canada",
-        "Stati Uniti",
-        "Australia"
+        "Stati Uniti"
       ],
       "risposta_corretta": "Canada"
-    },
-    {
-      "domanda": "Quale nazione al mondo detiene il record per il maggior numero di isole nel proprio territorio (oltre 260.000)?",
-      "opzioni": [
-        "Filippine",
-        "Indonesia",
-        "Grecia",
-        "Svezia"
-      ],
-      "risposta_corretta": "Svezia"
-    },
-    {
-      "domanda": "Nel 2018, quale singolare oggetto è stato lanciato nello spazio come carico di prova del razzo Falcon Heavy di SpaceX?",
-      "opzioni": [
-        "Un pianoforte a coda",
-        "Una capsula del tempo in rame",
-        "Un'automobile elettrica Tesla",
-        "Una statua di bronzo"
-      ],
-      "risposta_corretta": "Un'automobile elettrica Tesla"
     }
   ]
 }
