@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Da cosa prende il nome la famosa tecnologia wireless 'Bluetooth'?",
+      "domanda": "Qual è stato il primissimo video mai caricato su YouTube nel 2005?",
       "opzioni": [
-        "Da una combinazione dei cognomi dei due inventori",
-        "Da un pirata scandinavo del XVII secolo",
-        "Da un personaggio di un romanzo di fantascienza",
-        "Da un re vichingo del X secolo"
+        "Un ragazzo che fa un trick con lo skateboard",
+        "Un gatto che gioca con un gomitolo di lana",
+        "Una breve visita allo zoo davanti al recinto degli elefanti",
+        "Un'esibizione amatoriale di chitarra"
       ],
-      "risposta_corretta": "Da un re vichingo del X secolo"
+      "risposta_corretta": "Una breve visita allo zoo davanti al recinto degli elefanti"
     },
     {
-      "domanda": "In quale celebre film d'animazione Pixar appare per la prima volta l'iconico codice 'A113'?",
+      "domanda": "Quale piccolo uccello compie ogni anno la migrazione più lunga del mondo, viaggiando dal Polo Nord al Polo Sud e ritorno?",
       "opzioni": [
-        "Monsters & Co.",
-        "Alla ricerca di Nemo",
-        "Toy Story - Il mondo dei giocattoli",
-        "A Bug's Life - Megaminimondo"
+        "Il colibrì golaforcuta",
+        "Il rondoncino migratore",
+        "La sterna codalunga",
+        "L'albatro urlatore"
       ],
-      "risposta_corretta": "Toy Story - Il mondo dei giocattoli"
+      "risposta_corretta": "La sterna codalunga"
     },
     {
-      "domanda": "Quale tra questi animali possiede impronte digitali così simili a quelle umane da poter virtualmente confondere la polizia scientifica?",
+      "domanda": "Il famoso codice verde digitale che scorre sullo schermo all'inizio del film 'Matrix' è composto in realtà da:",
       "opzioni": [
-        "Lo scimpanzé",
-        "Il koala",
-        "Il bradipo",
-        "Il panda gigante"
+        "Istruzioni di montaggio di mobili svedesi",
+        "Righe di codice sorgente di un vecchio sistema operativo",
+        "Poesie d'amore scritte in caratteri binari",
+        "Ricette del sushi scansionate da un libro di cucina giapponese"
       ],
-      "risposta_corretta": "Il koala"
+      "risposta_corretta": "Ricette del sushi scansionate da un libro di cucina giapponese"
     },
     {
-      "domanda": "Qual è l'unico Paese al mondo ad avere una bandiera nazionale che non ha forma rettangolare né quadrata?",
+      "domanda": "Nel 1932, l'esercito australiano combatté una vera e propria 'guerra' (e la perse clamorosamente) contro quale tipo di animale?",
       "opzioni": [
-        "Città del Vaticano",
-        "Nepal",
-        "Bhutan",
-        "Sri Lanka"
+        "Gli emù",
+        "I canguri rossi",
+        "I dromedari selvatici",
+        "I dingo"
       ],
-      "risposta_corretta": "Nepal"
+      "risposta_corretta": "Gli emù"
     },
     {
-      "domanda": "A quale di questi giochi tradizionali si è ispirato il creatore di Tetris per ideare il famosissimo videogioco?",
+      "domanda": "Qual è l'unico Stato sovrano al mondo ad avere una bandiera nazionale che non è né rettangolare né quadrata?",
       "opzioni": [
-        "Mahjong",
-        "Pentamino",
-        "Scacchi",
-        "Domino"
+        "La Svizzera",
+        "Il Nepal",
+        "Il Bhutan",
+        "Lo Sri Lanka"
       ],
-      "risposta_corretta": "Pentamino"
+      "risposta_corretta": "Il Nepal"
     },
     {
-      "domanda": "Per quale scopo fu originariamente inventato il Pluriball (Bubble Wrap), la famosa plastica con le bolle d'aria, nel 1957?",
+      "domanda": "Quale bizzarro strumento musicale si suona senza mai essere toccato fisicamente ed è famoso per i suoi suoni 'inquietanti' nei film di fantascienza classici?",
       "opzioni": [
-        "Come tappetino antiscivolo per imbarcazioni",
-        "Come isolante termico per serre",
-        "Come carta da parati 3D lavabile",
-        "Come imballaggio protettivo per televisori"
+        "Il Theremin",
+        "L'Onde Martenot",
+        "La Keytar",
+        "Il Sintetizzatore Moog"
       ],
-      "risposta_corretta": "Come carta da parati 3D lavabile"
+      "risposta_corretta": "Il Theremin"
     }
   ]
 }
