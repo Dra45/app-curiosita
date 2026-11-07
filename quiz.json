@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è il nome del celebre e iconico effetto sonoro di un urlo, utilizzato in oltre 400 film tra cui Star Wars, Indiana Jones e Il Signore degli Anelli?",
+      "domanda": "Quale famosa emoji è stata eletta \"Parola dell'anno\" dall'Oxford Dictionary nel 2015?",
       "opzioni": [
-        "L'urlo di Hitchcock",
-        "L'urlo di Kubrick",
-        "L'urlo di Wilhelm",
-        "L'urlo di Tarkin"
+        "Il cuoricino rosso",
+        "Faccia con lacrime di gioia (😂)",
+        "Il pollice in su",
+        "La scimmietta non vedo"
       ],
-      "risposta_corretta": "L'urlo di Wilhelm"
+      "risposta_corretta": "Faccia con lacrime di gioia (😂)"
     },
     {
-      "domanda": "Nel maggio 2010 è stata effettuata la prima transazione commerciale della storia utilizzando Bitcoin. Cosa fu acquistato per la cifra (oggi stratosferica) di 10.000 Bitcoin?",
+      "domanda": "Nel film \"Inception\" di Christopher Nolan, quale celebre canzone di Édith Piaf viene usata come segnale per svegliare i personaggi dal sogno?",
       "opzioni": [
-        "Un biglietto aereo per Tokyo",
-        "Un computer portatile usato",
-        "Due pizze a domicilio",
-        "Una chitarra elettrica"
+        "Hymne à l'amour",
+        "Padam, padam...",
+        "Non, je ne regrette rien",
+        "La Vie en rose"
       ],
-      "risposta_corretta": "Due pizze a domicilio"
+      "risposta_corretta": "Non, je ne regrette rien"
     },
     {
-      "domanda": "Il regno animale riserva sempre grandi sorprese: qual è l'unico mammifero al mondo noto per produrre feci di forma nativamente cubica?",
+      "domanda": "Quale tra questi animali è famoso per essere l'unico al mondo a produrre feci di forma perfettamente cubica?",
       "opzioni": [
-        "Il bradipo",
-        "Il vombato",
+        "L'ornitorinco",
         "Il koala",
-        "L'ornitorinco"
+        "Il bradipo",
+        "Il vombato"
       ],
       "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Considerando anche tutti i propri territori d'oltremare, qual è la nazione al mondo che detiene il record per il maggior numero di fusi orari differenti (ben 12)?",
+      "domanda": "Nel 1932, l'esercito australiano è stato coinvolto in una bizzarra \"guerra\" ufficiale contro quale animale (uscendone sconfitto)?",
       "opzioni": [
-        "Il Regno Unito",
-        "La Francia",
-        "La Russia",
-        "Gli Stati Uniti"
+        "Gli emù",
+        "I canguri",
+        "I conigli",
+        "I dingo"
       ],
-      "risposta_corretta": "La Francia"
+      "risposta_corretta": "Gli emù"
     },
     {
-      "domanda": "Il 1° agosto 1981 fece il suo storico debutto la rete televisiva MTV. Qual è stato il primissimo videoclip musicale ad essere trasmesso in onda?",
+      "domanda": "In quale Paese si trova l'aeroporto di Barra, l'unico al mondo ad usare una spiaggia di sabbia come pista d'atterraggio per voli di linea?",
       "opzioni": [
-        "Bohemian Rhapsody dei Queen",
-        "Video Killed the Radio Star dei The Buggles",
-        "Thriller di Michael Jackson",
-        "Take On Me degli A-ha"
+        "Nuova Zelanda",
+        "Islanda",
+        "Scozia",
+        "Maldive"
       ],
-      "risposta_corretta": "Video Killed the Radio Star dei The Buggles"
+      "risposta_corretta": "Scozia"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano ingaggiò una bizzarra 'guerra' militare ufficiale schierando persino soldati con mitragliatrici contro quali animali selvatici?",
+      "domanda": "Quale tra questi iconici videogiochi è stato ideato dal programmatore sovietico Aleksej Pažitnov nel 1984?",
       "opzioni": [
-        "Canguri",
-        "Conigli",
-        "Dingo",
-        "Emù"
+        "Pac-Man",
+        "Minesweeper",
+        "Space Invaders",
+        "Tetris"
       ],
-      "risposta_corretta": "Emù"
+      "risposta_corretta": "Tetris"
     }
   ]
 }
