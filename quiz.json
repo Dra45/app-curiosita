@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale famosa emoji è stata eletta \"Parola dell'anno\" dall'Oxford Dictionary nel 2015?",
+      "domanda": "Nel 2010 è stato effettuato il primo acquisto reale in assoluto utilizzando Bitcoin. Cosa è stato comprato?",
       "opzioni": [
-        "Il cuoricino rosso",
-        "Faccia con lacrime di gioia (😂)",
-        "Il pollice in su",
-        "La scimmietta non vedo"
+        "Un paio di scarpe da ginnastica",
+        "Due pizze",
+        "Un biglietto aereo",
+        "Un computer usato"
       ],
-      "risposta_corretta": "Faccia con lacrime di gioia (😂)"
+      "risposta_corretta": "Due pizze"
     },
     {
-      "domanda": "Nel film \"Inception\" di Christopher Nolan, quale celebre canzone di Édith Piaf viene usata come segnale per svegliare i personaggi dal sogno?",
+      "domanda": "Quale animale possiede la pelliccia più folta del mondo, con fino a 150.000 peli per centimetro quadrato?",
       "opzioni": [
-        "Hymne à l'amour",
-        "Padam, padam...",
-        "Non, je ne regrette rien",
-        "La Vie en rose"
+        "Volpe artica",
+        "Castoro",
+        "Lontra marina",
+        "Orso polare"
       ],
-      "risposta_corretta": "Non, je ne regrette rien"
+      "risposta_corretta": "Lontra marina"
     },
     {
-      "domanda": "Quale tra questi animali è famoso per essere l'unico al mondo a produrre feci di forma perfettamente cubica?",
+      "domanda": "Come si chiama il celebre effetto sonoro di un urlo, registrato nel 1951 e riutilizzato in oltre 400 film tra cui Star Wars e Indiana Jones?",
       "opzioni": [
-        "L'ornitorinco",
-        "Il koala",
-        "Il bradipo",
-        "Il vombato"
+        "L'urlo di Godzilla",
+        "L'urlo del West",
+        "L'urlo di Tarzan",
+        "L'urlo di Wilhelm (Wilhelm Scream)"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "L'urlo di Wilhelm (Wilhelm Scream)"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano è stato coinvolto in una bizzarra \"guerra\" ufficiale contro quale animale (uscendone sconfitto)?",
+      "domanda": "Considerando anche i suoi territori d'oltremare, qual è la nazione che copre il maggior numero di fusi orari al mondo (ben 12)?",
       "opzioni": [
-        "Gli emù",
-        "I canguri",
-        "I conigli",
-        "I dingo"
+        "Regno Unito",
+        "Russia",
+        "Francia",
+        "Stati Uniti"
       ],
-      "risposta_corretta": "Gli emù"
+      "risposta_corretta": "Francia"
     },
     {
-      "domanda": "In quale Paese si trova l'aeroporto di Barra, l'unico al mondo ad usare una spiaggia di sabbia come pista d'atterraggio per voli di linea?",
+      "domanda": "Nel 1932 l'esercito australiano combatté una bizzarra 'guerra' ufficiale per contenere la popolazione di quali animali (e finì per perdere)?",
       "opzioni": [
-        "Nuova Zelanda",
-        "Islanda",
-        "Scozia",
-        "Maldive"
+        "Conigli",
+        "Dingo",
+        "Canguri",
+        "Emu"
       ],
-      "risposta_corretta": "Scozia"
+      "risposta_corretta": "Emu"
     },
     {
-      "domanda": "Quale tra questi iconici videogiochi è stato ideato dal programmatore sovietico Aleksej Pažitnov nel 1984?",
+      "domanda": "Qual è stato il primissimo videoclip musicale trasmesso sul canale MTV al suo lancio il 1° agosto 1981?",
       "opzioni": [
-        "Pac-Man",
-        "Minesweeper",
-        "Space Invaders",
-        "Tetris"
+        "Like a Virgin di Madonna",
+        "Video Killed the Radio Star dei Buggles",
+        "Thriller di Michael Jackson",
+        "Bohemian Rhapsody dei Queen"
       ],
-      "risposta_corretta": "Tetris"
+      "risposta_corretta": "Video Killed the Radio Star dei Buggles"
     }
   ]
 }
