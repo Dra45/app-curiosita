@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Nel 2010 è stato effettuato il primo acquisto reale in assoluto utilizzando Bitcoin. Cosa è stato comprato?",
+      "domanda": "Perché la celebre tecnologia di connessione wireless 'Bluetooth' si chiama proprio così?",
       "opzioni": [
-        "Un paio di scarpe da ginnastica",
-        "Due pizze",
-        "Un biglietto aereo",
-        "Un computer usato"
+        "Da un re vichingo famoso per aver unito tribù nemiche",
+        "Dal nome del primo laboratorio di ricerca in Danimarca",
+        "Da una metafora del fondatore sul colore delle onde radio",
+        "È un acronimo di Basic Low-Energy Output Transmitter System"
       ],
-      "risposta_corretta": "Due pizze"
+      "risposta_corretta": "Da un re vichingo famoso per aver unito tribù nemiche"
     },
     {
-      "domanda": "Quale animale possiede la pelliccia più folta del mondo, con fino a 150.000 peli per centimetro quadrato?",
+      "domanda": "Il celebre ed terrorizzante ruggito del T-Rex nel film 'Jurassic Park' (1993) è stato creato dai sound designer combinando i versi di vari animali. Quale tra questi era la fonte principale?",
       "opzioni": [
-        "Volpe artica",
-        "Castoro",
-        "Lontra marina",
-        "Orso polare"
+        "Un orso grizzly",
+        "Un coccodrillo della Florida",
+        "Un leone africano",
+        "Un cucciolo di elefantino"
       ],
-      "risposta_corretta": "Lontra marina"
+      "risposta_corretta": "Un cucciolo di elefantino"
     },
     {
-      "domanda": "Come si chiama il celebre effetto sonoro di un urlo, registrato nel 1951 e riutilizzato in oltre 400 film tra cui Star Wars e Indiana Jones?",
+      "domanda": "Per evitare di andare alla deriva durante il sonno a causa delle correnti marine, cosa fanno le lontre di mare?",
       "opzioni": [
-        "L'urlo di Godzilla",
-        "L'urlo del West",
-        "L'urlo di Tarzan",
-        "L'urlo di Wilhelm (Wilhelm Scream)"
+        "Dormono a turno lasciando una sentinella sveglia",
+        "Succhiano aria per gonfiarsi come palloni",
+        "Si avvolgono nelle alghe o si tengono per mano tra loro",
+        "Si incastrano tra le fessure delle rocce"
       ],
-      "risposta_corretta": "L'urlo di Wilhelm (Wilhelm Scream)"
+      "risposta_corretta": "Si avvolgono nelle alghe o si tengono per mano tra loro"
     },
     {
-      "domanda": "Considerando anche i suoi territori d'oltremare, qual è la nazione che copre il maggior numero di fusi orari al mondo (ben 12)?",
+      "domanda": "Qual è lo stato del mondo che possiede il maggior numero di fusi orari ufficiali, considerando anche i suoi territori d'oltremare?",
       "opzioni": [
-        "Regno Unito",
-        "Russia",
         "Francia",
+        "Russia",
+        "Cina",
         "Stati Uniti"
       ],
       "risposta_corretta": "Francia"
     },
     {
-      "domanda": "Nel 1932 l'esercito australiano combatté una bizzarra 'guerra' ufficiale per contenere la popolazione di quali animali (e finì per perdere)?",
+      "domanda": "Da dove deriva originariamente la parola 'Emoji', usata quotidianamente nelle nostre comunicazioni digitali?",
       "opzioni": [
-        "Conigli",
-        "Dingo",
-        "Canguri",
-        "Emu"
+        "Dal giapponese, dove significa letteralmente immagine (e) + lettera (moji)",
+        "Da una contrazione dell'espressione latina Emoticon Juncus",
+        "Dall'unione delle parole inglesi Emotion e Image",
+        "Da un brevetto registrato dalla Apple nel 2007"
       ],
-      "risposta_corretta": "Emu"
+      "risposta_corretta": "Dal giapponese, dove significa letteralmente immagine (e) + lettera (moji)"
     },
     {
-      "domanda": "Qual è stato il primissimo videoclip musicale trasmesso sul canale MTV al suo lancio il 1° agosto 1981?",
+      "domanda": "A causa dell'estrema pressione atmosferica e della composizione chimica, su quali pianeti del nostro sistema solare gli scienziati ritengono che piovano letteralmente diamanti?",
       "opzioni": [
-        "Like a Virgin di Madonna",
-        "Video Killed the Radio Star dei Buggles",
-        "Thriller di Michael Jackson",
-        "Bohemian Rhapsody dei Queen"
+        "Nettuno e Saturno",
+        "Marte e Venere",
+        "Mercurio e Urano",
+        "Giove e Terra"
       ],
-      "risposta_corretta": "Video Killed the Radio Star dei Buggles"
+      "risposta_corretta": "Nettuno e Saturno"
     }
   ]
 }
