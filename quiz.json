@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale celebre effetto sonoro, registrato nel 1951, è stato riutilizzato in oltre 400 film tra cui Star Wars, Indiana Jones e molti cinecomic Marvel?",
+      "domanda": "L'iconico suono 'Ta-dum' che si sente all'inizio di ogni serie o film su Netflix è stato creato usando quale oggetto di uso comune?",
       "opzioni": [
-        "Il crescendo THX",
-        "Il respiro di Darth Vader",
-        "Il ruggito di Godzilla",
-        "L'urlo di Wilhelm"
+        "Una porta di metallo che si chiude con eco",
+        "Un microfono fatto urtare su un tamburo",
+        "Un anello da matrimonio battuto contro un mobile di legno",
+        "Due grandi libri di testo lasciati cadere insieme"
       ],
-      "risposta_corretta": "L'urlo di Wilhelm"
+      "risposta_corretta": "Un anello da matrimonio battuto contro un mobile di legno"
     },
     {
-      "domanda": "Prima di assumere il nome definitivo 'Google', qual era il nome originale del motore di ricerca creato da Larry Page e Sergey Brin?",
+      "domanda": "I vombati, simpatici marsupiali australiani, sono famosi nel mondo animale per un dettaglio biologico unico. Quale?",
       "opzioni": [
-        "GoGet",
-        "PageFind",
-        "WebCrawler",
-        "BackRub"
+        "Producono feci a forma di cubo",
+        "Cambiano colore della pelliccia in base alle stagioni",
+        "Possono trattenere il respiro sott'acqua per mezz'ora",
+        "Hanno due cuori perfettamente funzionanti"
       ],
-      "risposta_corretta": "BackRub"
+      "risposta_corretta": "Producono feci a forma di cubo"
     },
     {
-      "domanda": "Quale tra questi animali ha la particolarità unica in natura di produrre feci di forma perfettamente cubica?",
+      "domanda": "Perché il celebre vestito verde di Versace indossato da Jennifer Lopez ai Grammy Awards del 2000 ha fatto la storia del web?",
       "opzioni": [
-        "Vombato (Wombat)",
-        "Koala",
-        "Diavolo della Tasmania",
-        "Ornitorinco"
+        "È stato il primo abito disegnato interamente al computer",
+        "È stato il primo capo d'abbigliamento venduto su eBay",
+        "Ha ispirato la creazione dei primi filtri di Instagram",
+        "Ha spinto Google a creare il servizio Google Immagini"
       ],
-      "risposta_corretta": "Vombato (Wombat)"
+      "risposta_corretta": "Ha spinto Google a creare il servizio Google Immagini"
     },
     {
-      "domanda": "Contrariamente a quanto si potrebbe pensare, quale Paese possiede il maggior numero di isole al mondo (oltre 260.000)?",
+      "domanda": "Qual è l'unico Paese al mondo ad avere una bandiera nazionale che non è né rettangolare né quadrata?",
       "opzioni": [
-        "Filippine",
-        "Indonesia",
-        "Grecia",
-        "Svezia"
+        "Città del Vaticano",
+        "Nepal",
+        "Svizzera",
+        "Bhutan"
       ],
-      "risposta_corretta": "Svezia"
+      "risposta_corretta": "Nepal"
     },
     {
-      "domanda": "Il forno a microonde è stato inventato per caso nel 1945 dopo che un ingegnere ha notato che un oggetto si era sciolto nella sua tasca lavorando vicino a un radar. Di cosa si trattava?",
+      "domanda": "Nel 1932, l'esercito australiano intraprese un'insolita operazione militare 'di guerra' contro un nemico del tutto inaspettato. Chi era?",
       "opzioni": [
-        "Un pacchetto di chewing gum",
-        "Una candela di cera",
-        "Un panetto di burro",
-        "Una barretta di cioccolato"
+        "I dingo delle pianure occidentali",
+        "Un'invasione di conigli selvatici",
+        "Uno sciame gigante di locuste del deserto",
+        "Una popolazione di oltre 20.000 emù"
       ],
-      "risposta_corretta": "Una barretta di cioccolato"
+      "risposta_corretta": "Una popolazione di oltre 20.000 emù"
     },
     {
-      "domanda": "L'iconica forma del celebre personaggio dei videogiochi Pac-Man è stata ispirata al suo creatore Toru Iwatani mentre osservava quale alimento?",
+      "domanda": "Quale popolare alimento è stato inventato nel 1905 da un ragazzino di 11 anni che aveva accidentalmente lasciato un bicchiere con acqua, aroma in polvere e un bastoncino sul balcone durante una notte di gelo?",
       "opzioni": [
-        "Una torta di mele senza una fetta",
-        "Una pizza a cui mancava una fetta",
-        "Una forma di formaggio Edam",
-        "Un biscotto dorato arrotondato"
+        "Il ghiacciolo",
+        "La gomma da masticare",
+        "Lo zucchero filato",
+        "La granita al limone"
       ],
-      "risposta_corretta": "Una pizza a cui mancava una fetta"
+      "risposta_corretta": "Il ghiacciolo"
     }
   ]
 }
