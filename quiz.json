@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Da dove deriva il nome della celebre tecnologia wireless 'Bluetooth', presente su tutti i nostri smartphone?",
+      "domanda": "Quale celebre effetto sonoro, registrato nel 1951, è stato riutilizzato in oltre 400 film tra cui Star Wars, Indiana Jones e molti cinecomic Marvel?",
       "opzioni": [
-        "Un codice segreto usato dalla marina militare americana",
-        "Il soprannome di un antico re vichingo",
-        "Un errore di battitura del termine tecnico 'BlueTooth'",
-        "Il nome del cane del suo inventore"
+        "Il crescendo THX",
+        "Il respiro di Darth Vader",
+        "Il ruggito di Godzilla",
+        "L'urlo di Wilhelm"
       ],
-      "risposta_corretta": "Il soprannome di un antico re vichingo"
+      "risposta_corretta": "L'urlo di Wilhelm"
     },
     {
-      "domanda": "Quale di questi animali è famoso per essere l'unico al mondo a produrre escrementi di forma cubica?",
+      "domanda": "Prima di assumere il nome definitivo 'Google', qual era il nome originale del motore di ricerca creato da Larry Page e Sergey Brin?",
       "opzioni": [
-        "Il wombat (vombato)",
-        "Il capibara",
-        "L'ornitorinco",
-        "Il bradipo"
+        "GoGet",
+        "PageFind",
+        "WebCrawler",
+        "BackRub"
       ],
-      "risposta_corretta": "Il wombat (vombato)"
+      "risposta_corretta": "BackRub"
     },
     {
-      "domanda": "Da cosa sono stati creati i celebri simboli verdi a cascata del 'codice di Matrix' nell'omonimo film cult del 1999?",
+      "domanda": "Quale tra questi animali ha la particolarità unica in natura di produrre feci di forma perfettamente cubica?",
       "opzioni": [
-        "Dalle ricette di sushi scansionate da un libro di cucina",
-        "Da equazioni matematiche di fisica quantistica",
-        "Da frammenti di un vero virus informatico degli anni '90",
-        "Da righe casuali scritte in linguaggio di programmazione C++"
+        "Vombato (Wombat)",
+        "Koala",
+        "Diavolo della Tasmania",
+        "Ornitorinco"
       ],
-      "risposta_corretta": "Dalle ricette di sushi scansionate da un libro di cucina"
+      "risposta_corretta": "Vombato (Wombat)"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano fu ingaggiato in una bizzarra 'guerra' ufficiale (che perse!) contro quale specie animale?",
+      "domanda": "Contrariamente a quanto si potrebbe pensare, quale Paese possiede il maggior numero di isole al mondo (oltre 260.000)?",
       "opzioni": [
-        "I dingo",
-        "I canguri rossi",
-        "I coccodrilli marini",
-        "Gli emù"
+        "Filippine",
+        "Indonesia",
+        "Grecia",
+        "Svezia"
       ],
-      "risposta_corretta": "Gli emù"
+      "risposta_corretta": "Svezia"
     },
     {
-      "domanda": "Come si chiama il punto più remoto di tutti gli oceani, noto come 'polo dell'inaccessibilità' e usato come cimitero per i satelliti spaziali?",
+      "domanda": "Il forno a microonde è stato inventato per caso nel 1945 dopo che un ingegnere ha notato che un oggetto si era sciolto nella sua tasca lavorando vicino a un radar. Di cosa si trattava?",
       "opzioni": [
-        "Abisso Challenger",
-        "Fossa delle Marianne",
-        "Triangolo delle Bermuda",
-        "Punto Nemo"
+        "Un pacchetto di chewing gum",
+        "Una candela di cera",
+        "Un panetto di burro",
+        "Una barretta di cioccolato"
       ],
-      "risposta_corretta": "Punto Nemo"
+      "risposta_corretta": "Una barretta di cioccolato"
     },
     {
-      "domanda": "Il forno a microonde è stato inventato per caso nel 1945 dopo che uno scienziato notò che cosa si era sciolto nella sua tasca?",
+      "domanda": "L'iconica forma del celebre personaggio dei videogiochi Pac-Man è stata ispirata al suo creatore Toru Iwatani mentre osservava quale alimento?",
       "opzioni": [
-        "Un pacchetto di caramelle gommose",
-        "Una tavoletta di cioccolata",
-        "Un gelato al cioccolato",
-        "Un panino al formaggio"
+        "Una torta di mele senza una fetta",
+        "Una pizza a cui mancava una fetta",
+        "Una forma di formaggio Edam",
+        "Un biscotto dorato arrotondato"
       ],
-      "risposta_corretta": "Una tavoletta di cioccolata"
+      "risposta_corretta": "Una pizza a cui mancava una fetta"
     }
   ]
 }
