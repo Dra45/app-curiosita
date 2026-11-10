@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "L'iconico suono 'Ta-dum' che si sente all'inizio di ogni serie o film su Netflix è stato creato usando quale oggetto di uso comune?",
+      "domanda": "Quale tra questi animali è famoso per produrre deiezioni (la pupù) a forma di cubo perfetto?",
       "opzioni": [
-        "Una porta di metallo che si chiude con eco",
-        "Un microfono fatto urtare su un tamburo",
-        "Un anello da matrimonio battuto contro un mobile di legno",
-        "Due grandi libri di testo lasciati cadere insieme"
+        "Pinguino imperatore",
+        "Capibara",
+        "Lontra marina",
+        "Wombat"
       ],
-      "risposta_corretta": "Un anello da matrimonio battuto contro un mobile di legno"
+      "risposta_corretta": "Wombat"
     },
     {
-      "domanda": "I vombati, simpatici marsupiali australiani, sono famosi nel mondo animale per un dettaglio biologico unico. Quale?",
+      "domanda": "Nel famoso film 'The Matrix', da cosa è composto davvero l'iconico codice verde a cascata che si vede sullo schermo?",
       "opzioni": [
-        "Producono feci a forma di cubo",
-        "Cambiano colore della pelliccia in base alle stagioni",
-        "Possono trattenere il respiro sott'acqua per mezz'ora",
-        "Hanno due cuori perfettamente funzionanti"
+        "Coordinate geografiche di Tokyo",
+        "Nomi del cast in codice Morse",
+        "Ricette di sushi giapponesi",
+        "Equazioni quantistiche"
       ],
-      "risposta_corretta": "Producono feci a forma di cubo"
+      "risposta_corretta": "Ricette di sushi giapponesi"
     },
     {
-      "domanda": "Perché il celebre vestito verde di Versace indossato da Jennifer Lopez ai Grammy Awards del 2000 ha fatto la storia del web?",
+      "domanda": "Nonostante si estenda su ben 5 fusi orari teorici, quale grande nazione utilizza ufficialmente un unico fuso orario per tutto il suo territorio?",
       "opzioni": [
-        "È stato il primo abito disegnato interamente al computer",
-        "È stato il primo capo d'abbigliamento venduto su eBay",
-        "Ha ispirato la creazione dei primi filtri di Instagram",
-        "Ha spinto Google a creare il servizio Google Immagini"
+        "Cina",
+        "Brasile",
+        "Russia",
+        "Australia"
       ],
-      "risposta_corretta": "Ha spinto Google a creare il servizio Google Immagini"
+      "risposta_corretta": "Cina"
     },
     {
-      "domanda": "Qual è l'unico Paese al mondo ad avere una bandiera nazionale che non è né rettangolare né quadrata?",
+      "domanda": "Da dove deriva il nome della celebre tecnologia wireless 'Bluetooth'?",
       "opzioni": [
-        "Città del Vaticano",
-        "Nepal",
-        "Svizzera",
-        "Bhutan"
+        "Da un'invenzione di Steve Jobs nei primi anni '80",
+        "Da un errore di traduzione dal svedese",
+        "Dalla sigla di un progetto segreto della NASA",
+        "Dal nome di un re vichingo del X secolo"
       ],
-      "risposta_corretta": "Nepal"
+      "risposta_corretta": "Dal nome di un re vichingo del X secolo"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano intraprese un'insolita operazione militare 'di guerra' contro un nemico del tutto inaspettato. Chi era?",
+      "domanda": "In quale Paese è stata inventata negli anni '60 la famosa (e discussa) 'Pizza Hawaiana' con l'ananas?",
       "opzioni": [
-        "I dingo delle pianure occidentali",
-        "Un'invasione di conigli selvatici",
-        "Uno sciame gigante di locuste del deserto",
-        "Una popolazione di oltre 20.000 emù"
+        "Canada",
+        "Australia",
+        "Stati Uniti",
+        "Filippine"
       ],
-      "risposta_corretta": "Una popolazione di oltre 20.000 emù"
+      "risposta_corretta": "Canada"
     },
     {
-      "domanda": "Quale popolare alimento è stato inventato nel 1905 da un ragazzino di 11 anni che aveva accidentalmente lasciato un bicchiere con acqua, aroma in polvere e un bastoncino sul balcone durante una notte di gelo?",
+      "domanda": "Secondo i racconti degli astronauti al rientro dalle passeggiate spaziali, quale tra questi è l'odore caratteristico dello spazio rimasto sulle tute?",
       "opzioni": [
-        "Il ghiacciolo",
-        "La gomma da masticare",
-        "Lo zucchero filato",
-        "La granita al limone"
+        "Ozono e pino sintetico",
+        "Biscotti alla vaniglia",
+        "Zolfo e uova marce",
+        "Carne bruciata e metallo"
       ],
-      "risposta_corretta": "Il ghiacciolo"
+      "risposta_corretta": "Carne bruciata e metallo"
     }
   ]
 }
