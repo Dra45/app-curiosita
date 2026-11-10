@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale tra questi animali è famoso per produrre deiezioni (la pupù) a forma di cubo perfetto?",
+      "domanda": "Quale animale produce feci a forma di cubo, una caratteristica unica in tutto il regno animale?",
       "opzioni": [
-        "Pinguino imperatore",
-        "Capibara",
-        "Lontra marina",
-        "Wombat"
+        "Il vombato",
+        "Il koala",
+        "Il diavolo della Tasmania",
+        "L'ornitorinco"
       ],
-      "risposta_corretta": "Wombat"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Nel famoso film 'The Matrix', da cosa è composto davvero l'iconico codice verde a cascata che si vede sullo schermo?",
+      "domanda": "Il nome della tecnologia wireless 'Bluetooth' rende omaggio a quale celebre figura storica?",
       "opzioni": [
-        "Coordinate geografiche di Tokyo",
-        "Nomi del cast in codice Morse",
-        "Ricette di sushi giapponesi",
-        "Equazioni quantistiche"
+        "Un astronomo rinascimentale",
+        "Un filosofo greco antico",
+        "Un re vichingo del X secolo",
+        "Un pirata inglese del '700"
       ],
-      "risposta_corretta": "Ricette di sushi giapponesi"
+      "risposta_corretta": "Un re vichingo del X secolo"
     },
     {
-      "domanda": "Nonostante si estenda su ben 5 fusi orari teorici, quale grande nazione utilizza ufficialmente un unico fuso orario per tutto il suo territorio?",
+      "domanda": "Come è stato realizzato l'iconico ruggito del primo Godzilla nel film originale del 1954?",
       "opzioni": [
-        "Cina",
-        "Brasile",
-        "Russia",
+        "Campionando il rumore del motore di un aereo",
+        "Strofinando un guanto di pelle su un contrabbasso",
+        "Registrando e rallentando il verso di un leone",
+        "Mixando il barrito di un elefante con un tuono"
+      ],
+      "risposta_corretta": "Strofinando un guanto di pelle su un contrabbasso"
+    },
+    {
+      "domanda": "Qual è lo Stato più grande al mondo a non avere nemmeno un fiume naturale permanente sul suo territorio?",
+      "opzioni": [
+        "Egitto",
+        "Mongolia",
+        "Arabia Saudita",
         "Australia"
       ],
-      "risposta_corretta": "Cina"
+      "risposta_corretta": "Arabia Saudita"
     },
     {
-      "domanda": "Da dove deriva il nome della celebre tecnologia wireless 'Bluetooth'?",
+      "domanda": "Chi ha disegnato nel 1969 il celebre logo a forma di margherita del marchio di lecca-lecca Chupa Chups?",
       "opzioni": [
-        "Da un'invenzione di Steve Jobs nei primi anni '80",
-        "Da un errore di traduzione dal svedese",
-        "Dalla sigla di un progetto segreto della NASA",
-        "Dal nome di un re vichingo del X secolo"
+        "Andy Warhol",
+        "Walt Disney",
+        "Pablo Picasso",
+        "Salvador Dalí"
       ],
-      "risposta_corretta": "Dal nome di un re vichingo del X secolo"
+      "risposta_corretta": "Salvador Dalí"
     },
     {
-      "domanda": "In quale Paese è stata inventata negli anni '60 la famosa (e discussa) 'Pizza Hawaiana' con l'ananas?",
+      "domanda": "Qual è il soggetto del primissimo video in assoluto mai caricato su YouTube nel 2005?",
       "opzioni": [
-        "Canada",
-        "Australia",
-        "Stati Uniti",
-        "Filippine"
+        "Un ragazzo che esegue un assolo di chitarra",
+        "Un breve test di ripresa di un incrocio cittadino",
+        "Un gattino che gioca con un gomitolo di lana",
+        "Un co-fondatore della piattaforma davanti agli elefanti dello zoo"
       ],
-      "risposta_corretta": "Canada"
-    },
-    {
-      "domanda": "Secondo i racconti degli astronauti al rientro dalle passeggiate spaziali, quale tra questi è l'odore caratteristico dello spazio rimasto sulle tute?",
-      "opzioni": [
-        "Ozono e pino sintetico",
-        "Biscotti alla vaniglia",
-        "Zolfo e uova marce",
-        "Carne bruciata e metallo"
-      ],
-      "risposta_corretta": "Carne bruciata e metallo"
+      "risposta_corretta": "Un co-fondatore della piattaforma davanti agli elefanti dello zoo"
     }
   ]
 }
