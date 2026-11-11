@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Nella famosa trilogia di film 'Matrix', da cosa è stato originariamente creato l'iconico codice verde che scorre sugli schermi?",
+      "domanda": "Da dove deriva il nome della tecnologia \"Bluetooth\", presente su quasi tutti i nostri smartphone?",
       "opzioni": [
-        "Estratti da libri di filosofia greca antica",
-        "Una ricetta di sushi giapponese digitalizzata",
-        "Una sequenza casuale di coordinate geografiche",
-        "Il codice sorgente del sistema operativo Windows 95"
+        "Da un re vichingo del X secolo amante dei mirtilli",
+        "Da un personaggio della letteratura fantasy nordica",
+        "Da un famoso pirata inglese del XVIII secolo",
+        "Da un acronimo militare della Guerra Fredda"
       ],
-      "risposta_corretta": "Una ricetta di sushi giapponese digitalizzata"
+      "risposta_corretta": "Da un re vichingo del X secolo amante dei mirtilli"
     },
     {
-      "domanda": "Perché le lontre marine si tengono per mano mentre dormono galleggiando sull'acqua?",
+      "domanda": "Quale animale produce feci a forma di cubo, uniche nel regno animale, per evitare che rotolino via dal proprio territorio?",
       "opzioni": [
-        "È un rituale di corteggiamento che dura per tutta la vita",
-        "Per regolare e condividere il calore corporeo",
-        "Per evitare di andare alla deriva separate dalle correnti",
-        "Per spaventare i predatori subacquei con la loro stazza"
+        "Il vombato",
+        "Il koala",
+        "L'ornitorinco",
+        "Il diavolo della Tasmania"
       ],
-      "risposta_corretta": "Per evitare di andare alla deriva separate dalle correnti"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "In quale paese europeo non esistono le zanzare, grazie al suo clima particolare e alla composizione del terreno?",
+      "domanda": "L'iconica \"pioggia di codice verde\" all'inizio del film cult Matrix è stata creata scansionando cosa?",
       "opzioni": [
-        "Finlandia",
-        "Svizzera",
-        "Norvegia",
-        "Islanda"
+        "Un manuale di riparazione per computer IBM",
+        "Poesie tradizionali cinesi",
+        "Ricette di sushi in giapponese",
+        "Spartiti musicali di Beethoven"
       ],
-      "risposta_corretta": "Islanda"
+      "risposta_corretta": "Ricette di sushi in giapponese"
     },
     {
-      "domanda": "Qual è stato il primissimo oggetto acquistato in una transazione commerciale sicura online nel lontano 1994?",
+      "domanda": "Quale Paese al mondo possiede il maggior numero di fusi orari ufficiali (ben 12), considerando i suoi territori d'oltremare?",
       "opzioni": [
-        "Un CD musicale del cantante Sting",
-        "Un paio di scarpe da ginnastica usate",
-        "Un libro di fantascienza su Amazon",
-        "Una pizza con pepperoni di Pizza Hut"
+        "Il Regno Unito",
+        "La Russia",
+        "La Francia",
+        "Gli Stati Uniti"
       ],
-      "risposta_corretta": "Un CD musicale del cantante Sting"
+      "risposta_corretta": "La Francia"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano ha combattuto una vera e propria 'guerra' ufficiale (perdendola!) contro quale specie animale?",
+      "domanda": "Nel 1932, l'esercito di quale nazione combatté una vera e propria \"guerra\" ufficiale (e la perse!) contro un'invasione di migliaia di emù?",
       "opzioni": [
-        "Emu",
-        "Coccodrilli marini",
-        "Dingo selvatici",
-        "Canguri rossi"
+        "Argentina",
+        "Sudafrica",
+        "Australia",
+        "Nuova Zelanda"
       ],
-      "risposta_corretta": "Emu"
+      "risposta_corretta": "Australia"
     },
     {
-      "domanda": "Da dove deriva il curioso nome della tecnologia wireless che usiamo tutti i giorni, il 'Bluetooth'?",
+      "domanda": "Chi è il celebre artista che ha disegnato nel 1969 l'inconfondibile logo a forma di margherita dei lecca-lecca Chupa Chups?",
       "opzioni": [
-        "Da un acronimo militare segreto nato durante la Guerra Fredda",
-        "Dal colore del LED del primo prototipo funzionante",
-        "Da un antico re vichingo famoso per aver unificato le tribù scandinave",
-        "Dal soprannome di uno scienziato con i denti macchiati d'inchiostro"
+        "Andy Warhol",
+        "Keith Haring",
+        "Pablo Picasso",
+        "Salvador Dalí"
       ],
-      "risposta_corretta": "Da un antico re vichingo famoso per aver unificato le tribù scandinave"
+      "risposta_corretta": "Salvador Dalí"
     }
   ]
 }
