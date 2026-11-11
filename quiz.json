@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale animale produce feci a forma di cubo, una caratteristica unica in tutto il regno animale?",
+      "domanda": "Nella famosa trilogia di film 'Matrix', da cosa è stato originariamente creato l'iconico codice verde che scorre sugli schermi?",
       "opzioni": [
-        "Il vombato",
-        "Il koala",
-        "Il diavolo della Tasmania",
-        "L'ornitorinco"
+        "Estratti da libri di filosofia greca antica",
+        "Una ricetta di sushi giapponese digitalizzata",
+        "Una sequenza casuale di coordinate geografiche",
+        "Il codice sorgente del sistema operativo Windows 95"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "Una ricetta di sushi giapponese digitalizzata"
     },
     {
-      "domanda": "Il nome della tecnologia wireless 'Bluetooth' rende omaggio a quale celebre figura storica?",
+      "domanda": "Perché le lontre marine si tengono per mano mentre dormono galleggiando sull'acqua?",
       "opzioni": [
-        "Un astronomo rinascimentale",
-        "Un filosofo greco antico",
-        "Un re vichingo del X secolo",
-        "Un pirata inglese del '700"
+        "È un rituale di corteggiamento che dura per tutta la vita",
+        "Per regolare e condividere il calore corporeo",
+        "Per evitare di andare alla deriva separate dalle correnti",
+        "Per spaventare i predatori subacquei con la loro stazza"
       ],
-      "risposta_corretta": "Un re vichingo del X secolo"
+      "risposta_corretta": "Per evitare di andare alla deriva separate dalle correnti"
     },
     {
-      "domanda": "Come è stato realizzato l'iconico ruggito del primo Godzilla nel film originale del 1954?",
+      "domanda": "In quale paese europeo non esistono le zanzare, grazie al suo clima particolare e alla composizione del terreno?",
       "opzioni": [
-        "Campionando il rumore del motore di un aereo",
-        "Strofinando un guanto di pelle su un contrabbasso",
-        "Registrando e rallentando il verso di un leone",
-        "Mixando il barrito di un elefante con un tuono"
+        "Finlandia",
+        "Svizzera",
+        "Norvegia",
+        "Islanda"
       ],
-      "risposta_corretta": "Strofinando un guanto di pelle su un contrabbasso"
+      "risposta_corretta": "Islanda"
     },
     {
-      "domanda": "Qual è lo Stato più grande al mondo a non avere nemmeno un fiume naturale permanente sul suo territorio?",
+      "domanda": "Qual è stato il primissimo oggetto acquistato in una transazione commerciale sicura online nel lontano 1994?",
       "opzioni": [
-        "Egitto",
-        "Mongolia",
-        "Arabia Saudita",
-        "Australia"
+        "Un CD musicale del cantante Sting",
+        "Un paio di scarpe da ginnastica usate",
+        "Un libro di fantascienza su Amazon",
+        "Una pizza con pepperoni di Pizza Hut"
       ],
-      "risposta_corretta": "Arabia Saudita"
+      "risposta_corretta": "Un CD musicale del cantante Sting"
     },
     {
-      "domanda": "Chi ha disegnato nel 1969 il celebre logo a forma di margherita del marchio di lecca-lecca Chupa Chups?",
+      "domanda": "Nel 1932, l'esercito australiano ha combattuto una vera e propria 'guerra' ufficiale (perdendola!) contro quale specie animale?",
       "opzioni": [
-        "Andy Warhol",
-        "Walt Disney",
-        "Pablo Picasso",
-        "Salvador Dalí"
+        "Emu",
+        "Coccodrilli marini",
+        "Dingo selvatici",
+        "Canguri rossi"
       ],
-      "risposta_corretta": "Salvador Dalí"
+      "risposta_corretta": "Emu"
     },
     {
-      "domanda": "Qual è il soggetto del primissimo video in assoluto mai caricato su YouTube nel 2005?",
+      "domanda": "Da dove deriva il curioso nome della tecnologia wireless che usiamo tutti i giorni, il 'Bluetooth'?",
       "opzioni": [
-        "Un ragazzo che esegue un assolo di chitarra",
-        "Un breve test di ripresa di un incrocio cittadino",
-        "Un gattino che gioca con un gomitolo di lana",
-        "Un co-fondatore della piattaforma davanti agli elefanti dello zoo"
+        "Da un acronimo militare segreto nato durante la Guerra Fredda",
+        "Dal colore del LED del primo prototipo funzionante",
+        "Da un antico re vichingo famoso per aver unificato le tribù scandinave",
+        "Dal soprannome di uno scienziato con i denti macchiati d'inchiostro"
       ],
-      "risposta_corretta": "Un co-fondatore della piattaforma davanti agli elefanti dello zoo"
+      "risposta_corretta": "Da un antico re vichingo famoso per aver unificato le tribù scandinave"
     }
   ]
 }
