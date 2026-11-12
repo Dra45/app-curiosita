@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Prima che i fondatori gli dessero il nome definitivo 'Google', qual era il nome bizzarro scelto in origine per il celebre motore di ricerca?",
+      "domanda": "Quale celebre film del 1986 ha salvato dal calo delle vendite il modello di occhiali da sole Ray-Ban Aviator, facendone schizzare gli acquisti di oltre il 40%?",
       "opzioni": [
-        "GoTo",
-        "PageRank",
-        "WebSearch",
-        "BackRub"
+        "Top Gun",
+        "Matrix",
+        "Risky Business",
+        "Men in Black"
       ],
-      "risposta_corretta": "BackRub"
+      "risposta_corretta": "Top Gun"
     },
     {
-      "domanda": "Nel regno animale esiste un solo mammifero noto per produrre feci dalla forma quasi perfettamente cubica. Di quale animale si tratta?",
+      "domanda": "Qual è stato il primissimo video caricato sulla piattaforma YouTube nell'aprile del 2005?",
       "opzioni": [
-        "Capibara",
-        "Pangolino",
-        "Vombato",
-        "Lontra marina"
+        "Evolution of Dance",
+        "Me at the zoo",
+        "Charlie bit my finger",
+        "Hello World!"
       ],
-      "risposta_corretta": "Vombato"
+      "risposta_corretta": "Me at the zoo"
     },
     {
-      "domanda": "Nel 1974 è stato scansionato il primo codice a barre della storia alla cassa di un supermercato. Qual era il prodotto?",
+      "domanda": "Nel 1932, l'esercito australiano è stato coinvolto in una bizzarra 'guerra' ufficiale per contenere la popolazione di quale animale?",
       "opzioni": [
-        "Un pacchetto di chewing gum",
-        "Una lattina di Coca-Cola",
-        "Una bottiglia di latte",
-        "Un pacco di corn flakes"
+        "I dingo",
+        "Gli emù",
+        "I conigli",
+        "I canguri"
       ],
-      "risposta_corretta": "Un pacchetto di chewing gum"
+      "risposta_corretta": "Gli emù"
     },
     {
-      "domanda": "Se odi le zanzare e vuoi fare una vacanza senza portarti l'insetticida, in quale di questi paesi dovresti andare poiché ne è del tutto privo?",
+      "domanda": "Quale tra questi animali è l'unico mammifero al mondo capace di volare in modo attivo e sostenuto (e non soltanto di planare)?",
       "opzioni": [
-        "Islanda",
-        "Norvegia",
-        "Finlandia",
-        "Irlanda"
+        "Il petauro dello zucchero",
+        "Il pipistrello",
+        "Il lemure volante",
+        "Lo scoiattolo volante"
       ],
-      "risposta_corretta": "Islanda"
+      "risposta_corretta": "Il pipistrello"
     },
     {
-      "domanda": "L'iconico 'codice verde' a cascata che si vede sui monitor nel film cult *Matrix* è stato creato digitalizzando cosa?",
+      "domanda": "La metropolitana di quale capitale europea è famosa per essere considerata 'la galleria d'arte più lunga del mondo' grazie alle sue stazioni scolpite nella roccia e dipinte?",
       "opzioni": [
-        "Pagine casuali dell'elenco telefonico di Tokyo",
-        "Un algoritmo di crittografia militare",
-        "Ricette di sushi da un libro di cucina giapponese",
-        "Il codice sorgente di un vecchio videogioco Arcade"
+        "Stoccolma",
+        "Parigi",
+        "Berlino",
+        "Mosca"
       ],
-      "risposta_corretta": "Ricette di sushi da un libro di cucina giapponese"
+      "risposta_corretta": "Stoccolma"
     },
     {
-      "domanda": "Nel 1932 l'esercito australiano combatté una bizzarra 'guerra' inviando soldati armati di mitragliatrici contro un'invasione di quali animali (finendo per perdere)?",
+      "domanda": "Nel famoso film 'E.T. l'extra-terrestre', quale celebre snack al burro di arachidi viene usato dal piccolo Elliott per attirare l'alieno?",
       "opzioni": [
-        "Canguri",
-        "Conigli selvatici",
-        "Dingo",
-        "Emu"
+        "M&M's",
+        "Skittles",
+        "Snickers",
+        "Reese's Pieces"
       ],
-      "risposta_corretta": "Emu"
+      "risposta_corretta": "Reese's Pieces"
     }
   ]
 }
