@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale tra questi animali è famoso per produrre feci di forma perfettamente cubica?",
+      "domanda": "Da dove deriva il nome della tecnologia wireless 'Bluetooth'?",
       "opzioni": [
-        "Koala",
-        "Ippopotamo",
-        "Lama",
-        "Vombato"
+        "Dal nome del cane del suo inventore svedese",
+        "Dal soprannome del re vichingo Harald Blåtand",
+        "Da un acronimo di Broadband Logic Telecommunication",
+        "Da un cavo blu utilizzato nei primi esperimenti sul campo"
       ],
-      "risposta_corretta": "Vombato"
+      "risposta_corretta": "Dal soprannome del re vichingo Harald Blåtand"
     },
     {
-      "domanda": "Prima di diventare un'icona globale col nome di Mario, come veniva chiamato il celebre idraulico nel suo gioco d'esordio arcade?",
+      "domanda": "Nel mondo del cinema, che cos'è il famoso 'Urlo di Wilhelm' (Wilhelm Scream)?",
       "opzioni": [
-        "Mr. Video",
-        "Plumber Boy",
+        "Il ruggito originale ideato per il T-Rex di Jurassic Park",
+        "Il suono iconico generato dall'accensione delle spade laser",
+        "Il verso spaventoso emesso dai Dissennatori in Harry Potter",
+        "Un famoso effetto sonoro d'archivio usato in centinaia di film d'azione"
+      ],
+      "risposta_corretta": "Un famoso effetto sonoro d'archivio usato in centinaia di film d'azione"
+    },
+    {
+      "domanda": "Quale tra questi animali del regno animale è famoso per produrre feci a forma di cubo?",
+      "opzioni": [
+        "Il vombato",
+        "L'ornitorinco",
+        "Il capibara",
+        "Il koala"
+      ],
+      "risposta_corretta": "Il vombato"
+    },
+    {
+      "domanda": "Nel 1989, in seguito a uno scambio commerciale con l'URSS, quale nota azienda diventò temporaneamente proprietaria della sesta flotta sottomarina militare più grande al mondo?",
+      "opzioni": [
+        "Red Bull",
+        "Pepsi",
+        "McDonald's",
+        "Coca-Cola"
+      ],
+      "risposta_corretta": "Pepsi"
+    },
+    {
+      "domanda": "Considerando tutti i suoi territori d'oltremare, quale paese possiede il maggior numero di fusi orari distinti (ben 12)?",
+      "opzioni": [
+        "Regno Unito",
+        "Francia",
+        "Russia",
+        "Stati Uniti"
+      ],
+      "risposta_corretta": "Francia"
+    },
+    {
+      "domanda": "Prima di diventare il celebre idraulico di Nintendo, con quale nome debutto il personaggio di Mario nel videogioco arcade 'Donkey Kong' del 1981?",
+      "opzioni": [
+        "Jumpman",
         "Red Cap",
-        "Jumpman"
+        "Mr. Video",
+        "Plumber Boy"
       ],
       "risposta_corretta": "Jumpman"
-    },
-    {
-      "domanda": "Nel 1995, quale capolavoro ha segnato la storia del cinema diventando il primo lungometraggio interamente realizzato in computer grafica 3D?",
-      "opzioni": [
-        "Toy Story",
-        "A Bug's Life",
-        "Shrek",
-        "Monsters & Co."
-      ],
-      "risposta_corretta": "Toy Story"
-    },
-    {
-      "domanda": "Il \"pluriball\", il celebre imballaggio a bolle d'aria, fu brevettato nel 1957 con uno scopo del tutto diverso da quello attuale. Quale?",
-      "opzioni": [
-        "Imbottitura per le tute degli astronauti",
-        "Carta da parati tridimensionale",
-        "Isolante acustico per studi radiofonici",
-        "Suola ammortizzante per scarpe sportive"
-      ],
-      "risposta_corretta": "Carta da parati tridimensionale"
-    },
-    {
-      "domanda": "Quale tra questi paesi europei è celebre per essere uno dei pochissimi al mondo privo di zanzare?",
-      "opzioni": [
-        "Islanda",
-        "Norvegia",
-        "Irlanda",
-        "Finlandia"
-      ],
-      "risposta_corretta": "Islanda"
-    },
-    {
-      "domanda": "La celebre e discussa \"Pizza Hawaiian\" con l'ananas non è nata né alle Hawaii né in Italia. In quale paese è stata creata per la prima volta negli anni '60?",
-      "opzioni": [
-        "Stati Uniti",
-        "Regno Unito",
-        "Canada",
-        "Australia"
-      ],
-      "risposta_corretta": "Canada"
     }
   ]
 }
