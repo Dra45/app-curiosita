@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale celebre film del 1986 ha salvato dal calo delle vendite il modello di occhiali da sole Ray-Ban Aviator, facendone schizzare gli acquisti di oltre il 40%?",
+      "domanda": "Quale tra questi animali è famoso per produrre feci di forma perfettamente cubica?",
       "opzioni": [
-        "Top Gun",
-        "Matrix",
-        "Risky Business",
-        "Men in Black"
+        "Koala",
+        "Ippopotamo",
+        "Lama",
+        "Vombato"
       ],
-      "risposta_corretta": "Top Gun"
+      "risposta_corretta": "Vombato"
     },
     {
-      "domanda": "Qual è stato il primissimo video caricato sulla piattaforma YouTube nell'aprile del 2005?",
+      "domanda": "Prima di diventare un'icona globale col nome di Mario, come veniva chiamato il celebre idraulico nel suo gioco d'esordio arcade?",
       "opzioni": [
-        "Evolution of Dance",
-        "Me at the zoo",
-        "Charlie bit my finger",
-        "Hello World!"
+        "Mr. Video",
+        "Plumber Boy",
+        "Red Cap",
+        "Jumpman"
       ],
-      "risposta_corretta": "Me at the zoo"
+      "risposta_corretta": "Jumpman"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano è stato coinvolto in una bizzarra 'guerra' ufficiale per contenere la popolazione di quale animale?",
+      "domanda": "Nel 1995, quale capolavoro ha segnato la storia del cinema diventando il primo lungometraggio interamente realizzato in computer grafica 3D?",
       "opzioni": [
-        "I dingo",
-        "Gli emù",
-        "I conigli",
-        "I canguri"
+        "Toy Story",
+        "A Bug's Life",
+        "Shrek",
+        "Monsters & Co."
       ],
-      "risposta_corretta": "Gli emù"
+      "risposta_corretta": "Toy Story"
     },
     {
-      "domanda": "Quale tra questi animali è l'unico mammifero al mondo capace di volare in modo attivo e sostenuto (e non soltanto di planare)?",
+      "domanda": "Il \"pluriball\", il celebre imballaggio a bolle d'aria, fu brevettato nel 1957 con uno scopo del tutto diverso da quello attuale. Quale?",
       "opzioni": [
-        "Il petauro dello zucchero",
-        "Il pipistrello",
-        "Il lemure volante",
-        "Lo scoiattolo volante"
+        "Imbottitura per le tute degli astronauti",
+        "Carta da parati tridimensionale",
+        "Isolante acustico per studi radiofonici",
+        "Suola ammortizzante per scarpe sportive"
       ],
-      "risposta_corretta": "Il pipistrello"
+      "risposta_corretta": "Carta da parati tridimensionale"
     },
     {
-      "domanda": "La metropolitana di quale capitale europea è famosa per essere considerata 'la galleria d'arte più lunga del mondo' grazie alle sue stazioni scolpite nella roccia e dipinte?",
+      "domanda": "Quale tra questi paesi europei è celebre per essere uno dei pochissimi al mondo privo di zanzare?",
       "opzioni": [
-        "Stoccolma",
-        "Parigi",
-        "Berlino",
-        "Mosca"
+        "Islanda",
+        "Norvegia",
+        "Irlanda",
+        "Finlandia"
       ],
-      "risposta_corretta": "Stoccolma"
+      "risposta_corretta": "Islanda"
     },
     {
-      "domanda": "Nel famoso film 'E.T. l'extra-terrestre', quale celebre snack al burro di arachidi viene usato dal piccolo Elliott per attirare l'alieno?",
+      "domanda": "La celebre e discussa \"Pizza Hawaiian\" con l'ananas non è nata né alle Hawaii né in Italia. In quale paese è stata creata per la prima volta negli anni '60?",
       "opzioni": [
-        "M&M's",
-        "Skittles",
-        "Snickers",
-        "Reese's Pieces"
+        "Stati Uniti",
+        "Regno Unito",
+        "Canada",
+        "Australia"
       ],
-      "risposta_corretta": "Reese's Pieces"
+      "risposta_corretta": "Canada"
     }
   ]
 }
