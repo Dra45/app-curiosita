@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Da dove deriva il nome della celebre tecnologia wireless 'Bluetooth'?",
+      "domanda": "La tecnologia 'Bluetooth' che usiamo tutti i giorni deve il suo nome a un personaggio storico. Chi era?",
       "opzioni": [
-        "Da una rara specie di squalo scandinavo che emette bioluminescenza",
-        "Da un errore di battitura del termine 'Blue Toothpick' in un brevetto",
-        "Da un antico re vichingo noto per aver unificato la Scandinavia",
-        "Dal nome in codice di un sottomarino spia della Seconda Guerra Mondiale"
+        "Un inventore svizzero del XIX secolo",
+        "Un re vichingo del X secolo noto per un dente scuro",
+        "Un pirata inglese del '700 celebre per la sua barba blu",
+        "Un generale americano della Seconda Guerra Mondiale"
       ],
-      "risposta_corretta": "Da un antico re vichingo noto per aver unificato la Scandinavia"
+      "risposta_corretta": "Un re vichingo del X secolo noto per un dente scuro"
     },
     {
-      "domanda": "Come è stato creato il leggendario ruggito originale di Godzilla nel film del 1954?",
+      "domanda": "Qual è il nome del famosissimo effetto sonoro dell'urlo umano riutilizzato in centinaia di film di Hollywood, da 'Star Wars' a 'Il Signore degli Anelli'?",
       "opzioni": [
-        "Registrando il suono di un motore di aereo a reazione in una caverna",
-        "Strofinando un guanto di pelle coperto di resina sulle corde di un contrabbasso",
-        "Rallentando e sovrapponendo il barrito di un elefante e il ruggito di un leone",
-        "Amplificando lo stridio di una porta di metallo arrugginita azionata a gran velocità"
+        "Urlo di Tarzan",
+        "Urlo di Godzilla",
+        "Urlo di Wilhelm",
+        "Urlo di Hollywood"
       ],
-      "risposta_corretta": "Strofinando un guanto di pelle coperto di resina sulle corde di un contrabbasso"
+      "risposta_corretta": "Urlo di Wilhelm"
     },
     {
-      "domanda": "Perché le lontre marine si tengono per mano mentre dormono galleggiando sull'acqua?",
+      "domanda": "Nel regno animale esistono molte stranezze. Quale tra questi animali è famoso per produrre feci di forma perfettamente cubica?",
       "opzioni": [
-        "È un comportamento sociale d'affetto riservato esclusivamente alle coppie",
-        "Per evitare di andare alla deriva separate dalla corrente marittima",
-        "Per trasmettersi calore corporeo durante le notti gelide",
-        "Per formare un blocco unico e spaventare i predatori subacquei"
+        "Vombato",
+        "Platipo",
+        "Koala",
+        "Capibara"
       ],
-      "risposta_corretta": "Per evitare di andare alla deriva separate dalla corrente marittima"
+      "risposta_corretta": "Vombato"
     },
     {
-      "domanda": "Quale tra questi è l'unico stato sovrano al mondo a non avere una capitale ufficiale?",
+      "domanda": "Nel 1866, il piccolo stato del Liechtenstein inviò 80 soldati in guerra. Quanti ne tornarono alla fine del conflitto?",
       "opzioni": [
-        "Monaco",
-        "Liechtenstein",
-        "Nauru",
-        "Tuvalu"
+        "Nessuno, furono tutti presi prigionieri",
+        "80, senza subire alcuna perdita né guadagno",
+        "Esattamente 40, metà dell'esercito",
+        "81, perché al ritorno si unì a loro un nuovo amico austriaco"
       ],
-      "risposta_corretta": "Nauru"
+      "risposta_corretta": "81, perché al ritorno si unì a loro un nuovo amico austriaco"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano intraprese una vera e propria e bizzarra 'guerra' (combattuta con mitragliatrici) contro quale animale?",
+      "domanda": "In quale affascinante città è possibile passare dall'Europa all'Asia semplicemente attraversando un ponte?",
       "opzioni": [
-        "I conigli selvatici",
-        "Gli emù",
-        "I canguri rossi",
-        "I dingo"
+        "Atene",
+        "Istanbul",
+        "Tbilisi",
+        "Il Cairo"
       ],
-      "risposta_corretta": "Gli emù"
+      "risposta_corretta": "Istanbul"
     },
     {
-      "domanda": "Quale celebre artista surrealista ha disegnato nel 1969 l'iconico logo a forma di margherita dei lecca-lecca 'Chupa Chups'?",
+      "domanda": "Qual è stato il soggetto del primissimo video in assoluto caricato su YouTube nel 2005?",
       "opzioni": [
-        "Joan Miró",
-        "Andy Warhol",
-        "Salvador Dalí",
-        "Pablo Picasso"
+        "Una canzone suonata alla chitarra in una cameretta",
+        "Uno dei fondatori allo zoo davanti agli elefanti",
+        "Un gatto che gioca con un gomitolo",
+        "Una dimostrazione di skate acrobatico"
       ],
-      "risposta_corretta": "Salvador Dalí"
+      "risposta_corretta": "Uno dei fondatori allo zoo davanti agli elefanti"
     }
   ]
 }
