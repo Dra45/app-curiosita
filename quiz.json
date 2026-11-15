@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "La tecnologia 'Bluetooth' che usiamo tutti i giorni deve il suo nome a un personaggio storico. Chi era?",
+      "domanda": "Qual è stata la prima immagine in assoluto caricata sul World Wide Web nel 1992?",
       "opzioni": [
-        "Un inventore svizzero del XIX secolo",
-        "Un re vichingo del X secolo noto per un dente scuro",
-        "Un pirata inglese del '700 celebre per la sua barba blu",
-        "Un generale americano della Seconda Guerra Mondiale"
+        "Un logo semplificato di Internet Explorer",
+        "La copertina del primo disco di Michael Jackson",
+        "Una foto del gatto di Tim Berners-Lee",
+        "Una foto promozionale di una band comica del CERN chiamata 'Les Horribles Cernettes'"
       ],
-      "risposta_corretta": "Un re vichingo del X secolo noto per un dente scuro"
+      "risposta_corretta": "Una foto promozionale di una band comica del CERN chiamata 'Les Horribles Cernettes'"
     },
     {
-      "domanda": "Qual è il nome del famosissimo effetto sonoro dell'urlo umano riutilizzato in centinaia di film di Hollywood, da 'Star Wars' a 'Il Signore degli Anelli'?",
+      "domanda": "Il famoso suono del ruggito di Godzilla nel film originale del 1954 è stato creato in un modo del tutto inaspettato. Come?",
       "opzioni": [
-        "Urlo di Tarzan",
-        "Urlo di Godzilla",
-        "Urlo di Wilhelm",
-        "Urlo di Hollywood"
+        "Sfregando un guanto di pelle su un contrabbasso",
+        "Sovrapponendo dieci ruggiti di leoni diversi",
+        "Amplificando il suono di un motore di aereo al rallentatore",
+        "Registrando il soffio di una balena sott'acqua"
       ],
-      "risposta_corretta": "Urlo di Wilhelm"
+      "risposta_corretta": "Sfregando un guanto di pelle su un contrabbasso"
     },
     {
-      "domanda": "Nel regno animale esistono molte stranezze. Quale tra questi animali è famoso per produrre feci di forma perfettamente cubica?",
+      "domanda": "Qual è l'unico animale conosciuto al mondo in grado di produrre feci a forma di cubo perfetto?",
       "opzioni": [
-        "Vombato",
-        "Platipo",
-        "Koala",
-        "Capibara"
+        "Il capibara",
+        "Il diavolo della Tasmania",
+        "L'ornitorinco",
+        "Il wombat (vombato)"
       ],
-      "risposta_corretta": "Vombato"
+      "risposta_corretta": "Il wombat (vombato)"
     },
     {
-      "domanda": "Nel 1866, il piccolo stato del Liechtenstein inviò 80 soldati in guerra. Quanti ne tornarono alla fine del conflitto?",
+      "domanda": "Quale Paese al mondo copre il maggior numero di fusi orari (ben 12), considerando anche i suoi territori d'oltremare?",
       "opzioni": [
-        "Nessuno, furono tutti presi prigionieri",
-        "80, senza subire alcuna perdita né guadagno",
-        "Esattamente 40, metà dell'esercito",
-        "81, perché al ritorno si unì a loro un nuovo amico austriaco"
+        "Francia",
+        "Russia",
+        "Stati Uniti",
+        "Cina"
       ],
-      "risposta_corretta": "81, perché al ritorno si unì a loro un nuovo amico austriaco"
+      "risposta_corretta": "Francia"
     },
     {
-      "domanda": "In quale affascinante città è possibile passare dall'Europa all'Asia semplicemente attraversando un ponte?",
+      "domanda": "Nel 1932, l'esercito australiano ha ingaggiato una bizzarra 'guerra' ufficiale contro quale specie animale (perdendola clamorosamente)?",
       "opzioni": [
-        "Atene",
-        "Istanbul",
-        "Tbilisi",
-        "Il Cairo"
+        "Emu",
+        "Canguri",
+        "Dingo",
+        "Conigli selvatici"
       ],
-      "risposta_corretta": "Istanbul"
+      "risposta_corretta": "Emu"
     },
     {
-      "domanda": "Qual è stato il soggetto del primissimo video in assoluto caricato su YouTube nel 2005?",
+      "domanda": "L'iconica forma del personaggio dei videogiochi Pac-Man è stata ispirata al suo creatore Toru Iwatani da quale cibo?",
       "opzioni": [
-        "Una canzone suonata alla chitarra in una cameretta",
-        "Uno dei fondatori allo zoo davanti agli elefanti",
-        "Un gatto che gioca con un gomitolo",
-        "Una dimostrazione di skate acrobatico"
+        "Una pizza a cui mancava una fetta",
+        "Un biscotto della fortuna aperto",
+        "Una ciambella morsa a metà",
+        "Un formaggio svizzero coi buchi"
       ],
-      "risposta_corretta": "Uno dei fondatori allo zoo davanti agli elefanti"
+      "risposta_corretta": "Una pizza a cui mancava una fetta"
     }
   ]
 }
