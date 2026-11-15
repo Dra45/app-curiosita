@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è stata la prima immagine in assoluto caricata sul World Wide Web nel 1992?",
+      "domanda": "Come si chiama il celebre effetto sonoro di un urlo utilizzato in centinaia di film, da 'Guerre Stellari' a 'Il Signore degli Anelli'?",
       "opzioni": [
-        "Un logo semplificato di Internet Explorer",
-        "La copertina del primo disco di Michael Jackson",
-        "Una foto del gatto di Tim Berners-Lee",
-        "Una foto promozionale di una band comica del CERN chiamata 'Les Horribles Cernettes'"
+        "L'Urlo di Tarzan",
+        "Il Grido di Hans",
+        "L'Urlo di Wilhelm",
+        "L'Effetto Goofy"
       ],
-      "risposta_corretta": "Una foto promozionale di una band comica del CERN chiamata 'Les Horribles Cernettes'"
+      "risposta_corretta": "L'Urlo di Wilhelm"
     },
     {
-      "domanda": "Il famoso suono del ruggito di Godzilla nel film originale del 1954 è stato creato in un modo del tutto inaspettato. Come?",
+      "domanda": "Qual è il soggetto del primissimo video in assoluto caricato su YouTube nel 2005?",
       "opzioni": [
-        "Sfregando un guanto di pelle su un contrabbasso",
-        "Sovrapponendo dieci ruggiti di leoni diversi",
-        "Amplificando il suono di un motore di aereo al rallentatore",
-        "Registrando il soffio di una balena sott'acqua"
+        "Un gatto che suona il pianoforte",
+        "Un test di chitarra elettrica",
+        "Una performance di street dance",
+        "Un ragazzo allo zoo davanti agli elefanti"
       ],
-      "risposta_corretta": "Sfregando un guanto di pelle su un contrabbasso"
+      "risposta_corretta": "Un ragazzo allo zoo davanti agli elefanti"
     },
     {
-      "domanda": "Qual è l'unico animale conosciuto al mondo in grado di produrre feci a forma di cubo perfetto?",
+      "domanda": "Nel 1932, l'esercito di quale nazione ha combattuto (e perso) una bizzarra 'guerra' contro una grande popolazione di emù?",
       "opzioni": [
+        "Argentina",
+        "Nuova Zelanda",
+        "Sudafrica",
+        "Australia"
+      ],
+      "risposta_corretta": "Australia"
+    },
+    {
+      "domanda": "Dove si trova la rotta aerea commerciale più breve del mondo, con un volo che dura circa 90 secondi?",
+      "opzioni": [
+        "Tra due fiordi in Norvegia",
+        "Tra due atolli delle Maldive",
+        "Tra due isole nelle Ebridi in Scozia",
+        "Tra due isole delle Hawaii"
+      ],
+      "risposta_corretta": "Tra due isole nelle Ebridi in Scozia"
+    },
+    {
+      "domanda": "Da dove deriva il nome della celebre tecnologia wireless 'Bluetooth'?",
+      "opzioni": [
+        "Da un pirata inglese del Settecento",
+        "Da un inventore svedese del XIX secolo",
+        "Da un antico re vichingo noto per i suoi denti scuri",
+        "Da un errore di traduzione di un codice militare"
+      ],
+      "risposta_corretta": "Da un antico re vichingo noto per i suoi denti scuri"
+    },
+    {
+      "domanda": "Qual è l'unico animale al mondo conosciuto per produrre feci di forma perfettamente cubica?",
+      "opzioni": [
+        "Il pangolino",
         "Il capibara",
-        "Il diavolo della Tasmania",
-        "L'ornitorinco",
-        "Il wombat (vombato)"
+        "Il vombato",
+        "Il diavolo della Tasmania"
       ],
-      "risposta_corretta": "Il wombat (vombato)"
-    },
-    {
-      "domanda": "Quale Paese al mondo copre il maggior numero di fusi orari (ben 12), considerando anche i suoi territori d'oltremare?",
-      "opzioni": [
-        "Francia",
-        "Russia",
-        "Stati Uniti",
-        "Cina"
-      ],
-      "risposta_corretta": "Francia"
-    },
-    {
-      "domanda": "Nel 1932, l'esercito australiano ha ingaggiato una bizzarra 'guerra' ufficiale contro quale specie animale (perdendola clamorosamente)?",
-      "opzioni": [
-        "Emu",
-        "Canguri",
-        "Dingo",
-        "Conigli selvatici"
-      ],
-      "risposta_corretta": "Emu"
-    },
-    {
-      "domanda": "L'iconica forma del personaggio dei videogiochi Pac-Man è stata ispirata al suo creatore Toru Iwatani da quale cibo?",
-      "opzioni": [
-        "Una pizza a cui mancava una fetta",
-        "Un biscotto della fortuna aperto",
-        "Una ciambella morsa a metà",
-        "Un formaggio svizzero coi buchi"
-      ],
-      "risposta_corretta": "Una pizza a cui mancava una fetta"
+      "risposta_corretta": "Il vombato"
     }
   ]
 }
