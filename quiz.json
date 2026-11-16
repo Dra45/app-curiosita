@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Come si chiama il celebre effetto sonoro di un urlo utilizzato in centinaia di film, da 'Guerre Stellari' a 'Il Signore degli Anelli'?",
+      "domanda": "Come si chiama il famosissimo effetto sonoro di un urlo, nato nei film western degli anni '50 e poi riutilizzato in oltre 400 film tra cui Star Wars e Indiana Jones?",
       "opzioni": [
-        "L'Urlo di Tarzan",
-        "Il Grido di Hans",
-        "L'Urlo di Wilhelm",
-        "L'Effetto Goofy"
+        "Urlo di Wilhelm",
+        "Urlo di Godzilla",
+        "Urlo di Goofy",
+        "Urlo di Tarzan"
       ],
-      "risposta_corretta": "L'Urlo di Wilhelm"
+      "risposta_corretta": "Urlo di Wilhelm"
     },
     {
-      "domanda": "Qual è il soggetto del primissimo video in assoluto caricato su YouTube nel 2005?",
+      "domanda": "Di cosa parlava il primissimo video in assoluto caricato su YouTube nel 2005, intitolato 'Me at the zoo'?",
       "opzioni": [
+        "La recensione di una webcam dell'epoca",
+        "Un co-fondatore di YouTube davanti al recinto degli elefanti",
         "Un gatto che suona il pianoforte",
-        "Un test di chitarra elettrica",
-        "Una performance di street dance",
-        "Un ragazzo allo zoo davanti agli elefanti"
+        "Un ragazzo che fa uno trick sullo skateboard"
       ],
-      "risposta_corretta": "Un ragazzo allo zoo davanti agli elefanti"
+      "risposta_corretta": "Un co-fondatore di YouTube davanti al recinto degli elefanti"
     },
     {
-      "domanda": "Nel 1932, l'esercito di quale nazione ha combattuto (e perso) una bizzarra 'guerra' contro una grande popolazione di emù?",
+      "domanda": "Quale animale è l'unico al mondo noto per produrre feci di forma perfettamente cubica?",
       "opzioni": [
-        "Argentina",
-        "Nuova Zelanda",
-        "Sudafrica",
-        "Australia"
-      ],
-      "risposta_corretta": "Australia"
-    },
-    {
-      "domanda": "Dove si trova la rotta aerea commerciale più breve del mondo, con un volo che dura circa 90 secondi?",
-      "opzioni": [
-        "Tra due fiordi in Norvegia",
-        "Tra due atolli delle Maldive",
-        "Tra due isole nelle Ebridi in Scozia",
-        "Tra due isole delle Hawaii"
-      ],
-      "risposta_corretta": "Tra due isole nelle Ebridi in Scozia"
-    },
-    {
-      "domanda": "Da dove deriva il nome della celebre tecnologia wireless 'Bluetooth'?",
-      "opzioni": [
-        "Da un pirata inglese del Settecento",
-        "Da un inventore svedese del XIX secolo",
-        "Da un antico re vichingo noto per i suoi denti scuri",
-        "Da un errore di traduzione di un codice militare"
-      ],
-      "risposta_corretta": "Da un antico re vichingo noto per i suoi denti scuri"
-    },
-    {
-      "domanda": "Qual è l'unico animale al mondo conosciuto per produrre feci di forma perfettamente cubica?",
-      "opzioni": [
-        "Il pangolino",
-        "Il capibara",
         "Il vombato",
-        "Il diavolo della Tasmania"
+        "Il bradipo",
+        "L'ornitorinco",
+        "Il koala"
       ],
       "risposta_corretta": "Il vombato"
+    },
+    {
+      "domanda": "Come viene chiamato il punto dell'oceano più isolato del pianeta, così lontano da ogni terra emersa che gli esseri umani più vicini sono spesso gli astronauti della Stazione Spaziale Internazionale?",
+      "opzioni": [
+        "Fossa delle Marianne",
+        "Punto Nemo",
+        "Atollo di Bikini",
+        "Isola di Pasqua"
+      ],
+      "risposta_corretta": "Punto Nemo"
+    },
+    {
+      "domanda": "Nel 1932, l'esercito australiano ingaggiò una vera e propria bizzarra 'guerra' (persa miseramente) contro quale specie animale che devastava i raccolti?",
+      "opzioni": [
+        "Canguri",
+        "Dingo",
+        "Emu",
+        "Conigli selvatici"
+      ],
+      "risposta_corretta": "Emu"
+    },
+    {
+      "domanda": "Quale celebre evento di pop culture nel 2000 spinti gli sviluppatori di Google a creare il servizio 'Google Immagini' per via dell'enorme mole di ricerche?",
+      "opzioni": [
+        "Il vestito verde Versace indossato da Jennifer Lopez ai Grammy",
+        "Il matrimonio tra il Principe Carlo e Lady Diana",
+        "L'uscita nelle sale del primo film di Harry Potter",
+        "L'esibizione di Michael Jackson al Super Bowl"
+      ],
+      "risposta_corretta": "Il vestito verde Versace indossato da Jennifer Lopez ai Grammy"
     }
   ]
 }
