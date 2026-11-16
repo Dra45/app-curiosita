@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Come si chiama il famosissimo effetto sonoro di un urlo, nato nei film western degli anni '50 e poi riutilizzato in oltre 400 film tra cui Star Wars e Indiana Jones?",
+      "domanda": "Quale famoso musicista ha composto l'iconico suono di avvio di Windows 95, rivelando poi di averlo creato utilizzando un computer Apple Mac?",
       "opzioni": [
-        "Urlo di Wilhelm",
-        "Urlo di Godzilla",
-        "Urlo di Goofy",
-        "Urlo di Tarzan"
+        "Giorgio Moroder",
+        "Brian Eno",
+        "Vangelis",
+        "Hans Zimmer"
       ],
-      "risposta_corretta": "Urlo di Wilhelm"
+      "risposta_corretta": "Brian Eno"
     },
     {
-      "domanda": "Di cosa parlava il primissimo video in assoluto caricato su YouTube nel 2005, intitolato 'Me at the zoo'?",
+      "domanda": "Per la trilogia de 'Il Signore degli Anelli', quale attore rifiutò il ruolo di Gandalf perché disse di non capire la sceneggiatura, rinunciando a una percentuale sugli incassi da capogiro?",
       "opzioni": [
-        "La recensione di una webcam dell'epoca",
-        "Un co-fondatore di YouTube davanti al recinto degli elefanti",
-        "Un gatto che suona il pianoforte",
-        "Un ragazzo che fa uno trick sullo skateboard"
+        "Jack Nicholson",
+        "Christopher Plummer",
+        "Sean Connery",
+        "Al Pacino"
       ],
-      "risposta_corretta": "Un co-fondatore di YouTube davanti al recinto degli elefanti"
+      "risposta_corretta": "Sean Connery"
     },
     {
-      "domanda": "Quale animale è l'unico al mondo noto per produrre feci di forma perfettamente cubica?",
+      "domanda": "Nel regno animale esistono molte curiosità, ma quale tra questi mammiferi è famoso per produrre escrementi di forma perfettamente cubica?",
       "opzioni": [
+        "Il koala",
         "Il vombato",
-        "Il bradipo",
-        "L'ornitorinco",
-        "Il koala"
+        "Il capibara",
+        "Il diavolo della Tasmania"
       ],
       "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Come viene chiamato il punto dell'oceano più isolato del pianeta, così lontano da ogni terra emersa che gli esseri umani più vicini sono spesso gli astronauti della Stazione Spaziale Internazionale?",
+      "domanda": "In quale Paese si trova la reale città chiamata 'Batman', il cui sindaco nel 2008 tentò di fare causa alla Warner Bros per l'uso del nome senza autorizzazione?",
       "opzioni": [
-        "Fossa delle Marianne",
-        "Punto Nemo",
-        "Atollo di Bikini",
-        "Isola di Pasqua"
+        "Grecia",
+        "Brasile",
+        "Romania",
+        "Turchia"
       ],
-      "risposta_corretta": "Punto Nemo"
+      "risposta_corretta": "Turchia"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano ingaggiò una vera e propria bizzarra 'guerra' (persa miseramente) contro quale specie animale che devastava i raccolti?",
+      "domanda": "Nel 1932, l'esercito australiano fu coinvolto in un'insolita operazione militare (poi persa dai soldati) per contenere la popolazione di quale tipo di animale?",
       "opzioni": [
-        "Canguri",
         "Dingo",
-        "Emu",
-        "Conigli selvatici"
+        "Emù",
+        "Conigli selvatici",
+        "Canguri"
       ],
-      "risposta_corretta": "Emu"
+      "risposta_corretta": "Emù"
     },
     {
-      "domanda": "Quale celebre evento di pop culture nel 2000 spinti gli sviluppatori di Google a creare il servizio 'Google Immagini' per via dell'enorme mole di ricerche?",
+      "domanda": "Quale iconico snack salato è stato progettato con l'aiuto della geometria (usando la forma di un paraboloide iperbolico) per fare in modo che non si rompa e si impili perfettamente?",
       "opzioni": [
-        "Il vestito verde Versace indossato da Jennifer Lopez ai Grammy",
-        "Il matrimonio tra il Principe Carlo e Lady Diana",
-        "L'uscita nelle sale del primo film di Harry Potter",
-        "L'esibizione di Michael Jackson al Super Bowl"
+        "Cipster",
+        "Ritz",
+        "Doritos",
+        "Pringles"
       ],
-      "risposta_corretta": "Il vestito verde Versace indossato da Jennifer Lopez ai Grammy"
+      "risposta_corretta": "Pringles"
     }
   ]
 }
