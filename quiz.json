@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale famoso musicista ha composto l'iconico suono di avvio di Windows 95, rivelando poi di averlo creato utilizzando un computer Apple Mac?",
+      "domanda": "Da dove deriva il nome della celebre tecnologia 'Bluetooth' che usiamo ogni giorno sui nostri smartphone?",
       "opzioni": [
-        "Giorgio Moroder",
-        "Brian Eno",
-        "Vangelis",
-        "Hans Zimmer"
+        "Dal soprannome di un re vichingo famoso per un dente scuro",
+        "Da un codice segreto usato dalla marina militare britannica",
+        "Da un errore di traduzione della parola dal tedesco",
+        "Dal nome del primo prototipo creato negli studi Nokia"
       ],
-      "risposta_corretta": "Brian Eno"
+      "risposta_corretta": "Dal soprannome di un re vichingo famoso per un dente scuro"
     },
     {
-      "domanda": "Per la trilogia de 'Il Signore degli Anelli', quale attore rifiutò il ruolo di Gandalf perché disse di non capire la sceneggiatura, rinunciando a una percentuale sugli incassi da capogiro?",
+      "domanda": "Come è stato creato il celebre ed iconico suono della spada laser nei film di Star Wars?",
       "opzioni": [
-        "Jack Nicholson",
-        "Christopher Plummer",
-        "Sean Connery",
-        "Al Pacino"
+        "Muovendo velocemente una bacchetta di metallo davanti a un microfono ad alta sensibilità",
+        "Usando la sintesi digitale con i primissimi computer della Lucasfilm",
+        "Registrando il sibilo di un serpente combinato con un motore a reazione",
+        "Mescolando il ronzio di un vecchio proiettore cinematografico e il disturbo di un tubo TV"
       ],
-      "risposta_corretta": "Sean Connery"
+      "risposta_corretta": "Mescolando il ronzio di un vecchio proiettore cinematografico e il disturbo di un tubo TV"
     },
     {
-      "domanda": "Nel regno animale esistono molte curiosità, ma quale tra questi mammiferi è famoso per produrre escrementi di forma perfettamente cubica?",
+      "domanda": "Quale tra questi animali è famoso per produrre escrementi di forma perfettamente cubica?",
       "opzioni": [
-        "Il koala",
-        "Il vombato",
+        "Il diavolo della Tasmania",
         "Il capibara",
-        "Il diavolo della Tasmania"
+        "L'ornitorinco",
+        "Il wombat (vombato)"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "Il wombat (vombato)"
     },
     {
-      "domanda": "In quale Paese si trova la reale città chiamata 'Batman', il cui sindaco nel 2008 tentò di fare causa alla Warner Bros per l'uso del nome senza autorizzazione?",
+      "domanda": "Se consideriamo tutti i territori d'oltremare, qual è la nazione che possiede più fusi orari al mondo?",
       "opzioni": [
-        "Grecia",
-        "Brasile",
-        "Romania",
-        "Turchia"
+        "Gli Stati Uniti",
+        "Il Regno Unito",
+        "La Russia",
+        "La Francia"
       ],
-      "risposta_corretta": "Turchia"
+      "risposta_corretta": "La Francia"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano fu coinvolto in un'insolita operazione militare (poi persa dai soldati) per contenere la popolazione di quale tipo di animale?",
+      "domanda": "In quale modo è stata scoperta la tecnologia del forno a microonde?",
       "opzioni": [
-        "Dingo",
-        "Emù",
-        "Conigli selvatici",
-        "Canguri"
+        "Da un errore casuale durante la produzione di antenne radiofoniche",
+        "Cercando un metodo per riscaldare le razioni dei soldati durante la Seconda Guerra Mondiale",
+        "Perché una barretta di cioccolato si è sciolta nella tasca di uno scienziato che lavorava con i radar",
+        "Durante un esperimento in cui un tubo di vetro è esploso per il calore"
       ],
-      "risposta_corretta": "Emù"
+      "risposta_corretta": "Perché una barretta di cioccolato si è sciolta nella tasca di uno scienziato che lavorava con i radar"
     },
     {
-      "domanda": "Quale iconico snack salato è stato progettato con l'aiuto della geometria (usando la forma di un paraboloide iperbolico) per fare in modo che non si rompa e si impili perfettamente?",
+      "domanda": "Qual è il soggetto del primissimo video mai caricato nella storia di YouTube, nel 2005?",
       "opzioni": [
-        "Cipster",
-        "Ritz",
-        "Doritos",
-        "Pringles"
+        "Uno dei fondatori della piattaforma che parla davanti alla gabbia degli elefanti allo zoo",
+        "La registrazione amatoriale di un concerto rock",
+        "Un gattino che gioca con un gomitolo di lana",
+        "Un breve tutorial su come suonare la chitarra elettrica"
       ],
-      "risposta_corretta": "Pringles"
+      "risposta_corretta": "Uno dei fondatori della piattaforma che parla davanti alla gabbia degli elefanti allo zoo"
     }
   ]
 }
