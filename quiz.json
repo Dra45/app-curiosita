@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Da dove deriva il nome della celebre tecnologia 'Bluetooth' che usiamo ogni giorno sui nostri smartphone?",
+      "domanda": "Nei titoli di testa del celebre film 'The Matrix', da cosa è stato creato l'iconico codice verde a cascata?",
       "opzioni": [
-        "Dal soprannome di un re vichingo famoso per un dente scuro",
-        "Da un codice segreto usato dalla marina militare britannica",
-        "Da un errore di traduzione della parola dal tedesco",
-        "Dal nome del primo prototipo creato negli studi Nokia"
+        "Da frammenti di codice C++",
+        "Da ricette di sushi digitalizzate",
+        "Da formule matematiche della sezione aurea",
+        "Da poesie giapponesi tradizionali"
       ],
-      "risposta_corretta": "Dal soprannome di un re vichingo famoso per un dente scuro"
+      "risposta_corretta": "Da ricette di sushi digitalizzate"
     },
     {
-      "domanda": "Come è stato creato il celebre ed iconico suono della spada laser nei film di Star Wars?",
+      "domanda": "Quale tra questi animali è famoso in tutto il mondo per produrre escrementi a forma di cubo perfetto?",
       "opzioni": [
-        "Muovendo velocemente una bacchetta di metallo davanti a un microfono ad alta sensibilità",
-        "Usando la sintesi digitale con i primissimi computer della Lucasfilm",
-        "Registrando il sibilo di un serpente combinato con un motore a reazione",
-        "Mescolando il ronzio di un vecchio proiettore cinematografico e il disturbo di un tubo TV"
-      ],
-      "risposta_corretta": "Mescolando il ronzio di un vecchio proiettore cinematografico e il disturbo di un tubo TV"
-    },
-    {
-      "domanda": "Quale tra questi animali è famoso per produrre escrementi di forma perfettamente cubica?",
-      "opzioni": [
-        "Il diavolo della Tasmania",
-        "Il capibara",
+        "Il koala",
+        "Il vombato",
         "L'ornitorinco",
-        "Il wombat (vombato)"
+        "Il diavolo della Tasmania"
       ],
-      "risposta_corretta": "Il wombat (vombato)"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Se consideriamo tutti i territori d'oltremare, qual è la nazione che possiede più fusi orari al mondo?",
+      "domanda": "In quale di questi Paesi del mondo non esistono zanzare a causa del suo clima e del suo ecosistema unico?",
       "opzioni": [
-        "Gli Stati Uniti",
-        "Il Regno Unito",
-        "La Russia",
-        "La Francia"
+        "Islanda",
+        "Nuova Zelanda",
+        "Madagascar",
+        "Irlanda"
       ],
-      "risposta_corretta": "La Francia"
+      "risposta_corretta": "Islanda"
     },
     {
-      "domanda": "In quale modo è stata scoperta la tecnologia del forno a microonde?",
+      "domanda": "Nel 1932, l'esercito australiano ingaggiò una celebre e insolita 'guerra' ufficiale per contenere la popolazione di quali animali?",
       "opzioni": [
-        "Da un errore casuale durante la produzione di antenne radiofoniche",
-        "Cercando un metodo per riscaldare le razioni dei soldati durante la Seconda Guerra Mondiale",
-        "Perché una barretta di cioccolato si è sciolta nella tasca di uno scienziato che lavorava con i radar",
-        "Durante un esperimento in cui un tubo di vetro è esploso per il calore"
+        "Emu",
+        "Conigli selvatici",
+        "Canguri",
+        "Cani dingo"
       ],
-      "risposta_corretta": "Perché una barretta di cioccolato si è sciolta nella tasca di uno scienziato che lavorava con i radar"
+      "risposta_corretta": "Emu"
     },
     {
-      "domanda": "Qual è il soggetto del primissimo video mai caricato nella storia di YouTube, nel 2005?",
+      "domanda": "Qual è stato il primo prodotto commerciale in assoluto ad essere scansionato tramite codice a barre alla cassa di un supermercato nel 1974?",
       "opzioni": [
-        "Uno dei fondatori della piattaforma che parla davanti alla gabbia degli elefanti allo zoo",
-        "La registrazione amatoriale di un concerto rock",
-        "Un gattino che gioca con un gomitolo di lana",
-        "Un breve tutorial su come suonare la chitarra elettrica"
+        "Un pacchetto di gomme da masticare",
+        "Una scatola di fiammiferi",
+        "Una lattina di Coca-Cola",
+        "Un pacco di spaghetti"
       ],
-      "risposta_corretta": "Uno dei fondatori della piattaforma che parla davanti alla gabbia degli elefanti allo zoo"
+      "risposta_corretta": "Un pacchetto di gomme da masticare"
+    },
+    {
+      "domanda": "Quale tra questi è stato il primo video nella storia di YouTube a superare l'incredibile quota di 10 miliardi di visualizzazioni?",
+      "opzioni": [
+        "Despacito di Luis Fonsi",
+        "Gangnam Style di Psy",
+        "Baby Shark Dance",
+        "Shape of You di Ed Sheeran"
+      ],
+      "risposta_corretta": "Baby Shark Dance"
     }
   ]
 }
