@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Nei titoli di testa del celebre film 'The Matrix', da cosa è stato creato l'iconico codice verde a cascata?",
+      "domanda": "Da cosa è composto in realtà l'iconico codice verde a cascata che si vede nel film 'Matrix'?",
       "opzioni": [
-        "Da frammenti di codice C++",
-        "Da ricette di sushi digitalizzate",
-        "Da formule matematiche della sezione aurea",
-        "Da poesie giapponesi tradizionali"
+        "Ricette di sushi scannerizzate",
+        "Simboli dell'alfabeto maya",
+        "Codici binari casuali",
+        "Formule matematiche complesse"
       ],
-      "risposta_corretta": "Da ricette di sushi digitalizzate"
+      "risposta_corretta": "Ricette di sushi scannerizzate"
     },
     {
-      "domanda": "Quale tra questi animali è famoso in tutto il mondo per produrre escrementi a forma di cubo perfetto?",
+      "domanda": "Quali animali sono noti per tenersi per mano mentre dormono per evitare di andare alla deriva con la corrente?",
       "opzioni": [
-        "Il koala",
-        "Il vombato",
-        "L'ornitorinco",
-        "Il diavolo della Tasmania"
+        "Le lontre marine",
+        "Le foche monache",
+        "I pinguini imperatore",
+        "I delfini tursiopi"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "Le lontre marine"
     },
     {
-      "domanda": "In quale di questi Paesi del mondo non esistono zanzare a causa del suo clima e del suo ecosistema unico?",
+      "domanda": "In quale territorio si trova l'unico aeroporto al mondo dove la pista d'atterraggio è attraversata da una strada stradale con semaforo per le auto?",
       "opzioni": [
+        "Malta",
         "Islanda",
         "Nuova Zelanda",
-        "Madagascar",
-        "Irlanda"
+        "Gibilterra"
       ],
-      "risposta_corretta": "Islanda"
+      "risposta_corretta": "Gibilterra"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano ingaggiò una celebre e insolita 'guerra' ufficiale per contenere la popolazione di quali animali?",
+      "domanda": "Quale celebre marchio pop ha il logo disegnato personalmente dal pittore surrealista Salvador Dalí nel 1969?",
       "opzioni": [
-        "Emu",
-        "Conigli selvatici",
-        "Canguri",
-        "Cani dingo"
+        "Chupa Chups",
+        "Toblerone",
+        "Pringles",
+        "Chiquita"
       ],
-      "risposta_corretta": "Emu"
+      "risposta_corretta": "Chupa Chups"
     },
     {
-      "domanda": "Qual è stato il primo prodotto commerciale in assoluto ad essere scansionato tramite codice a barre alla cassa di un supermercato nel 1974?",
+      "domanda": "Qual è stato il primissimo prodotto commerciale in assoluto ad essere scansionato tramite codice a barre alla cassa di un supermercato nel 1974?",
       "opzioni": [
-        "Un pacchetto di gomme da masticare",
-        "Una scatola di fiammiferi",
         "Una lattina di Coca-Cola",
-        "Un pacco di spaghetti"
+        "Un pacchetto di chewing gum Wrigley's",
+        "Una scatola di cereali Kellogg's",
+        "Un pacchetto di sigarette Marlboro"
       ],
-      "risposta_corretta": "Un pacchetto di gomme da masticare"
+      "risposta_corretta": "Un pacchetto di chewing gum Wrigley's"
     },
     {
-      "domanda": "Quale tra questi è stato il primo video nella storia di YouTube a superare l'incredibile quota di 10 miliardi di visualizzazioni?",
+      "domanda": "Per quale motivo principale le tute spaziali della NASA usate per le passeggiate extraveicolari sono di colore bianco brillante?",
       "opzioni": [
-        "Despacito di Luis Fonsi",
-        "Gangnam Style di Psy",
-        "Baby Shark Dance",
-        "Shape of You di Ed Sheeran"
+        "Per riflettere l'intensa radiazione solare",
+        "Perché il materiale protettivo non può essere tinto",
+        "Per risultare visibili ai satelliti in orbita",
+        "Per facilitare il mimetismo sulla superficie lunare"
       ],
-      "risposta_corretta": "Baby Shark Dance"
+      "risposta_corretta": "Per riflettere l'intensa radiazione solare"
     }
   ]
 }
