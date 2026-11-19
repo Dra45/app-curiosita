@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Da cosa è composto in realtà l'iconico codice verde a cascata che si vede nel film 'Matrix'?",
+      "domanda": "Qual è stato il primo videoclip musicale nella storia a superare 1 miliardo di visualizzazioni su YouTube?",
       "opzioni": [
-        "Ricette di sushi scannerizzate",
-        "Simboli dell'alfabeto maya",
-        "Codici binari casuali",
-        "Formule matematiche complesse"
+        "Baby di Justin Bieber",
+        "Gangnam Style di Psy",
+        "Shape of You di Ed Sheeran",
+        "Despacito di Luis Fonsi"
       ],
-      "risposta_corretta": "Ricette di sushi scannerizzate"
+      "risposta_corretta": "Gangnam Style di Psy"
     },
     {
-      "domanda": "Quali animali sono noti per tenersi per mano mentre dormono per evitare di andare alla deriva con la corrente?",
+      "domanda": "Quale tra questi animali produce un latte dal caratteristico colore rosa?",
       "opzioni": [
-        "Le lontre marine",
-        "Le foche monache",
-        "I pinguini imperatore",
-        "I delfini tursiopi"
+        "L'ippopotamo",
+        "Il cammello",
+        "Il rinoceronte",
+        "Il fenicottero"
       ],
-      "risposta_corretta": "Le lontre marine"
+      "risposta_corretta": "L'ippopotamo"
     },
     {
-      "domanda": "In quale territorio si trova l'unico aeroporto al mondo dove la pista d'atterraggio è attraversata da una strada stradale con semaforo per le auto?",
+      "domanda": "Nel film 'Inception' di Christopher Nolan, qual è il famoso 'totem' utilizzato dal protagonista Cobb per capire se si trova in un sogno?",
       "opzioni": [
-        "Malta",
+        "Un dado a sei facce",
+        "Una moneta d'argento",
+        "Una trottola di metallo",
+        "Uno scacchetto in legno"
+      ],
+      "risposta_corretta": "Una trottola di metallo"
+    },
+    {
+      "domanda": "Nel 1932, l'esercito australiano ha combattuto una vera e bizzarra 'guerra' (rimanendo di fatto sconfitto) contro quale specie animale?",
+      "opzioni": [
+        "I dingo",
+        "I canguri rossi",
+        "Gli emù",
+        "I rospi delle canne"
+      ],
+      "risposta_corretta": "Gli emù"
+    },
+    {
+      "domanda": "Prima di diventare un gigante dei videogiochi, cosa produceva la Nintendo quando è stata fondata nel lontano 1889?",
+      "opzioni": [
+        "Carte da gioco fatte a mano",
+        "Giocattoli di legno",
+        "Orologi da tasca",
+        "Strumenti musicali"
+      ],
+      "risposta_corretta": "Carte da gioco fatte a mano"
+    },
+    {
+      "domanda": "Qual è l'unica nazione al mondo a non avere un'unica capitale ufficiale designata per legge?",
+      "opzioni": [
+        "Liechtenstein",
         "Islanda",
-        "Nuova Zelanda",
-        "Gibilterra"
+        "Monaco",
+        "Nauru"
       ],
-      "risposta_corretta": "Gibilterra"
-    },
-    {
-      "domanda": "Quale celebre marchio pop ha il logo disegnato personalmente dal pittore surrealista Salvador Dalí nel 1969?",
-      "opzioni": [
-        "Chupa Chups",
-        "Toblerone",
-        "Pringles",
-        "Chiquita"
-      ],
-      "risposta_corretta": "Chupa Chups"
-    },
-    {
-      "domanda": "Qual è stato il primissimo prodotto commerciale in assoluto ad essere scansionato tramite codice a barre alla cassa di un supermercato nel 1974?",
-      "opzioni": [
-        "Una lattina di Coca-Cola",
-        "Un pacchetto di chewing gum Wrigley's",
-        "Una scatola di cereali Kellogg's",
-        "Un pacchetto di sigarette Marlboro"
-      ],
-      "risposta_corretta": "Un pacchetto di chewing gum Wrigley's"
-    },
-    {
-      "domanda": "Per quale motivo principale le tute spaziali della NASA usate per le passeggiate extraveicolari sono di colore bianco brillante?",
-      "opzioni": [
-        "Per riflettere l'intensa radiazione solare",
-        "Perché il materiale protettivo non può essere tinto",
-        "Per risultare visibili ai satelliti in orbita",
-        "Per facilitare il mimetismo sulla superficie lunare"
-      ],
-      "risposta_corretta": "Per riflettere l'intensa radiazione solare"
+      "risposta_corretta": "Nauru"
     }
   ]
 }
