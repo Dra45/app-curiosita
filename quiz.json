@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Da dove proviene lo storico ed iconico suono del ronzio della spada laser in Star Wars?",
+      "domanda": "Quale celebre app di social media era originariamente chiamata 'Burbn' prima di essere riprogettata per concentrarsi esclusivamente sulla condivisione di foto?",
       "opzioni": [
-        "Dal campionamento del rumore di un caccia militare in volo",
-        "Da un microfono immerso in una vasca d'acqua elettrizzata",
-        "Dal motore di un proiettore cinematografico unito a un vecchio televisore",
-        "Dal tubo di un aspirapolvere registrato al contrario"
+        "Instagram",
+        "TikTok",
+        "Pinterest",
+        "Snapchat"
       ],
-      "risposta_corretta": "Dal motore di un proiettore cinematografico unito a un vecchio televisore"
+      "risposta_corretta": "Instagram"
     },
     {
-      "domanda": "Quale tra questi animali è famoso per produrre escrementi di forma perfettamente cubica?",
+      "domanda": "Nel cinema, come viene chiamato il celebre effetto sonoro di un urlo riutilizzato come 'inside joke' in oltre 400 film, tra cui Star Wars e Il Signore degli Anelli?",
       "opzioni": [
-        "L'ornitorinco",
-        "Il bradipo",
-        "Il vombato",
-        "Il pangolino"
+        "Eco di Spielberg",
+        "Urlo di Wilhelm",
+        "Urlo di Tarzan",
+        "Effetto Hitchcock"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "Urlo di Wilhelm"
     },
     {
-      "domanda": "Cos'è esattamente il famoso 'Punto Nemo', situato nell'Oceano Pacifico?",
+      "domanda": "Quale animale marino è famoso tra i biologi per possedere ben tre cuori e il sangue di colore blu?",
       "opzioni": [
-        "L'isola abitata più isolata del pianeta",
-        "Una barriera corallina bioluminescente visibile dallo spazio",
-        "La fossa marina più profonda mai esplorata dall'uomo",
-        "Il punto della Terra più lontano da qualsiasi terra emersa"
+        "Il polpo",
+        "La medusa immortale",
+        "La balenottera azzurra",
+        "Lo squalo bianco"
       ],
-      "risposta_corretta": "Il punto della Terra più lontano da qualsiasi terra emersa"
+      "risposta_corretta": "Il polpo"
     },
     {
-      "domanda": "Qual è stato il primissimo oggetto in assoluto venduto sulla piattaforma eBay nel 1995?",
+      "domanda": "Prima di diventare un famosissimo giocattolo per bambini negli anni '50, per quale scopo pratico era stata inventata la pasta modellabile Play-Doh?",
       "opzioni": [
-        "Una scheda madre usata",
-        "Una scarpa da ginnastica autografata",
-        "Un puntatore laser rotto",
-        "Un fumetto dei Simpson"
+        "Come isolante acustico per le pareti",
+        "Per allenare i muscoli della mano dei terapisti",
+        "Per pulire la carta da parati dalla fuliggine",
+        "Per sigillare i tubi idraulici"
       ],
-      "risposta_corretta": "Un puntatore laser rotto"
+      "risposta_corretta": "Per pulire la carta da parati dalla fuliggine"
     },
     {
-      "domanda": "In quale paese è stata inventata negli anni '60 la celebre e discussa 'Pizza Hawaiana' con l'ananas?",
+      "domanda": "Qual è l'unico Paese al mondo ad avere una bandiera nazionale che non è né di forma rettangolare né quadrata?",
       "opzioni": [
-        "Regno Unito",
-        "Canada",
-        "Stati Uniti",
-        "Australia"
+        "Città del Vaticano",
+        "Bhutan",
+        "Svizzera",
+        "Nepal"
       ],
-      "risposta_corretta": "Canada"
+      "risposta_corretta": "Nepal"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano ingaggiò una vera e propria 'guerra' ufficiale (perdendola!) contro quale animale?",
+      "domanda": "Quale videoclip musicale ha fatto la storia di Internet diventando il primo in assoluto a superare 1 miliardo di visualizzazioni su YouTube nel 2012?",
       "opzioni": [
-        "I canguri rossi",
-        "I dingo",
-        "Gli emù",
-        "I rospi delle canne"
+        "Shape of You - Ed Sheeran",
+        "Gangnam Style - PSY",
+        "Despacito - Luis Fonsi",
+        "Baby - Justin Bieber"
       ],
-      "risposta_corretta": "Gli emù"
+      "risposta_corretta": "Gangnam Style - PSY"
     }
   ]
 }
