@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale celebre app di social media era originariamente chiamata 'Burbn' prima di essere riprogettata per concentrarsi esclusivamente sulla condivisione di foto?",
+      "domanda": "Nel 2010 è stato effettuato il primo acquisto reale della storia usando i Bitcoin. Quale cibo è stato comprato?",
       "opzioni": [
-        "Instagram",
-        "TikTok",
-        "Pinterest",
-        "Snapchat"
+        "Un sushi roll",
+        "Un hamburger",
+        "Due pizze",
+        "Una cassa di birra"
       ],
-      "risposta_corretta": "Instagram"
+      "risposta_corretta": "Due pizze"
     },
     {
-      "domanda": "Nel cinema, come viene chiamato il celebre effetto sonoro di un urlo riutilizzato come 'inside joke' in oltre 400 film, tra cui Star Wars e Il Signore degli Anelli?",
+      "domanda": "Quale tra questi animali produce feci a forma di cubo perfetto per evitare che rotolino via dal proprio territorio?",
       "opzioni": [
-        "Eco di Spielberg",
-        "Urlo di Wilhelm",
-        "Urlo di Tarzan",
-        "Effetto Hitchcock"
+        "Il wombat (vombato)",
+        "Il koala",
+        "Il capibara",
+        "Il diavolo della Tasmania"
       ],
-      "risposta_corretta": "Urlo di Wilhelm"
+      "risposta_corretta": "Il wombat (vombato)"
     },
     {
-      "domanda": "Quale animale marino è famoso tra i biologi per possedere ben tre cuori e il sangue di colore blu?",
+      "domanda": "Nel celebre film d'animazione \"Shrek\", quale famoso attore presta la voce al personaggio di Ciuchino nella versione originale in inglese?",
       "opzioni": [
-        "Il polpo",
-        "La medusa immortale",
-        "La balenottera azzurra",
-        "Lo squalo bianco"
+        "Chris Rock",
+        "Will Smith",
+        "Martin Lawrence",
+        "Eddie Murphy"
       ],
-      "risposta_corretta": "Il polpo"
+      "risposta_corretta": "Eddie Murphy"
     },
     {
-      "domanda": "Prima di diventare un famosissimo giocattolo per bambini negli anni '50, per quale scopo pratico era stata inventata la pasta modellabile Play-Doh?",
+      "domanda": "In quale di queste nazioni europee non esistono le zanzare a causa del suo clima e della composizione del terreno?",
       "opzioni": [
-        "Come isolante acustico per le pareti",
-        "Per allenare i muscoli della mano dei terapisti",
-        "Per pulire la carta da parati dalla fuliggine",
-        "Per sigillare i tubi idraulici"
+        "Finlandia",
+        "Islanda",
+        "Norvegia",
+        "Irlanda"
       ],
-      "risposta_corretta": "Per pulire la carta da parati dalla fuliggine"
+      "risposta_corretta": "Islanda"
     },
     {
-      "domanda": "Qual è l'unico Paese al mondo ad avere una bandiera nazionale che non è né di forma rettangolare né quadrata?",
+      "domanda": "Negli anni '80, a seguito di uno scambio commerciale con l'Unione Sovietica, quale famosa azienda diventò temporaneamente la sesta potenza militare navale al mondo?",
       "opzioni": [
-        "Città del Vaticano",
-        "Bhutan",
-        "Svizzera",
-        "Nepal"
+        "McDonald's",
+        "Pepsi",
+        "Ford",
+        "Coca-Cola"
       ],
-      "risposta_corretta": "Nepal"
+      "risposta_corretta": "Pepsi"
     },
     {
-      "domanda": "Quale videoclip musicale ha fatto la storia di Internet diventando il primo in assoluto a superare 1 miliardo di visualizzazioni su YouTube nel 2012?",
+      "domanda": "Da dove deriva il nome della celebre tecnologia di connessione wireless \"Bluetooth\"?",
       "opzioni": [
-        "Shape of You - Ed Sheeran",
-        "Gangnam Style - PSY",
-        "Despacito - Luis Fonsi",
-        "Baby - Justin Bieber"
+        "Da un re vichingo del X secolo",
+        "Dal soprannome del suo inventore svedese",
+        "Da un cavo sottomarino di colore blu",
+        "Da un acronimo militare segreto"
       ],
-      "risposta_corretta": "Gangnam Style - PSY"
+      "risposta_corretta": "Da un re vichingo del X secolo"
     }
   ]
 }
