@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Nel 2010 è stato effettuato il primo acquisto reale della storia usando i Bitcoin. Quale cibo è stato comprato?",
+      "domanda": "Da dove deriva il nome della tecnologia 'Bluetooth', usata quotidianamente dai nostri smartphone?",
       "opzioni": [
-        "Un sushi roll",
-        "Un hamburger",
-        "Due pizze",
-        "Una cassa di birra"
+        "Da un re vichingo del X secolo noto per i suoi denti scuri",
+        "Dal nome del primo cane ad aver testato un auricolare",
+        "Dal colore dei primissimi cavi di connessione di rete",
+        "Da un celebre racconto di fantascienza degli anni '70"
       ],
-      "risposta_corretta": "Due pizze"
+      "risposta_corretta": "Da un re vichingo del X secolo noto per i suoi denti scuri"
     },
     {
-      "domanda": "Quale tra questi animali produce feci a forma di cubo perfetto per evitare che rotolino via dal proprio territorio?",
+      "domanda": "Quale film d'animazione Disney è stato il primo in assoluto a ricevere una candidatura agli Oscar nella categoria 'Miglior Film'?",
       "opzioni": [
-        "Il wombat (vombato)",
-        "Il koala",
-        "Il capibara",
-        "Il diavolo della Tasmania"
+        "La Bella e la Bestia",
+        "Aladdin",
+        "Il Re Leone",
+        "Biancaneve e i sette nani"
       ],
-      "risposta_corretta": "Il wombat (vombato)"
+      "risposta_corretta": "La Bella e la Bestia"
     },
     {
-      "domanda": "Nel celebre film d'animazione \"Shrek\", quale famoso attore presta la voce al personaggio di Ciuchino nella versione originale in inglese?",
+      "domanda": "Il vombato, un simpatico marsupiale australiano, ha una particolarità unica al mondo riguardante le sue feci. Quale?",
       "opzioni": [
-        "Chris Rock",
-        "Will Smith",
-        "Martin Lawrence",
-        "Eddie Murphy"
+        "Sono fosforescenti al buio",
+        "Hanno una forma a cubo perfetto",
+        "Profumano naturalmente di eucalipto",
+        "Cambiano colore in base alle stagioni"
       ],
-      "risposta_corretta": "Eddie Murphy"
+      "risposta_corretta": "Hanno una forma a cubo perfetto"
     },
     {
-      "domanda": "In quale di queste nazioni europee non esistono le zanzare a causa del suo clima e della composizione del terreno?",
+      "domanda": "Nel 1866, il piccolo esercito del Liechtenstein inviò 80 soldati in missione durante una guerra. Quanti soldati tornarono a casa alla fine del conflitto?",
       "opzioni": [
-        "Finlandia",
-        "Islanda",
-        "Norvegia",
-        "Irlanda"
+        "Solo 40, poiché gli altri decisero di aprire una birreria",
+        "Tutti gli 80, senza però aver mai trovato il campo di battaglia",
+        "Nessuno, perché si persero tra le montagne svizzere",
+        "81, perché fecero amicizia con un soldato straniero che tornò con loro"
       ],
-      "risposta_corretta": "Islanda"
+      "risposta_corretta": "81, perché fecero amicizia con un soldato straniero che tornò con loro"
     },
     {
-      "domanda": "Negli anni '80, a seguito di uno scambio commerciale con l'Unione Sovietica, quale famosa azienda diventò temporaneamente la sesta potenza militare navale al mondo?",
+      "domanda": "Con quale di questi Paesi la Francia condivide il suo confine terrestre più lungo?",
       "opzioni": [
-        "McDonald's",
-        "Pepsi",
-        "Ford",
-        "Coca-Cola"
+        "Germania",
+        "Brasile",
+        "Spagna",
+        "Belgio"
       ],
-      "risposta_corretta": "Pepsi"
+      "risposta_corretta": "Brasile"
     },
     {
-      "domanda": "Da dove deriva il nome della celebre tecnologia di connessione wireless \"Bluetooth\"?",
+      "domanda": "Nel 2008, il famoso marchio di snack Doritos ha realizzato una campagna pubblicitaria davvero spaziale. Che cosa ha fatto?",
       "opzioni": [
-        "Da un re vichingo del X secolo",
-        "Dal soprannome del suo inventore svedese",
-        "Da un cavo sottomarino di colore blu",
-        "Da un acronimo militare segreto"
+        "Ha dipinto un pacchetto di patatine gigante sulla superficie della Luna",
+        "Ha regalato patatine gratis a tutti gli abitanti dell'Islanda per un mese",
+        "Ha nascosto un sacchetto fatto d'oro massiccio nel deserto del Sahara",
+        "Ha trasmesso uno spot TV verso un sistema solare a 42 anni luce di distanza"
       ],
-      "risposta_corretta": "Da un re vichingo del X secolo"
+      "risposta_corretta": "Ha trasmesso uno spot TV verso un sistema solare a 42 anni luce di distanza"
     }
   ]
 }
