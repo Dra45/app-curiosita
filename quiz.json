@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Da dove deriva il nome della tecnologia 'Bluetooth', usata quotidianamente dai nostri smartphone?",
+      "domanda": "Qual è stato il primo lungometraggio interamente realizzato in computer grafica (CGI) nella storia del cinema?",
       "opzioni": [
-        "Da un re vichingo del X secolo noto per i suoi denti scuri",
-        "Dal nome del primo cane ad aver testato un auricolare",
-        "Dal colore dei primissimi cavi di connessione di rete",
-        "Da un celebre racconto di fantascienza degli anni '70"
+        "Toy Story - Il mondo dei giocattoli",
+        "Shrek",
+        "Monsters & Co.",
+        "A Bug's Life - Megaminimondo"
       ],
-      "risposta_corretta": "Da un re vichingo del X secolo noto per i suoi denti scuri"
+      "risposta_corretta": "Toy Story - Il mondo dei giocattoli"
     },
     {
-      "domanda": "Quale film d'animazione Disney è stato il primo in assoluto a ricevere una candidatura agli Oscar nella categoria 'Miglior Film'?",
+      "domanda": "Per quale motivo scientifico i fenicotteri hanno il caratteristico piumaggio rosa?",
       "opzioni": [
-        "La Bella e la Bestia",
-        "Aladdin",
-        "Il Re Leone",
-        "Biancaneve e i sette nani"
+        "Per la loro dieta ricca di carotenoidi presenti in gamberetti e alghe",
+        "È un meccanismo di difesa visivo per mimetizzarsi con i tramonti",
+        "A causa dell'esposizione prolungata al sole tropicale",
+        "Per un pigmento genetico unico prodotto dalla loro pelle"
       ],
-      "risposta_corretta": "La Bella e la Bestia"
+      "risposta_corretta": "Per la loro dieta ricca di carotenoidi presenti in gamberetti e alghe"
     },
     {
-      "domanda": "Il vombato, un simpatico marsupiale australiano, ha una particolarità unica al mondo riguardante le sue feci. Quale?",
+      "domanda": "Da dove deriva il nome della celebre tecnologia wireless \"Bluetooth\"?",
       "opzioni": [
-        "Sono fosforescenti al buio",
-        "Hanno una forma a cubo perfetto",
-        "Profumano naturalmente di eucalipto",
-        "Cambiano colore in base alle stagioni"
+        "Dal nome in codice del laboratorio svedese in cui è stata inventata",
+        "Da una sigla tecnica che indica il segnale blu a bassa frequenza",
+        "Da un re vichingo del X secolo famoso per aver unito la Scandinavia",
+        "Da un romanzo di fantascienza degli anni '70 che ne ipotizzava il funzionamento"
       ],
-      "risposta_corretta": "Hanno una forma a cubo perfetto"
+      "risposta_corretta": "Da un re vichingo del X secolo famoso per aver unito la Scandinavia"
     },
     {
-      "domanda": "Nel 1866, il piccolo esercito del Liechtenstein inviò 80 soldati in missione durante una guerra. Quanti soldati tornarono a casa alla fine del conflitto?",
+      "domanda": "Quale Paese al mondo possiede il maggior numero di laghi naturali all'interno dei suoi confini?",
       "opzioni": [
-        "Solo 40, poiché gli altri decisero di aprire una birreria",
-        "Tutti gli 80, senza però aver mai trovato il campo di battaglia",
-        "Nessuno, perché si persero tra le montagne svizzere",
-        "81, perché fecero amicizia con un soldato straniero che tornò con loro"
-      ],
-      "risposta_corretta": "81, perché fecero amicizia con un soldato straniero che tornò con loro"
-    },
-    {
-      "domanda": "Con quale di questi Paesi la Francia condivide il suo confine terrestre più lungo?",
-      "opzioni": [
-        "Germania",
+        "Russia",
         "Brasile",
-        "Spagna",
-        "Belgio"
+        "Canada",
+        "Finlandia"
       ],
-      "risposta_corretta": "Brasile"
+      "risposta_corretta": "Canada"
     },
     {
-      "domanda": "Nel 2008, il famoso marchio di snack Doritos ha realizzato una campagna pubblicitaria davvero spaziale. Che cosa ha fatto?",
+      "domanda": "In quale Paese è stata inventata la celebre (e spesso discussa) pizza Hawaiana con l'ananas?",
       "opzioni": [
-        "Ha dipinto un pacchetto di patatine gigante sulla superficie della Luna",
-        "Ha regalato patatine gratis a tutti gli abitanti dell'Islanda per un mese",
-        "Ha nascosto un sacchetto fatto d'oro massiccio nel deserto del Sahara",
-        "Ha trasmesso uno spot TV verso un sistema solare a 42 anni luce di distanza"
+        "Regno Unito",
+        "Canada",
+        "Stati Uniti (alle isole Hawaii)",
+        "Australia"
       ],
-      "risposta_corretta": "Ha trasmesso uno spot TV verso un sistema solare a 42 anni luce di distanza"
+      "risposta_corretta": "Canada"
+    },
+    {
+      "domanda": "Quale pianeta del nostro sistema solare ha una densità media inferiore a quella dell'acqua e teoricamente galleggerebbe se immerso in un gigantesco oceano?",
+      "opzioni": [
+        "Saturno",
+        "Marte",
+        "Nettuno",
+        "Urano"
+      ],
+      "risposta_corretta": "Saturno"
     }
   ]
 }
