@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Qual è stato il primo lungometraggio interamente realizzato in computer grafica (CGI) nella storia del cinema?",
+      "domanda": "Qual è l'unico animale al mondo noto per produrre feci a forma di cubo perfetto?",
       "opzioni": [
-        "Toy Story - Il mondo dei giocattoli",
-        "Shrek",
-        "Monsters & Co.",
-        "A Bug's Life - Megaminimondo"
+        "Il vombato",
+        "Il koala",
+        "Il capibara",
+        "L'ornitorinco"
       ],
-      "risposta_corretta": "Toy Story - Il mondo dei giocattoli"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Per quale motivo scientifico i fenicotteri hanno il caratteristico piumaggio rosa?",
+      "domanda": "Nel famoso film 'Jurassic Park' (1993), come è stato creato il terrificante ruggito del T-Rex?",
       "opzioni": [
-        "Per la loro dieta ricca di carotenoidi presenti in gamberetti e alghe",
-        "È un meccanismo di difesa visivo per mimetizzarsi con i tramonti",
-        "A causa dell'esposizione prolungata al sole tropicale",
-        "Per un pigmento genetico unico prodotto dalla loro pelle"
+        "Usando un sintetizzatore audio digitale",
+        "Combinando i versi di un baby elefante, una tigre e un alligatore",
+        "Campionando l'urlo di un alligatore gigante",
+        "Rallentando il ruggito di un leone"
       ],
-      "risposta_corretta": "Per la loro dieta ricca di carotenoidi presenti in gamberetti e alghe"
+      "risposta_corretta": "Combinando i versi di un baby elefante, una tigre e un alligatore"
     },
     {
-      "domanda": "Da dove deriva il nome della celebre tecnologia wireless \"Bluetooth\"?",
+      "domanda": "Qual era il soggetto del primissimo video in assoluto caricato su YouTube nel 2005?",
       "opzioni": [
-        "Dal nome in codice del laboratorio svedese in cui è stata inventata",
-        "Da una sigla tecnica che indica il segnale blu a bassa frequenza",
-        "Da un re vichingo del X secolo famoso per aver unito la Scandinavia",
-        "Da un romanzo di fantascienza degli anni '70 che ne ipotizzava il funzionamento"
+        "Un breve test di animazione in 3D",
+        "Un co-fondatore del sito allo zoo davanti agli elefanti",
+        "Un'esibizione musicale amatoriale alla chitarra",
+        "Un gatto che giocava con un gomitolo"
       ],
-      "risposta_corretta": "Da un re vichingo del X secolo famoso per aver unito la Scandinavia"
+      "risposta_corretta": "Un co-fondatore del sito allo zoo davanti agli elefanti"
     },
     {
-      "domanda": "Quale Paese al mondo possiede il maggior numero di laghi naturali all'interno dei suoi confini?",
+      "domanda": "Come si chiama il punto dell'oceano più isolato del pianeta, noto per essere il 'cimitero' dove vengono fatti precipitare i satelliti dismessi?",
       "opzioni": [
-        "Russia",
-        "Brasile",
-        "Canada",
-        "Finlandia"
+        "Punto Nemo",
+        "Triangolo di Drake",
+        "Abisso Bermuda",
+        "Fossa delle Marianne"
       ],
-      "risposta_corretta": "Canada"
+      "risposta_corretta": "Punto Nemo"
     },
     {
-      "domanda": "In quale Paese è stata inventata la celebre (e spesso discussa) pizza Hawaiana con l'ananas?",
+      "domanda": "In quale Paese è stata effettivamente inventata la celebre (e discussa) 'Pizza Hawaiiana' con l'ananas?",
       "opzioni": [
-        "Regno Unito",
-        "Canada",
-        "Stati Uniti (alle isole Hawaii)",
-        "Australia"
+        "In Italia",
+        "Negli Stati Uniti",
+        "In Canada",
+        "In Australia"
       ],
-      "risposta_corretta": "Canada"
+      "risposta_corretta": "In Canada"
     },
     {
-      "domanda": "Quale pianeta del nostro sistema solare ha una densità media inferiore a quella dell'acqua e teoricamente galleggerebbe se immerso in un gigantesco oceano?",
+      "domanda": "Quale cibo comune ha ispirato l'iconica forma di Pac-Man al suo creatore Toru Iwatani?",
       "opzioni": [
-        "Saturno",
-        "Marte",
-        "Nettuno",
-        "Urano"
+        "Un formaggio svizzero coi buchi",
+        "Una pizza a cui mancava una fetta",
+        "Un biscotto rotondo morso",
+        "Una torta al limone"
       ],
-      "risposta_corretta": "Saturno"
+      "risposta_corretta": "Una pizza a cui mancava una fetta"
     }
   ]
 }
