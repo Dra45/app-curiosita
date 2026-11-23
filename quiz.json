@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Nel 2007 Steve Jobs ha presentato al mondo il primo iPhone. Quale funzione oggi considerata banale MANCAVA del tutto nel sistema operativo al momento del lancio?",
+      "domanda": "Da dove deriva il curioso nome della tecnologia wireless 'Bluetooth'?",
       "opzioni": [
-        "La calcolatrice",
-        "Il Copia e Incolla",
-        "La connessione Wi-Fi",
-        "La fotocamera"
+        "Dal codice segreto usato dalla NATO durante la Guerra Fredda",
+        "Da un errore di traduzione nel primo brevetto depositato",
+        "Da una marca di caramelle alla menta amata dagli inventori",
+        "Da un re vichingo del X secolo noto per un dente scuro"
       ],
-      "risposta_corretta": "Il Copia e Incolla"
+      "risposta_corretta": "Da un re vichingo del X secolo noto per un dente scuro"
     },
     {
-      "domanda": "I vombati, simpatici marsupiali australiani, sono famosi nel regno animale per una caratteristica biologica bizzarra e unica al mondo. Quale?",
+      "domanda": "Quale tra questi animali possiede pupille orizzontali e rettangolari che gli garantiscono un campo visivo panoramico quasi a 360 gradi?",
       "opzioni": [
-        "Cambiano colore del pelo in base alla temperatura",
-        "Producono escrementi a forma di cubo",
-        "Possono dormire solo appesi a testa in giù",
-        "I loro denti sono rivestiti di ferro metallico"
+        "La capra",
+        "Il gatto domestico",
+        "Il camaleonte",
+        "L'aquila reale"
       ],
-      "risposta_corretta": "Producono escrementi a forma di cubo"
+      "risposta_corretta": "La capra"
     },
     {
-      "domanda": "Nel film cult 'Matrix' (1999), da dove provengono in realtà i famosi caratteri verdi del 'codice' che scorre sullo schermo?",
+      "domanda": "Quale celebre attore ha rifiutato la parte di Neo nel film 'Matrix' per recitare invece nel flop 'Wild Wild West'?",
       "opzioni": [
-        "Da schermate di errore di un vecchio computer IBM",
-        "Da formule matematiche sui buchi neri della NASA",
-        "Da ricette di sushi tratte da un libro di cucina giapponese",
-        "Da antichi geroglifici egizi digitalizzati"
+        "Nicolas Cage",
+        "Tom Cruise",
+        "Brad Pitt",
+        "Will Smith"
       ],
-      "risposta_corretta": "Da ricette di sushi tratte da un libro di cucina giapponese"
+      "risposta_corretta": "Will Smith"
     },
     {
-      "domanda": "Se ti trovassi nel punto della Terra geograficamente più lontano da qualsiasi oceano o mare (il cosiddetto Polo dell'Inaccessibilità terrestre), in quale Stato ti troveresti?",
+      "domanda": "Qual è stato il primo oggetto in assoluto a essere scansionato tramite un codice a barre alla cassa di un supermercato nel 1974?",
       "opzioni": [
-        "In Cina",
-        "In Brasile",
-        "In Australia",
-        "In Canada"
+        "Una scatola di cereali Kellogg's",
+        "Una lattina di Coca-Cola",
+        "Un flacone di shampoo Johnson's",
+        "Un pacchetto di gomme da masticare Wrigley's"
       ],
-      "risposta_corretta": "In Cina"
+      "risposta_corretta": "Un pacchetto di gomme da masticare Wrigley's"
     },
     {
-      "domanda": "Nel 1932 l'esercito australiano combatté una vera e propria 'guerra' ufficiale sul proprio territorio contro dei nemici del tutto insoliti... finendo per perdere! Chi erano gli avversari?",
+      "domanda": "In quale Stato si trova l'aeroporto di Gisborne, famoso perché la sua pista di decollo è attraversata da una linea ferroviaria in funzione?",
       "opzioni": [
-        "I canguri",
-        "I dingo",
-        "Gli emù",
-        "I conigli selvatici"
+        "Canada",
+        "Giappone",
+        "Svizzera",
+        "Nuova Zelanda"
       ],
-      "risposta_corretta": "Gli emù"
+      "risposta_corretta": "Nuova Zelanda"
     },
     {
-      "domanda": "Nel 1977 la NASA ha inviato nello spazio il 'Golden Record' a bordo delle sonde Voyager. Quale celebre brano fu escluso all'ultimo perché la casa discografica non concesse i diritti d'autore?",
+      "domanda": "Negli anni '50, durante la Guerra Fredda, gli Stati Uniti svilupparono il secretissimo 'Progetto A119': cosa prevedeva di far esplodere per dimostrare la propria forza?",
       "opzioni": [
-        "'Bohemian Rhapsody' dei Queen",
-        "'Stairway to Heaven' dei Led Zeppelin",
-        "'Satisfaction' dei Rolling Stones",
-        "'Here Comes the Sun' dei Beatles"
+        "Un vulcano spento in Alaska",
+        "Una carica al Polo Nord",
+        "Un'isola disabitata nel Pacifico",
+        "Una bomba atomica sulla Luna"
       ],
-      "risposta_corretta": "'Here Comes the Sun' dei Beatles"
+      "risposta_corretta": "Una bomba atomica sulla Luna"
     }
   ]
 }
