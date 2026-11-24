@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Da dove deriva il curioso nome della tecnologia wireless 'Bluetooth'?",
+      "domanda": "Quale iconico suono del cinema è stato creato registrando il rumore del motore di un proiettore e l'interferenza di un vecchio televisore?",
       "opzioni": [
-        "Dal codice segreto usato dalla NATO durante la Guerra Fredda",
-        "Da un errore di traduzione nel primo brevetto depositato",
-        "Da una marca di caramelle alla menta amata dagli inventori",
-        "Da un re vichingo del X secolo noto per un dente scuro"
+        "Il respiro di Darth Vader",
+        "Il ruggito di Godzilla",
+        "Il verso del T-Rex in Jurassic Park",
+        "La spada laser di Star Wars"
       ],
-      "risposta_corretta": "Da un re vichingo del X secolo noto per un dente scuro"
+      "risposta_corretta": "La spada laser di Star Wars"
     },
     {
-      "domanda": "Quale tra questi animali possiede pupille orizzontali e rettangolari che gli garantiscono un campo visivo panoramico quasi a 360 gradi?",
+      "domanda": "Gli wombat, simpatici marsupiali australiani, hanno una caratteristica anatomica e biologica unica al mondo. Quale?",
       "opzioni": [
-        "La capra",
-        "Il gatto domestico",
-        "Il camaleonte",
-        "L'aquila reale"
+        "Cambiano colore in base alla stagione",
+        "La loro cacca è a forma di cubo",
+        "Possono dormire mentre corrono",
+        "Rilasciano un profumo simile alla vaniglia"
       ],
-      "risposta_corretta": "La capra"
+      "risposta_corretta": "La loro cacca è a forma di cubo"
     },
     {
-      "domanda": "Quale celebre attore ha rifiutato la parte di Neo nel film 'Matrix' per recitare invece nel flop 'Wild Wild West'?",
+      "domanda": "Negli anni '30 negli Stati Uniti, prima di diventare il celebre condimento da fast-food, per quale scopo veniva venduto il ketchup?",
       "opzioni": [
-        "Nicolas Cage",
-        "Tom Cruise",
-        "Brad Pitt",
-        "Will Smith"
+        "Come repellente per gli insetti",
+        "Come lucidante per le carrozze",
+        "Come tintura per i tessuti",
+        "Come medicinale per la cattiva digestione"
       ],
-      "risposta_corretta": "Will Smith"
+      "risposta_corretta": "Come medicinale per la cattiva digestione"
     },
     {
-      "domanda": "Qual è stato il primo oggetto in assoluto a essere scansionato tramite un codice a barre alla cassa di un supermercato nel 1974?",
+      "domanda": "Qual è l'unico Paese al mondo ad avere una bandiera nazionale che non è né rettangolare né quadrata?",
       "opzioni": [
-        "Una scatola di cereali Kellogg's",
-        "Una lattina di Coca-Cola",
-        "Un flacone di shampoo Johnson's",
-        "Un pacchetto di gomme da masticare Wrigley's"
-      ],
-      "risposta_corretta": "Un pacchetto di gomme da masticare Wrigley's"
-    },
-    {
-      "domanda": "In quale Stato si trova l'aeroporto di Gisborne, famoso perché la sua pista di decollo è attraversata da una linea ferroviaria in funzione?",
-      "opzioni": [
-        "Canada",
-        "Giappone",
         "Svizzera",
-        "Nuova Zelanda"
+        "Città del Vaticano",
+        "Nepal",
+        "Bhutan"
       ],
-      "risposta_corretta": "Nuova Zelanda"
+      "risposta_corretta": "Nepal"
     },
     {
-      "domanda": "Negli anni '50, durante la Guerra Fredda, gli Stati Uniti svilupparono il secretissimo 'Progetto A119': cosa prevedeva di far esplodere per dimostrare la propria forza?",
+      "domanda": "Quale celeberrimo videogioco è stato creato nel 1984 da un ingegnere sovietico durante le sue pause pranzo all'Accademia delle Scienze di Mosca?",
       "opzioni": [
-        "Un vulcano spento in Alaska",
-        "Una carica al Polo Nord",
-        "Un'isola disabitata nel Pacifico",
-        "Una bomba atomica sulla Luna"
+        "Tetris",
+        "Space Invaders",
+        "Pong",
+        "Pac-Man"
       ],
-      "risposta_corretta": "Una bomba atomica sulla Luna"
+      "risposta_corretta": "Tetris"
+    },
+    {
+      "domanda": "Qual è stato il soggetto del primissimo video pubblicato su YouTube nel lontano 2005, intitolato 'Me at the zoo'?",
+      "opzioni": [
+        "Il co-fondatore del sito davanti agli elefanti",
+        "Un test di registrazione audio di 5 secondi",
+        "Un gatto che gioca con una pallina",
+        "Un ragazzo che fa un salto sullo skateboard"
+      ],
+      "risposta_corretta": "Il co-fondatore del sito davanti agli elefanti"
     }
   ]
 }
