@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale iconico suono del cinema è stato creato registrando il rumore del motore di un proiettore e l'interferenza di un vecchio televisore?",
+      "domanda": "Quale tra questi animali è l'unico al mondo a produrre naturalmente escrementi di forma cubica?",
       "opzioni": [
-        "Il respiro di Darth Vader",
-        "Il ruggito di Godzilla",
-        "Il verso del T-Rex in Jurassic Park",
-        "La spada laser di Star Wars"
+        "L'Ornitorinco",
+        "Il Vombato",
+        "Il Koala",
+        "Il Diavolo della Tasmania"
       ],
-      "risposta_corretta": "La spada laser di Star Wars"
+      "risposta_corretta": "Il Vombato"
     },
     {
-      "domanda": "Gli wombat, simpatici marsupiali australiani, hanno una caratteristica anatomica e biologica unica al mondo. Quale?",
+      "domanda": "Qual è il titolo del primissimo video caricato nella storia di YouTube, nel lontano 2005?",
       "opzioni": [
-        "Cambiano colore in base alla stagione",
-        "La loro cacca è a forma di cubo",
-        "Possono dormire mentre corrono",
-        "Rilasciano un profumo simile alla vaniglia"
+        "My First Vlog",
+        "Me at the zoo",
+        "Charlie bit my finger",
+        "Hello World"
       ],
-      "risposta_corretta": "La loro cacca è a forma di cubo"
+      "risposta_corretta": "Me at the zoo"
     },
     {
-      "domanda": "Negli anni '30 negli Stati Uniti, prima di diventare il celebre condimento da fast-food, per quale scopo veniva venduto il ketchup?",
+      "domanda": "Nel celebre film 'Matrix', da cosa è stato ricavato l'iconico codice verde a cascata visibile sugli schermi?",
       "opzioni": [
-        "Come repellente per gli insetti",
-        "Come lucidante per le carrozze",
-        "Come tintura per i tessuti",
-        "Come medicinale per la cattiva digestione"
+        "Da un software della NASA",
+        "Da codici a barre di prodotti di consumo",
+        "Da equazioni di fisica quantistica",
+        "Da ricette di sushi giapponesi"
       ],
-      "risposta_corretta": "Come medicinale per la cattiva digestione"
+      "risposta_corretta": "Da ricette di sushi giapponesi"
     },
     {
-      "domanda": "Qual è l'unico Paese al mondo ad avere una bandiera nazionale che non è né rettangolare né quadrata?",
+      "domanda": "In quale di questi Paesi europei non esistono le zanzare a causa del suo microclima unico?",
       "opzioni": [
-        "Svizzera",
-        "Città del Vaticano",
-        "Nepal",
-        "Bhutan"
+        "Islanda",
+        "Norvegia",
+        "Irlanda",
+        "Svizzera"
       ],
-      "risposta_corretta": "Nepal"
+      "risposta_corretta": "Islanda"
     },
     {
-      "domanda": "Quale celeberrimo videogioco è stato creato nel 1984 da un ingegnere sovietico durante le sue pause pranzo all'Accademia delle Scienze di Mosca?",
+      "domanda": "Nel 1932, l'esercito australiano fu coinvolto in una celebre e bizzarra operazione militare contro quale tipo di animale?",
       "opzioni": [
-        "Tetris",
-        "Space Invaders",
-        "Pong",
-        "Pac-Man"
+        "Gli Emu",
+        "I Canguri",
+        "I Cammelli selvatici",
+        "I Dingo"
       ],
-      "risposta_corretta": "Tetris"
+      "risposta_corretta": "Gli Emu"
     },
     {
-      "domanda": "Qual è stato il soggetto del primissimo video pubblicato su YouTube nel lontano 2005, intitolato 'Me at the zoo'?",
+      "domanda": "Qual è stato il primo videoclip musicale in assoluto trasmesso dall'emittente MTV al suo lancio nel 1981?",
       "opzioni": [
-        "Il co-fondatore del sito davanti agli elefanti",
-        "Un test di registrazione audio di 5 secondi",
-        "Un gatto che gioca con una pallina",
-        "Un ragazzo che fa un salto sullo skateboard"
+        "Take On Me degli A-ha",
+        "Money for Nothing dei Dire Straits",
+        "Video Killed the Radio Star dei Buggles",
+        "Thriller di Michael Jackson"
       ],
-      "risposta_corretta": "Il co-fondatore del sito davanti agli elefanti"
+      "risposta_corretta": "Video Killed the Radio Star dei Buggles"
     }
   ]
 }
