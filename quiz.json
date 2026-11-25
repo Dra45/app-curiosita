@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Quale tra questi animali è l'unico al mondo a produrre naturalmente escrementi di forma cubica?",
+      "domanda": "Nel capolavoro sci-fi 'Jurassic Park' (1993), il celebre verso di comunicazione usato dai Velociraptor è stato realizzato registrando l'audio di quali animali?",
       "opzioni": [
-        "L'Ornitorinco",
-        "Il Vombato",
-        "Il Koala",
-        "Il Diavolo della Tasmania"
+        "Leoni marini in mare aperto",
+        "Delfini addestrati",
+        "Pappagalli spaventati",
+        "Tartarughe mentre si accoppiano"
       ],
-      "risposta_corretta": "Il Vombato"
+      "risposta_corretta": "Tartarughe mentre si accoppiano"
     },
     {
-      "domanda": "Qual è il titolo del primissimo video caricato nella storia di YouTube, nel lontano 2005?",
+      "domanda": "Qual è stato il primissimo oggetto in assoluto ad essere stato venduto sulla piattaforma di aste online eBay nel 1995?",
       "opzioni": [
-        "My First Vlog",
-        "Me at the zoo",
-        "Charlie bit my finger",
-        "Hello World"
+        "Una giacca di pelle usata",
+        "Un vinile raro dei Beatles",
+        "Un puntatore laser rotto",
+        "Un computer Apple II"
       ],
-      "risposta_corretta": "Me at the zoo"
+      "risposta_corretta": "Un puntatore laser rotto"
     },
     {
-      "domanda": "Nel celebre film 'Matrix', da cosa è stato ricavato l'iconico codice verde a cascata visibile sugli schermi?",
+      "domanda": "In natura esiste un solo animale conosciuto capace di produrre feci a forma di cubo perfetto per evitare che rotolino via dalle rocce. Di chi si tratta?",
       "opzioni": [
-        "Da un software della NASA",
-        "Da codici a barre di prodotti di consumo",
-        "Da equazioni di fisica quantistica",
-        "Da ricette di sushi giapponesi"
+        "Il diavolo della Tasmania",
+        "Il pangolino",
+        "Il capibara",
+        "Il vombato"
       ],
-      "risposta_corretta": "Da ricette di sushi giapponesi"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "In quale di questi Paesi europei non esistono le zanzare a causa del suo microclima unico?",
+      "domanda": "Nel 1932, l'esercito australiano combatté una bizzarra e reale 'guerra' ufficiale contro una specifica specie animale che devastava i raccolti, finendo clamorosamente per perderla. Quale animale?",
       "opzioni": [
-        "Islanda",
-        "Norvegia",
-        "Irlanda",
-        "Svizzera"
+        "Gli emù",
+        "I dingo selvatici",
+        "I canguri rossi",
+        "I coccodrilli di palude"
       ],
-      "risposta_corretta": "Islanda"
+      "risposta_corretta": "Gli emù"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano fu coinvolto in una celebre e bizzarra operazione militare contro quale tipo di animale?",
+      "domanda": "Se si contano anche tutti i suoi territori d'oltremare sparsi per il pianeta, qual è lo Stato con il maggior numero di fusi orari al mondo (ben 12)?",
       "opzioni": [
-        "Gli Emu",
-        "I Canguri",
-        "I Cammelli selvatici",
-        "I Dingo"
+        "Il Regno Unito",
+        "La Francia",
+        "Gli Stati Uniti",
+        "La Russia"
       ],
-      "risposta_corretta": "Gli Emu"
+      "risposta_corretta": "La Francia"
     },
     {
-      "domanda": "Qual è stato il primo videoclip musicale in assoluto trasmesso dall'emittente MTV al suo lancio nel 1981?",
+      "domanda": "Qual è stato il primissimo videogioco della storia ad essere stato portato nello spazio e giocato da un astronauta a bordo della stazione spaziale MIR?",
       "opzioni": [
-        "Take On Me degli A-ha",
-        "Money for Nothing dei Dire Straits",
-        "Video Killed the Radio Star dei Buggles",
-        "Thriller di Michael Jackson"
+        "Space Invaders",
+        "Asteroids",
+        "Pac-Man",
+        "Tetris"
       ],
-      "risposta_corretta": "Video Killed the Radio Star dei Buggles"
+      "risposta_corretta": "Tetris"
     }
   ]
 }
