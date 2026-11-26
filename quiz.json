@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "Nel capolavoro sci-fi 'Jurassic Park' (1993), il celebre verso di comunicazione usato dai Velociraptor è stato realizzato registrando l'audio di quali animali?",
+      "domanda": "I vombati (wombats), simpatici marsupiali australiani, sono famosi nel mondo animale per un'unica e bizzarra particolarità biologica. Quale?",
       "opzioni": [
-        "Leoni marini in mare aperto",
-        "Delfini addestrati",
-        "Pappagalli spaventati",
-        "Tartarughe mentre si accoppiano"
+        "Possono cambiare il colore della pelliccia per mimetizzarsi",
+        "Fanno la cacca a forma di cubo",
+        "Non bevono mai acqua in tutta la loro vita",
+        "Dormono a testa in giù come i pipistrelli"
       ],
-      "risposta_corretta": "Tartarughe mentre si accoppiano"
+      "risposta_corretta": "Fanno la cacca a forma di cubo"
     },
     {
-      "domanda": "Qual è stato il primissimo oggetto in assoluto ad essere stato venduto sulla piattaforma di aste online eBay nel 1995?",
+      "domanda": "Nel film d'animazione 'Shrek', quale celebre attore comico aveva originariamente registrato quasi tutti i dialoghi del protagonista prima di morire ed essere sostituito da Mike Myers?",
       "opzioni": [
-        "Una giacca di pelle usata",
-        "Un vinile raro dei Beatles",
-        "Un puntatore laser rotto",
-        "Un computer Apple II"
+        "Chris Farley",
+        "Jim Carrey",
+        "Eddie Murphy",
+        "Robin Williams"
       ],
-      "risposta_corretta": "Un puntatore laser rotto"
+      "risposta_corretta": "Chris Farley"
     },
     {
-      "domanda": "In natura esiste un solo animale conosciuto capace di produrre feci a forma di cubo perfetto per evitare che rotolino via dalle rocce. Di chi si tratta?",
+      "domanda": "Nel 2005 è stato caricato il primissimo video nella storia di YouTube. Qual era il soggetto del filmato?",
       "opzioni": [
-        "Il diavolo della Tasmania",
-        "Il pangolino",
-        "Il capibara",
-        "Il vombato"
+        "Un gatto che suona il pianoforte",
+        "Un co-fondatore del sito al parco zoo davanti agli elefanti",
+        "Una recensione del primo modello di iPod",
+        "Una breve esibizione di chitarra elettrica"
       ],
-      "risposta_corretta": "Il vombato"
+      "risposta_corretta": "Un co-fondatore del sito al parco zoo davanti agli elefanti"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano combatté una bizzarra e reale 'guerra' ufficiale contro una specifica specie animale che devastava i raccolti, finendo clamorosamente per perderla. Quale animale?",
+      "domanda": "Nel 1932, l'esercito australiano è stato impiegato in una bizzarra operazione militare ufficiale per eliminare un'invasione di quali animali (finendo incredibilmente per perdere la 'guerra')?",
       "opzioni": [
-        "Gli emù",
-        "I dingo selvatici",
-        "I canguri rossi",
-        "I coccodrilli di palude"
+        "Dingo",
+        "Emù",
+        "Conigli selvatici",
+        "Canguri"
       ],
-      "risposta_corretta": "Gli emù"
+      "risposta_corretta": "Emù"
     },
     {
-      "domanda": "Se si contano anche tutti i suoi territori d'oltremare sparsi per il pianeta, qual è lo Stato con il maggior numero di fusi orari al mondo (ben 12)?",
+      "domanda": "Qual è la capitale di uno Stato sovrano situata più a nord nel mondo?",
       "opzioni": [
-        "Il Regno Unito",
-        "La Francia",
-        "Gli Stati Uniti",
-        "La Russia"
+        "Nuuk (Groenlandia)",
+        "Helsinki (Finlandia)",
+        "Reykjavík (Islanda)",
+        "Oslo (Norvegia)"
       ],
-      "risposta_corretta": "La Francia"
+      "risposta_corretta": "Reykjavík (Islanda)"
     },
     {
-      "domanda": "Qual è stato il primissimo videogioco della storia ad essere stato portato nello spazio e giocato da un astronauta a bordo della stazione spaziale MIR?",
+      "domanda": "Il tipico 'biscotto della fortuna', servito alla fine dei pasti nei ristoranti cinesi di tutto il mondo occidentale, è stato in realtà inventato e reso popolare in quale Paese?",
       "opzioni": [
-        "Space Invaders",
-        "Asteroids",
-        "Pac-Man",
-        "Tetris"
+        "Regno Unito",
+        "Cina",
+        "Stati Uniti",
+        "Giappone"
       ],
-      "risposta_corretta": "Tetris"
+      "risposta_corretta": "Stati Uniti"
     }
   ]
 }
