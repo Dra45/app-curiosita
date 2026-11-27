@@ -1,64 +1,64 @@
 {
   "domande": [
     {
-      "domanda": "I vombati (wombats), simpatici marsupiali australiani, sono famosi nel mondo animale per un'unica e bizzarra particolarità biologica. Quale?",
+      "domanda": "Qual è stato il primo video in assoluto caricato su YouTube nel 2005?",
       "opzioni": [
-        "Possono cambiare il colore della pelliccia per mimetizzarsi",
-        "Fanno la cacca a forma di cubo",
-        "Non bevono mai acqua in tutta la loro vita",
-        "Dormono a testa in giù come i pipistrelli"
+        "Charlie bit my finger",
+        "Hello World",
+        "Evolution of Dance",
+        "Me at the zoo"
       ],
-      "risposta_corretta": "Fanno la cacca a forma di cubo"
+      "risposta_corretta": "Me at the zoo"
     },
     {
-      "domanda": "Nel film d'animazione 'Shrek', quale celebre attore comico aveva originariamente registrato quasi tutti i dialoghi del protagonista prima di morire ed essere sostituito da Mike Myers?",
+      "domanda": "Da cosa è composto in realtà l'iconico 'codice verde' che scorre all'inizio del film Matrix?",
       "opzioni": [
-        "Chris Farley",
-        "Jim Carrey",
-        "Eddie Murphy",
-        "Robin Williams"
+        "Estratti di poesie giapponesi tradizionali",
+        "Coordinate geografiche di Tokio",
+        "Ricette per il sushi scannerizzate da un libro di cucina",
+        "Stringhe di codice di programmazione C++"
       ],
-      "risposta_corretta": "Chris Farley"
+      "risposta_corretta": "Ricette per il sushi scannerizzate da un libro di cucina"
     },
     {
-      "domanda": "Nel 2005 è stato caricato il primissimo video nella storia di YouTube. Qual era il soggetto del filmato?",
+      "domanda": "Quale tra questi animali è l'unico al mondo a produrre feci di forma perfettamente cubica?",
       "opzioni": [
-        "Un gatto che suona il pianoforte",
-        "Un co-fondatore del sito al parco zoo davanti agli elefanti",
-        "Una recensione del primo modello di iPod",
-        "Una breve esibizione di chitarra elettrica"
+        "Il capibara",
+        "Il diavolo della Tasmania",
+        "Il koala",
+        "Il vombato"
       ],
-      "risposta_corretta": "Un co-fondatore del sito al parco zoo davanti agli elefanti"
+      "risposta_corretta": "Il vombato"
     },
     {
-      "domanda": "Nel 1932, l'esercito australiano è stato impiegato in una bizzarra operazione militare ufficiale per eliminare un'invasione di quali animali (finendo incredibilmente per perdere la 'guerra')?",
+      "domanda": "Contrariamente a quanto si possa pensare, quale Paese al mondo possiede il maggior numero di isole in assoluto (oltre 260.000)?",
       "opzioni": [
-        "Dingo",
-        "Emù",
-        "Conigli selvatici",
-        "Canguri"
+        "La Grecia",
+        "La Svezia",
+        "L'Indonesia",
+        "Le Filippine"
       ],
-      "risposta_corretta": "Emù"
+      "risposta_corretta": "La Svezia"
     },
     {
-      "domanda": "Qual è la capitale di uno Stato sovrano situata più a nord nel mondo?",
+      "domanda": "La guerra più breve della storia, combattuta nel 1896, è durata meno di un'ora. Tra chi è stata combattuta?",
       "opzioni": [
-        "Nuuk (Groenlandia)",
-        "Helsinki (Finlandia)",
-        "Reykjavík (Islanda)",
-        "Oslo (Norvegia)"
+        "Regno Unito e Zanzibar",
+        "Olanda e Inghilterra",
+        "Francia e Spagna",
+        "Stati Uniti e Messico"
       ],
-      "risposta_corretta": "Reykjavík (Islanda)"
+      "risposta_corretta": "Regno Unito e Zanzibar"
     },
     {
-      "domanda": "Il tipico 'biscotto della fortuna', servito alla fine dei pasti nei ristoranti cinesi di tutto il mondo occidentale, è stato in realtà inventato e reso popolare in quale Paese?",
+      "domanda": "La famosa plastica con le bolle per gli imballaggi (Bubble Wrap) fu inventata nel 1957 con un intento del tutto diverso. Quale?",
       "opzioni": [
-        "Regno Unito",
-        "Cina",
-        "Stati Uniti",
-        "Giappone"
+        "Come isolante termico per serre",
+        "Come carta da parati lavabile in 3D",
+        "Come superficie ammortizzante per palestra",
+        "Come supporto galleggiante per le barche"
       ],
-      "risposta_corretta": "Stati Uniti"
+      "risposta_corretta": "Come carta da parati lavabile in 3D"
     }
   ]
 }
